@@ -1,0 +1,1 @@
+HashSet class implements the Set interface, backed by a hash table which is actually a [[HashMap]] instance. 
