@@ -128,8 +128,17 @@
                 "file": "COMP610/Array.md"
               }
             }
+          },
+          {
+            "id": "da47ab1a3d348737",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -147,6 +156,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a56b322d0d77792",
+  "active": "da47ab1a3d348737",
   "lastOpenFiles": []
 }
