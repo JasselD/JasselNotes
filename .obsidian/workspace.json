@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP610/Array.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP610/Array.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP610/Array.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP610/Array.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,6 +156,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da47ab1a3d348737",
-  "lastOpenFiles": []
+  "active": "5a56b322d0d77792",
+  "lastOpenFiles": [
+    "COMP610/Array.md"
+  ]
 }
