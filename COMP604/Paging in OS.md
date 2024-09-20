@@ -3,4 +3,4 @@
 
 **Paging scheme
 - Use some portion of the secondary memory as a virtual ram
-- Some part of the running application will be stored into the secondary memory 
+- Some part of the running application will be stored into the secondary memory if not used
