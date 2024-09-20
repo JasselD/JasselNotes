@@ -3,11 +3,11 @@
   "hideTabs": false,
   "hideScroll": false,
   "hideSidebarButtons": false,
-  "hideTooltips": true,
+  "hideTooltips": false,
   "hideFileNavButtons": false,
   "hideSearchSuggestions": false,
   "hideSearchCounts": false,
-  "hideInstructions": false,
+  "hideInstructions": true,
   "hidePropertiesReading": false,
   "hideVault": false
 }
