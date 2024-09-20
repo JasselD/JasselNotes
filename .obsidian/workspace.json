@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "COMP604/Basic command line.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "230fc4ea80430600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP604/Shell Scripting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "COMP604/Shell Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "COMP604/Shell Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "COMP604/Shell Scripting.md"
               }
             }
           },
@@ -156,8 +169,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a56b322d0d77792",
+  "active": "230fc4ea80430600",
   "lastOpenFiles": [
+    "COMP604/OS Structure.md",
+    "COMP604/Basic command line.md",
+    "COMP604/Operating System.md",
+    "COMP604/Untitled.md",
+    "OOP.md",
+    "README.md",
     "COMP610/Array.md"
   ]
 }
