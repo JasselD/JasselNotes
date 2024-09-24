@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6d55099d64ca892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP610/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP610/Algorithm.md",
+                "file": "COMP610/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP610/Algorithm.md",
+                "file": "COMP610/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP610/Algorithm.md"
+                "file": "COMP610/Untitled.md"
               }
             }
           },
@@ -169,8 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "230fc4ea80430600",
+  "active": "3deee57fba1c68d3",
   "lastOpenFiles": [
+    "COMP610/Algorithm.md",
+    "COMP610/Untitled.md",
     "COMP610/Array.md",
     "COMP607/W1.md",
     "COMP604/Paging in OS.md",
