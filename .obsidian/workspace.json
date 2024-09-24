@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP607/W1.md",
+                "file": "COMP610/Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP607/W1.md",
+                "file": "COMP610/Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP607/W1.md",
+                "file": "COMP610/Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP607/W1.md"
+                "file": "COMP610/Algorithm.md"
               }
             }
           },
@@ -171,13 +171,14 @@
   },
   "active": "230fc4ea80430600",
   "lastOpenFiles": [
+    "COMP610/Array.md",
+    "COMP607/W1.md",
     "COMP604/Paging in OS.md",
     "COMP604/Shell Scripting.md",
     "COMP604/OS Structure.md",
     "COMP604/Basic command line.md",
     "COMP604/Operating System.md",
     "OOP.md",
-    "README.md",
-    "COMP610/Array.md"
+    "README.md"
   ]
 }
