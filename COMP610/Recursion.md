@@ -8,6 +8,8 @@ public class Recursion {
 }
 
 private static void sayHi() {
-	Syt
+	System.out.println("Hi!");
+
+	sayHi();
 }
 ```
