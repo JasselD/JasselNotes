@@ -14,3 +14,5 @@ private static void sayHi() {
 }
 ```
 
+**Stack overflow
+- A type of buffer overflow error that occurs when a computer program tries to use more memory space in the call stack than
