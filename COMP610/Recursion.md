@@ -26,7 +26,7 @@ public class Recursion {
 	}
 }
 
-private static void sayHi() {
+private static void sayHi(int count) {
 	System.out.println("Hi!");
 
 	if(count <= 1) {
