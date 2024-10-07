@@ -10,9 +10,10 @@ public class Recursion {
 private static void sayHi() {
 	System.out.println("Hi!");
 
-	sayHi();
+	sayHi(); //This will cause stack overflow, need an exit strategy
 }
 ```
 
 **Stack overflow
-- A type of buffer overflow error that occurs when a computer program tries to use more memory space in the call stack than
+- A type of buffer overflow error that occurs when a computer program tries to use more memory space in the call stack than has been allocated to that stack
+
