@@ -32,7 +32,7 @@ private static void sayHi(int count) {
 	if(count <= 1) {
 		return;
 	}
-	sayHi(count - 1);
+		sayHi(count - 1);
 }
 }
 ```
