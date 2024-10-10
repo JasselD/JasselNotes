@@ -53,6 +53,10 @@ public class SumArray {
  - The for loop runs once for every element in the array
  - The total time complexity of the algorithm is the sum of the individual parts:
 	 1. O(1) for initialising the total
-	 2. O(n) for the loop that iterates over ea
+	 2. O(n) for the loop that iterates over each element in the array
+	 3. O(1) for the addition operation inside the loop
+	 4. O(1) for the returning the result
+	 5. O(1) + O(n) + O(1)+O(1) = O(n)
+	1. 
 
 
