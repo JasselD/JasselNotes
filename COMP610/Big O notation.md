@@ -15,7 +15,10 @@ O(n)
 O(log n)
 O(n²)
 
+**O(1)
+```Java
 
+```
 
 **O(n)
 ```Java
