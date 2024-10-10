@@ -57,6 +57,6 @@ public class SumArray {
 	 3. O(1) for the addition operation inside the loop
 	 4. O(1) for the returning the result
 	 5. O(1) + O(n) + O(1)+O(1) = O(n)
-- It is also linear, the amount of work increases at a constant rate as the input grows. If the size of array doubles, then the numb
+- It is also linear, the amount of work increases at a constant rate as the input grows. If the size of array doubles, then the number of iterations through the loop also doubles
 
 
