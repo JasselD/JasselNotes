@@ -15,9 +15,14 @@ O(1)
 - Random access of an element in an array
 - Inserting at the beginning of linkedlist
 O(n)
-- 
-O(log n) (binary search)
+- Linear time
+- Looping through elements in an array
+- Searching through a linkedlist
+O(log n) 
+- Logarithmic time
+- Binary time
 O(n²)
+- 
 
 ![[Pasted image 20241010154844.png]]
 
