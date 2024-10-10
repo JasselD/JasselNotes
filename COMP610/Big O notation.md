@@ -11,9 +11,16 @@
 - Drop constants
 example :  n = amount of data
 O(1)
+- Constant time
+- Random access of an element in an array
+- Inserting at the beginning of linkedlist
 O(n)
+- 
 O(log n) (binary search)
 O(n²)
+
+![[Pasted image 20241010154844.png]]
+
 
 **O(1)
 ```Java
