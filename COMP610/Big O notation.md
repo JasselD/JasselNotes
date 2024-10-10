@@ -60,5 +60,39 @@ public class SumArray {
 	 5. O(1) + O(n) + O(1)+O(1) = O(n)
 - It is also <mark style="background: #ABF7F7A6;">linear</mark>, <mark style="background: #ABF7F7A6;">the amount of work increases at a constant rate as the input grows</mark>. If the size of array doubles, then the number of iterations through the loop also doubles
 
-**O
+**O(log n)
+```Java
+public class BinarySearch {
+    public static int binarySearch(int[] arr, int target) {
+        int left = 0;
+        int right = arr.length - 1;
+
+        while (left <= right) {
+            int mid = left + (right - left) / 2;  // Calculate the middle index
+
+            if (arr[mid] == target) {
+                return mid;  // Target found at index mid, O(1) for comparison
+            } else if (arr[mid] < target) {
+                left = mid + 1;  // Narrow search to the right half
+            } else {
+                right = mid - 1;  // Narrow search to the left half
+            }
+        }
+
+        return -1;  // Target not found
+    }
+
+    public static void main(String[] args) {
+        int[] numbers = {1, 3, 5, 7, 9, 11, 13, 15};
+        int target = 7;
+        int result = binarySearch(numbers, target);
+        if (result != -1) {
+            System.out.println("Target found at index: " + result);  // Output: 3
+        } else {
+            System.out.println("Target not found");
+        }
+    }
+}
+
+```
 
