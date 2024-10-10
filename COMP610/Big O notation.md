@@ -49,15 +49,15 @@ public class SumArray {
     }
 }
 ```
- - O(n) means that the runtime of the algorithm increases linearly with the input size. If the input size doubles, the time it takes for the algorithm to complete roughly doubles as well
- - n represents the size of the input array
- - The for loop runs once for every element in the array
+ - O(n) means that the <mark style="background: #ABF7F7A6;">runtime of the algorithm increases linearly with the input size</mark>. If the input size doubles, the time it takes for the algorithm to complete roughly doubles as well
+ - <mark style="background: #ABF7F7A6;">n represents the size of the input array</mark>
+ - The for loop runs <mark style="background: #ABF7F7A6;">once for every element in the array</mark>
  - The total time complexity of the algorithm is the sum of the individual parts:
 	 1. O(1) for initialising the total
 	 2. O(n) for the loop that iterates over each element in the array
 	 3. O(1) for the addition operation inside the loop
 	 4. O(1) for the returning the result
 	 5. O(1) + O(n) + O(1)+O(1) = O(n)
-- It is also linear, the amount of work increases at a constant rate as the input grows. If the size of array doubles, then the number of iterations through the loop also doubles
+- It is also <mark style="background: #ABF7F7A6;">linear</mark>, <mark style="background: #ABF7F7A6;">the amount of work increases at a constant rate as the input grows</mark>. If the size of array doubles, then the number of iterations through the loop also doubles
 
 
