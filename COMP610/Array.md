@@ -56,7 +56,7 @@ public void printArray(int[] arr) {
 
 Example -
 	Input: arr = {3, 2, 4, 7, 10, 6, 5}
-	 Output: arr = {3, 7, 5}
+	Output: arr = {3, 7, 5}
 
  ```Java
  int[] removeEven(int[] arr) {
@@ -78,4 +78,4 @@ Example -
  }
 ```
 
-skibidi
+
