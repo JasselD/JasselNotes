@@ -17,6 +17,16 @@ O(n²)
 
 **O(1)
 ```Java
+public class AccessArray {
+    public static int getFirstElement(int[] arr) {
+        return arr[0];  // O(1) - direct access to the first element
+    }
+
+    public static void main(String[] args) {
+        int[] numbers = {10, 20, 30, 40, 50};
+        System.out.println("First element: " + getFirstElement(numbers));  // Output: 10
+    }
+}
 
 ```
 
