@@ -60,4 +60,5 @@ public class SumArray {
 	 5. O(1) + O(n) + O(1)+O(1) = O(n)
 - It is also <mark style="background: #ABF7F7A6;">linear</mark>, <mark style="background: #ABF7F7A6;">the amount of work increases at a constant rate as the input grows</mark>. If the size of array doubles, then the number of iterations through the loop also doubles
 
+**O
 
