@@ -29,8 +29,8 @@ public class AccessArray {
 }
 
 ```
-- Accessing an element at a specific index like arr[0] in an array is done in constant time, it does not matter whether the array has 5 elements or 5 million elements, the time it takes to access arr[0] is always the same
-- There are no loops or recursive calls that depend on the size of the input
+- Accessing an element at a <mark style="background: #ABF7F7A6;">specific index</mark> like arr[0] in an array is done in <mark style="background: #ABF7F7A6;">constant time</mark>, it does not matter whether the array has 5 elements or 5 million elements, the time it takes to access arr[0] is always the same
+- There are <mark style="background: #ABF7F7A6;">no loops or recursive calls</mark> that depend on the size of the input
 
 **O(n)
 ```Java
