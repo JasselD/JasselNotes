@@ -12,7 +12,7 @@
 example :  n = amount of data
 O(1)
 O(n)
-O(log n)
+O(log n) (binary search)
 O(n²)
 
 **O(1)
