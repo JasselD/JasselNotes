@@ -50,6 +50,6 @@ public class SumArray {
 ```
  - O(n) means that the runtime of the algorithm increases linearly with the input size. If the input size doubles, the time it takes for the algorithm to complete roughly doubles as well
  - n represents the size of the input array
- - The for loop loops through the arrays which make it O(n)
+ - 
 
 
