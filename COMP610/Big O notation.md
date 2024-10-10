@@ -22,7 +22,10 @@ O(log n)
 - Logarithmic time
 - Binary time
 O(n²)
-- 
+- Quadratic time
+- Insertion time
+- Selection time
+- Bubblesort
 
 ![[Pasted image 20241010154844.png]]
 
