@@ -29,6 +29,7 @@ public class AccessArray {
 }
 
 ```
+- Accessing an element at a specific index like arr[0] in an array is done in constant time
 - 
 
 **O(n)
