@@ -1,4 +1,5 @@
--  Data Structures
+- Is an object that gathers and organis
+- Data Structures
 	  - Arrays
 	  - LinkedList
 	  - Trees
