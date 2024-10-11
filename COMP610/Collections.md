@@ -7,4 +7,6 @@
 	- Unstructured: Elements stored and not bothered about order (sets)
 	- Sequential: Elements stored in some linear order (lists, queues, stacks)
 	- Hierarchal: Elements arranged in a non-linear ranked order (trees, heaps)
-	- Graphical: Elemen
+	- Graphical: Elements contain multiple links and paths to other elements(graphs)
+	- Relational: Elements obtained using information given by other elements(tables, map)
+- 
