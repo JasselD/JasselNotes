@@ -27,7 +27,7 @@ O(log n)
 O(n²)
 - Quadratic time
 - Insertion Sort
-- Selection time
+- Selection Sort
 - Bubblesort
 
 ![[Pasted image 20241010154844.png]]
