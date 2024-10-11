@@ -152,4 +152,6 @@ public class BubbleSort {
 }
 
 ```
-- Nested loop are the primary rea
+- Nested loop are the primary reason why bubblesort is O(n²)
+- The outer loop runs n times, and the inner loop also runs n times
+- This results in n x n = n², meaning that the numner of 
