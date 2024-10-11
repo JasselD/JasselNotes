@@ -158,4 +158,4 @@ public class BubbleSort {
 - Characteristics:
 	- Quadratic Growth: If you double the input size, the algorithm will take four times longer to complete
 	- Common in Sorting Algorithms: Simple sorting algorithms 
-	- Sl
+	- Slower for large inputs: The input size increases, algorithms with O(n²) complexity become much slower compared to O(n) or O(log n) 
