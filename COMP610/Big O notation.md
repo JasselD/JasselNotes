@@ -152,10 +152,10 @@ public class BubbleSort {
 }
 
 ```
-- Nested loop are the primary reason why bubblesort is O(n²)
+- <mark style="background: #ABF7F7A6;">Nested loop are the primary reason</mark> why bubblesort is O(n²)
 - The outer loop runs n times, and the inner loop also runs n times
-- This results in n x n = n², meaning that the number of comparisons grows quadratically as the size of the input grows
+- This results in n x n = n², meaning that <mark style="background: #ABF7F7A6;">the number of comparisons grows quadratically as the size of the input grows</mark>
 - Characteristics:
-	- Quadratic Growth: If you double the input size, the algorithm will take four times longer to complete
-	- Common in Sorting Algorithms: Simple sorting algorithms 
-	- Slower for large inputs: The input size increases, algorithms with O(n²) complexity become much slower compared to O(n) or O(log n) 
+	- <mark style="background: #ABF7F7A6;">Quadratic Growth</mark>: If you <mark style="background: #ABF7F7A6;">double the input size, the algorithm will take four times longer to complete</mark>
+	- <mark style="background: #ABF7F7A6;">Common in Sorting Algorithms</mark>: Simple sorting algorithms 
+	- <mark style="background: #ABF7F7A6;">Slower for large inputs</mark>: The input size increases, algorithms with O(n²) complexity become much slower compared to O(n) or O(log n) 

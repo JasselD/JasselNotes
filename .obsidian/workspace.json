@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1eb001131551f78c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP610/Collections.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP610/Big O notation.md",
+                "file": "COMP610/Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP610/Big O notation.md",
+                "file": "COMP610/Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP610/Big O notation.md"
+                "file": "COMP610/Collections.md"
               }
             }
           },
@@ -193,8 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3deee57fba1c68d3",
+  "active": "1eb001131551f78c",
   "lastOpenFiles": [
+    "COMP610/Big O notation.md",
+    "COMP610/Collections.md",
     "Images/Pasted image 20241010154844.png",
     "COMP610/Asymptotic Notations.md",
     "COMP610/Asymptotic Analysis.md",
@@ -202,7 +216,6 @@
     "COMP610/Threads.md",
     "COMP610/Multithreading.md",
     "COMP610/Array.md",
-    "COMP610/Big O notation.md",
     "COMP610/Algorithm.md",
     "COMP610/Time Complexity.md",
     "COMP610/Recursion.md",
