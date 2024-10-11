@@ -8,6 +8,16 @@ public class Printer<T> {
 		this.thingToPrint = thingToPrint;
 	}
 
-	public void print
+	public void print() {
+		System.out.println(thingToPrint);
+	}
+}
+
+public class Generics{
+
+	public static void main(String[] args) {
+
+		
+	}
 }
 ```
