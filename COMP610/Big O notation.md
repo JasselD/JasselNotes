@@ -113,12 +113,12 @@ public class BinarySearch {
 }
 
 ```
-- With every iteration, search space is halved
+- <mark style="background: #ABF7F7A6;">With every iteration, search space is halved</mark>
 - After the first step, you're left with half the array (n/2 elements)
 - After the second step, you're left with n/4 elements. and so on
 - Characteristics:
-	- Search Spaces Halved: Every step reduces the problem size by a constant factor
-	- Example Operations: Binary search on sorted arrays, searching in binary trees
+	- Search Spaces Halved: <mark style="background: #ABF7F7A6;">Every step reduces the problem size by a constant factor</mark>
+	- Example Operations: <mark style="background: #ABF7F7A6;">Binary search</mark> on sorted arrays, s<mark style="background: #ABF7F7A6;">earching in binary trees</mark>
 	- Grows Slowly: O(log n) grows much slower than O(n), especially for large inputs
 
 **O(n²)
