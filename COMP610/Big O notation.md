@@ -118,5 +118,7 @@ public class BinarySearch {
 - After the second step, you're left with n/4 elements. and so on
 - Characteristics:
 	- Search Spaces Halved: Every step reduces the problem size by a constant factor
-	- Example Operations: Binary search on sorted arrays, searching in
+	- Example Operations: Binary search on sorted arrays, searching in binary trees
+	- Grows Slowly: O(log n) grows much slower than O(n), especially for large inputs
+
 
