@@ -121,4 +121,5 @@ public class BinarySearch {
 	- Example Operations: Binary search on sorted arrays, searching in binary trees
 	- Grows Slowly: O(log n) grows much slower than O(n), especially for large inputs
 
+**O(n)
 
