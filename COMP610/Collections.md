@@ -4,5 +4,7 @@
 	  - LinkedList
 	  - Trees
 - Types:
-	- Unstructured: Elements stored and not bothered about order
-	- Sequential: Elements st
+	- Unstructured: Elements stored and not bothered about order (sets)
+	- Sequential: Elements stored in some linear order (lists, queues, stacks)
+	- Hierarchal: Elements arranged in a non-linear ranked order (trees, heaps)
+	- Graphical: Elemen
