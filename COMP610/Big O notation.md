@@ -26,7 +26,7 @@ O(log n)
 - Heapsort
 O(n²)
 - Quadratic time
-- Insertion time
+- Insertion Sort
 - Selection time
 - Bubblesort
 
