@@ -1,5 +1,8 @@
 - Is an object that gathers and organises a group of object, which are called the elements of the collections
 - Data Structures
-	  - Arrays
+	- Arrays
 	  - LinkedList
 	  - Trees
+- Types:
+	- Unstructured: Elements stored and not bothered about order
+	- Sequential: Elements st
