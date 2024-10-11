@@ -156,4 +156,6 @@ public class BubbleSort {
 - The outer loop runs n times, and the inner loop also runs n times
 - This results in n x n = n², meaning that the number of comparisons grows quadratically as the size of the input grows
 - Characteristics:
-	-
+	- Quadratic Growth: If you double the input size, the algorithm will take four times longer to complete
+	- Common in Sorting Algorithms: Simple sorting algorithms 
+	- Sl
