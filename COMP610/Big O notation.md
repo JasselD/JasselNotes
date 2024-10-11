@@ -121,5 +121,35 @@ public class BinarySearch {
 	- Example Operations: Binary search on sorted arrays, searching in binary trees
 	- Grows Slowly: O(log n) grows much slower than O(n), especially for large inputs
 
-**O(n)
+**O(n²)
+```Java
+public class BubbleSort {
+    public static void bubbleSort(int[] arr) {
+        int n = arr.length;
+
+        for (int i = 0; i < n - 1; i++) {  // Outer loop runs n-1 times, O(n)
+            for (int j = 0; j < n - 1 - i; j++) {  // Inner loop runs n-1, n-2, ..., 1 times, O(n)
+                if (arr[j] > arr[j + 1]) {  // Compare adjacent elements, O(1)
+                    // Swap arr[j] and arr[j + 1]
+                    int temp = arr[j];
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = temp;
+                }
+            }
+        }
+    }
+
+    public static void main(String[] args) {
+        int[] numbers = {5, 1, 4, 2, 8};
+        bubbleSort(numbers);
+
+        System.out.print("Sorted Array: ");
+        for (int num : numbers) {
+            System.out.print(num + " ");
+        }
+        // Output: Sorted Array: 1 2 4 5 8
+    }
+}
+
+```
 
