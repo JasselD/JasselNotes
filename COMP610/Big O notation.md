@@ -21,6 +21,9 @@ O(n)
 O(log n) 
 - Logarithmic time
 - Binary time
+- Quicksort
+- Mergesort
+- Heapsort
 O(n²)
 - Quadratic time
 - Insertion time
