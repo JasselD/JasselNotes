@@ -9,4 +9,4 @@
 	- Hierarchal: Elements arranged in a non-linear ranked order (trees, heaps)
 	- Graphical: Elements contain multiple links and paths to other elements(graphs)
 	- Relational: Elements obtained using information given by other elements(tables, map)
-- 
+
