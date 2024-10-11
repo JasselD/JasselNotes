@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP603/ArrayList.md",
+                "file": "COMP610/Generics.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP603/ArrayList.md",
+                "file": "COMP610/Generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP603/ArrayList.md",
+                "file": "COMP610/Generics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP603/ArrayList.md"
+                "file": "COMP610/Generics.md"
               }
             }
           },
@@ -219,19 +219,21 @@
   },
   "active": "248c448a737a7e8d",
   "lastOpenFiles": [
+    "COMP610/Data Structures.md",
+    "COMP610/Big O notation.md",
+    "COMP610/Algorithm.md",
     "COMP610/Array.md",
+    "COMP603/ArrayList.md",
     "COMP610/Generics.md",
     "LinkedLists.md",
     "List Interface.md",
     "COMP610/Collections.md",
-    "COMP610/Big O notation.md",
     "Images/Pasted image 20241010154844.png",
     "COMP610/Asymptotic Notations.md",
     "COMP610/Asymptotic Analysis.md",
     "COMP610/Space Complexity.md",
     "COMP610/Threads.md",
     "COMP610/Multithreading.md",
-    "COMP610/Algorithm.md",
     "COMP610/Time Complexity.md",
     "COMP610/Recursion.md",
     "OOP.md",
