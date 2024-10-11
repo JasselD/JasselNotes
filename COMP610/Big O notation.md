@@ -114,5 +114,7 @@ public class BinarySearch {
 
 ```
 - With every iteration, search space is halved
-- After the first step, you're left with half the array (n/2 )
+- After the first step, you're left with half the array (n/2 elements)
+- After the second step, you're left with n/4 elements. and so on
+- Character
 
