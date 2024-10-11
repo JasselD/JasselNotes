@@ -19,6 +19,10 @@ public class Generics{
 
 		Printer<Integer> printer = new Printer<>(23);
 		printer.print();
+
+		Printer<Double> doubleprinter = new Printer<>(33.5);
+
+		doubleprinter.print()
 	}
 }
 ```
