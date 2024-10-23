@@ -1,0 +1,2 @@
+- Single, shared key
+	- Encrypt with the key, decrypt with the same key
