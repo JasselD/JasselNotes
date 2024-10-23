@@ -16,4 +16,4 @@
 
 **Non-repudiation
 - Proves that a user performed an action
-	- Cryptographic non-repudiation prevents an individual from fraudulently denying they were 
+	- Cryptographic non-repudiation prevents an individual from fraudulently denying they were involved in a transaction
