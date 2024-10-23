@@ -34,3 +34,6 @@
 - Speed of spread
 	- Virus: Spreads more slowly because it depends on users sharing or running infected files
 	- Worm: Spreads much faster since it exploits network to propagate without needing user involvement
+- Primary target
+	- Virus: Focuses on infecting individual files or programs
+	- Worm: Targets networks and spreads through network connections
