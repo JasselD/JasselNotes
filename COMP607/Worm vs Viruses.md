@@ -24,4 +24,6 @@
 	- Worm: Does not attach to other files; it operates as a standalone program
 - Activation
 	- Virus: Only becomes active when the infected file or program is opened or executed by the user
-	- Worm: Can start spreading
+	- Worm: Can start spreading and infecting systems as soon as it enters a computer or network
+- Spreading
+	- Spreads through infected files, email attachments,
