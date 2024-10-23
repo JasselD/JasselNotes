@@ -1,4 +1,6 @@
-- Process 
+- Process of scrambling a piece of information or data beyond recognition
+- Designed to be irreversible
+- Need to pass the input through a hash function to calculate the Hash value or Diges
 - Hash function is an algorithm used to encrypt a string and the output is called hash value
 - Each hash value must be unique
 - Will not reveal passwords in a data breach because there is no encryption needed
