@@ -10,4 +10,6 @@
 - Example: Wannacry worm 
 
 **Virus
-- Attaches itself to a legitimate file or program 
+- Attaches itself to a legitimate file or program and spreads from one computer to another when the infected file or program is executed
+- Typically requires user action (opening a file)
+- 
