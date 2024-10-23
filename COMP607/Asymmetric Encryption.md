@@ -8,5 +8,3 @@
 - Private key
 	- Only key that can decrypt data encrypted with the public key
 	- Can't derive the private key from the public key
-
-**RSA algorithm 
