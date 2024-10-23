@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP607/W1.md",
+                "file": "COMP607/Five Principles of Information Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W1"
+              "title": "Five Principles of Information Security"
             }
           }
         ],
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP607/W1.md",
+                "file": "COMP607/Five Principles of Information Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for W1"
+              "title": "Backlinks for Five Principles of Information Security"
             }
           },
           {
@@ -211,12 +211,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP607/W1.md",
+                "file": "COMP607/Five Principles of Information Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from W1"
+              "title": "Outgoing links from Five Principles of Information Security"
             }
           },
           {
@@ -238,10 +238,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP607/W1.md"
+                "file": "COMP607/Five Principles of Information Security.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of W1"
+              "title": "Outline of Five Principles of Information Security"
             }
           },
           {
@@ -275,8 +275,8 @@
   },
   "active": "4099387b40d22c5a",
   "lastOpenFiles": [
-    "COMP607/Untitled.md",
     "COMP607/W1.md",
+    "COMP607/Five Principles of Information Security.md",
     "COMP610/Data Structures.md",
     "COMP610/Big O notation.md",
     "COMP610/Algorithm.md",
