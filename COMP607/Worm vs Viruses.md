@@ -17,4 +17,7 @@
 
 **Differences between virus and worm
 - Spread mechanism
-	- Virus: Re
+	- Virus: Requires user action to spread
+	- Worm: Self-replicates and spreads automatically without user interaction
+- Attachment
+	- Virus: Needs to attach itself to a file, program, or document
