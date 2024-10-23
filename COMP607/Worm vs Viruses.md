@@ -12,4 +12,4 @@
 **Virus
 - Attaches itself to a legitimate file or program and spreads from one computer to another when the infected file or program is executed
 - Typically requires user action: Opening a file, clicking on a link
-- Once the virus is activated, it can
+- Once the virus is activated, it can replicate itself and infect other files or programs on the same computer, it can also spread to other computers when infected files are shared via USB, emails or downloads
