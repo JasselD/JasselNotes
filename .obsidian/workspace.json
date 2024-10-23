@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP607/Malicious programs.md",
+                "file": "COMP607/Worm vs Viruses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Malicious programs"
+              "title": "Worm vs Viruses"
             }
           }
         ],
@@ -276,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP607/Malicious programs.md",
+                "file": "COMP607/Worm vs Viruses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +286,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Malicious programs"
+              "title": "Backlinks for Worm vs Viruses"
             }
           },
           {
@@ -295,12 +295,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP607/Malicious programs.md",
+                "file": "COMP607/Worm vs Viruses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Malicious programs"
+              "title": "Outgoing links from Worm vs Viruses"
             }
           },
           {
@@ -322,10 +322,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP607/Malicious programs.md"
+                "file": "COMP607/Worm vs Viruses.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Malicious programs"
+              "title": "Outline of Worm vs Viruses"
             }
           },
           {
@@ -359,8 +359,8 @@
   },
   "active": "2d9adf54f670fe75",
   "lastOpenFiles": [
-    "COMP607/Worm vs Viruses.md",
     "COMP607/Malicious programs.md",
+    "COMP607/Worm vs Viruses.md",
     "COMP607/Focus.md",
     "COMP607/W1.md",
     "COMP607/Five Principles of Information Security.md",
