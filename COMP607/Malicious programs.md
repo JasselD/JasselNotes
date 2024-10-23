@@ -3,9 +3,12 @@
 - Trapdoor program is built around a trapdoor function. It's a mathematical function that is easy to compute in one direction but hard to reverse unless you have special information (the trapdoor)
 - RSA algorithm is an example of trapdoor function
 
-Logic bombs 
+**Logic bombs 
 - Type of malicious code that is hidden within a computer program and is set to execute a harmful action when certain conditions are met
 - Logic bombs stays dormant until a specific event or condition occurs
 - Hidden code: Logic bombs is secretly placed within a legitimate program or system. It remains inactive and hidden until triggered by a certain condition
 - Trigger condition: A specific data or time, the presence or absence of certain data, a particular user action 
 - Outcomes: Deleting files, corrupting data, slowing down or crashing systems
+
+**Trojan horse
+
