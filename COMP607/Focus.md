@@ -1,1 +1,2 @@
--[] Cook
+- [ ] 5 principles of security
+- [ ] Symmetric
