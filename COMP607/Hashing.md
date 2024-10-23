@@ -13,4 +13,5 @@
 - Mathematical operations to be carried out on two blocks of data
 - Both blocks are created by dividing the initial input into equal parts
 - It is irreversible by design
-- Must be fast
+- Must be fast but not instantaneous 
+- Should be able to hash in mass with a reasonable limit to prevent exploitation
