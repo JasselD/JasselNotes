@@ -6,5 +6,6 @@
 - Will not reveal passwords in a data breach because there is <mark style="background: #ABF7F7A6;">no encryption needed</mark>
 - Hashing is also called <mark style="background: #ABF7F7A6;">one-way hash</mark>
 - Used to ensure that <mark style="background: #ABF7F7A6;">information is in its original form</mark>
+- 
 - Does not prevent the message from being read and understood
 - Used for authentication if supported by something else
