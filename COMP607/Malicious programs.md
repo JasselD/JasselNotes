@@ -8,4 +8,4 @@ Logic bombs
 - Logic bombs stays dormant until a specific event or condition occurs
 - Hidden code: Logic bombs is secretly placed within a legitimate program or system. It remains inactive and hidden until triggered by a certain condition
 - Trigger condition: A specific data or time, the presence or absence of certain data, a particular user action 
-- 
+- Outcomes: Deleting files, corrupting data, slowing down or crashing systems
