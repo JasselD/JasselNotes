@@ -1,5 +1,5 @@
 **Worm
-- Can spread itself across com
+- Can spread itself across computers and networks without any human interaction
 - Malware that self-replicates
 	- Doesn't need you to do anything
 	- Uses the network as a transmission medium
@@ -8,3 +8,6 @@
 - Firewalls and IDS/IPS can prevent worm infestations
 	- Is not that effective if worms are already in
 - Example: Wannacry worm 
+
+**Virus
+- Attaches itself to a legitimate file or program 
