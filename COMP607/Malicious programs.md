@@ -4,10 +4,10 @@
 - <mark style="background: #ABF7F7A6;">RSA algorithm</mark> is an example of trapdoor function
 
 **Logic bombs 
-- Type of malicious code that is hidden within a computer program and is set to execute a harmful action when certain conditions are met
-- Logic bombs stays dormant until a specific event or condition occurs
-- Hidden code: Logic bombs is secretly placed within a legitimate program or system. It remains inactive and hidden until triggered by a certain condition
-- Trigger condition: A specific data or time, the presence or absence of certain data, a particular user action 
+- Type of malicious code that is <mark style="background: #ABF7F7A6;">hidden within a computer program</mark> and is set to execute a harmful action when <mark style="background: #ABF7F7A6;">certain conditions are met</mark>
+- Logic bombs <mark style="background: #ABF7F7A6;">stays dormant</mark> until a <mark style="background: #ABF7F7A6;">specific event or condition occurs</mark>
+- Hidden code: Logic bombs is <mark style="background: #ABF7F7A6;">secretly placed</mark> within a <mark style="background: #ABF7F7A6;">legitimate program or system</mark>. It remains inactive and hidden until triggered by a certain condition
+- Trigger condition: A <mark style="background: #ABF7F7A6;">specific data or time</mark>, the presence or absence of certain data, a <mark style="background: #ABF7F7A6;">particular user action</mark> 
 - Outcomes: Deleting files, corrupting data, slowing down or crashing systems
 
 **Trojan horse
