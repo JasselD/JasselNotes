@@ -31,4 +31,6 @@
 - Harm
 	- Virus: Can be designed to corrupt files, steal data, or slow systems
 	- Worm: Often designed to spread rapidly, causing network congestion and system slowdowns
-- Speed of sp
+- Speed of spread
+	- Virus: Spreads more slowly because it depends on users sharing or running infected files
+	- Worm: Spreads much faster since it exploits network to propagate without needing user involvement
