@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP607/Hashing.md",
+                "file": "COMP607/Asymmetric Encryption.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hashing"
+              "title": "Asymmetric Encryption"
             }
           }
         ],
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP607/Hashing.md",
+                "file": "COMP607/Asymmetric Encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hashing"
+              "title": "Backlinks for Asymmetric Encryption"
             }
           },
           {
@@ -239,12 +239,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP607/Hashing.md",
+                "file": "COMP607/Asymmetric Encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hashing"
+              "title": "Outgoing links from Asymmetric Encryption"
             }
           },
           {
@@ -266,10 +266,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP607/Hashing.md"
+                "file": "COMP607/Asymmetric Encryption.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Hashing"
+              "title": "Outline of Asymmetric Encryption"
             }
           },
           {
@@ -303,8 +303,8 @@
   },
   "active": "2e093898ffead6c9",
   "lastOpenFiles": [
-    "COMP607/Asymmetric Encryption.md",
     "COMP607/Hashing.md",
+    "COMP607/Asymmetric Encryption.md",
     "Images/Pasted image 20241023164027.png",
     "COMP607/Symmetric Encryption.md",
     "COMP607/Five Principles of Information Security.md",
