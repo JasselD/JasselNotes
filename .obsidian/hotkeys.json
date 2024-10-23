@@ -1,13 +1,4 @@
 {
-  "highlightr-plugin:unhighlight": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "H"
-    }
-  ],
   "highlightr-plugin:Cyan": [
     {
       "modifiers": [
