@@ -1,12 +1,10 @@
-- Process of scrambling a piece of information or data beyond recognition
-- Designed to be irreversible
-- Need to pass the input through a hash function to calculate the Hash value or Diges
+- Process of <mark style="background: #ABF7F7A6;">scrambling a piece of information or data beyond recognition</mark>
+- Designed to be <mark style="background: #ABF7F7A6;">irreversible</mark>
+- Need to pass the input through a <mark style="background: #ABF7F7A6;">Hash Function</mark> to calculate the Hash Value or Digest
 - Hash function is an algorithm used to encrypt a string and the output is called hash value
 - Each hash value must be unique
 - Will not reveal passwords in a data breach because there is no encryption needed
 - Hashing is also called one-way hash
-- A process for creating unique "signature" for a set of data
-	- This signature is called a hash or digest
 - Used to ensure that information is in its original form
 - Does not prevent the message from being read and understood
 - Used for authentication if supported by something else
