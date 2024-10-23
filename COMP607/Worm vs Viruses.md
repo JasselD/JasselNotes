@@ -20,4 +20,8 @@
 	- Virus: Requires user action to spread
 	- Worm: Self-replicates and spreads automatically without user interaction
 - Attachment
-	- Virus: Needs to attach itself to a file, program, or document
+	- Virus: Needs to attach itself to a file, program, or document as a host
+	- Worm: Does not attach to other files; it operates as a standalone program
+- Activation
+	- Virus: Only becomes active when the infected file or program is opened or executed by the user
+	- Worm: Can start spreading
