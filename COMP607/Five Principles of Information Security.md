@@ -4,4 +4,8 @@
 
 **Integrity
 - Ensures that the information is correct and no unauthorised person or malicious software has altered that data
-	- En
+	- Information. cannot be changed except by authorised users who have the key
+
+Availability
+- Ensures that data is accessible to authorised users
+	- Authorised users are provi
