@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP607/Untitled 1.md",
+                "file": "COMP607/Malicious programs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Malicious programs"
             }
           }
         ],
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP607/Untitled 1.md",
+                "file": "COMP607/Malicious programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +272,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks for Malicious programs"
             }
           },
           {
@@ -281,12 +281,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP607/Untitled 1.md",
+                "file": "COMP607/Malicious programs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 1"
+              "title": "Outgoing links from Malicious programs"
             }
           },
           {
@@ -308,10 +308,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP607/Untitled 1.md"
+                "file": "COMP607/Malicious programs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Malicious programs"
             }
           },
           {
@@ -343,10 +343,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3deee57fba1c68d3",
+  "active": "d9339247ece297e5",
   "lastOpenFiles": [
     "Untitled.md",
-    "COMP607/Untitled 1.md",
+    "COMP607/Malicious programs.md",
     "COMP607/W1.md",
     "COMP607/Focus.md",
     "COMP607/Five Principles of Information Security.md",
