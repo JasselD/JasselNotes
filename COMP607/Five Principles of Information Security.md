@@ -1,3 +1,3 @@
 **Confidentiality
 - Ensures that only authorised parties can view the information
-	- C
+	- Encrypted information can only be viewed by those who have been provided the 
