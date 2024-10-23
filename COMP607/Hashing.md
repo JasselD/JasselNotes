@@ -1,7 +1,8 @@
 - Process of converting an input of any length into a fixed sized string of text using mathematical function
 - Hash function is an algorithm used to encrypt a string and the output is called hash value
 - Each hash value must be unique
-- AKA one-way hash
+- Will not reveal passwords in a data breach because there is no 
+- Hashing is also called one-way hash
 - A process for creating unique "signature" for a set of data
 	- This signature is called a hash or digest
 - Used to ensure that information is in its original form
