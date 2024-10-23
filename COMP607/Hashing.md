@@ -11,4 +11,6 @@
 
 **Hash Function
 - Mathematical operations to be carried out on two blocks of data
-- Both blocks are created by dii
+- Both blocks are created by dividing the initial input into equal parts
+- It is irreversible by design
+- Must be fast
