@@ -26,4 +26,7 @@
 	- Virus: Only becomes active when the infected file or program is opened or executed by the user
 	- Worm: Can start spreading and infecting systems as soon as it enters a computer or network
 - Spreading
-	- Spreads through infected files, email attachments,
+	- Virus: Spreads through infected files, email attachments, downloads or USB drives
+	- Worm: Spreads primarily via network vulnerabilities, often moving through systems without any human involvement
+- Harm
+	- Virus: Can 
