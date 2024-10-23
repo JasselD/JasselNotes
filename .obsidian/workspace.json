@@ -287,8 +287,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3deee57fba1c68d3",
+  "active": "b4b881c4870b32f4",
   "lastOpenFiles": [
+    "Images/Pasted image 20241023164027.png",
     "COMP607/Symmetric Encryption.md",
     "COMP607/Asymmetric Encryption.md",
     "COMP607/Five Principles of Information Security.md",
@@ -314,7 +315,6 @@
     "Process.md",
     "COMP604/Basic command line.md",
     "COMP604/Paging in OS.md",
-    "COMP604/Shell Scripting.md",
-    "COMP604/OS Structure.md"
+    "COMP604/Shell Scripting.md"
   ]
 }
