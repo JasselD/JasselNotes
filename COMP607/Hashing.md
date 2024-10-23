@@ -1,0 +1,4 @@
+- AKA one-way hash
+- A process for creating unique "signature" for a set of data
+	- This signature is called a hash or digest
+	- 
