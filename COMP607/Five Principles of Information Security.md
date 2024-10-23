@@ -12,4 +12,8 @@
 
 **Authenticity
 - Provides proof of the "real" user
-	- Cryptograph
+	- Cryptography can prove that the sender was legitimate and not an imposter
+
+**Non-repudiation
+- Proves that a user performed an action
+	- Cryptographic non-repudiation prevents an individual from fraudulently denying they were 
