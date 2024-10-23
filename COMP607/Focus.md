@@ -1,2 +1,7 @@
 - [ ] 5 principles of security
-- [ ] Symmetric
+- [ ] Symmetric encryption
+- [ ] Hashing algorithms 
+- [ ] Asymmetric (Alice and Bob)
+- [ ] Malicious software
+- [ ] Worm vs Virus
+- [ ] 
