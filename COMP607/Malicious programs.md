@@ -1,7 +1,7 @@
 **Trapdoors
-- Type of <mark style="background: #ABF7F7A6;">cryptographic algorithm</mark> or system that contains a <mark style="background: #ABF7F7A6;">hidden mechanism</mark>, which is called a trapdoor. This enables someone with special knowledge to bypass security measures that would be difficult or impossible to breach
-- Trapdoor program is built around a trapdoor function. It's a mathematical function that is easy to compute in one direction but hard to reverse unless you have special information (the trapdoor)
-- RSA algorithm is an example of trapdoor function
+- Type of <mark style="background: #ABF7F7A6;">cryptographic algorithm</mark> or system that contains a <mark style="background: #ABF7F7A6;">hidden mechanism</mark>, which is called a trapdoor. This enables someone with special knowledge to <mark style="background: #ABF7F7A6;">bypass security measures</mark> that would be difficult or impossible to breach
+- Trapdoor program is built around a <mark style="background: #ABF7F7A6;">trapdoor function</mark>. It's a <mark style="background: #ABF7F7A6;">mathematical function</mark> that is <mark style="background: #ABF7F7A6;">easy to compute in one direction but hard to reverse</mark> unless you have <mark style="background: #ABF7F7A6;">special information</mark> (the trapdoor)
+- <mark style="background: #ABF7F7A6;">RSA algorithm</mark> is an example of trapdoor function
 
 **Logic bombs 
 - Type of malicious code that is hidden within a computer program and is set to execute a harmful action when certain conditions are met
