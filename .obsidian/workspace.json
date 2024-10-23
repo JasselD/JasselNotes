@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP607/Untitled.md",
+                "file": "COMP607/Symmetric Encryption.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Symmetric Encryption"
             }
           }
         ],
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP607/Untitled.md",
+                "file": "COMP607/Symmetric Encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Symmetric Encryption"
             }
           },
           {
@@ -225,12 +225,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP607/Untitled.md",
+                "file": "COMP607/Symmetric Encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Symmetric Encryption"
             }
           },
           {
@@ -252,10 +252,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP607/Untitled.md"
+                "file": "COMP607/Symmetric Encryption.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Symmetric Encryption"
             }
           },
           {
@@ -287,10 +287,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3deee57fba1c68d3",
+  "active": "b4b881c4870b32f4",
   "lastOpenFiles": [
     "COMP607/Five Principles of Information Security.md",
-    "COMP607/Untitled.md",
+    "COMP607/Symmetric Encryption.md",
     "COMP607/W1.md",
     "COMP610/Data Structures.md",
     "COMP610/Big O notation.md",
