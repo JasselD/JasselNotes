@@ -17,7 +17,11 @@ Short answer
 - [ ] Standalone vs controller access points (AP's)
 - [ ] Network blurred edges
 - [ ] WLAN enterprise attacks
-- [ ] Rogue AP and evil twin attakcs
+- [ ] Rogue AP and evil twin attacks
 - [ ] WPA vs WPA2
 
-Long asnw
+Long answer
+- [ ] Business continuity
+- [ ] Personally identifiable information 
+- [ ] Protected health information
+- [ ] Cloud computing
