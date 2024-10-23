@@ -11,4 +11,5 @@
 - Outcomes: Deleting files, corrupting data, slowing down or crashing systems
 
 **Trojan horse
-
+- Disguises itself as a legitimate or useful program to trick users into installing or using it
+- 
