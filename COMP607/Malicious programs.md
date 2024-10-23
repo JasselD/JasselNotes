@@ -12,4 +12,5 @@
 
 **Trojan horse
 - Disguises itself as a legitimate or useful program to trick users into installing or using it
-- 
+- Trojans do not replicate themselves this relying on the user to install or execute them
+- Outcomes: Steal sensitive information, Spy on users, tak
