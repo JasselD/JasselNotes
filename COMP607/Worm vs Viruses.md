@@ -15,4 +15,6 @@
 - Once the virus is activated, it can replicate itself and infect other files or programs on the same computer, it can also spread to other computers when infected files are shared via USB, emails or downloads
 - Example: Melissa virus
 
-
+**Differences between virus and worm
+- Spread mechanism
+	- Virus: Re
