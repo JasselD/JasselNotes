@@ -29,4 +29,6 @@
 	- Virus: Spreads through infected files, email attachments, downloads or USB drives
 	- Worm: Spreads primarily via network vulnerabilities, often moving through systems without any human involvement
 - Harm
-	- Virus: Can 
+	- Virus: Can be designed to corrupt files, steal data, or slow systems
+	- Worm: Often designed to spread rapidly, causing network congestion and system slowdowns
+- Speed of sp
