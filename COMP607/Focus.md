@@ -9,4 +9,8 @@ MCQ
 
 Short answer
 - [ ] Social engineering
-      Authority,
+- [ ] Defences against attacks
+- [ ] Authentication, authorisation and accounting (AAA)
+- [ ] Standard biometrics
+- [ ] Behavioural biometrics
+- [ ] Co
