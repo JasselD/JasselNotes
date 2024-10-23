@@ -11,6 +11,6 @@
 - Outcomes: Deleting files, corrupting data, slowing down or crashing systems
 
 **Trojan horse
-- <mark style="background: #ABF7F7A6;">Disguises itself</mark> as a <mark style="background: #ABF7F7A6;">l</mark><mark style="background: #ABF7F7A6;">egitimate or useful program</mark> to trick users into <mark style="background: #ABF7F7A6;">installing or using it</mark>
+- <mark style="background: #ABF7F7A6;">Disguises itself</mark> as a <mark style="background: #ABF7F7A6;">legitimate or useful program</mark> to trick users into <mark style="background: #ABF7F7A6;">installing or using it</mark>
 - Trojans <mark style="background: #ABF7F7A6;">do not replicate </mark>themselves this relying on the user to <mark style="background: #ABF7F7A6;">install or execute them</mark>
 - Outcomes: Steal sensitive information, Spy on users, take control of computers, install additional malware
