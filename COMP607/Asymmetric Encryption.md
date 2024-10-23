@@ -6,4 +6,5 @@
 	- Private key: Keep this private
 	- Public key: Everyone has access, send it to everyone
 - Private key
-	- Only key that 
+	- Only key that can decrypt data encrypted with the public key
+	- Can't derive the private key from the public key
