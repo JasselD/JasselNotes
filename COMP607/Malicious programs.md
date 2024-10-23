@@ -6,4 +6,5 @@
 Logic bombs 
 - Type of malicious code that is hidden within a computer program and is set to execute a harmful action when certain conditions are met
 - Logic bombs stays dormant until a specific event or condition occurs
-- 
+- Hidden code: Logic bombs is secretly placed within a legitimate program or system. It remains inactive and hidden until triggered by a certain condition
+- Trigger condition: 
