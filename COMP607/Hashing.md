@@ -1,3 +1,5 @@
+- Process of converting an input of any length into a fixed sized string of text using mathematical function
+- 
 - AKA one-way hash
 - A process for creating unique "signature" for a set of data
 	- This signature is called a hash or digest
