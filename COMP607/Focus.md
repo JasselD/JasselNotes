@@ -13,4 +13,11 @@ Short answer
 - [ ] Authentication, authorisation and accounting (AAA)
 - [ ] Standard biometrics
 - [ ] Behavioural biometrics
-- [ ] Co
+- [ ] Cognitive Biometrics
+- [ ] Standalone vs controller access points (AP's)
+- [ ] Network blurred edges
+- [ ] WLAN enterprise attacks
+- [ ] Rogue AP and evil twin attakcs
+- [ ] WPA vs WPA2
+
+Long asnw
