@@ -2,4 +2,5 @@
 	- Encrypt with the key, decrypt with the same key
 	- Secret Key: If it gets out, you will need another key
 	- Does not scale very well : Give the key to a lot of ppl and the key with be lose
+	- Very fast to use: Not a lot of overhead and often combined with [[Asymmetric Encryption]]
 	- 
