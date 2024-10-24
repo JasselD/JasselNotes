@@ -237,12 +237,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP607/Defenses against attacks.md",
+                "file": "COMP607/Social Engineering Effectiveness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Defenses against attacks"
+              "title": "Social Engineering Effectiveness"
             }
           }
         ],
@@ -401,9 +401,10 @@
   },
   "active": "c6a12c3cedbff731",
   "lastOpenFiles": [
+    "COMP607/Symmetric Encryption.md",
+    "COMP607/Defenses against attacks.md",
     "COMP607/5 principle of security.md",
     "De.md",
-    "COMP607/Defenses against attacks.md",
     "COMP607/Five Principles of Information Security.md",
     "COMP607/Focus.md",
     "COMP607/Hashing.md",
@@ -420,7 +421,6 @@
     "Images/Pasted image 20240807000507.png",
     "COMP607/W1.md",
     "Images/Pasted image 20241023164027.png",
-    "COMP607/Symmetric Encryption.md",
     "COMP610/Data Structures.md",
     "COMP610/Big O notation.md",
     "COMP610/Algorithm.md",
