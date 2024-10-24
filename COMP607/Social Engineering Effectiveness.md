@@ -1,3 +1,5 @@
+- Social Engineering: Taking advantage of human behaviors and natural tendencies. It exploits the human psycology to manipulate people into making security mistakes and giving away confidential information
+
 ***7 principles
 
 **Authority

@@ -1,39 +1,40 @@
 **Worm
-- Can spread itself across computers and networks without any human interaction
-- Malware that self-replicates
+- Can <mark style="background: #ABF7F7A6;">spread itself across computers and networks without any human interaction</mark>
+- Malware that <mark style="background: #ABF7F7A6;">self-replicates</mark>
 	- Doesn't need you to do anything
-	- Uses the network as a transmission medium
-	- Self-propagates and spreads quickly
-- Can replicate in the speed of the user's network
-- Firewalls and IDS/IPS can prevent worm infestations
+	- Uses the <mark style="background: #ABF7F7A6;">network as a transmission medium</mark>
+	- <mark style="background: #ABF7F7A6;">Self-propagates</mark> and <mark style="background: #ABF7F7A6;">spreads quickly</mark>
+- <mark style="background: #ABF7F7A6;">Can replicate in the speed of the user's network</mark>
+- <mark style="background: #ABF7F7A6;">Firewalls and IDS/IPS</mark> can prevent worm infestations
 	- Is not that effective if worms are already in
 - Example: Wannacry worm 
 
 **Virus
-- Attaches itself to a legitimate file or program and spreads from one computer to another when the infected file or program is executed
-- Typically requires user action: Opening a file, clicking on a link
-- Once the virus is activated, it can replicate itself and infect other files or programs on the same computer, it can also spread to other computers when infected files are shared via USB, emails or downloads
+- <mark style="background: #ABF7F7A6;">Attaches itself to a legitimate file or program</mark> and spreads from one computer to another when the <mark style="background: #ABF7F7A6;">infected file or program is executed</mark>
+- Typically <mark style="background: #ABF7F7A6;">requires user action</mark>: <mark style="background: #ABF7F7A6;">Opening a file</mark>, <mark style="background: #ABF7F7A6;">clicking on a link</mark>
+- Once the <mark style="background: #ABF7F7A6;">virus is activated</mark>, it <mark style="background: #ABF7F7A6;">can replicate itself</mark> and <mark style="background: #ABF7F7A6;">infect other files or programs on the same computer</mark>, it can also spread to other computers when <mark style="background: #ABF7F7A6;">infected files are shared</mark> via <mark style="background: #ABF7F7A6;">USB</mark>, <mark style="background: #ABF7F7A6;">emails</mark> or <mark style="background: #ABF7F7A6;">downloads</mark>
 - Example: Melissa virus
 
 **Differences between virus and worm
 - Spread mechanism
-	- Virus: Requires user action to spread
-	- Worm: Self-replicates and spreads automatically without user interaction
+	- Virus: Requires <mark style="background: #ABF7F7A6;">user action</mark> to spread
+	- Worm: <mark style="background: #ABF7F7A6;">Self-replicates</mark> and <mark style="background: #ABF7F7A6;">spreads automatically</mark> without user interaction
 - Attachment
-	- Virus: Needs to attach itself to a file, program, or document as a host
-	- Worm: Does not attach to other files; it operates as a standalone program
+	- Virus: Needs to <mark style="background: #ABF7F7A6;">attach itself to a file, program, or document</mark> as a host
+	- Worm: <mark style="background: #ABF7F7A6;">Does not attach to other files</mark>; it operates as a <mark style="background: #ABF7F7A6;">standalone program</mark>
 - Activation
-	- Virus: Only becomes active when the infected file or program is opened or executed by the user
-	- Worm: Can start spreading and infecting systems as soon as it enters a computer or network
+	- Virus: Only becomes active when the<mark style="background: #ABF7F7A6;"> infected file or program is opened or executed</mark> by the user
+	- Worm: Can start <mark style="background: #ABF7F7A6;">spreading and infecting systems as soon as it enters a computer</mark> or <mark style="background: #ABF7F7A6;">network</mark>
 - Spreading
-	- Virus: Spreads through infected files, email attachments, downloads or USB drives
-	- Worm: Spreads primarily via network vulnerabilities, often moving through systems without any human involvement
+	- Virus: Spreads through infected <mark style="background: #ABF7F7A6;">files</mark>, <mark style="background: #ABF7F7A6;">email attachments</mark>, <mark style="background: #ABF7F7A6;">downloads</mark> or <mark style="background: #ABF7F7A6;">USB drives</mark>
+	- Worm: <mark style="background: #ABF7F7A6;">Spreads primarily via network vulnerabilities</mark>, often moving through systems without any human involvement
 - Harm
-	- Virus: Can be designed to corrupt files, steal data, or slow systems
-	- Worm: Often designed to spread rapidly, causing network congestion and system slowdowns
+	- Virus: Can be <mark style="background: #ABF7F7A6;">designed to corrupt files</mark>, <mark style="background: #ABF7F7A6;">steal data</mark>, or <mark style="background: #ABF7F7A6;">slow systems</mark>
+	- Worm: Often designed to <mark style="background: #ABF7F7A6;">spread rapidly</mark>, <mark style="background: #ABF7F7A6;">causing network congestion</mark> and <mark style="background: #ABF7F7A6;">system slowdowns</mark>
 - Speed of spread
-	- Virus: Spreads more slowly because it depends on users sharing or running infected files
-	- Worm: Spreads much faster since it exploits network to propagate without needing user involvement
+	- Virus: <mark style="background: #ABF7F7A6;">Spreads more slowly</mark> because it depends on <mark style="background: #ABF7F7A6;">users sharing or running infected files</mark>
+	- Worm: <mark style="background: #ABF7F7A6;">Spreads much faster</mark> since it <mark style="background: #ABF7F7A6;">exploits network to propagate</mark> without needing user involvement
 - Primary target
-	- Virus: Focuses on infecting individual files or programs
-	- Worm: Targets networks and spreads through network connections
+	- Virus: Focuses on <mark style="background: #ABF7F7A6;">infecting individual files or programs</mark>
+	- Worm: <mark style="background: #ABF7F7A6;">Targets networks</mark> and <mark style="background: #ABF7F7A6;">spreads through network connections
+</mark>

@@ -3,11 +3,11 @@
 
 **Public key cryptography
 - two keys
-	- Private key: Keep this private
-	- Public key: Everyone has access, send it to everyone
+	- <mark style="background: #ABF7F7A6;">Private key</mark>: Keep this private
+	- <mark style="background: #ABF7F7A6;">Public key</mark>: Everyone has access, send it to everyone
 - Private key
-	- Only key that can decrypt data encrypted with the public key
-	- Can't derive the private key from the public key
+	- Only key that <mark style="background: #ABF7F7A6;">can decrypt data encrypted</mark> with the public key
+	- <mark style="background: #ABF7F7A6;">Can't derive the private key</mark> from the <mark style="background: #ABF7F7A6;">public key</mark>
 
 **Used in
 - Https websites

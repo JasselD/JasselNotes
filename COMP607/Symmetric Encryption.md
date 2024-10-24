@@ -1,6 +1,5 @@
-- Single, shared key
+- <mark style="background: #ABF7F7A6;">Single, shared key</mark>
 	- Encrypt with the key, decrypt with the same key
-	- Secret Key: If it gets out, you will need another key
+	- Secret Key: <mark style="background: #ABF7F7A6;">If it gets out, you will need another key</mark>
 	- Does not scale very well : Give the key to a lot of ppl and the key with be lose
 	- Very fast to use: Not a lot of overhead and often combined with [[Asymmetric Encryption]]
-	- 
