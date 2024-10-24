@@ -193,16 +193,60 @@
             "id": "2d9adf54f670fe75",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Screenshot 2024-08-01 at 3.33.53 PM.png"
+                "file": "COMP607/Worm vs Viruses.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2024-08-01 at 3.33.53 PM"
+              "icon": "lucide-file",
+              "title": "Worm vs Viruses"
+            }
+          },
+          {
+            "id": "5de79d0aa438d570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP607/Social Engineering Effectiveness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Social Engineering Effectiveness"
+            }
+          },
+          {
+            "id": "38345f9123118883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP607/Social Engineering Effectiveness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Social Engineering Effectiveness"
+            }
+          },
+          {
+            "id": "c6a12c3cedbff731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP607/Defences.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Defences"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -224,7 +268,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -346,28 +390,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d9adf54f670fe75",
+  "active": "c6a12c3cedbff731",
   "lastOpenFiles": [
+    "COMP607/Asymmetric Encryption.md",
+    "COMP607/5 principle of security.md",
+    "COMP607/Defences.md",
+    "COMP607/Social Engineering Effectiveness.md",
+    "COMP607/Worm vs Viruses.md",
+    "Images/Screenshot 2024-08-01 at 3.33.53 PM.png",
     "Images/Pasted image 20240726135527.png",
     "Images/Pasted image 20240726140850.png",
     "Images/Pasted image 20240727200532.png",
     "Images/Pasted image 20240807000507.png",
-    "COMP607/Worm vs Viruses.md",
     "COMP607/Malicious programs.md",
     "COMP607/Focus.md",
     "COMP607/W1.md",
     "COMP607/Five Principles of Information Security.md",
     "COMP607/Hashing.md",
-    "COMP607/Asymmetric Encryption.md",
     "Images/Pasted image 20241023164027.png",
     "COMP607/Symmetric Encryption.md",
     "COMP610/Data Structures.md",
@@ -385,8 +433,6 @@
     "COMP610/Space Complexity.md",
     "COMP610/Threads.md",
     "COMP610/Multithreading.md",
-    "COMP610/Time Complexity.md",
-    "COMP610/Recursion.md",
-    "OOP.md"
+    "COMP610/Time Complexity.md"
   ]
 }
