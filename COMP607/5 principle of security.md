@@ -23,4 +23,4 @@
 - <mark style="background: #ABF7F7A6;">Complex systems</mark> are harder to secure and often introduce <mark style="background: #ABF7F7A6;">more vulnerabilities</mark>. <mark style="background: #ABF7F7A6;">Simple systems</mark> tend to have <mark style="background: #ABF7F7A6;">fewer vulnerabilities</mark>
 - Example: Using a <mark style="background: #ABF7F7A6;">clear, consistent</mark> access control policy across an organization rather than creating complicated, ad-hoc rules for different departments
 
-[[De]]
+[[Defenses against attacks]]

@@ -237,12 +237,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP607/Five Principles of Information Security.md",
+                "file": "COMP607/Defenses against attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Five Principles of Information Security"
+              "title": "Defenses against attacks"
             }
           }
         ],
@@ -401,10 +401,16 @@
   },
   "active": "c6a12c3cedbff731",
   "lastOpenFiles": [
-    "COMP607/Defenses against attacks.md",
     "COMP607/5 principle of security.md",
+    "De.md",
+    "COMP607/Defenses against attacks.md",
     "COMP607/Five Principles of Information Security.md",
+    "COMP607/Focus.md",
+    "COMP607/Hashing.md",
     "COMP607/Asymmetric Encryption.md",
+    "COMP607/Malicious programs.md",
+    "LinkedLists.md",
+    "2024-10-24.md",
     "COMP607/Social Engineering Effectiveness.md",
     "COMP607/Worm vs Viruses.md",
     "Images/Screenshot 2024-08-01 at 3.33.53 PM.png",
@@ -412,10 +418,7 @@
     "Images/Pasted image 20240726140850.png",
     "Images/Pasted image 20240727200532.png",
     "Images/Pasted image 20240807000507.png",
-    "COMP607/Malicious programs.md",
-    "COMP607/Focus.md",
     "COMP607/W1.md",
-    "COMP607/Hashing.md",
     "Images/Pasted image 20241023164027.png",
     "COMP607/Symmetric Encryption.md",
     "COMP610/Data Structures.md",
@@ -424,15 +427,12 @@
     "COMP610/Array.md",
     "COMP603/ArrayList.md",
     "COMP610/Generics.md",
-    "LinkedLists.md",
     "List Interface.md",
     "COMP610/Collections.md",
     "Images/Pasted image 20241010154844.png",
     "COMP610/Asymptotic Notations.md",
     "COMP610/Asymptotic Analysis.md",
     "COMP610/Space Complexity.md",
-    "COMP610/Threads.md",
-    "COMP610/Multithreading.md",
-    "COMP610/Time Complexity.md"
+    "COMP610/Threads.md"
   ]
 }
