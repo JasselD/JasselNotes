@@ -17,24 +17,24 @@
 **Diversity (Varied Security Controls)
 - Defense: Use <mark style="background: #ABF7F7A6;">diverse technologies and methods</mark> to protects your systems, <mark style="background: #ABF7F7A6;">reducing the risk of a single-point failure</mark>
 - **Examples:**
-	- **Different Firewalls and Antivirus Vendors:** Use firewalls and security tools from different vendors to prevent vulnerabilities from affecting all layers.
-	- **Multiple Authentication Methods:** Combine biometrics, password-based logins, and token-based authentication for stronger protection.
-	- **Varied Operating Systems:** In critical systems, use different OSes for different servers or components to reduce the risk of a widespread attack exploiting the same vulnerability.
+	- **Different Firewalls and Antivirus Vendors:** <mark style="background: #ABF7F7A6;">Use firewalls and security tools from different vendors</mark> to prevent vulnerabilities from affecting all layers.
+	- **Multiple Authentication Methods:** <mark style="background: #ABF7F7A6;">Combine biometrics, password-based logins, and token-based authentication</mark> for stronger protection.
+	- **Varied Operating Systems:** In critical systems, use <mark style="background: #ABF7F7A6;">different OSes for different servers or components</mark> to reduce the risk of a widespread attack exploiting the same vulnerability.
 
 **Obscurity (Hiding Details)
-- Defense: Keep system details hidden to make it harder for attackers to understand how to exploit them
+- Defense: <mark style="background: #ABF7F7A6;">Keep system details hidden</mark> to make it harder for attackers to understand how to exploit them
 - **Examples:**
-	- **Non-standard Port Usage:** Use non-default ports for critical services (e.g., SSH or Remote Desktop) to make them harder to detect.
-	- **Code Obfuscation:** For web apps, obfuscate sensitive code so that attackers can't easily reverse-engineer it.
-	- **Masking Network Topology:** Avoid revealing your internal network structure, IP addresses, or configurations to external parties or public documentation.
-	- **Honeypots:** Deploy decoy systems that appear valuable but are designed to trap and analyze attackers, diverting them away from real assets.
+	- **Non-standard Port Usage:** <mark style="background: #ABF7F7A6;">Use non-default ports for critical services (e.g., SSH or Remote Desktop)</mark> to make them harder to detect.
+	- **Code Obfuscation:** For web apps, <mark style="background: #ABF7F7A6;">obfuscate sensitive code so that attackers can't easily reverse-engineer it.</mark>
+	- **Masking Network Topology:** Avoid revealing your <mark style="background: #ABF7F7A6;">internal network structure, IP addresses, or configurations</mark> to external parties or public documentation.
+	- **Honeypots:** <mark style="background: #ABF7F7A6;">Deploy decoy systems</mark> that appear valuable but are designed to trap and analyze attackers, diverting them away from real assets.
 
 **Simplicity (Ease of Management and Security)
-- Defense: Keep security mechanisms simple and manageble to avoid introducing unnecessary complexity, which often leads to vulnerabilities
+- Defense: <mark style="background: #ABF7F7A6;">Keep security mechanisms simple and manageble</mark> to avoid introducing unnecessary complexity, which often leads to vulnerabilities
 - **Examples:**
-	- **Unified Security Policies:** Create clear, enforceable policies that apply uniformly across the organization, making them easy to follow and audit.
-	- **Automated Patch Management:** Simplify the process of keeping software up to date with automated patching tools, reducing the chance of missed updates.
-	- **Simplified Network Architecture:** Avoid overly complex network designs to make it easier to monitor and secure traffic.
-	- **Streamlined Access Controls:** Use centralized identity and access management (IAM) systems to keep access controls consistent across the organization.
+	- **Unified Security Policies:** <mark style="background: #ABF7F7A6;">Create clear, enforceable policies</mark> that apply uniformly across the organization, making them easy to follow and audit.
+	- **Automated Patch Management:** <mark style="background: #ABF7F7A6;">Simplify the process of keeping software up to date</mark> with <mark style="background: #ABF7F7A6;">automated patching tools</mark>, reducing the chance of missed updates.
+	- **Simplified Network Architecture:** <mark style="background: #ABF7F7A6;">Avoid overly complex network designs</mark> to make it easier to monitor and secure traffic.
+	- **Streamlined Access Controls:** <mark style="background: #ABF7F7A6;">Use centralized identity and access management (IAM) systems</mark> to keep access controls consistent across the organization.
 
 
