@@ -3,4 +3,6 @@
 
 **WPA (Wi-Fi protected access)
 - Features:
-	- TKIP (T)
+	- TKIP (Temporal Key Integrity Protocol)
+		- Used for encryption
+		- Dynamically changes the keys used to encrypt 
