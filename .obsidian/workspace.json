@@ -263,14 +263,12 @@
             "id": "80f05cf13e61c47e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "COMP607/WPA vs WPA2.md",
-                "mode": "source",
-                "source": false
+                "file": "COMP610/Pasted image 20241026004625.png"
               },
-              "icon": "lucide-file",
-              "title": "WPA vs WPA2"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241026004625"
             }
           }
         ],
@@ -346,7 +344,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP607/WPA vs WPA2.md",
+                "file": "COMP610/Pasted image 20241026004625.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +354,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WPA vs WPA2"
+              "title": "Backlinks for Pasted image 20241026004625"
             }
           },
           {
@@ -365,12 +363,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP607/WPA vs WPA2.md",
+                "file": "COMP610/Pasted image 20241026004625.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from WPA vs WPA2"
+              "title": "Outgoing links from Pasted image 20241026004625"
             }
           },
           {
@@ -392,10 +390,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP607/WPA vs WPA2.md"
+                "file": "COMP610/Pasted image 20241026004625.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of WPA vs WPA2"
+              "title": "Outline of Pasted image 20241026004625"
             }
           },
           {
@@ -427,10 +425,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80f05cf13e61c47e",
+  "active": "3deee57fba1c68d3",
   "lastOpenFiles": [
-    "COMP607/Focus.md",
     "COMP607/WPA vs WPA2.md",
+    "COMP610/Pasted image 20241026004625.png",
+    "COMP607/Focus.md",
     "COMP607/Standard Biometrics.md",
     "COMP607/WLAN Enterprise Attacks.md",
     "COMP607/Worm vs Viruses.md",
@@ -455,7 +454,6 @@
     "COMP610/Generics.md",
     "LinkedLists.md",
     "List Interface.md",
-    "COMP610/Collections.md",
     "Images/Pasted image 20241010154844.png"
   ]
 }

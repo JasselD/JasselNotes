@@ -16,7 +16,7 @@
 		- PSK: low-medium (depends on passphrase)
 		- 802.1x: high
 
-WPA2 
+**WPA2 
 - Features:
 	- AES-CCMP
 		- AES
@@ -30,6 +30,7 @@ WPA2
 				- Counter Mode (CTR): Encrypts data using unique counters per packet
 				- CBC-MAC: Ensures data integrity/authentication
 	- PSK (Pre-shared key)
+		- Used for authentication
 		- WPA2-Personal (PSK): For home use with shared passphrase
 		- WPA2-Enterprise: Suitable for corporate environments using 802.1X authentication via a Radius server for more secure and dynamic key generation
 	- Security level:
@@ -37,3 +38,5 @@ WPA2
 		- AES-CCMP: High
 		- 802.1x: High
 
+**WPA vs WPA2
+![[Pasted image 20241026004625.png]]
