@@ -9,4 +9,4 @@
 		- Adds a per-packet key mixing function, a message integrity check, and other measures to prevent replay attacks
 	- PSK (Pre-shared key)
 		- WPA-Personal (PSK): For home use, a shared passphrase is used for authentication
-		- WPA-Enterprise: In corpo
+		- WPA-Enterprise: In corporate environments, use a Radius server for centralized authentication (802.1X authentication)
