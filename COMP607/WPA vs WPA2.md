@@ -17,5 +17,6 @@
 		- 802.1x: high
 
 WPA2 
-- Features
+- Features:
+	- AES
 
