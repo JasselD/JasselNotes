@@ -7,3 +7,6 @@
 		- Used for encryption
 		- Dynamically changes the keys used to encrypt every packet
 		- Adds a per-packet key mixing function, a message integrity check, and other measures to prevent replay attacks
+	- PSK (Pre-shared key)
+		- WPA-Personal (PSK): For home use, a shared passphrase is used for authentication
+		- WPA-Enterprise: In corpo
