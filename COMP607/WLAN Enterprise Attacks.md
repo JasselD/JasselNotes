@@ -2,4 +2,6 @@
 - Rogue APs
 	- Definition: An unauthorized access point set up within the network
 	- Threat: Allows attackets to bypass network security measures (like firewalls) and gain access to the internal network
-	- Impact: Once an attacker conencts through a rogue AP, they can exploit vulnerabilities behind the firewall, c
+	- Impact: Once an attacker conencts through a rogue AP, they can exploit vulnerabilities behind the firewall, compromising the network and its user
+- Evil Twin
+	- Defi
