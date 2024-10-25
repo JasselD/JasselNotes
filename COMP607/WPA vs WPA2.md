@@ -28,5 +28,7 @@ WPA2
 			- Combines:
 				- Counter Mode (CTR): Encrypts data using unique counters per packet
 				- CBC-MAC: Ensures data integrity/authentication
-			- 
+	- PSK (Pre-shared key)
+		- WPA2-Personal (PSK): For home use with shared passphrase
+		- WPA2-
 
