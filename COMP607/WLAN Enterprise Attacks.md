@@ -1,3 +1,3 @@
 **Types of Wireless Attacks
 - Rogue APs
-	- Definiti
+	- Definition: An unauthorized access point set u
