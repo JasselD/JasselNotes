@@ -20,6 +20,7 @@ WPA2
 - Features:
 	- AES-CCMP
 		- AES
+			- Used for encryption
 			- Block cipher encryption algorithm (128-bit blocks)
 			- Supports key sizes of 128, 192, and 256 bits
 			- Strong, secure, widely used encryption
@@ -31,4 +32,8 @@ WPA2
 	- PSK (Pre-shared key)
 		- WPA2-Personal (PSK): For home use with shared passphrase
 		- WPA2-Enterprise: Suitable for corporate environments using 802.1X authentication via a Radius server for more secure and dynamic key generation
+	- Security level:
+		- PSK: Medium
+		- AES-CCMP: High
+		- 802.1x: High
 
