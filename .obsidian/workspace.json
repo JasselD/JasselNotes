@@ -251,7 +251,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "COMP607/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -332,7 +332,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "COMP607/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "COMP607/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "COMP607/Untitled.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Untitled"
@@ -413,10 +413,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7b069864246cf7a",
+  "active": "3deee57fba1c68d3",
   "lastOpenFiles": [
     "COMP607/Network Blurred Edges.md",
-    "Untitled.md",
+    "COMP607/Untitled.md",
     "COMP607/Standalone vs Controller APs.md",
     "COMP607/Focus.md",
     "COMP607/Hackers.md",
