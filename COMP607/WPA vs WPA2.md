@@ -4,13 +4,13 @@
 **WPA (Wi-Fi protected access)
 - Features:
 	- <mark style="background: #ABF7F7A6;">TKIP (Temporal Key Integrity Protocol)</mark>
-		- Used for encryption
-		- Dynamically changes the keys used to encrypt every packet
+		- Used for <mark style="background: #ABF7F7A6;">encryption</mark>
+		- Dynamically <mark style="background: #ABF7F7A6;">changes the keys</mark> used to encrypt every packet
 		- Adds a per-packet key mixing function, a message integrity check, and other measures to prevent replay attacks
-	- PSK (Pre-shared key)
-		- Used for authentication
-		- WPA-Personal (PSK): For home use, a shared passphrase is used for authentication
-		- WPA-Enterprise: In corporate environments, use a Radius server for centralized authentication (802.1X authentication)
+	- <mark style="background: #ABF7F7A6;">PSK (Pre-shared key)</mark>
+		- Used for <mark style="background: #ABF7F7A6;">authentication</mark>
+		- WPA-Personal (PSK): For <mark style="background: #ABF7F7A6;">home use</mark>, a shared passphrase is used for authentication
+		- WPA-Enterprise: In corporate environments, use a <mark style="background: #ABF7F7A6;">Radius server</mark> for centralized authentication <mark style="background: #ABF7F7A6;">(802.1X authentication)</mark>
 	- Security level:
 		- TKIP: medium
 		- PSK: low-medium (depends on passphrase)
