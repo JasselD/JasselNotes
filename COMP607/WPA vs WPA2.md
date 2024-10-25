@@ -11,16 +11,16 @@
 		- Used for <mark style="background: #ABF7F7A6;">authentication</mark>
 		- WPA-Personal (PSK): For <mark style="background: #ABF7F7A6;">home use</mark>, a shared passphrase is used for authentication
 		- WPA-Enterprise: In corporate environments, use a <mark style="background: #ABF7F7A6;">Radius server</mark> for centralized authentication <mark style="background: #ABF7F7A6;">(802.1X authentication)</mark>
-	- Security level:
+	- <mark style="background: #ABF7F7A6;">Security level</mark>:
 		- TKIP: medium
 		- PSK: low-medium (depends on passphrase)
 		- 802.1x: high
 
 **WPA2 
 - Features:
-	- AES-CCMP
+	- <mark style="background: #ABF7F7A6;">AES-CCMP</mark>
+	- <mark style="background: #ABF7F7A6;">Used for encryption</mark>
 		- AES
-			- Used for encryption
 			- Block cipher encryption algorithm (128-bit blocks)
 			- Supports key sizes of 128, 192, and 256 bits
 			- Strong, secure, widely used encryption
@@ -29,10 +29,10 @@
 			- Combines:
 				- Counter Mode (CTR): Encrypts data using unique counters per packet
 				- CBC-MAC: Ensures data integrity/authentication
-	- PSK (Pre-shared key)
-		- Used for authentication
-		- WPA2-Personal (PSK): For home use with shared passphrase
-		- WPA2-Enterprise: Suitable for corporate environments using 802.1X authentication via a Radius server for more secure and dynamic key generation
+	- <mark style="background: #ABF7F7A6;">PSK (Pre-shared key)</mark>
+		- Used for <mark style="background: #ABF7F7A6;">authentication</mark>
+		- <mark style="background: #ABF7F7A6;">WPA2-Personal</mark> (PSK): For <mark style="background: #ABF7F7A6;">home use</mark> with shared passphrase
+		- WPA2-Enterprise: Suitable for corporate environments using <mark style="background: #ABF7F7A6;">802.1X authentication</mark> via a Radius server for more secure and dynamic key generation
 	- Security level:
 		- PSK: Medium
 		- AES-CCMP: High
