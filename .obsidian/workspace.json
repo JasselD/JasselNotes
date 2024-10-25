@@ -258,9 +258,23 @@
               "icon": "lucide-file",
               "title": "Focus"
             }
+          },
+          {
+            "id": "80f05cf13e61c47e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP607/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -332,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP607/Focus.md",
+                "file": "COMP607/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -342,7 +356,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Focus"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -351,12 +365,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP607/Focus.md",
+                "file": "COMP607/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Focus"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -378,10 +392,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP607/Focus.md"
+                "file": "COMP607/Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Focus"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -413,14 +427,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7b069864246cf7a",
+  "active": "3deee57fba1c68d3",
   "lastOpenFiles": [
+    "COMP607/Focus.md",
+    "COMP607/Untitled.md",
     "COMP607/Standard Biometrics.md",
     "COMP607/WLAN Enterprise Attacks.md",
     "COMP607/Worm vs Viruses.md",
     "COMP607/Network Blurred Edges.md",
     "COMP607/Standalone vs Controller APs.md",
-    "COMP607/Focus.md",
     "COMP607/Hackers.md",
     "COMP607/Authentication, Authorisation, and Accounting (AAA).md",
     "COMP607/Defenses against attacks.md",
@@ -441,7 +456,6 @@
     "LinkedLists.md",
     "List Interface.md",
     "COMP610/Collections.md",
-    "Images/Pasted image 20241010154844.png",
-    "COMP610/Asymptotic Notations.md"
+    "Images/Pasted image 20241010154844.png"
   ]
 }
