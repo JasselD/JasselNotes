@@ -32,8 +32,8 @@
 	- <mark style="background: #ABF7F7A6;">PSK (Pre-shared key)</mark>
 		- Used for <mark style="background: #ABF7F7A6;">authentication</mark>
 		- <mark style="background: #ABF7F7A6;">WPA2-Personal</mark> (PSK): For <mark style="background: #ABF7F7A6;">home use</mark> with shared passphrase
-		- WPA2-Enterprise: Suitable for corporate environments using <mark style="background: #ABF7F7A6;">802.1X authentication</mark> via a Radius server for more secure and dynamic key generation
-	- Security level:
+		- WPA2-Enterprise: Suitable for corporate environments using <mark style="background: #ABF7F7A6;">802.1X authentication</mark> via a <mark style="background: #ABF7F7A6;">Radius server</mark> for more secure and dynamic key generation
+	- <mark style="background: #ABF7F7A6;">Security level</mark>:
 		- PSK: Medium
 		- AES-CCMP: High
 		- 802.1x: High
