@@ -10,3 +10,8 @@
 	- PSK (Pre-shared key)
 		- WPA-Personal (PSK): For home use, a shared passphrase is used for authentication
 		- WPA-Enterprise: In corporate environments, use a Radius server for centralized authentication (802.1X authentication)
+	- Security level:
+		- TKIP: medium
+		- PSK: low-medium (depends on passphrase)
+		- 
+
