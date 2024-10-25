@@ -18,5 +18,8 @@
 
 WPA2 
 - Features:
-	- AES
+	- AES-CCMP
+		- AES
+			- Block cipher encryption algorithm (128-bit blocks)
+			- Supports key sized
 
