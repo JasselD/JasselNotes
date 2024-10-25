@@ -5,4 +5,5 @@
 - Features:
 	- TKIP (Temporal Key Integrity Protocol)
 		- Used for encryption
-		- Dynamically changes the keys used to encrypt 
+		- Dynamically changes the keys used to encrypt every packet
+		- Adds a per-packet key mixing function, a message integrity check, and other measures to prevent replay attacks
