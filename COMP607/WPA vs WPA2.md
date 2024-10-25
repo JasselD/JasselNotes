@@ -30,5 +30,5 @@ WPA2
 				- CBC-MAC: Ensures data integrity/authentication
 	- PSK (Pre-shared key)
 		- WPA2-Personal (PSK): For home use with shared passphrase
-		- WPA2-
+		- WPA2-Enterprise: Suitable for corporate environments using 802.1X authentication via a Radius server for more secure and dynamic key generation
 
