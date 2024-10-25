@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP607/Untitled.md",
+                "file": "COMP607/WPA vs WPA2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "WPA vs WPA2"
             }
           }
         ],
@@ -346,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP607/Untitled.md",
+                "file": "COMP607/WPA vs WPA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +356,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for WPA vs WPA2"
             }
           },
           {
@@ -365,12 +365,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP607/Untitled.md",
+                "file": "COMP607/WPA vs WPA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from WPA vs WPA2"
             }
           },
           {
@@ -392,10 +392,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP607/Untitled.md"
+                "file": "COMP607/WPA vs WPA2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of WPA vs WPA2"
             }
           },
           {
@@ -427,10 +427,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3deee57fba1c68d3",
+  "active": "80f05cf13e61c47e",
   "lastOpenFiles": [
     "COMP607/Focus.md",
-    "COMP607/Untitled.md",
+    "COMP607/WPA vs WPA2.md",
     "COMP607/Standard Biometrics.md",
     "COMP607/WLAN Enterprise Attacks.md",
     "COMP607/Worm vs Viruses.md",
