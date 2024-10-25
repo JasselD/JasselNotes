@@ -26,5 +26,7 @@ WPA2
 		- CCMP
 			- Mode of operation for AES in WPA2
 			- Combines:
-				- Counter Mode (CTR): Enc
+				- Counter Mode (CTR): Encrypts data using unique counters per packet
+				- CBC-MAC: Ensures data integrity/authentication
+			- 
 
