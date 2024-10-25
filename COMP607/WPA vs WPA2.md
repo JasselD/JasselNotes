@@ -1,9 +1,9 @@
-- WPA and WPA2 are security protocols and security certification programs developed by the Wi-Fi Alliance to secure wireless networks
-- Both were designed to address vulnerabilities found in earlier security protocol called WEP
+- WPA and WPA2 are <mark style="background: #ABF7F7A6;">security protocols and security certification programs</mark> developed by the Wi-Fi Alliance to secure wireless networks
+- Both were designed to <mark style="background: #ABF7F7A6;">address vulnerabilities</mark> found in earlier security protocol called WEP
 
 **WPA (Wi-Fi protected access)
 - Features:
-	- TKIP (Temporal Key Integrity Protocol)
+	- <mark style="background: #ABF7F7A6;">TKIP (Temporal Key Integrity Protocol)</mark>
 		- Used for encryption
 		- Dynamically changes the keys used to encrypt every packet
 		- Adds a per-packet key mixing function, a message integrity check, and other measures to prevent replay attacks

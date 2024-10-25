@@ -263,12 +263,14 @@
             "id": "80f05cf13e61c47e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "COMP610/Pasted image 20241026004625.png"
+                "file": "COMP607/WPA vs WPA2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241026004625"
+              "icon": "lucide-file",
+              "title": "WPA vs WPA2"
             }
           }
         ],
@@ -344,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP610/Pasted image 20241026004625.png",
+                "file": "COMP607/WPA vs WPA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -354,7 +356,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20241026004625"
+              "title": "Backlinks for WPA vs WPA2"
             }
           },
           {
@@ -363,12 +365,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP610/Pasted image 20241026004625.png",
+                "file": "COMP607/WPA vs WPA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20241026004625"
+              "title": "Outgoing links from WPA vs WPA2"
             }
           },
           {
@@ -390,10 +392,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP610/Pasted image 20241026004625.png"
+                "file": "COMP607/WPA vs WPA2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20241026004625"
+              "title": "Outline of WPA vs WPA2"
             }
           },
           {
@@ -425,17 +427,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3deee57fba1c68d3",
+  "active": "80f05cf13e61c47e",
   "lastOpenFiles": [
-    "COMP607/WPA vs WPA2.md",
-    "COMP610/Pasted image 20241026004625.png",
-    "COMP607/Focus.md",
-    "COMP607/Standard Biometrics.md",
+    "COMP607/Symmetric Encryption.md",
     "COMP607/WLAN Enterprise Attacks.md",
     "COMP607/Worm vs Viruses.md",
+    "COMP607/WPA vs WPA2.md",
+    "COMP607/Hackers.md",
+    "Images/Pasted image 20241026004625.png",
+    "COMP607/Focus.md",
+    "COMP607/Standard Biometrics.md",
     "COMP607/Network Blurred Edges.md",
     "COMP607/Standalone vs Controller APs.md",
-    "COMP607/Hackers.md",
     "COMP607/Authentication, Authorisation, and Accounting (AAA).md",
     "COMP607/Defenses against attacks.md",
     "COMP607/Five Principles of Information Security.md",
@@ -445,7 +448,6 @@
     "COMP607/Hashing.md",
     "COMP607/Asymmetric Encryption.md",
     "Images/Pasted image 20241023164027.png",
-    "COMP607/Symmetric Encryption.md",
     "COMP610/Data Structures.md",
     "COMP610/Big O notation.md",
     "COMP610/Algorithm.md",
