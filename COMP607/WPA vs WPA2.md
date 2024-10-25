@@ -21,5 +21,10 @@ WPA2
 	- AES-CCMP
 		- AES
 			- Block cipher encryption algorithm (128-bit blocks)
-			- Supports key sized
+			- Supports key sizes of 128, 192, and 256 bits
+			- Strong, secure, widely used encryption
+		- CCMP
+			- Mode of operation for AES in WPA2
+			- Combines:
+				- Counter Mode (CTR): Enc
 
