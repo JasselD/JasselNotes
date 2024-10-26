@@ -9,8 +9,8 @@
 		- Data is <mark style="background: #ABF7F7A6;">duplicated on two or more disks</mark>, so each disk holds the same data
 		- Pros: Redundancy; if one disk fails, the other still has the data
 		- Cons: Reduced storage effieciency (need twice the storage). <mark style="background: #ABF7F7A6;">Slower write speeds</mark>
-	- RAID 5 (Striping with Parity)
-		- Data is split across three or more disks, with parity information distributed across all disks. Parity allows recovery if a disk fails
+	- RAID 5 <mark style="background: #ABF7F7A6;">(Striping with Parity)</mark>
+		- Data is <mark style="background: #ABF7F7A6;">split across three or more disks</mark>, with <mark style="background: #ABF7F7A6;">parity information distributed across all disks</mark>. Parity allows recovery if a disk fails
 		- Pros: Redundancy and good storage effiency
 		- Cons: Slower write speeds due to parity calculations. Recovery can take time
 	- RAID 0+1 (Striped Mirrors)
@@ -24,4 +24,4 @@
 - Spread
 
 **Parity
-- Information that is used to r
+- Information that is used to rebuild the data in the event of a disk failure
