@@ -16,11 +16,11 @@
 
 **How public and private cluster connections work together
 - Public cluster connection: <mark style="background: #ABF7F7A6;">Handles all external traffic</mark>, such as users accessing a web application or service
-- Private cluster connection: <mark style="background: #ABF7F7A6;">Manages internal communications</mark>, such as <mark style="background: #ABF7F7A6;">data replication</mark>, <mark style="background: #ABF7F7A6;">health checks</mark>, and failover coordination
+- Private cluster connection: <mark style="background: #ABF7F7A6;">Manages internal communications</mark>, such as <mark style="background: #ABF7F7A6;">data replication</mark>, <mark style="background: #ABF7F7A6;">health checks</mark>, and <mark style="background: #ABF7F7A6;">failover coordination</mark>
 
 **Server Redundancy
 - Types:
-	- Cold redundancy: Backup servers are turned off until need. There's a downtime while they start up
-	- Warm redundancy: Backup servers are on standby and can quickly take over if needed, with minimal delay
-	- Hot redundancy: Backup servers are fully active and synchorized with primary server. They take over instantly if the primary fails
+	- Cold redundancy: Backup servers are <mark style="background: #ABF7F7A6;">turned off until needed</mark>. There's a <mark style="background: #ABF7F7A6;">downtime while they start up</mark>
+	- Warm redundancy: Backup servers are on <mark style="background: #ABF7F7A6;">standby and can quickly take over if needed</mark>, with <mark style="background: #ABF7F7A6;">minimal delay</mark>
+	- Hot redundancy: Backup servers are <mark style="background: #ABF7F7A6;">fully active and synchorized with primary server</mark>. They take over <mark style="background: #ABF7F7A6;">instantly</mark> if the primary fails
 
