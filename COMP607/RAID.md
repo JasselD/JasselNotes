@@ -6,4 +6,6 @@
 		- Pros: Increased read/write speeds
 		- Cons: No redundancy. If one disk fails, all data is lost
 	- RAID 1 (Mirroring)
-		- 
+		- Data is duplicated on two or more disks, so each disk holds the same data
+		- Pros: Redundancy; if one disk fails, the other still has the data
+		- Cons: Reduced storage effieciency (need more )
