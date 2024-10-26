@@ -9,9 +9,9 @@
 	- Pros: Faster than full backup, but <mark style="background: #ABF7F7A6;">slower than incremental</mark>. Easier to restore than incremental backups because you only need the last full backup and the most recent differential backup
 	- Cons: Size grows over time, as each differential backup includes changes from the last full backup onward
 - Incremental Backup:
-	- Backs up only the data that has changed since the last backup (whether full or incremental)
+	- Backs up only the <mark style="background: #ABF7F7A6;">data that has changed since the last backup</mark> (whether full or incremental)
 	- Pros: Fastest and uses the least storage space
-	- Cons: Slower to restore because you nned multiple sets of backup files
+	- Cons: Slower to restore because you need <mark style="background: #ABF7F7A6;">multiple sets of backup files</mark>
 - Copy Backup
 	- A backup that is almost the same as full backup but does not interfere with your scheduled backups
 	- Pros: Useful for ad hoc backups, like when performing system maintanance
