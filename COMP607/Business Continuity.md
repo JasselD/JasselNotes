@@ -15,8 +15,8 @@
 	- Example: In a database cluster, the private cluster connection enables the <mark style="background: #ABF7F7A6;">replication of data between nodes</mark> and <mark style="background: #ABF7F7A6;">ensure that all the servers stay in sync</mark>
 
 **How public and private cluster connections work together
-- Public cluster connection: Handles all external traffic, such as users accessing a web application or service
-- Private cluster connection: Manages internal communications, such as data replication, health checks, and failover coordination
+- Public cluster connection: <mark style="background: #ABF7F7A6;">Handles all external traffic</mark>, such as users accessing a web application or service
+- Private cluster connection: <mark style="background: #ABF7F7A6;">Manages internal communications</mark>, such as <mark style="background: #ABF7F7A6;">data replication</mark>, <mark style="background: #ABF7F7A6;">health checks</mark>, and failover coordination
 
 **Server Redundancy
 - Types:
