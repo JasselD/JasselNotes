@@ -1,7 +1,7 @@
-- Strategies and processes to ensure that critical business operations continue even during disruptions like hardware failure, natural disasters, or cyberattacks
+- <mark style="background: #ABF7F7A6;">Strategies and processes</mark> to ensure that <mark style="background: #ABF7F7A6;">critical business operations continue</mark> even <mark style="background: #ABF7F7A6;">during disruptions</mark> like hardware failure, natural disasters, or cyberattacks
 
 **Clustering:
-- Server cluster:
+- <mark style="background: #ABF7F7A6;">Server cluster</mark>:
 	- Group of independent servers working together to provide high availability and load balancing for application and services
 	- They operate in tandem to ensure the service remains available even if one or more server fails
 	- Example: If one web server goes offline, others can handle the traffic
