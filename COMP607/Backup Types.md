@@ -5,8 +5,8 @@
 	- Pros: Simple to restore
 	- Cons: Time-consuming and requires a lot of storage
 - Diffrential Backup: 
-	- Backs up all the data that has changed since the last full backup
-	- Pros: Faster than full backup, but slower than incremental. Easier to restore than incremental backups because you only need the last full backup and the most recent differential backup
+	- Backs up all the <mark style="background: #ABF7F7A6;">data that has changed since the last full backup</mark>
+	- Pros: Faster than full backup, but <mark style="background: #ABF7F7A6;">slower than incremental</mark>. Easier to restore than incremental backups because you only need the last full backup and the most recent differential backup
 	- Cons: Size grows over time, as each differential backup includes changes from the last full backup onward
 - Incremental Backup:
 	- Backs up only the data that has changed since the last backup (whether full or incremental)
