@@ -1,0 +1,2 @@
+- Redundant Array of Independetn Disks (RAID)
+- A technology that combines multipl
