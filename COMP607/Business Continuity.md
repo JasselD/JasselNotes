@@ -8,7 +8,7 @@
 - <mark style="background: #ABF7F7A6;">Public cluster connection</mark>:
 	- <mark style="background: #ABF7F7A6;">Network interface</mark> that<mark style="background: #ABF7F7A6;"> handles traffic</mark> between the <mark style="background: #ABF7F7A6;">cluster and external clients</mark>
 	- Purpose: External or public-facing connection through which clients access the services provided by the cluster
-	- Example: Load balancer or virtual IP add is typically used to distribute the incoming traffic among the nodes in the cluster
+	- Example:<mark style="background: #ABF7F7A6;"> Load balancer or virtual IP add is typically used</mark> to <mark style="background: #ABF7F7A6;">distribute the incoming traffic</mark> among the nodes in the cluster
 - Private cluster connection:
 	- Dedicated network interface used exclusively for internal communication between the server (nodes) in a cluster
 	- Purpose: Allows cluster nodes to synchronize data, check each other's status, and coordinate actions like failover or workload distribution
