@@ -2,11 +2,11 @@
 
 **Clustering:
 - <mark style="background: #ABF7F7A6;">Server cluster</mark>:
-	- Group of independent servers working together to provide high availability and load balancing for application and services
-	- They operate in tandem to ensure the service remains available even if one or more server fails
+	- <mark style="background: #ABF7F7A6;">Group of independent servers</mark> working together to provide <mark style="background: #ABF7F7A6;">high availability and load balancing</mark> for application and services
+	- They <mark style="background: #ABF7F7A6;">operate in tandem</mark> to ensure the service <mark style="background: #ABF7F7A6;">remains available even if one or more server fails</mark>
 	- Example: If one web server goes offline, others can handle the traffic
-- Public cluster connection:
-	- Network interface that handles traffic between the cluster and external clients
+- <mark style="background: #ABF7F7A6;">Public cluster connection</mark>:
+	- <mark style="background: #ABF7F7A6;">Network interface</mark> that<mark style="background: #ABF7F7A6;"> handles traffic</mark> between the <mark style="background: #ABF7F7A6;">cluster and external clients</mark>
 	- Purpose: External or public-facing connection through which clients access the services provided by the cluster
 	- Example: Load balancer or virtual IP add is typically used to distribute the incoming traffic among the nodes in the cluster
 - Private cluster connection:
