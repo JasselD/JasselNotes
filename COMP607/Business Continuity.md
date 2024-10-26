@@ -18,5 +18,7 @@
 - Public cluster connection: Handles all external traffic, such as users accessing a web application or service
 - Private cluster connection: Manages internal communications, such as data replication, health checks, and failover coordination
 
-
+**Server Redundancy
+- Types:
+	- Cold redundancy: Ba
 
