@@ -13,3 +13,6 @@
 		- Data is split across three or more disks, with parity information distributed across all disks. Parity allows recovery if a disk fails
 		- Pros: Redundancy and good storage effiency
 		- Cons: Slower write speeds due to parity calculations. Recovery can take time
+	- RAID 0+1 (Striped Mirrors)
+		- Combines RAID 0 and RAID 1. Data is striped (like RAID 0) for speed and mirrored (like RAID 1) for redundancy
+		- Pros:
