@@ -8,7 +8,7 @@
 	- RAID 1 <mark style="background: #ABF7F7A6;">(Mirroring)</mark>
 		- Data is <mark style="background: #ABF7F7A6;">duplicated on two or more disks</mark>, so each disk holds the same data
 		- Pros: Redundancy; if one disk fails, the other still has the data
-		- Cons: Reduced storage effieciency (need twice the storage). Slower write speeds
+		- Cons: Reduced storage effieciency (need twice the storage). <mark style="background: #ABF7F7A6;">Slower write speeds</mark>
 	- RAID 5 (Striping with Parity)
 		- Data is split across three or more disks, with parity information distributed across all disks. Parity allows recovery if a disk fails
 		- Pros: Redundancy and good storage effiency
@@ -19,3 +19,9 @@
 		- Cons: Requires more disk (minimum 4). No fault tolerance for mirror set failure
 
 ![[Pasted image 20241026232001.png]]
+
+**Striped
+- Spread
+
+**Parity
+- Information that is used to r
