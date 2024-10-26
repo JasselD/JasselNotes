@@ -12,11 +12,11 @@
 	- RAID 5 <mark style="background: #ABF7F7A6;">(Striping with Parity)</mark>
 		- Data is <mark style="background: #ABF7F7A6;">split across three or more disks</mark>, with <mark style="background: #ABF7F7A6;">parity information distributed across all disks</mark>. Parity allows recovery if a disk fails
 		- Pros: Redundancy and good storage effiency
-		- Cons: Slower write speeds due to parity calculations. Recovery can take time
-	- RAID 0+1 (Striped Mirrors)
-		- Combines RAID 0 and RAID 1. Data is striped (like RAID 0) for speed and mirrored (like RAID 1) for redundancy
+		- Cons: <mark style="background: #ABF7F7A6;">Slower write speeds</mark> due to <mark style="background: #ABF7F7A6;">parity calculations</mark>. Recovery can take time
+	- RAID 0+1 <mark style="background: #ABF7F7A6;">(Striped Mirrors)</mark>
+		- <mark style="background: #ABF7F7A6;">Combines RAID 0 and RAID 1</mark>. Data is striped (like RAID 0) for speed and mirrored (like RAID 1) for redundancy
 		- Pros: Combines the benefits of RAID 0 and RAID 1 (speed and redundancy)
-		- Cons: Requires more disk (minimum 4). No fault tolerance for mirror set failure
+		- Cons: <mark style="background: #ABF7F7A6;">Requires more disk (minimum 4)</mark>. No fault tolerance for mirror set failure
 
 ![[Pasted image 20241026232001.png]]
 
