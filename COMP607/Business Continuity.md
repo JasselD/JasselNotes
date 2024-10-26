@@ -12,4 +12,7 @@ Clustering:
 - Private cluster connection:
 	- Dedicated network interface used exclusively for internal communication between the server (nodes) in a cluster
 	- Purpose: Allows cluster nodes to synchronize data, check each other's status, and coordinate actions like failover or workload distribution
-	- Example: In a database cluster, the private cluster connection enables the replication of data between nodes and ensure that all the server
+	- Example: In a database cluster, the private cluster connection enables the replication of data between nodes and ensure that all the servers stay in sync
+
+**How public and private cluster connections work together
+	
