@@ -5,4 +5,6 @@ Clustering:
 	- Group of independent servers working together to provide high availability and load balancing for application and services
 	- They operate in tandem to ensure the service remains available even if one or more server fails
 	- Example: If one web server goes offline, others can handle the traffic
-- 
+- Public cluster connection:
+	- Network interface that handles traffic between the cluster and external clients
+	- 
