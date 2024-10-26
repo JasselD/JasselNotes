@@ -13,3 +13,5 @@
 	- Cons: Slower to restore because you nned multiple sets of backup files
 - Copy Backup
 	- A backup that is almost the same as full backup but does not interfere with your scheduled backups
+	- Pros: Useful for ad hoc backups, like when performing system maintanance
+	- Cons: Not part of your regular backup plan, so it may cause confusion if not magan
