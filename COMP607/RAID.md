@@ -10,4 +10,6 @@
 		- Pros: Redundancy; if one disk fails, the other still has the data
 		- Cons: Reduced storage effieciency (need twice the storage). Slower write speeds
 	- RAID 5 (Striping with Parity)
-		- Data is split across three or more disks, with parity information distribu
+		- Data is split across three or more disks, with parity information distributed across all disks. Parity allows recovery if a disk fails
+		- Pros: Redundancy and good storage effiency
+		- Cons: Slower write speeds due to parity calculations. Recovery can take time
