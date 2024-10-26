@@ -1,3 +1,4 @@
+- Fault tolerance is the preven
 **Types:
 - Full Backup:
 	- Complete copy of all data is made
@@ -25,5 +26,8 @@
 		- Efficient storage use
 		- Easy organisation
 	- Cons
+		- Complexity
+		- Storage (need significant size)
+		- Retention gaps
 
 ![[Pasted image 20241026230205.png]]
