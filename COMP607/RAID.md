@@ -4,8 +4,8 @@
 	- RAID 0 <mark style="background: #ABF7F7A6;">(Striping)</mark>
 		- Data is <mark style="background: #ABF7F7A6;">split evenly across two or more disks</mark> to <mark style="background: #ABF7F7A6;">improve performance</mark>
 		- Pros: Increased read/write speeds
-		- Cons: No redundancy. If one disk fails, all data is lost. No fault tolerance
-	- RAID 1 (Mirroring)
+		- Cons: <mark style="background: #ABF7F7A6;">No redundancy</mark>. If <mark style="background: #ABF7F7A6;">one disk fails</mark>, <mark style="background: #ABF7F7A6;">all data is lost</mark>. <mark style="background: #ABF7F7A6;">No fault tolerance</mark>
+	- RAID 1 <mark style="background: #ABF7F7A6;">(Mirroring)</mark>
 		- Data is duplicated on two or more disks, so each disk holds the same data
 		- Pros: Redundancy; if one disk fails, the other still has the data
 		- Cons: Reduced storage effieciency (need twice the storage). Slower write speeds
