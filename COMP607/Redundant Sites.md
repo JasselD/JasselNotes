@@ -4,4 +4,8 @@
 	- Pros: Fast recovery
 	- Cons: Expensive to maintain
 - Cold site:
-	- A location with basic infrastructure (eg. office)
+	- A location with basic infrastructure (eg. office space, network connections), but no operational hardware or data. It takes longer to get up and running
+	- Pros: Cheap to maintain
+	- Cons: Long recovery time 
+- Warm site:
+	- A middle ground between hot and cold sites. I
