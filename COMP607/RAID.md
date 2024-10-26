@@ -4,7 +4,7 @@
 	- RAID 0 (Striping)
 		- Data is split evenly across two or more disks to improve performance
 		- Pros: Increased read/write speeds
-		- Cons: No redundancy. If one disk fails, all data is lost
+		- Cons: No redundancy. If one disk fails, all data is lost. No fault tolerance
 	- RAID 1 (Mirroring)
 		- Data is duplicated on two or more disks, so each disk holds the same data
 		- Pros: Redundancy; if one disk fails, the other still has the data
@@ -17,3 +17,5 @@
 		- Combines RAID 0 and RAID 1. Data is striped (like RAID 0) for speed and mirrored (like RAID 1) for redundancy
 		- Pros: Combines the benefits of RAID 0 and RAID 1 (speed and redundancy)
 		- Cons: Requires more disk (minimum 4). No fault tolerance for mirror set failure
+
+![[Pasted image 20241026232001.png]]
