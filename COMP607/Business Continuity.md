@@ -15,4 +15,5 @@ Clustering:
 	- Example: In a database cluster, the private cluster connection enables the replication of data between nodes and ensure that all the servers stay in sync
 
 **How public and private cluster connections work together
-	
+- Public cluster connection: Handles all external traffic, such as users accessing a web application or service
+- Private cluster connection: Manages internal communicati
