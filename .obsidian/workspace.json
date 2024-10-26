@@ -427,8 +427,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3f97199b8678143",
+  "active": "3deee57fba1c68d3",
   "lastOpenFiles": [
+    "Images/Pasted image 20241026230205.png",
     "COMP607/Business Continuity.md",
     "COMP607/Backup Types.md",
     "remote-notes/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
@@ -456,7 +457,6 @@
     "COMP610/Data Structures.md",
     "COMP610/Big O notation.md",
     "COMP610/Algorithm.md",
-    "COMP610/Array.md",
     "Images/Pasted image 20241010154844.png"
   ]
 }

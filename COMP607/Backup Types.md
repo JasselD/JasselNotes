@@ -14,4 +14,8 @@
 - Copy Backup
 	- A backup that is almost the same as full backup but does not interfere with your scheduled backups
 	- Pros: Useful for ad hoc backups, like when performing system maintanance
-	- Cons: Not part of your regular backup plan, so it may cause confusion if not magan
+	- Cons: Not part of your regular backup plan, so it may cause confusion if not managed properly
+- Gratherfather-father-son Backup (GFS)
+	- Rotation scheme used to manage and organize
+
+![[Pasted image 20241026230205.png]]
