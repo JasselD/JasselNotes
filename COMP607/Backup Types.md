@@ -16,6 +16,9 @@
 	- Pros: Useful for ad hoc backups, like when performing system maintanance
 	- Cons: Not part of your regular backup plan, so it may cause confusion if not managed properly
 - Gratherfather-father-son Backup (GFS)
-	- Rotation scheme used to manage and organize
+	- Rotation scheme used to manage and organize backups over time, ensuring multiple restore points while optimizing storage space
+	- Son (Daily backup)
+	- Father (Weekly backup)
+	- Grandfather (Monthly backup)
 
 ![[Pasted image 20241026230205.png]]
