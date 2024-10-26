@@ -8,4 +8,6 @@
 	- RAID 1 (Mirroring)
 		- Data is duplicated on two or more disks, so each disk holds the same data
 		- Pros: Redundancy; if one disk fails, the other still has the data
-		- Cons: Reduced storage effieciency (need more )
+		- Cons: Reduced storage effieciency (need twice the storage). Slower write speeds
+	- RAID 5 (Striping with Parity)
+		- Data is split across three or more disks, with parity information distribu
