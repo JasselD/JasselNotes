@@ -6,7 +6,7 @@
 		- Pros: Increased read/write speeds
 		- Cons: <mark style="background: #ABF7F7A6;">No redundancy</mark>. If <mark style="background: #ABF7F7A6;">one disk fails</mark>, <mark style="background: #ABF7F7A6;">all data is lost</mark>. <mark style="background: #ABF7F7A6;">No fault tolerance</mark>
 	- RAID 1 <mark style="background: #ABF7F7A6;">(Mirroring)</mark>
-		- Data is duplicated on two or more disks, so each disk holds the same data
+		- Data is <mark style="background: #ABF7F7A6;">duplicated on two or more disks</mark>, so each disk holds the same data
 		- Pros: Redundancy; if one disk fails, the other still has the data
 		- Cons: Reduced storage effieciency (need twice the storage). Slower write speeds
 	- RAID 5 (Striping with Parity)
