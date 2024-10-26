@@ -24,3 +24,5 @@
 	- Warm redundancy: Backup servers are on <mark style="background: #ABF7F7A6;">standby and can quickly take over if needed</mark>, with <mark style="background: #ABF7F7A6;">minimal delay</mark>
 	- Hot redundancy: Backup servers are <mark style="background: #ABF7F7A6;">fully active and synchorized with primary server</mark>. They take over <mark style="background: #ABF7F7A6;">instantly</mark> if the primary fails
 
+- [[Backup Types]]
+- 
