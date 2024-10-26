@@ -8,4 +8,6 @@
 	- Pros: Cheap to maintain
 	- Cons: Long recovery time 
 - Warm site:
-	- A middle ground between hot and cold sites. I
+	- A middle ground between hot and cold sites. It has pre-installed hardware and network connections but might need updates or additional equipment to become fully operational
+	- Pros: Faster recovery than cold site and cheaper than hot site
+	- Cons: Still involves some downtime
