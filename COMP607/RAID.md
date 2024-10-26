@@ -3,3 +3,7 @@
 - Types:
 	- RAID 0 (Striping)
 		- Data is split evenly across two or more disks to improve performance
+		- Pros: Increased read/write speeds
+		- Cons: No redundancy. If one disk fails, all data is lost
+	- RAID 1 (Mirroring)
+		- 
