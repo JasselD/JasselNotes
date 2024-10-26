@@ -16,8 +16,8 @@
 	- A backup that is almost the same as full backup but does not interfere with your scheduled backups
 	- Pros: Useful for ad hoc backups, like when performing system maintanance
 	- Cons: Not part of your regular backup plan, so it may cause confusion if not managed properly
-- Gratherfather-father-son Backup (GFS)
-	- Rotation scheme used to manage and organize backups over time, ensuring multiple restore points while optimizing storage space
+- Gratherfather-father-son Backup <mark style="background: #ABF7F7A6;">(GFS)</mark>
+	- <mark style="background: #ABF7F7A6;">Rotation scheme</mark> used to manage and organize backups over time, ensuring <mark style="background: #ABF7F7A6;">multiple restore points </mark>while optimizing storage space
 	- Son (Daily backup)
 	- Father (Weekly backup)
 	- Grandfather (Monthly backup)
