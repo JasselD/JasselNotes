@@ -20,5 +20,7 @@
 
 **Server Redundancy
 - Types:
-	- Cold redundancy: Ba
+	- Cold redundancy: Backup servers are turned off until need. There's a downtime while they start up
+	- Warm redundancy: Backup servers are on standby and can quickly take over if needed, with minimal delay
+	- Hot redundancy:
 
