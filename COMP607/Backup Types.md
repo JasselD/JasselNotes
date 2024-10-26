@@ -8,4 +8,6 @@
 	- Pros: Faster than full backup, but slower than incremental. Easier to restore than incremental backups because you only need the last full backup and the most recent differential backup
 	- Cons: Size grows over time, as each differential backup includes changes from the last full backup onward
 - Incremental Backup:
-	- Bac
+	- Backs up only the data that has changed since the last backup (whether full or incremental)
+	- Pros: Fastest and uses the least storage space
+	- Cons: Slower to restore because you nned multiple sets of backup file
