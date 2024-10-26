@@ -1,2 +1,5 @@
 - Redundant Array of Independetn Disks (RAID)
-- A technology that combines multipl
+- A technology that combines multiple physical hard drives into one unit for redundancy or performance
+- Types:
+	- RAID 0 (Striping)
+		- Data is split evenly across two or more disks to improve performance
