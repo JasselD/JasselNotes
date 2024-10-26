@@ -12,7 +12,7 @@
 - <mark style="background: #ABF7F7A6;">Private cluster connectio</mark>n:
 	- <mark style="background: #ABF7F7A6;">Dedicated network interface</mark> used exclusively for <mark style="background: #ABF7F7A6;">internal communication</mark> between <mark style="background: #ABF7F7A6;">the server (nodes) in a cluster</mark>
 	- Purpose: <mark style="background: #ABF7F7A6;">Allows cluster nodes to synchronize data</mark>, <mark style="background: #ABF7F7A6;">check each other's status</mark>, and <mark style="background: #ABF7F7A6;">coordinate actions</mark> like<mark style="background: #ABF7F7A6;"> failover or workload distribution</mark>
-	- Example: In a database cluster, the private cluster connection enables the replication of data between nodes and ensure that all the servers stay in sync
+	- Example: In a database cluster, the private cluster connection enables the <mark style="background: #ABF7F7A6;">replication of data between nodes</mark> and <mark style="background: #ABF7F7A6;">ensure that all the servers stay in sync</mark>
 
 **How public and private cluster connections work together
 - Public cluster connection: Handles all external traffic, such as users accessing a web application or service
