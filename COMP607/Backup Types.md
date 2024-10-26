@@ -20,5 +20,10 @@
 	- Son (Daily backup)
 	- Father (Weekly backup)
 	- Grandfather (Monthly backup)
+	- Pros:
+		- Multiple restore points
+		- Efficient storage use
+		- Easy organisation
+	- Cons
 
 ![[Pasted image 20241026230205.png]]
