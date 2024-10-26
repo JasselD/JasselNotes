@@ -10,4 +10,6 @@
 - Incremental Backup:
 	- Backs up only the data that has changed since the last backup (whether full or incremental)
 	- Pros: Fastest and uses the least storage space
-	- Cons: Slower to restore because you nned multiple sets of backup file
+	- Cons: Slower to restore because you nned multiple sets of backup files
+- Copy Backup
+	- A backup that is almost the same as full backup but does not interfere with your scheduled backups
