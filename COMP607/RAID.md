@@ -1,8 +1,8 @@
-- Redundant Array of Independetn Disks (RAID)
+- <mark style="background: #ABF7F7A6;">Redundant Array of Independetn Disks</mark> (RAID)
 - A technology that combines multiple physical hard drives into one unit for redundancy or performance
 - Types:
-	- RAID 0 (Striping)
-		- Data is split evenly across two or more disks to improve performance
+	- RAID 0 <mark style="background: #ABF7F7A6;">(Striping)</mark>
+		- Data is <mark style="background: #ABF7F7A6;">split evenly across two or more disks</mark> to <mark style="background: #ABF7F7A6;">improve performance</mark>
 		- Pros: Increased read/write speeds
 		- Cons: No redundancy. If one disk fails, all data is lost. No fault tolerance
 	- RAID 1 (Mirroring)
