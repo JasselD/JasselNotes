@@ -7,4 +7,5 @@ Clustering:
 	- Example: If one web server goes offline, others can handle the traffic
 - Public cluster connection:
 	- Network interface that handles traffic between the cluster and external clients
-	- 
+	- Purpose: External or public-facing connection through which clients access the services provided by the cluster
+	- Example: Load balancer or virtual IP add is typically used to distribute the incoming traffic among
