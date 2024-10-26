@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP607/Business Continuity.md",
+                "file": "COMP607/Backup Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business Continuity"
+              "title": "Backup Types"
             }
           }
         ],
@@ -346,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP607/Business Continuity.md",
+                "file": "COMP607/Backup Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +356,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Business Continuity"
+              "title": "Backlinks for Backup Types"
             }
           },
           {
@@ -365,12 +365,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP607/Business Continuity.md",
+                "file": "COMP607/Backup Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Business Continuity"
+              "title": "Outgoing links from Backup Types"
             }
           },
           {
@@ -392,10 +392,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP607/Business Continuity.md"
+                "file": "COMP607/Backup Types.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Business Continuity"
+              "title": "Outline of Backup Types"
             }
           },
           {
@@ -429,10 +429,10 @@
   },
   "active": "a3f97199b8678143",
   "lastOpenFiles": [
+    "COMP607/Business Continuity.md",
     "COMP607/Backup Types.md",
     "remote-notes/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
     "COMP607/Redundant Sites.md",
-    "COMP607/Business Continuity.md",
     "COMP607/RAID.md",
     "COMP607/Network Blurred Edges.md",
     "COMP607/Standalone vs Controller APs.md",
