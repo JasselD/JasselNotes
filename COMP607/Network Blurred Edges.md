@@ -11,3 +11,5 @@
 	    - This can allow them to eavesdrop on data transmissions or inject malware, bypassing firewalls
 	- **AP Security Risks**:
 	    - An Access Point with improper security settings can provide attackers with unauthorized access to the network
+
+
