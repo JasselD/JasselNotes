@@ -429,13 +429,14 @@
   },
   "active": "a3f97199b8678143",
   "lastOpenFiles": [
+    "COMP607/RAID.md",
+    "COMP607/Business Continuity.md",
     "COMP607/Network Blurred Edges.md",
     "COMP607/Standalone vs Controller APs.md",
     "COMP607/WLAN Enterprise Attacks.md",
     "COMP607/Worm vs Viruses.md",
     "COMP607/WPA vs WPA2.md",
     "COMP607/Backup Types.md",
-    "COMP607/Business Continuity.md",
     "COMP607/Symmetric Encryption.md",
     "COMP607/Hackers.md",
     "Images/Pasted image 20241026004625.png",
@@ -456,7 +457,6 @@
     "COMP610/Array.md",
     "COMP603/ArrayList.md",
     "COMP610/Generics.md",
-    "LinkedLists.md",
     "Images/Pasted image 20241010154844.png"
   ]
 }

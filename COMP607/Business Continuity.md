@@ -9,7 +9,7 @@
 	- <mark style="background: #ABF7F7A6;">Network interface</mark> that<mark style="background: #ABF7F7A6;"> handles traffic</mark> between the <mark style="background: #ABF7F7A6;">cluster and external clients</mark>
 	- Purpose: External or public-facing connection through which clients access the services provided by the cluster
 	- Example:<mark style="background: #ABF7F7A6;"> Load balancer or virtual IP add is typically used</mark> to <mark style="background: #ABF7F7A6;">distribute the incoming traffic</mark> among the nodes in the cluster
-- <mark style="background: #ABF7F7A6;">Private cluster connectio</mark>n:
+- <mark style="background: #ABF7F7A6;">Private cluster connection</mark>:
 	- <mark style="background: #ABF7F7A6;">Dedicated network interface</mark> used exclusively for <mark style="background: #ABF7F7A6;">internal communication</mark> between <mark style="background: #ABF7F7A6;">the server (nodes) in a cluster</mark>
 	- Purpose: <mark style="background: #ABF7F7A6;">Allows cluster nodes to synchronize data</mark>, <mark style="background: #ABF7F7A6;">check each other's status</mark>, and <mark style="background: #ABF7F7A6;">coordinate actions</mark> like<mark style="background: #ABF7F7A6;"> failover or workload distribution</mark>
 	- Example: In a database cluster, the private cluster connection enables the <mark style="background: #ABF7F7A6;">replication of data between nodes</mark> and <mark style="background: #ABF7F7A6;">ensure that all the servers stay in sync</mark>
@@ -25,4 +25,5 @@
 	- Hot redundancy: Backup servers are <mark style="background: #ABF7F7A6;">fully active and synchorized with primary server</mark>. They take over <mark style="background: #ABF7F7A6;">instantly</mark> if the primary fails
 
 - [[Backup Types]]
-- 
+- [[RAID]]
+- [[Redundant s]]
