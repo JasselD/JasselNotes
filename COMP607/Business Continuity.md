@@ -26,4 +26,4 @@
 
 - [[Backup Types]]
 - [[RAID]]
-- [[Redundant s]]
+- [[Redundant Sites]]
