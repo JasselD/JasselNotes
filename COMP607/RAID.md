@@ -15,4 +15,5 @@
 		- Cons: Slower write speeds due to parity calculations. Recovery can take time
 	- RAID 0+1 (Striped Mirrors)
 		- Combines RAID 0 and RAID 1. Data is striped (like RAID 0) for speed and mirrored (like RAID 1) for redundancy
-		- Pros:
+		- Pros: Combines the benefits of RAID 0 and RAID 1 (speed and redundancy)
+		- Cons: Requires more disk (minimum 4). No fault tolerance for mirror set failure
