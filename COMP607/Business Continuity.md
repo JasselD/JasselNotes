@@ -1,6 +1,6 @@
 - Strategies and processes to ensure that critical business operations continue even during disruptions like hardware failure, natural disasters, or cyberattacks
 
-Clustering:
+**Clustering:
 - Server cluster:
 	- Group of independent servers working together to provide high availability and load balancing for application and services
 	- They operate in tandem to ensure the service remains available even if one or more server fails
@@ -16,4 +16,7 @@ Clustering:
 
 **How public and private cluster connections work together
 - Public cluster connection: Handles all external traffic, such as users accessing a web application or service
-- Private cluster connection: Manages internal communicati
+- Private cluster connection: Manages internal communications, such as data replication, health checks, and failover coordination
+
+
+
