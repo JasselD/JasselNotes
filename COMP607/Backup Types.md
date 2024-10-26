@@ -1,7 +1,7 @@
-- Fault tolerance is the preven
+- <mark style="background: #ABF7F7A6;">Fault tolerance</mark> is the <mark style="background: #ABF7F7A6;">prevention of data loss</mark> if a <mark style="background: #ABF7F7A6;">component fails</mark>
 **Types:
 - Full Backup:
-	- Complete copy of all data is made
+	- <mark style="background: #ABF7F7A6;">Complete copy of all data</mark> is made
 	- Pros: Simple to restore
 	- Cons: Time-consuming and requires a lot of storage
 - Diffrential Backup: 
