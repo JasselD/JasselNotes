@@ -8,4 +8,7 @@ Clustering:
 - Public cluster connection:
 	- Network interface that handles traffic between the cluster and external clients
 	- Purpose: External or public-facing connection through which clients access the services provided by the cluster
-	- Example: Load balancer or virtual IP add is typically used to distribute the incoming traffic among
+	- Example: Load balancer or virtual IP add is typically used to distribute the incoming traffic among the nodes in the cluster
+- Private cluster connection:
+	- Dedicated network interface used exclusively for internal communication between the server (nodes) in a cluster
+	- Purpose: Allows cluster nodes to synchron
