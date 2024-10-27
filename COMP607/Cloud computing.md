@@ -8,3 +8,6 @@
 			- Resources are available over the network and can be accessed via standard mechanisms (mobile apps, web browsers) by a wide range of devices such as smartphones, laptops...
 		- Resource pooling:
 			- Cloud providers serve multilpe customers using pooled resources
+		- Rapid elasticity:
+			- Resources can be quickly scaled up or down to meet varying user demand. Example, business and increase storage or processing power during peak times and reduce it when its no longer needed
+		- 
