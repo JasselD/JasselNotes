@@ -32,16 +32,16 @@
 - Definition: Where the <mark style="background: #ABF7F7A6;">cloud infrastructure is located and who controls it</mark>
 - Types:
 	- Public cloud:
-		- <mark style="background: #ABF7F7A6;">Owned and operated by third-party cloud service providers</mark>, and the infrastructure is shared among multiple users
-		- Accessible over the internet and typically offers lower costs and scalability
+		- <mark style="background: #ABF7F7A6;">Owned and operated by third-party cloud service providers</mark>, and the <mark style="background: #ABF7F7A6;">infrastructure is shared among multiple users</mark>
+		- Accessible over the internet and typically offers <mark style="background: #ABF7F7A6;">lower costs and scalability</mark>
 		- Examples: AWS, Google Cloud, Microsoft Azure
 	- Private cloud:
-		- Cloud infrastructure is used exclusively by a single organisation. It can be hosted on-premises or by a third-party provider
-		- Offers great control and security but can be more costly and complex to manage
+		- Cloud infrastructure is used <mark style="background: #ABF7F7A6;">exclusively by a single organisation</mark>. It can be <mark style="background: #ABF7F7A6;">hosted on-premises or by a third-party provider</mark>
+		- Offers <mark style="background: #ABF7F7A6;">great control and security</mark> but can be more <mark style="background: #ABF7F7A6;">costly and complex to manage</mark>
 		- Example: A bank hosting its internal cloud services
 	- Hybrid cloud:
-		- A combination of public and private clouds, allowing data and applications to be shared between them
-		- Organisations can use the public cloud for non-sensitive workloads while keeping critical workloads on a private cloud
+		- A <mark style="background: #ABF7F7A6;">combination of public and private clouds</mark>, <mark style="background: #ABF7F7A6;">allowing data and applications to be shared between them</mark>
+		- Organisations can use the <mark style="background: #ABF7F7A6;">public cloud for non-sensitive workloads</mark> while keeping critical workloads on a private cloud
 		- Offers flexibility and the ability to scale as needeed
 	- Community cloud:
 		- Cloud infrastructure is shared by several organisations with a common goal or regulatory requirements
