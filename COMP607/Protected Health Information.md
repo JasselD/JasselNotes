@@ -12,4 +12,7 @@
 		- Data of birth
 		- Phone number
 - How PHI is protected:
-	- By law,
+	- By law, example HIPAA, PHI
+		- Secured
+		- Confidential: Restricted 
+		- Used Appropriately
