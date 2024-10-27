@@ -41,4 +41,7 @@
 		- Example: A bank hosting its internal cloud services
 	- Hybrid cloud:
 		- A combination of public and private clouds, allowing data and applications to be shared between them
-		- Organisatio
+		- Organisations can use the public cloud for non-sensitive workloads while keeping critical workloads on a private cloud
+		- Offers flexibility and the ability to scale as needeed
+	- Community cloud:
+		- Cloud infrastructure is shared by several organisation
