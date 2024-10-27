@@ -24,4 +24,6 @@
 	- The provider manages servers, storage, and networking, while users focus on application development
 	- Examples: Google App Engine, Microsoft Azure App Service, Heroku
 - Software as a Service (SaaS)
-	- Provides ready-to-use software applica
+	- Provides ready-to-use software applications over the internet
+	- Users access applications through a web browser, and everything from infrastructure to software is managed by provider
+	- Examples: Gmail, Microsoft 365, Salesforce
