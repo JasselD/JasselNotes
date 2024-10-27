@@ -35,4 +35,6 @@
 		- Owned and operated by third-party cloud service providers, and the infrastructure is shared among multiple users
 		- Accessible over the internet and typically offers lower costs and scalability
 		- Examples: AWS, Google Cloud, Microsoft Azure
-	- Private v
+	- Private cloud:
+		- Cloud infrastructure is used exclusively by a single organisation. It can be hosted on-premises or by a third-party provider
+		- Offers great control and secuirty
