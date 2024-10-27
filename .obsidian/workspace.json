@@ -272,9 +272,19 @@
               "icon": "lucide-file",
               "title": "Redundant Sites"
             }
+          },
+          {
+            "id": "242c69e742884279",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -346,7 +356,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP607/Redundant Sites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +365,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Redundant Sites"
+              "title": "Backlinks"
             }
           },
           {
@@ -365,12 +374,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP607/Redundant Sites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Redundant Sites"
+              "title": "Outgoing links"
             }
           },
           {
@@ -391,30 +399,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMP607/Redundant Sites.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Redundant Sites"
-            }
-          },
-          {
-            "id": "da47ab1a3d348737",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -427,15 +422,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3f97199b8678143",
+  "active": "a83a2c287734a9da",
   "lastOpenFiles": [
+    "COMP607/Risk Management.md",
+    "COMP607/Redundant Sites.md",
     "COMP607/RAID.md",
     "Images/Pasted image 20241026232001.png",
     "COMP607/Backup Types.md",
     "Images/Pasted image 20241026230205.png",
     "COMP607/Business Continuity.md",
     "remote-notes/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
-    "COMP607/Redundant Sites.md",
     "COMP607/Network Blurred Edges.md",
     "COMP607/Standalone vs Controller APs.md",
     "COMP607/WLAN Enterprise Attacks.md",
