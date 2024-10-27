@@ -47,3 +47,6 @@
 		- Cloud infrastructure is <mark style="background: #ABF7F7A6;">shared by several organisations with a common goal or regulatory requirements</mark>
 		- It can be <mark style="background: #ABF7F7A6;">managed by one or more of the participating organisations</mark> or a <mark style="background: #ABF7F7A6;">third party</mark>
 
+**Computing locations
+- Defintion: Cloud services can be accessed from various locations, depending on the deployment model and service needs
+- 
