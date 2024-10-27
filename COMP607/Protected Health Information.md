@@ -1,12 +1,12 @@
 - PHI
 - Definition: Refers to any <mark style="background: #ABF7F7A6;">health related information</mark> that can be <mark style="background: #ABF7F7A6;">linked to an individual</mark> and is <mark style="background: #ABF7F7A6;">protected under regulations</mark> such as the Health Insurance Portability. PHI includes medical data, payment information, and any personal details that could be used to identify a person in a healthcare context
 - Key Aspects:
-	- Health information (Information about person's health)
+	- <mark style="background: #ABF7F7A6;">Health information (Information about person's health)</mark>
 		- Medical history
 		- Test result
 		- Diagnoses
 		- Prescription and medication
-	- Identifiable information (Combines health data with personally identifiable information (PII))
+	- I<mark style="background: #ABF7F7A6;">dentifiable information (Combines health data with personally identifiable information (PII))</mark>
 		- Name
 		- Address
 		- Data of birth
