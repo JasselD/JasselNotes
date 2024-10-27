@@ -17,11 +17,11 @@
 - 3 primary types
 - Infrastructure as a Service (IaaS)
 	- Provides <mark style="background: #ABF7F7A6;">virtualized computing resources</mark> over the <mark style="background: #ABF7F7A6;">internet, including servers, storage, and networking</mark>
-	- Users <mark style="background: #ABF7F7A6;">manage applications, data, and operating systems</mark>, while the <mark style="background: #ABF7F7A6;">provider manages the underlying infrastructure</mark>
+	- <mark style="background: #ABF7F7A6;">Users manage applications, data, and operating systems</mark>, while the <mark style="background: #ABF7F7A6;">provider manages the underlying infrastructure</mark>
 	- Example: AWS, Microsoft Azure, Google cloud
 - Platform as a Service (PaaS)
-	- Provides a platform that allows developers to build, deploy and manage applications without worrying about the underlying infrastructure
-	- The provider manages servers, storage, and networking, while users focus on application development
+	- Provides a <mark style="background: #ABF7F7A6;">platform that allows developers to build, deploy and manage applications</mark> without worrying about the underlying infrastructure
+	- The <mark style="background: #ABF7F7A6;">provider manages servers, storage, and networking</mark>, while <mark style="background: #ABF7F7A6;">users focus on application development</mark>
 	- Examples: Google App Engine, Microsoft Azure App Service, Heroku
 - Software as a Service (SaaS)
 	- Provides ready-to-use software applications over the internet
