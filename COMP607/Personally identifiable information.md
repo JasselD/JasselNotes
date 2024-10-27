@@ -17,4 +17,5 @@
 		- IP address
 		- Employement details
 - Sensitive vs Non-sensitive PII:
-	- Sensitive: Information that if disclosed, could cause harm financially, med
+	- Sensitive: Information that if disclosed, could cause harm such as financial, medical, or legal data
+	- Non-sensitive: Information that is less likely to cause harm on its own but still can be used to identify
