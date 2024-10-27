@@ -60,8 +60,8 @@
 		- Refers to cloud infrastructure <mark style="background: #ABF7F7A6;">hosted externally by a third-party provider</mark>
 		- It <mark style="background: #ABF7F7A6;">reduces the need for internal IT infrastructure and management</mark> but <mark style="background: #ABF7F7A6;">gives control to the provider</mark>
 	- Edge Computing:
-		- A model where computing resources are placed closer to the location where they are needed to reduce latency and bandwidth usage
-		- Useful for applications requiring real-time processing, like autonomous vechiles or smart cities
+		- A model where <mark style="background: #ABF7F7A6;">computing resources are placed closer to the location</mark> where they are needed to <mark style="background: #ABF7F7A6;">reduce latency and bandwidth usage</mark>
+		- Useful for applications requiring <mark style="background: #ABF7F7A6;">real-time processing</mark>, like <mark style="background: #ABF7F7A6;">autonomous vechiles or smart cities</mark>
 
 **Advantages of cloud computing
 - **Cost Efficiency**: Pay only for the resources you use, reducing capital expenditure on hardware
