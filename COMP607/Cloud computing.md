@@ -24,6 +24,9 @@
 	- The <mark style="background: #ABF7F7A6;">provider manages servers, storage, and networking</mark>, while <mark style="background: #ABF7F7A6;">users focus on application development</mark>
 	- Examples: Google App Engine, Microsoft Azure App Service, Heroku
 - Software as a Service (SaaS)
-	- Provides ready-to-use software applications over the internet
-	- Users access applications through a web browser, and everything from infrastructure to software is managed by provider
+	- Provides <mark style="background: #ABF7F7A6;">ready-to-use software applications over the internet</mark>
+	- <mark style="background: #ABF7F7A6;">Users access applications through a web browser</mark>, and <mark style="background: #ABF7F7A6;">everything from infrastructure to software is managed by provider</mark>
 	- Examples: Gmail, Microsoft 365, Salesforce
+
+**Cloud Deployment Models
+- Definit
