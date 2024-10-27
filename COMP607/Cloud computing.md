@@ -1,4 +1,8 @@
 - Provides on-demand access to a shared pool of configurable resources such as networks, servers, storage, applications, and services
 - The **National Institute of Standards and Technology (NIST)** defines cloud computing as:  
 	- A model for enabling convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.
-	- Key characte
+	- Key characteristics:
+		- On-demand self-service:
+			- Users can access computing resources such as storage or processing power as needed, without requiring human intervention from the service provider
+		- Broad network access:
+			- 
