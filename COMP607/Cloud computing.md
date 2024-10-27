@@ -10,4 +10,5 @@
 			- Cloud providers serve multilpe customers using pooled resources
 		- Rapid elasticity:
 			- Resources can be quickly scaled up or down to meet varying user demand. Example, business and increase storage or processing power during peak times and reduce it when its no longer needed
-		- 
+		- Measured service:
+			- Cloud systems automatically control and optimize resource usage through metering capabilities, so users are billed only for what they use
