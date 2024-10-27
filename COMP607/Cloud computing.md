@@ -54,11 +54,11 @@
 		- Refers to cloud infrastructure hosted <mark style="background: #ABF7F7A6;">within the organisation's data center</mark>
 		- It offers the <mark style="background: #ABF7F7A6;">highest level of control and security</mark> but may require significant capital investment in hardware and ongoing maintenance
 	- Colocation (Colo):
-		- Involves renting physical spaces in a third-party data center to house servers and other hardware while maintaining ownership and control over equipment
-		- This option allows businesses to offload facility maintenance costs but keep control of hardware
+		- Involves <mark style="background: #ABF7F7A6;">renting physical spaces in a third-party data center</mark> to house servers and other hardware while <mark style="background: #ABF7F7A6;">maintaining ownership and control over equipment</mark>
+		- This option <mark style="background: #ABF7F7A6;">allows businesses to offload facility maintenance costs</mark> but keep control of hardware
 	- Off-Premises:
-		- Refers to cloud infrastructure hosted externally by a third-party provider
-		- It reduces the need for internal IT infrastructure and management but gives control to the provider
+		- Refers to cloud infrastructure <mark style="background: #ABF7F7A6;">hosted externally by a third-party provider</mark>
+		- It <mark style="background: #ABF7F7A6;">reduces the need for internal IT infrastructure and management</mark> but <mark style="background: #ABF7F7A6;">gives control to the provider</mark>
 	- Edge Computing:
 		- A model where computing resources are placed closer to the location where they are needed to reduce latency and bandwidth usage
 		- Useful for applications requiring real-time processing, like autonomous vechiles or smart cities
