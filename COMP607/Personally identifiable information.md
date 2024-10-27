@@ -16,3 +16,5 @@
 		- Race or ethinicity
 		- IP address
 		- Employement details
+- Sensitive vs Non-sensitive PII:
+	- Sensitive: Information that if disclosed, could cause harm financially, med
