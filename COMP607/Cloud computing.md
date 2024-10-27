@@ -13,3 +13,6 @@
 		- Measured service:
 			- Cloud systems automatically control and optimize resource usage through metering capabilities, so users are billed only for what they use
 
+**Cloud Models
+- 3 primary types
+- Infrastructure as a Service (IaaS)
