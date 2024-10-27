@@ -4,4 +4,5 @@
 **Tranference:
 - Involves <mark style="background: #ABF7F7A6;">shifting the risk to a third party</mark>, such as <mark style="background: #ABF7F7A6;">purchasing insurance</mark>. Ellie transfers the risk of theft to an insurance company, while an organisation might use cybersecurity insurance to cover potential losses from attacks
 
-**A
+**Avoidance:
+- Recognising a risk and choosing not to engage in the activity. For example, Ellie might avoid the risk of theft by deciding not to buy the scooter, 
