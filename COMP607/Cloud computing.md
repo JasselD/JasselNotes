@@ -29,4 +29,7 @@
 	- Examples: Gmail, Microsoft 365, Salesforce
 
 **Cloud Deployment Models
-- Definit
+- Definition: Where the cloud infrastructure is located and who controls it
+- Types:
+	- Public cloud:
+		- Owned and operated by third-party cloud service providers, and the infrastructure is shared among multiple users
