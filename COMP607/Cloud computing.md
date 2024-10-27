@@ -58,4 +58,6 @@
 		- This option allows businesses to offload facility maintenance costs but keep control of hardware
 	- Off-Premises:
 		- Refers to cloud infrastructure hosted externally by a third-party provider
-		- It reduces the need for internal IT infrastructure and managm
+		- It reduces the need for internal IT infrastructure and management but gives control to the provider
+	- Edge Computing:
+		- A model where computing resources are placed closer to the location where they are needed 
