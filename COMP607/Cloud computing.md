@@ -16,3 +16,4 @@
 **Cloud Models
 - 3 primary types
 - Infrastructure as a Service (IaaS)
+	- Provides virtualizedc vb
