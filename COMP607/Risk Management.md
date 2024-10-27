@@ -9,3 +9,5 @@
 
 **Mitigation
 - Involves <mark style="background: #ABF7F7A6;">taking actions to reduce the severity of the risk</mark>. Ellie could mitigate the risk of her scooter being stolen by having the hole in the fence repaired, while an organisation might mitigate security risks by installing a fence around its plant
+
+![[Pasted image 20241027141147.png]]
