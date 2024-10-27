@@ -60,4 +60,7 @@
 		- Refers to cloud infrastructure hosted externally by a third-party provider
 		- It reduces the need for internal IT infrastructure and management but gives control to the provider
 	- Edge Computing:
-		- A model where computing resources are placed closer to the location where they are needed 
+		- A model where computing resources are placed closer to the location where they are needed to reduce latency and bandwidth usage
+		- Useful for applications requiring real-time processing, like autonomous vechiles or smart cities
+
+**Advantages of cloud comput
