@@ -37,4 +37,8 @@
 		- Examples: AWS, Google Cloud, Microsoft Azure
 	- Private cloud:
 		- Cloud infrastructure is used exclusively by a single organisation. It can be hosted on-premises or by a third-party provider
-		- Offers great control and secuirty
+		- Offers great control and security but can be more costly and complex to manage
+		- Example: A bank hosting its internal cloud services
+	- Hybrid cloud:
+		- A combination of public and private clouds, allowing data and applications to be shared between them
+		- Organisatio
