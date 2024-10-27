@@ -18,3 +18,6 @@
 - Infrastructure as a Service (IaaS)
 	- Provides virtualized computing resources over the internet, including servers, storage, and networking
 	- Users manage applications, data, and operating systems, while the provider manages the underlying infrastructure
+	- Example: AWS, Microsoft Azure, Google cloud
+- Platform as a Service (PaaS)
+	- Provides a platform that allw
