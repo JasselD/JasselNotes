@@ -21,4 +21,7 @@
 	- Example: AWS, Microsoft Azure, Google cloud
 - Platform as a Service (PaaS)
 	- Provides a platform that allows developers to build, deploy and manage applications without worrying about the underlying infrastructure
-	- The provider manages servers, storage, and networking, while user 
+	- The provider manages servers, storage, and networking, while users focus on application development
+	- Examples: Google App Engine, Microsoft Azure App Service, Heroku
+- Software as a Service (SaaS)
+	- Provides ready-to-use software applica
