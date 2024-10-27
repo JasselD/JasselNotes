@@ -18,4 +18,6 @@
 		- Employement details
 - Sensitive vs Non-sensitive PII:
 	- Sensitive: Information that if disclosed, could cause harm such as financial, medical, or legal data
-	- Non-sensitive: Information that is less likely to cause harm on its own but still can be used to identify
+	- Non-sensitive: Information that is less likely to cause harm on its own but still can be used to identify someone
+- Importance:
+	- If PII is exposed ot misused, it can lead to identity theft, fraud, or other forms of personal harm
