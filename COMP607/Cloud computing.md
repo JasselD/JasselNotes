@@ -16,4 +16,5 @@
 **Cloud Models
 - 3 primary types
 - Infrastructure as a Service (IaaS)
-	- Provides virtualizedc vb
+	- Provides virtualized computing resources over the internet, including servers, storage, and networking
+	- Users manage applications, data, and operating systems, while the provider manages the underlying infrastructure
