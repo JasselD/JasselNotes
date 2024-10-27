@@ -41,8 +41,9 @@
 		- Example: A bank hosting its internal cloud services
 	- Hybrid cloud:
 		- A <mark style="background: #ABF7F7A6;">combination of public and private clouds</mark>, <mark style="background: #ABF7F7A6;">allowing data and applications to be shared between them</mark>
-		- Organisations can use the <mark style="background: #ABF7F7A6;">public cloud for non-sensitive workloads</mark> while keeping critical workloads on a private cloud
-		- Offers flexibility and the ability to scale as needeed
+		- Organisations can use the <mark style="background: #ABF7F7A6;">public cloud for non-sensitive workloads</mark> while keeping <mark style="background: #ABF7F7A6;">critical workloads on a private cloud</mark>
+		- Offers <mark style="background: #ABF7F7A6;">flexibility and the ability to scale as needeed</mark>
 	- Community cloud:
-		- Cloud infrastructure is shared by several organisations with a common goal or regulatory requirements
-		- It can be managed by one or more of the participating organisations or a third party
+		- Cloud infrastructure is <mark style="background: #ABF7F7A6;">shared by several organisations with a common goal or regulatory requirements</mark>
+		- It can be <mark style="background: #ABF7F7A6;">managed by one or more of the participating organisations</mark> or a <mark style="background: #ABF7F7A6;">third party</mark>
+
