@@ -48,13 +48,13 @@
 		- It can be <mark style="background: #ABF7F7A6;">managed by one or more of the participating organisations</mark> or a <mark style="background: #ABF7F7A6;">third party</mark>
 
 **Computing locations
-- Defintion: Cloud services can be accessed from various locations, depending on the deployment model and service needs
+- Defintion: Cloud services can be <mark style="background: #ABF7F7A6;">accessed from various locations</mark>, depending on the <mark style="background: #ABF7F7A6;">deployment model and service needs</mark>
 - Types:
 	- On-Premises:
-		- Refers to cloud infrastructure hosted within the organisation's data center
-		- It offers the highest level of control and security but may require significant capital investment in hardware and ongoing maintenance
+		- Refers to cloud infrastructure hosted <mark style="background: #ABF7F7A6;">within the organisation's data center</mark>
+		- It offers the <mark style="background: #ABF7F7A6;">highest level of control and security</mark> but may require significant capital investment in hardware and ongoing maintenance
 	- Colocation (Colo):
-		- This options allows businesses to offload facility maintenance costs but keep control of hardware
+		- This options <mark style="background: #ABF7F7A6;">allows businesses to offload facility maintenance costs</mark> but keep control of hardware
 		- This option allows businesses to offload facility maintenance costs but keep control of hardware
 	- Off-Premises:
 		- Refers to cloud infrastructure hosted externally by a third-party provider
@@ -63,4 +63,8 @@
 		- A model where computing resources are placed closer to the location where they are needed to reduce latency and bandwidth usage
 		- Useful for applications requiring real-time processing, like autonomous vechiles or smart cities
 
-**Advantages of cloud comput
+**Advantages of cloud computing
+- **Cost Efficiency**: Pay only for the resources you use, reducing capital expenditure on hardware
+- **Flexibility**: Access data and applications from anywhere with an internet connection
+- **Reliability**: Cloud providers offer redundant systems, ensuring high availability and disaster recovery capabilities
+- **Security**: Leading cloud providers offer advanced security features, although organizations still need to manage their data securely
