@@ -1,7 +1,7 @@
 - PII
-- Definition: Any data that can be used to identify an individual, either directly or when combined with other information. Includes details that distinguish or trace someone's identity
+- Definition: Any <mark style="background: #ABF7F7A6;">data that can be used to identify an individual</mark>, either <mark style="background: #ABF7F7A6;">directly or when combined with other information</mark>. Includes details that distinguish or trace someone's identity
 - Examples:
-	- Direct Identifiers (direct identification)
+	- <mark style="background: #ABF7F7A6;">Direct Identifiers (direct identification)</mark>
 		- Full name
 		- Social Security Number
 		- Passport number
@@ -9,7 +9,7 @@
 		- Personal email
 		- Phone number
 		- Credit card number
-	- Indirect Identifiers (when combined, can identify)
+	- <mark style="background: #ABF7F7A6;">Indirect Identifiers (when combined, can identify)</mark>
 		- Date of birth
 		- ZIP code
 		- Gender
