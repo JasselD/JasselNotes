@@ -277,10 +277,14 @@
             "id": "242c69e742884279",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "COMP607/Risk Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Risk Management"
             }
           }
         ],
@@ -399,9 +403,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "COMP607/Risk Management.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Risk Management"
             }
           }
         ],
@@ -409,7 +415,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -422,7 +429,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a83a2c287734a9da",
+  "active": "242c69e742884279",
   "lastOpenFiles": [
     "COMP607/Risk Management.md",
     "COMP607/Redundant Sites.md",
