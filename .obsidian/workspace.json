@@ -293,12 +293,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP607/Untitled.md",
+                "file": "COMP607/Personally identifiable information.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Personally identifiable information"
             }
           }
         ],
@@ -418,10 +418,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP607/Untitled.md"
+                "file": "COMP607/Personally identifiable information.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Personally identifiable information"
             }
           }
         ],
@@ -443,10 +443,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3deee57fba1c68d3",
+  "active": "3a53e2bb123fa68b",
   "lastOpenFiles": [
     "COMP607/Risk Management.md",
-    "COMP607/Untitled.md",
+    "COMP607/Personally identifiable information.md",
     "COMP607/Worm vs Viruses.md",
     "Images/Pasted image 20241027141147.png",
     "COMP607/Redundant Sites.md",
