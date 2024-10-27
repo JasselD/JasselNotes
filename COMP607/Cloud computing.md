@@ -52,4 +52,7 @@
 - Types:
 	- On-Premises:
 		- Refers to cloud infrastructure hosted within the organisation's data center
-		- It offers the highest level of control and security but may require significant capital investment in hardware and ongoing mainta
+		- It offers the highest level of control and security but may require significant capital investment in hardware and ongoing maintenance
+	- Colocation (Colo):
+		- This options allows businesses to offload facility maintenance costs but keep control of hardware
+		- This option allows businesses to offload 
