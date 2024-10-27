@@ -6,5 +6,10 @@
 		- Test result
 		- Diagnoses
 		- Prescription and medication
-	- Identifiable information (Combines data)
-		- 
+	- Identifiable information (Combines health data with personally identifiable information (PII))
+		- Name
+		- Address
+		- Data of birth
+		- Phone number
+- How PHI is protected:
+	- By law,
