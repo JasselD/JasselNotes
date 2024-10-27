@@ -49,4 +49,7 @@
 
 **Computing locations
 - Defintion: Cloud services can be accessed from various locations, depending on the deployment model and service needs
-- 
+- Types:
+	- On-Premises:
+		- Refers to cloud infrastructure hosted within the organisation's data center
+		- It offers the highest level of control and security but may require significant capital investment in hardware and ongoing mainta
