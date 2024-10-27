@@ -33,3 +33,6 @@
 - Types:
 	- Public cloud:
 		- Owned and operated by third-party cloud service providers, and the infrastructure is shared among multiple users
+		- Accessible over the internet and typically offers lower costs and scalability
+		- Examples: AWS, Google Cloud, Microsoft Azure
+	- Private v
