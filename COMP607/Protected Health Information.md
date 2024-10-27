@@ -1,5 +1,5 @@
 - PHI
-- Definition: Refers to any health related information that can be linked to an individual and is protected under regulations such as the Health Insurance Portability. PHI includes medical data, payment information, and any personal details that could be used to identify a person in a healthcare context
+- Definition: Refers to any <mark style="background: #ABF7F7A6;">health related information</mark> that can be <mark style="background: #ABF7F7A6;">linked to an individual</mark> and is <mark style="background: #ABF7F7A6;">protected under regulations</mark> such as the Health Insurance Portability. PHI includes medical data, payment information, and any personal details that could be used to identify a person in a healthcare context
 - Key Aspects:
 	- Health information (Information about person's health)
 		- Medical history
@@ -13,6 +13,6 @@
 		- Phone number
 - How PHI is protected:
 	- By law, example HIPAA, PHI
-		- Secured
-		- Confidential: Restricted 
-		- Used Appropriately
+		- Secured: Through techinal, physical, and administrative measures
+		- Confidential: Restricted authorisation
+		- Used Appropriately: Can only be shared for specific purposes
