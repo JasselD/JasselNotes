@@ -5,4 +5,6 @@
 		- On-demand self-service:
 			- Users can access computing resources such as storage or processing power as needed, without requiring human intervention from the service provider
 		- Broad network access:
-			- Resources are available over the network and can be accessed via standard mechanisms (mobile apps, web browsers) by a wide range of devices such as smartphones, laptops
+			- Resources are available over the network and can be accessed via standard mechanisms (mobile apps, web browsers) by a wide range of devices such as smartphones, laptops...
+		- Resource pooling:
+			- Cloud providers serve multilpe customers using pooled resources
