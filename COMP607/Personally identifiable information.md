@@ -1,3 +1,11 @@
 - PII
 - Definition: Any data that can be used to identify an individual, either directly or when combined with other information. Includes details that distinguish or trace someone's identity
-- Example:
+- Examples:
+	- Direct Identifiers
+		- Full name
+		- Social Security Number
+		- Passport number
+		- Driver's license 
+		- Personal email
+		- Phone number
+		- Credit car 
