@@ -55,4 +55,7 @@
 		- It offers the highest level of control and security but may require significant capital investment in hardware and ongoing maintenance
 	- Colocation (Colo):
 		- This options allows businesses to offload facility maintenance costs but keep control of hardware
-		- This option allows businesses to offload 
+		- This option allows businesses to offload facility maintenance costs but keep control of hardware
+	- Off-Premises:
+		- Refers to cloud infrastructure hosted externally by a third-party provider
+		- It reduces the need for internal IT infrastructure and managm
