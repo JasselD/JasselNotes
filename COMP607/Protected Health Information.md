@@ -1,2 +1,2 @@
 - PHI
-- Definition: Refers to any health relate
+- Definition: Refers to any health related information that can be linked to an individual and is protected under regulations such as the Health Insurance Portability. PHI includes medical data
