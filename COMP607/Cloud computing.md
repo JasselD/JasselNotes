@@ -29,10 +29,10 @@
 	- Examples: Gmail, Microsoft 365, Salesforce
 
 **Cloud Deployment Models
-- Definition: Where the cloud infrastructure is located and who controls it
+- Definition: Where the <mark style="background: #ABF7F7A6;">cloud infrastructure is located and who controls it</mark>
 - Types:
 	- Public cloud:
-		- Owned and operated by third-party cloud service providers, and the infrastructure is shared among multiple users
+		- <mark style="background: #ABF7F7A6;">Owned and operated by third-party cloud service providers</mark>, and the infrastructure is shared among multiple users
 		- Accessible over the internet and typically offers lower costs and scalability
 		- Examples: AWS, Google Cloud, Microsoft Azure
 	- Private cloud:
@@ -44,4 +44,5 @@
 		- Organisations can use the public cloud for non-sensitive workloads while keeping critical workloads on a private cloud
 		- Offers flexibility and the ability to scale as needeed
 	- Community cloud:
-		- Cloud infrastructure is shared by several organisation
+		- Cloud infrastructure is shared by several organisations with a common goal or regulatory requirements
+		- It can be managed by one or more of the participating organisations or a third party
