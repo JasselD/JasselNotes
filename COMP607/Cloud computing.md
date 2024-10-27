@@ -20,4 +20,5 @@
 	- Users manage applications, data, and operating systems, while the provider manages the underlying infrastructure
 	- Example: AWS, Microsoft Azure, Google cloud
 - Platform as a Service (PaaS)
-	- Provides a platform that allw
+	- Provides a platform that allows developers to build, deploy and manage applications without worrying about the underlying infrastructure
+	- The provider manages servers, storage, and networking, while user 
