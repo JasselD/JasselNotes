@@ -7,7 +7,7 @@
 		- <mark style="background: #ABF7F7A6;">Broad network access</mark>:
 			- Resources are available over the network and can be accessed via standard mechanisms (mobile apps, web browsers) by a wide range of devices such as smartphones, laptops...
 		- <mark style="background: #ABF7F7A6;">Resource pooling</mark>:
-			- Cloud providers serve multilpe customers using pooled resources
+			- Cloud provider creates a pool of resources that are shared across multiple customers
 		- <mark style="background: #ABF7F7A6;">Rapid elasticity</mark>:
 			- Resources can be quickly scaled up or down to meet varying user demand. Example, business and increase storage or processing power during peak times and reduce it when its no longer needed
 		- <mark style="background: #ABF7F7A6;">Measured service</mark>:
