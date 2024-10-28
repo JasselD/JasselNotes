@@ -13,11 +13,11 @@
 	- Pros: Fastest and uses the least storage space
 	- Cons: Slower to restore because you need <mark style="background: #ABF7F7A6;">multiple sets of backup files</mark>
 - Copy Backup
-	- A backup that is almost the same as full backup but does not interfere with your scheduled backups
-	- Pros: Useful for ad hoc backups, like when performing system maintanance
+	- A backup that is <mark style="background: #ABF7F7A6;">almost the same as full backup</mark> but <mark style="background: #ABF7F7A6;">does not interfere with your scheduled backups</mark>
+	- Pros: Useful for <mark style="background: #ABF7F7A6;">ad hoc backups</mark>, like when <mark style="background: #ABF7F7A6;">performing system maintanance</mark>
 	- Cons: Not part of your regular backup plan, so it may cause confusion if not managed properly
 - Gratherfather-father-son Backup <mark style="background: #ABF7F7A6;">(GFS)</mark>
-	- <mark style="background: #ABF7F7A6;">Rotation scheme</mark> used to manage and organize backups over time, ensuring <mark style="background: #ABF7F7A6;">multiple restore points </mark>while optimizing storage space
+	- <mark style="background: #ABF7F7A6;">Rotation scheme</mark> used to manage and organize backups over time, ensuring <mark style="background: #ABF7F7A6;">multiple restore points</mark> while optimizing storage space
 	- <mark style="background: #ABF7F7A6;">Son (Daily backup)</mark>
 	- <mark style="background: #ABF7F7A6;">Father (Weekly backup)</mark>
 	- <mark style="background: #ABF7F7A6;">Grandfather (Monthly backup)</mark>

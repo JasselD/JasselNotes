@@ -1,4 +1,4 @@
-- <mark style="background: #ABF7F7A6;">Redundant Array of Independetn Disks</mark> (RAID)
+- <mark style="background: #ABF7F7A6;">Redundant Array of Independent Disks</mark> (RAID)
 - A technology that combines multiple physical hard drives into one unit for redundancy or performance
 - Types:
 	- RAID 0 <mark style="background: #ABF7F7A6;">(Striping)</mark>

@@ -1,0 +1,1 @@
+Malicious Software: A "computer contamintant" is defined as any set of computer instructions that is designed to modify, damage, record, or transmit within a computer, computer system, or network without the intent or permission of the owner of the information, computer system, or network

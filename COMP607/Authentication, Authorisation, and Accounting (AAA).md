@@ -4,7 +4,7 @@
 - - **Types of Authentication:**
     - **Single-Factor Authentication <mark style="background: #ABF7F7A6;">(SFA)</mark>:** Uses <mark style="background: #ABF7F7A6;">one form of authentication</mark> (e.g., a password)
     - **Multi-Factor Authentication <mark style="background: #ABF7F7A6;">(MFA)</mark>:** Requires <mark style="background: #ABF7F7A6;">two or more independent credentials</mark> (e.g., a password and a fingerprint)
-    - **Two-Factor Authentication <mark style="background: #ABF7F7A6;">(2FA)</mark>:** A <mark style="background: #ABF7F7A6;">specific form of MFA</mark> that <mark style="background: #ABF7F7A6;">requires exactly two methods</mark>, like<mark style="background: #ABF7F7A6;"> a password and a one-time code sent via SMS</mark>
+    - **Two-Factor Authentication <mark style="background: #ABF7F7A6;">(2FA)</mark>:** A <mark style="background: #ABF7F7A6;">specific form of MFA</mark> that <mark style="background: #ABF7F7A6;">requires exactly two methods</mark>, like <mark style="background: #ABF7F7A6;">a password and a one-time code sent via SMS</mark>
 - **Example:** When logging into an online banking system, you must enter your username and password, and possibly a code sent to your phone (MFA)
 
 **Authorisation
@@ -16,7 +16,7 @@
 - **Example:** A user authenticated into a company’s intranet can access certain documents but may not have the necessary permissions to edit or delete them, based on their role
 
 **Accounting (for Audit)
-- **Definition:** The process of<mark style="background: #ABF7F7A6;"> tracking and recording the actions or usage of resources</mark> by users or systems for <mark style="background: #ABF7F7A6;">auditing, monitoring, and reporting purposes</mark>
+- **Definition:** The process of <mark style="background: #ABF7F7A6;">tracking and recording the actions or usage of resources</mark> by users or systems for <mark style="background: #ABF7F7A6;">auditing, monitoring, and reporting purposes</mark>
 - **How it works:** Accounting ensures that <mark style="background: #ABF7F7A6;">all activities (logins, file access, changes)</mark> are <mark style="background: #ABF7F7A6;">logged and traceable</mark>, which can be reviewed later for compliance or to detect suspicious behavior
 - **Example:** Logging user activity on a server to monitor who accessed sensitive data or when a critical system configuration was changed
 - **Tools for Accounting:**

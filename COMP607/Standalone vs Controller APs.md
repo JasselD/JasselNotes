@@ -14,7 +14,7 @@ Controller AP <mark style="background: #ABF7F7A6;">(Thin AP)</mark>
 - Definition: Type of wireless access point that <mark style="background: #ABF7F7A6;">relies on a centralized controller</mark> for management and configuration
 - Features:
 	- <mark style="background: #ABF7F7A6;">Centalized Management</mark>: Managed through a single controller, simplifying setup
-	- Lightweight Desgin: Thin APs handle basic tasks while offloading mroe complex functions to the controller
+	- Lightweight Desgin: Thin APs handle basic tasks while offloading more complex functions to the controller
 - Advantages:
 	- Easier Management
 	- Scalability

@@ -6,7 +6,7 @@
 		- Test result
 		- Diagnoses
 		- Prescription and medication
-	- I<mark style="background: #ABF7F7A6;">dentifiable information (Combines health data with personally identifiable information (PII))</mark>
+	- <mark style="background: #ABF7F7A6;">Identifiable information (Combines health data with personally identifiable information (PII))</mark>
 		- Name
 		- Address
 		- Data of birth

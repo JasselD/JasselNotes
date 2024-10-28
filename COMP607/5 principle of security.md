@@ -12,7 +12,6 @@
 - Use <mark style="background: #ABF7F7A6;">different security mechanisms and technologies</mark> to protect against attacks, rather than relying on a single method
 - If an attacker manages to defeat one type of security, other diverse controls will still protect the system
 - Example: Use a <mark style="background: #ABF7F7A6;">combination of different operating systems, firewalls from different vendor</mark>, and varied encryption methods to reduce risk
-
 **Obscurity
 - <mark style="background: #ABF7F7A6;">Conceal details</mark> about the <mark style="background: #ABF7F7A6;">system or network</mark> to make it harder for attackers to find vulnerabilities
 - Attackers <mark style="background: #ABF7F7A6;">can't exploit what they do not understand</mark>

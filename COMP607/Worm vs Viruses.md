@@ -23,7 +23,7 @@
 	- Virus: Needs to <mark style="background: #ABF7F7A6;">attach itself to a file, program, or document</mark> as a host
 	- Worm: <mark style="background: #ABF7F7A6;">Does not attach to other files</mark>; it operates as a <mark style="background: #ABF7F7A6;">standalone program</mark>
 - Activation
-	- Virus: Only becomes active when the<mark style="background: #ABF7F7A6;"> infected file or program is opened or executed</mark> by the user
+	- Virus: Only becomes active when the <mark style="background: #ABF7F7A6;">infected file or program is opened or executed</mark> by the user
 	- Worm: Can start <mark style="background: #ABF7F7A6;">spreading and infecting systems as soon as it enters a computer</mark> or <mark style="background: #ABF7F7A6;">network</mark>
 - Spreading
 	- Virus: Spreads through infected <mark style="background: #ABF7F7A6;">files</mark>, <mark style="background: #ABF7F7A6;">email attachments</mark>, <mark style="background: #ABF7F7A6;">downloads</mark> or <mark style="background: #ABF7F7A6;">USB drives</mark>

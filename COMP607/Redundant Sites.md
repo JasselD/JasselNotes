@@ -1,7 +1,7 @@
 **Types:
 - Hot site:
 	- <mark style="background: #ABF7F7A6;">Fully functional, fully equiped site</mark> that can take over business operations almost immediately if the primary site goes down
-	- Pros: <mark style="background: #ABF7F7A6;">Fast recovery and can maintain business continuity</mark>
+	- Pros: <mark style="background: #ABF7F7A6;">Fast recovery and can maintain business continuity</mark>, <mark style="background: #ABF7F7A6;">has internet and network infrastructure</mark>
 	- Cons: Expensive to maintain
 - Cold site:
 	- <mark style="background: #ABF7F7A6;">A location with basic infrastructure (eg. office space, network connections)</mark>, but <mark style="background: #ABF7F7A6;">no operational hardware or data</mark>. It takes longer to get up and running
@@ -10,4 +10,4 @@
 - Warm site:
 	- A middle ground between hot and cold sites. It has <mark style="background: #ABF7F7A6;">pre-installed hardware and network connections</mark> but might <mark style="background: #ABF7F7A6;">need updates or additional equipment</mark> to become fully operational
 	- Pros: Faster recovery than cold site and cheaper than hot site
-	- Cons: Still involves some downtime
+	- Cons: Still involves some downtime, <mark style="background: #ABF7F7A6;">does not have internet or network infrastructure</mark>
