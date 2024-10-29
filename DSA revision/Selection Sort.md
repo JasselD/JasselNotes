@@ -14,9 +14,6 @@ public static void main(String[] arguments) {
 			if(arr[min_index] > arr[j]) {
 				min_index = j;
 			}
-			int temp = arr[min_index]
-			arr[min_index] = arr[i];
-			arr[i] = temp;
 		}
 	}
 }
