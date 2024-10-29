@@ -335,12 +335,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Insertion Sort.md",
+                "file": "DSA revision/Bubble Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Insertion Sort"
+              "title": "Bubble Sort"
             }
           },
           {
@@ -488,10 +488,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA revision/Insertion Sort.md"
+                "file": "DSA revision/Bubble Sort.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Insertion Sort"
+              "title": "Outline of Bubble Sort"
             }
           }
         ],
@@ -515,9 +515,10 @@
   },
   "active": "c2967f150142a448",
   "lastOpenFiles": [
-    "DSA revision/Selection Sort.md",
-    "DSA revision/Insertion Sort.md",
     "DSA revision/Sorting algorithms.md",
+    "DSA revision/Bubble Sort.md",
+    "DSA revision/Insertion Sort.md",
+    "DSA revision/Selection Sort.md",
     "COMP607/Cloud computing.md",
     "DSA revision",
     "COMP610/Asymptotic Notations.md",
@@ -545,7 +546,6 @@
     "COMP607/Focus.md",
     "COMP607/Standard Biometrics.md",
     "COMP607/Authentication, Authorisation, and Accounting (AAA).md",
-    "COMP607/Defenses against attacks.md",
     "Images/Pasted image 20241023164027.png",
     "Images/Pasted image 20241010154844.png"
   ]
