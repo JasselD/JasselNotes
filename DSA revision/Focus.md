@@ -1,3 +1,4 @@
 - BST
 - Queue and Priority Queue
+- Heap array
 - 
