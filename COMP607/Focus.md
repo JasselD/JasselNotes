@@ -1,14 +1,14 @@
 MCQ
-- [ ] 5 principles of security
-- [ ] Symmetric encryption
-- [ ] Hashing algorithms 
-- [ ] Asymmetric (Alice and Bob)
-- [ ] Malicious software
-- [ ] Worm vs Virus
-- [ ] Risk management and data privacy
+- [x] 5 principles of security
+- [x] Symmetric encryption
+- [x] Hashing algorithms 
+- [x] Asymmetric (Alice and Bob)
+- [x] Malicious software
+- [x] Worm vs Virus
+- [x] Risk management and data privacy
 
 Short answer
-- [ ] Social engineering
+- [x] Social engineering
 - [ ] Defences against attacks
 - [ ] Authentication, authorisation and accounting (AAA)
 - [ ] Standard biometrics

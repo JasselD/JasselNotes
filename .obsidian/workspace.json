@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP607/Redundant Sites.md",
+                "file": "COMP607/Protected Health Information.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redundant Sites"
+              "title": "Protected Health Information"
             }
           },
           {
@@ -501,6 +501,7 @@
   },
   "active": "4d63c11b249f0984",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "COMP610/Asymptotic Notations.md",
     "COMP607/Definitons.md",
     "COMP607/Protected Health Information.md",
@@ -533,5 +534,44 @@
     "COMP607/Social Engineering Effectiveness.md",
     "Images/Pasted image 20241023164027.png",
     "Images/Pasted image 20241010154844.png"
+=======
+    "COMP607/Personally identifiable information.md",
+    "COMP607/Protected Health Information.md",
+    "COMP607/Network Blurred Edges.md",
+    "COMP607/Hackers.md",
+    "COMP607/Cloud computing.md",
+    "COMP607/RAID.md",
+    "COMP607/Definitons.md",
+    "COMP607/Redundant Sites.md",
+    "COMP607/Business Continuity.md",
+    "COMP607/5 principle of security.md",
+    "COMP607/Defenses against attacks.md",
+    "COMP607/WPA vs WPA2.md",
+    "COMP607/Backup Types.md",
+    "COMP607/Authentication, Authorisation, and Accounting (AAA).md",
+    "COMP607/Social Engineering Effectiveness.md",
+    "COMP607/Worm vs Viruses.md",
+    "COMP607/Symmetric Encryption.md",
+    "COMP607/Malicious programs.md",
+    "COMP607/Hashing.md",
+    "COMP607/Focus.md",
+    "COMP607/Five Principles of Information Security.md",
+    "COMP607/Asymmetric Encryption.md",
+    "COMP607/WLAN Enterprise Attacks.md",
+    "COMP607/Risk Management.md",
+    "COMP607/Standalone vs Controller APs.md",
+    "COMP607/Standard Biometrics.md",
+    "Untitled",
+    "Images/Pasted image 20241027141147.png",
+    "Images/Pasted image 20241026232001.png",
+    "Images/Pasted image 20241026230205.png",
+    "Images/Pasted image 20241026004625.png",
+    "Images/Screenshot 2024-08-01 at 3.33.53 PM.png",
+    "Images/Pasted image 20240726135527.png",
+    "Images/Pasted image 20240726140850.png",
+    "Images/Pasted image 20240727200532.png",
+    "Images/Pasted image 20240807000507.png",
+    "Images/Pasted image 20241023164027.png"
+>>>>>>> fa8e28ba687bd0efbdba5727ef6fec55f75c2542
   ]
 }
