@@ -11,10 +11,14 @@
             "id": "e583fc4b4ee21b19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DSA revision/Sorting algorithms.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sorting algorithms"
             }
           }
         ]
@@ -133,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP607/Cloud computing.md"
+                "file": "DSA revision/Sorting algorithms.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Cloud computing"
+              "title": "Outline of Sorting algorithms"
             }
           }
         ],
@@ -158,8 +162,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3deee57fba1c68d3",
+  "active": "e583fc4b4ee21b19",
   "lastOpenFiles": [
+    "DSA revision/Selection Sort.md",
+    "COMP607/Cloud computing.md",
     "COMP607/Protected Health Information.md",
     "COMP607/Personally identifiable information.md",
     "COMP607/Risk Management.md",
@@ -176,8 +182,6 @@
     "DSA revision/Bubble Sort.md",
     "DSA revision/Sorting algorithms.md",
     "DSA revision/Insertion Sort.md",
-    "DSA revision/Selection Sort.md",
-    "COMP607/Cloud computing.md",
     "DSA revision",
     "COMP610/Asymptotic Notations.md",
     "COMP607/Definitons.md",
