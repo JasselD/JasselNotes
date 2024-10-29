@@ -16,11 +16,11 @@ public static void main(String[] arguments) {
              int key = arr[i]; // key = element 25
              int j = i - 1; // j is arr[0]
              
-             while(j >= 0 && arr[j] > key) { // if j (arr[0]) is > that 0
-                 arr[j+1] = arr[j];
-                 j = j - 1;
+             while(j >= 0 && arr[j] > key) { // if j (arr[0]) > 0)
+                 arr[j+1] = arr[j]; // arr[j] will become element 25
+                 j = j - 1; // arr[0] will -1 so arr[-1], will end the loop
              }
-             arr[j+1] = key;
+             arr[j+1] = key; // 
         }
         
         System.out.print("\nSorted array\n");
