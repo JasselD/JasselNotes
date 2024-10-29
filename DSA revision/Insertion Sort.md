@@ -20,7 +20,7 @@ public static void main(String[] arguments) {
                  arr[j+1] = arr[j]; // arr[j] will become element 25
                  j = j - 1; // arr[0] will -1 so arr[-1], will end the loop
              }
-             arr[j+1] = key; // 
+             arr[j+1] = key; // j
         }
         
         System.out.print("\nSorted array\n");
