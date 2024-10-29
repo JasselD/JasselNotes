@@ -12,11 +12,11 @@ public static void main(String[] arguments) {
             System.out.print(arr[i] + " ");
         }
         
-        for(int i = 1; i < length; i++){ //i is pointed at 
-             int key = arr[i];
-             int j = i - 1;
+        for(int i = 1; i < length; i++){ //i is pointed at element 25
+             int key = arr[i]; // key = element 25
+             int j = i - 1; // j is arr[0]
              
-             while(j >= 0 && arr[j] > key) {
+             while(j >= 0 && arr[j] > key) { // if j (arr[0]) is > that 0
                  arr[j+1] = arr[j];
                  j = j - 1;
              }
