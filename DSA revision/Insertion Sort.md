@@ -1,1 +1,1 @@
-- Insertion Sort is a simple sorting algorithm t
+- Insertion Sort is a simple sorting algorithm that works similar to the way you sort play
