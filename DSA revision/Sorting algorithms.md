@@ -1,0 +1,9 @@
+- SIBHQMRB
+- [[Selection Sort]]
+- [[Insertion Sort]]
+- [[Bubble Sort]]
+- [[Heap Sort]]
+- [[Quick Sort]]
+- [[Merge Sort]]
+- [[Radix Sort]]
+- [[Bin Sort]]
