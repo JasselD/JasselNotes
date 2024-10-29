@@ -1,0 +1,2 @@
+- Definition: Linear data structure used fo storing the data
+- Ordered list in which inserti
