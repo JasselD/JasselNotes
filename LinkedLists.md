@@ -10,6 +10,10 @@
 
 **Single LinkedList
 - Navigation is forwards only
+- 
 
 **Doubly LinkedList
-- Forward and backward
+- Forward and backward navigation is possible
+
+**Circular LinkedList
+- Last element is linked to the first element
