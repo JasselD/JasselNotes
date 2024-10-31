@@ -8,3 +8,8 @@
 
 ![[Pasted image 20240807001004.png]]
 
+**Single LinkedList
+- Navigation is forwards only
+
+**Doubly LinkedList
+- Forward and backward
