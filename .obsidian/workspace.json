@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Time complexity practice.md",
+                "file": "COMP610/Big O notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Time complexity practice"
+              "title": "Big O notation"
             }
           }
         ],
@@ -235,10 +235,10 @@
   },
   "active": "c4e4c72e089184b8",
   "lastOpenFiles": [
+    "DSA revision/Time complexity practice.md",
     "COMP610/Time Complexity.md",
     "COMP603/Encapsulation.md",
     "COMP603/ArrayList.md",
-    "DSA revision/Time complexity practice.md",
     "LinkedLists.md",
     "COMP603/Array.md",
     "DSA revision/Synchronization.md",
