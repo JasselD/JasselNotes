@@ -1,0 +1,1 @@
+- In a array the memory is sot
