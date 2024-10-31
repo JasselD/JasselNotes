@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP610/Recursion.md",
+                "file": "DSA revision/Creating a node in a singly linked list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recursion"
+              "title": "Creating a node in a singly linked list"
             }
           }
         ],
@@ -235,8 +235,11 @@
   },
   "active": "c4e4c72e089184b8",
   "lastOpenFiles": [
-    "Array vs Linked List.md",
     "DSA revision/LinkedLists.md",
+    "DSA revision/Creating a node in a singly linked list.md",
+    "DSA revision/Sorting algorithms.md",
+    "DSA revision/Array vs Linked List.md",
+    "COMP610/Recursion.md",
     "COMP610/Big O notation.md",
     "DSA revision/Time complexity practice.md",
     "COMP610/Time Complexity.md",
@@ -247,7 +250,6 @@
     "DSA revision/Race condition.md",
     "DSA revision/Focus.md",
     "DSA revision/Stack.md",
-    "DSA revision/Sorting algorithms.md",
     "DSA revision/Selection Sort.md",
     "COMP607/Cloud computing.md",
     "COMP607/Protected Health Information.md",
@@ -259,8 +261,6 @@
     "COMP607/Standalone vs Controller APs.md",
     "COMP607/Standard Biometrics.md",
     "COMP607/Authentication, Authorisation, and Accounting (AAA).md",
-    "COMP607/Malicious programs.md",
-    "COMP607/Hackers.md",
     "DSA revision",
     "Images/Pasted image 20241027141147.png",
     "Images/Pasted image 20241026232001.png",

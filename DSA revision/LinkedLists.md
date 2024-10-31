@@ -24,4 +24,5 @@
 
 **Related
 - [[Array vs Linked List]]
+- [[Creating a node in a singly linked list]]
 - 
