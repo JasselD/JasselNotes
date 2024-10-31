@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/LinkedLists.md",
+                "file": "Array vs Linked List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LinkedLists"
+              "title": "Array vs Linked List"
             }
           }
         ],
@@ -235,12 +235,13 @@
   },
   "active": "c4e4c72e089184b8",
   "lastOpenFiles": [
+    "DSA revision/LinkedLists.md",
+    "Array vs Linked List.md",
     "COMP610/Big O notation.md",
     "DSA revision/Time complexity practice.md",
     "COMP610/Time Complexity.md",
     "COMP603/Encapsulation.md",
     "COMP603/ArrayList.md",
-    "DSA revision/LinkedLists.md",
     "COMP603/Array.md",
     "DSA revision/Synchronization.md",
     "DSA revision/Race condition.md",
@@ -260,7 +261,6 @@
     "COMP607/Authentication, Authorisation, and Accounting (AAA).md",
     "COMP607/Malicious programs.md",
     "COMP607/Hackers.md",
-    "COMP607/Five Principles of Information Security.md",
     "DSA revision",
     "Images/Pasted image 20241027141147.png",
     "Images/Pasted image 20241026232001.png",
