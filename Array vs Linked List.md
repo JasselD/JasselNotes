@@ -1,1 +1,2 @@
-- In a array the memory is sot
+- In an array the memory is stored in consecutive memory location
+- In a linked list
