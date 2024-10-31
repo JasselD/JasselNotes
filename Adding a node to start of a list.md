@@ -4,6 +4,9 @@
 
 ```Java
 public void add(E element) {
-	Node<E> newNode = new Node<E>(element); //
+	Node<E> newNode = new Node<E>(element); // newNode.next = null;
+	newNode.next = firstNode;
+	firstNode = newNode;
+	numElements++;
 }
 ```
