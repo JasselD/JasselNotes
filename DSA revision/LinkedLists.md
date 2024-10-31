@@ -14,7 +14,6 @@
 -  A list made up of nodes that consist of two parts
 	- Data (contains actual data)
 	- Link (contains the address of the next node of the list)
-	- 
 
 **Doubly LinkedList
 - Forward and backward navigation is possible
@@ -25,4 +24,5 @@
 **Related
 - [[Array vs Linked List]]
 - [[Creating a node in a singly linked list]]
+- [[Adding a node to start of a list]]
 - 

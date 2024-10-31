@@ -1,0 +1,3 @@
+- Create a new node which hold the element to add
+- Set it's next link to equal the firstNode
+- 
