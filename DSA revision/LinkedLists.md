@@ -25,4 +25,6 @@
 - [[Array vs Linked List]]
 - [[Creating a node in a singly linked list]]
 - [[Adding a node to start of a list]]
+- [[Adding a node to end of a list]]
+- [[Adding a node to somewhere in the middle of list]]
 - 
