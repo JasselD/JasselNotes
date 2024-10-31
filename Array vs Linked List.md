@@ -1,2 +1,2 @@
 - In an array the memory is stored in consecutive memory location (Example, first node is 1000 then next node would be 1004)
-- In a linked list the memory is **not** stored in consecutive memory location (Exampple )
+- In a linked list the memory is **not** stored in consecutive memory location (Example, first node is 1000 then next node is 2133), nodes are scattered here and there in the memory but they are still connected with each other
