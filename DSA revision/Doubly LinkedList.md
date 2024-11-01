@@ -19,12 +19,15 @@ public class ListNode {
 ```Java
 public class DoublyLinkedlist {
 
+	private ListNode head;
+	private ListNode tail;
+
 	private class ListNode{
 		private int data;
 		private ListNode previous;
 		private ListNode next;
 
-		public ListNode() {
+		public ListNode(int data) {
 			this.data = data;
 		}
 	}
