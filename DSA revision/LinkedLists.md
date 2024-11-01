@@ -15,8 +15,7 @@
 	- Data (contains actual data)
 	- Link (contains the address of the next node of the list)
 
-**Doubly LinkedList
-- Forward and backward navigation is possible
+**[[Doubly LinkedList]]
 
 **Circular LinkedList
 - Last element is linked to the first element
