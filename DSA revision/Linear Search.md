@@ -7,3 +7,12 @@
 	- Does not need to be sorted
 	- Useful for data structure that does not have random access (Linkedlist)
 
+```Java
+private static int linearSearch(int[] array, int value) {
+	for(int i = 0; i < array.length; i++) {
+		if(array[i] == value) {
+			return i;
+		}
+	}
+}
+```
