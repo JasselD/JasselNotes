@@ -14,3 +14,8 @@ public class ListNode {
 	}
 }
 ```
+
+**Implementation
+```Java
+public class Doubly
+```
