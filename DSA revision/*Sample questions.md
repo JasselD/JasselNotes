@@ -5,7 +5,7 @@
 	- To maintain O(1) time complexity for stack when using an array, the top of the stack should be at the end of the array, and the top index should be updated correctly as elements are added or removed
 
 - In a stack to ensure O(1) push, pop and peek methods where should the top of the stack be if using an singly linked list?
-	- To maintain O(1) time complexity for stack when using singly linked list, the top of the stack should be at the head of the 
+	- To maintain O(1) time complexity for stack when using singly linked list, the top of the stack should be at the head of the singly linked list
 
 - What data structure can be best utilized to reverse the order of a liner collection?
 
