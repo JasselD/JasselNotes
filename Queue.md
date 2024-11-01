@@ -4,6 +4,10 @@
 - offer(), adding a queue to the tail
 - poll(), removing a queue from the head   
 - peek(), peek at the head of the queue
+- Uses:
+	- Keyboard buffer
+	- Printer Queue
+	- Used in
 
 ```Java
 public static void main(String[] args) {
@@ -19,5 +23,7 @@ public static void main(String[] args) {
 	queue.isEmpty(); // Will check if the queue is empty or not
 
 	queue.size(); // Will show the size of queue
+
+	queue.contains("Harold"); // Will show if object is in the queue or not but not the position
 }
 ```
