@@ -18,6 +18,6 @@ public static void main(String[] args) {
 
 	queue.isEmpty(); // Will check if the queue is empty or not
 
-	
+	queue.size(); // Will show the size of queue
 }
 ```
