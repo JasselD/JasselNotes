@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heap Sort.md",
+                "file": "COMP610/Heap Sort.md",
                 "mode": "source",
                 "source": false
               },
@@ -285,10 +285,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9704b86011e346b",
+  "active": "3deee57fba1c68d3",
   "lastOpenFiles": [
     "DSA revision/Sorting algorithms.md",
-    "Heap Sort.md",
+    "COMP610/Heap Sort.md",
     "COMP610/Bubble Sort.md",
     "COMP610/Insertion Sort.md",
     "COMP610/Selection Sort.md",
