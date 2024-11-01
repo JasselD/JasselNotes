@@ -17,7 +17,13 @@
 
 public class JosephusProblem {
 	public static int findPosition(int n, int m) {
-		
+		//Create the circular linked list
+		Node head = new Node(1);
+		Node current = head;
+		for(int i = 2; i <= n; i++) {
+			current.next = new Node(i);
+			
+		}
 	}
 }
 ```
