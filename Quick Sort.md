@@ -1,6 +1,6 @@
 - Divide and conquer sorting algorithm
 - Time complexity O(n log n)
-- Best way to v
+- Best way to choose a pivot is by random
 ```Java
 import java.util.Random;
 
