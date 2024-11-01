@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Synchronization.md",
+                "file": "COMP610/Bubble Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Synchronization"
+              "title": "Bubble Sort"
             }
           },
           {
@@ -288,6 +288,9 @@
   "active": "e9704b86011e346b",
   "lastOpenFiles": [
     "DSA revision/Sorting algorithms.md",
+    "COMP610/Insertion Sort.md",
+    "COMP610/Selection Sort.md",
+    "DSA revision/Synchronization.md",
     "DSA revision/Binary Search.md",
     "DSA revision/Linear Search.md",
     "DSA revision/*Sample questions.md",
@@ -297,11 +300,9 @@
     "DSA revision/Stack.md",
     "DSA revision/Doubly LinkedList.md",
     "DSA revision/Single LinkedList.md",
-    "DSA revision/Synchronization.md",
     "DSA revision/Race condition.md",
     "DSA revision/Queue.md",
     "COMP610/Adding a node to start of a list.md",
-    "COMP610/Insertion Sort.md",
     "COMP610/Array vs Linked List.md",
     "COMP610/Creating a node in a singly linked list.md",
     "COMP610/Recursion.md",
@@ -311,7 +312,6 @@
     "COMP603/ArrayList.md",
     "COMP603/Array.md",
     "DSA revision/Focus.md",
-    "COMP610/Selection Sort.md",
     "COMP607/Cloud computing.md",
     "DSA revision",
     "Images/Pasted image 20241027141147.png",
