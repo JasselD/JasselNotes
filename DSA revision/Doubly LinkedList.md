@@ -38,5 +38,13 @@ public class DoublyLinkedlist {
 		this.tail = null;
 		this.length = 0;
 	}
+
+	public boolean isEmpty() {
+		return length == 0; // head == null; head is empty
+	}
+
+	public int length() {
+		return length;
+	}
 }
 ```
