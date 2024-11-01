@@ -14,6 +14,10 @@ public static void main(String[] args) {
 	queue.offer("Steve");
 	queue.offer("Harold");
 
-	queue.poll(); // Will remove the cur
+	queue.poll(); // Will remove the current head
+
+	queue.isEmpty(); // Will check if the queue is empty or not
+
+	
 }
 ```
