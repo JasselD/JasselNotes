@@ -6,3 +6,4 @@
 	- Fast for searches of small to medium data sets
 	- Does not need to be sorted
 	- Useful for data structure that does not have random access (Linkedlist)
+
