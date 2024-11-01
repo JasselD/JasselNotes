@@ -13,8 +13,7 @@
 
 **[[Doubly LinkedList]]
 
-**Circular LinkedList
-- Last element is linked to the first element
+**[[Circular LinkedList]]
 
 **Related
 - [[Array vs Linked List]]
