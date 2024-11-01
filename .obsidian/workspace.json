@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Sort.md",
+                "file": "DSA revision/Binary Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Sort"
+              "title": "Binary Search"
             }
           },
           {
@@ -287,15 +287,15 @@
   },
   "active": "e9704b86011e346b",
   "lastOpenFiles": [
-    "DSA revision/Sorting algorithms.md",
+    "DSA revision/Linear Search.md",
     "Quick Sort.md",
+    "DSA revision/Sorting algorithms.md",
     "COMP610/Heap Sort.md",
     "COMP610/Bubble Sort.md",
     "COMP610/Insertion Sort.md",
     "COMP610/Selection Sort.md",
     "DSA revision/Synchronization.md",
     "DSA revision/Binary Search.md",
-    "DSA revision/Linear Search.md",
     "DSA revision/*Sample questions.md",
     "DSA revision/Circular Singly LinkedList.md",
     "DSA revision/Time complexity practice.md",
