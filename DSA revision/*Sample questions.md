@@ -2,7 +2,7 @@
 	- Doubly Linkedlist because it offers effiecient node management and it can traverse both directions
 
 - In a stack to ensure O(1) push, pop and peek methods where should the top of the stack be if using an array?
-	- 
+	- To maintain O(1) time complexity for stack when using an array, the top of the stack should be at the end of the array, and the top index should be updated correctly as elements are added or removed
 
 - In a stack to ensure O(1) push, pop and peek methods where should the top of the stack be if using an singly linked list?
 
