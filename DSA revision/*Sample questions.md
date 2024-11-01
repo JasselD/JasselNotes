@@ -11,7 +11,8 @@
 	- Stack because of its FILO/LIFO behavior
 
 - What is the difference between add() method in set and add() method in list?
-	- 
+	- Set add(): Adds an element only if it's not already present; returns true or false
+	- List add(): Alw
 
 - What is the Big O notation
 ```Java
