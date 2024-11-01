@@ -9,6 +9,15 @@
 	 int data;
 	 Node next;
 
-	p
+	public Node(int data) {
+		this.data = data;
+		this.next = null;
+	}
  }
+
+public class JosephusProblem {
+	public static int findPosition(int n, int m) {
+		
+	}
+}
 ```
