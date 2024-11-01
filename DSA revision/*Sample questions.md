@@ -2,7 +2,7 @@
 	- Doubly Linkedlist
 
 - In a stack to ensure O(1) push, pop and peek methods where should the top of the stack be if using an array?
-	- Last
+	- 
 
 - In a stack to ensure O(1) push, pop and peek methods where should the top of the stack be if using an singly linked list?
 
