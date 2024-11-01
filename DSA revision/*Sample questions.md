@@ -8,7 +8,7 @@
 	- To maintain O(1) time complexity for stack when using singly linked list, the top of the stack should be at the head of the singly linked list
 
 - What data structure can be best utilized to reverse the order of a liner collection?
-	- 
+	- Stack because of its FILO/LIFO behavior
 
 - What is the difference between add() method in set and add() method in list?
 
