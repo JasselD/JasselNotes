@@ -17,5 +17,16 @@ public class ListNode {
 
 **Implementation
 ```Java
-public class Doubly
+public class DoublyLinkedlist {
+
+	private class ListNode{
+		private int data;
+		private ListNode previous;
+		private ListNode next;
+
+		public ListNode() {
+			this.data = data;
+		}
+	}
+}
 ```
