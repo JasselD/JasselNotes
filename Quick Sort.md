@@ -1,1 +1,2 @@
-- 
+- Divide and conquer sorting algorithm
+- Time complexity O(n log n)

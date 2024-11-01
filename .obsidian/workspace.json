@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Sorting algorithms.md",
+                "file": "Quick Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sorting algorithms"
+              "title": "Quick Sort"
             }
           },
           {
@@ -287,10 +287,10 @@
   },
   "active": "e9704b86011e346b",
   "lastOpenFiles": [
+    "DSA revision/Sorting algorithms.md",
     "DSA revision/Binary Search.md",
     "DSA revision/Linear Search.md",
     "Quick Sort.md",
-    "DSA revision/Sorting algorithms.md",
     "COMP610/Heap Sort.md",
     "COMP610/Bubble Sort.md",
     "COMP610/Insertion Sort.md",
