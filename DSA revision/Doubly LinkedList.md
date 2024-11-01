@@ -21,6 +21,7 @@ public class DoublyLinkedlist {
 
 	private ListNode head;
 	private ListNode tail;
+	private int length;
 
 	private class ListNode{
 		private int data;
@@ -30,6 +31,12 @@ public class DoublyLinkedlist {
 		public ListNode(int data) {
 			this.data = data;
 		}
+	}
+
+	public DoublyLinked() {
+		this.head = null;
+		this.tail = null;
+		this.length = 0;
 	}
 }
 ```
