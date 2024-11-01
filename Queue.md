@@ -4,6 +4,6 @@
 
 ```Java
 public static void main(String[] args) {
-	
+	Queue<String> queue = new Linkedlist<String>();
 }
 ```
