@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Sample questions.md",
+                "file": "DSA revision/*Sample questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sample questions"
+              "title": "*Sample questions"
             }
           }
         ],
@@ -264,7 +264,7 @@
   "active": "87df640fc6006508",
   "lastOpenFiles": [
     "DSA revision/Circular Singly LinkedList.md",
-    "DSA revision/Sample questions.md",
+    "DSA revision/*Sample questions.md",
     "DSA revision/Time complexity practice.md",
     "DSA revision/LinkedLists.md",
     "DSA revision/Stack.md",
