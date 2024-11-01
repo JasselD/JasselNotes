@@ -1,1 +1,7 @@
--   Iterate through a collection one elem
+- Iterate through a collection one element at a time
+- Time complexity: O(n)
+- Disadvantages:
+	- Slow for large data sets
+- Advantage:
+	- Fast for searches of small to medium data sets
+	- 
