@@ -31,4 +31,4 @@
 // O(n)
 ```
 
-- 
+- Explanation: Linkedlist requires linear time for each an
