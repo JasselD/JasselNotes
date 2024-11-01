@@ -13,7 +13,7 @@
 
 **[[Doubly LinkedList]]
 
-**[[Circular LinkedList]]
+**[[Circular Singly LinkedList]]
 
 **Related
 - [[Array vs Linked List]]
