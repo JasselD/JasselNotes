@@ -7,7 +7,7 @@
 - Uses:
 	- Keyboard buffer
 	- Printer Queue
-	- Used in
+	- Used in LinkedList, Priority Queues, Breadth-first Seach (BFS)
 
 ```Java
 public static void main(String[] args) {
