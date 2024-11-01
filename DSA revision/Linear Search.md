@@ -14,5 +14,7 @@ private static int linearSearch(int[] array, int value) {
 			return i;
 		}
 	}
+
+	return -1;
 }
 ```
