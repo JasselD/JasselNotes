@@ -106,6 +106,34 @@
             }
           },
           {
+            "id": "0c80e00999be08c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "e9704b86011e346b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA revision/Linear Search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Search"
+            }
+          },
+          {
             "id": "87df640fc6006508",
             "type": "leaf",
             "state": {
@@ -116,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -257,10 +285,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eed8a83cf0452739",
+  "active": "e9704b86011e346b",
   "lastOpenFiles": [
-    "DSA revision/Circular Singly LinkedList.md",
+    "Untitled.md",
+    "DSA revision/Linear Search.md",
     "DSA revision/*Sample questions.md",
+    "DSA revision/Circular Singly LinkedList.md",
     "DSA revision/Time complexity practice.md",
     "DSA revision/LinkedLists.md",
     "DSA revision/Stack.md",
@@ -283,8 +313,6 @@
     "DSA revision/Focus.md",
     "COMP610/Selection Sort.md",
     "COMP607/Cloud computing.md",
-    "COMP607/Protected Health Information.md",
-    "COMP607/Personally identifiable information.md",
     "DSA revision",
     "Images/Pasted image 20241027141147.png",
     "Images/Pasted image 20241026232001.png",

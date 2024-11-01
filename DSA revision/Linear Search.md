@@ -1,0 +1,1 @@
+-   Iterate through a collection one elem
