@@ -2,4 +2,6 @@
 
 **Critical section
 - Code segments within a program that access the same variable/resources from separate concurrent threads
-- 
+
+ **Issue can be solved by [[Synchronization]]
+ 
