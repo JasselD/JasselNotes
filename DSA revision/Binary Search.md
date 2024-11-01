@@ -1,1 +1,2 @@
 - Search algorithm that finds the position of the target value within a sorted array 
+- Efficient in large data set
