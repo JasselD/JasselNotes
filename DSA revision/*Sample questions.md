@@ -8,7 +8,7 @@
 
 - What is the difference between add() method in set and add() method in list?
 
-- What is the Big 
+- What is the Big O notation
 ```Java
         String details = "";
         for(int i = 0; i < list.size(); i++) {
@@ -16,4 +16,10 @@
         }
         return details;
     }
+
+// O(n²)
+```
+
+```Java
+
 ```
