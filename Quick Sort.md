@@ -1,5 +1,6 @@
 - Divide and conquer sorting algorithm
 - Time complexity O(n log n)
+- Best way to v
 ```Java
 import java.util.Random;
 
