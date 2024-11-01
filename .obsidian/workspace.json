@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Sort.md",
+                "file": "Merge Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Sort"
+              "title": "Merge Sort"
             }
           },
           {
@@ -288,9 +288,11 @@
   "active": "e9704b86011e346b",
   "lastOpenFiles": [
     "DSA revision/Sorting algorithms.md",
+    "Merge Sort.md",
+    "DSA revision/Stack.md",
+    "Quick Sort.md",
     "DSA revision/Binary Search.md",
     "DSA revision/Linear Search.md",
-    "Quick Sort.md",
     "COMP610/Heap Sort.md",
     "COMP610/Bubble Sort.md",
     "COMP610/Insertion Sort.md",
@@ -300,7 +302,6 @@
     "DSA revision/Circular Singly LinkedList.md",
     "DSA revision/Time complexity practice.md",
     "DSA revision/LinkedLists.md",
-    "DSA revision/Stack.md",
     "DSA revision/Doubly LinkedList.md",
     "DSA revision/Single LinkedList.md",
     "DSA revision/Race condition.md",
@@ -312,7 +313,6 @@
     "COMP610/Big O notation.md",
     "COMP610/Time Complexity.md",
     "COMP603/Encapsulation.md",
-    "COMP603/ArrayList.md",
     "DSA revision",
     "Images/Pasted image 20241027141147.png",
     "Images/Pasted image 20241026232001.png",

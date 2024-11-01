@@ -1,4 +1,4 @@
-- Divide and conquer sorting algorithm
+- Divide and conquer sorting algorithm, recurssive function
 - Time complexity O(n log n)
 - Best way to choose a pivot is by random
 ```Java
