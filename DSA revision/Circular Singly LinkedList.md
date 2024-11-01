@@ -54,3 +54,100 @@ public class JosephusProblem {
 }
 
 ```
+
+**Problem**:  Implement a circular queue with the following operations:
+- `enqueue(x)`: Add an element to the rear of the queue.
+- `dequeue()`: Remove an element from the front of the queue.
+- `isFull()`: Check if the queue is full.
+- `isEmpty()`: Check if the queue is empty.
+```Java
+public class CircularQueue {
+    private int[] queue;
+    private int front;
+    private int rear;
+    private int size;
+
+    public CircularQueue(int capacity) {
+        queue = new int[capacity];
+        front = -1;
+        rear = -1;
+        size = capacity;
+    }
+
+    public boolean isFull() {
+        return (rear + 1) % size == front;
+    }
+
+    public boolean isEmpty() {
+        return front == -1;
+    }
+
+    public void enqueue(int element) {
+        if (isFull()) {
+            System.out.println("Queue is full. Cannot enqueue.");
+            return;
+        }
+
+        if (isEmpty()) {
+            front = 0;
+        }
+
+        rear = (rear + 1) % size;
+        queue[rear] = element;
+    }
+
+    public int dequeue() {
+        if (isEmpty()) {
+            System.out.println("Queue is empty. Cannot dequeue.");
+            return -1;
+        }
+
+        int element = queue[front];
+        if (front == rear) {
+            // Queue becomes empty
+            front = -1;
+            rear = -1;
+        } else {
+            front = (front + 1) % size;
+        }
+
+        return element;
+    }
+
+    public void display() {
+        if (isEmpty()) {
+            System.out.println("Queue is empty.");
+            return;
+        }
+
+        System.out.print("Queue elements: ");
+        int i = front;
+        while (true) {
+            System.out.print(queue[i] + " ");
+            if (i == rear) {
+                break;
+            }
+            i = (i + 1) % size;
+        }
+        System.out.println();
+    }
+
+    public static void main(String[] args) {
+        CircularQueue cq = new CircularQueue(5);
+
+        cq.enqueue(10);
+        cq.enqueue(20);
+        cq.enqueue(30);
+        cq.enqueue(40);
+        cq.display();
+
+        System.out.println("Dequeued element: " + cq.dequeue());
+        cq.display();
+
+        cq.enqueue(50);
+        cq.enqueue(60);
+        cq.display();
+    }
+}
+```
+
