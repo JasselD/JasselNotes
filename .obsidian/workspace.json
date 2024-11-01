@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Doubly LinkedList.md",
+                "file": "DSA revision/LinkedLists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Doubly LinkedList"
+              "title": "LinkedLists"
             }
           }
         ],
@@ -249,9 +249,10 @@
   },
   "active": "eed8a83cf0452739",
   "lastOpenFiles": [
-    "DSA revision/Synchronization.md",
+    "DSA revision/Single LinkedList.md",
     "DSA revision/LinkedLists.md",
     "DSA revision/Doubly LinkedList.md",
+    "DSA revision/Synchronization.md",
     "DSA revision/Race condition.md",
     "DSA revision/Stack.md",
     "DSA revision/Time complexity practice.md",
@@ -274,7 +275,6 @@
     "COMP607/Personally identifiable information.md",
     "COMP607/Risk Management.md",
     "COMP607/Redundant Sites.md",
-    "COMP607/Focus.md",
     "DSA revision",
     "Images/Pasted image 20241027141147.png",
     "Images/Pasted image 20241026232001.png",

@@ -1,2 +1,5 @@
 - Two way linked list, can traverse forwards and backwards
-- 
+- ListNode in Doubly linked list
+	- previous
+	- data
+	- next
