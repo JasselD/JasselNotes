@@ -10,16 +10,23 @@
 
 - What is the Big O notation
 ```Java
+    public static String toString(LinkedList<Integer> list) {
         String details = "";
         for(int i = 0; i < list.size(); i++) {
             details += list.get(i) + "";
         }
         return details;
     }
-
 // O(n²)
 ```
 
 ```Java
-
+    public static String toString(ArrayList<Integer> list) {
+        String details = "";
+        for(int i = 0; i < list.size(); i++) {
+            details += list.get(i) + "";
+        }
+        return details;
+    }
+// O(n)
 ```
