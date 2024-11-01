@@ -3,9 +3,15 @@
 - dequeue (removing)
 - offer(), adding a queue to the tail
 - poll(), removing a queue from the head   
+- 
 
 ```Java
 public static void main(String[] args) {
 	Queue<String> queue = new Linkedlist<String>();
+
+	queue.offer("Karen");
+	queue.offer("Chad");
+	queue.offer("Steve");
+	queue.offer("Harold");
 }
 ```
