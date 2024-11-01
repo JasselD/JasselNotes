@@ -3,7 +3,7 @@
 - dequeue (removing)
 - offer(), adding a queue to the tail
 - poll(), removing a queue from the head   
-- 
+- peek(), peek at the head of the queue
 
 ```Java
 public static void main(String[] args) {
@@ -13,5 +13,7 @@ public static void main(String[] args) {
 	queue.offer("Chad");
 	queue.offer("Steve");
 	queue.offer("Harold");
+
+	queue.poll(); // Will remove the cur
 }
 ```
