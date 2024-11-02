@@ -86,7 +86,7 @@ correct
 incorrect, char cannot synchronize 
 
 •synchronize ( “I am always correct!”) { … //critical session}
-wrong
+incorrect, if you syncho
 
 •synchronize ( new String (“I am a monitor object”)) { … //critical session}
 wrong
