@@ -1,2 +1,4 @@
 - BST
-- Time comp
+- Time complexity O(log n)
+- Time complexity of building a binary tree is O (n log n)
+- 
