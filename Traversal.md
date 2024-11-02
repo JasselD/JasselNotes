@@ -70,4 +70,9 @@ private void traverseTree(Node root) {
 	- Enqueue front node's left child 
 	- Enqueue front node's right child
 	- Dequeue front node and repeat loop
-- 
+
+```Java
+void levelOrderTraversal(Node root) {
+	if(root == null) return;
+}
+```
