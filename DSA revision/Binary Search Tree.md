@@ -10,3 +10,8 @@ public class Node<T extends Comparable<T>> {
 	private Node<T> rightChild;
 }
 ```
+```Java
+public class BinarySeachTree<T extends Comparable<T>> implements Tree<T> {
+	private Node<T> root;
+}
+```
