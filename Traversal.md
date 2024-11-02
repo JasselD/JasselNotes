@@ -12,5 +12,13 @@ public void traversal() {
 	traversal(root);
 }
 
-private void traversal(TreeNode root)
+private void traversal(TreeNode root) {
+	if(root.left != null) {
+		traversal(root.left);
+	}
+	System.out.println(root + ", ");
+	if(root.right != null) {
+		traversal(root.right))
+	}
+}
 ```
