@@ -103,5 +103,6 @@ incorrect, this creates a new string object every time it's executed, so no othe
 	- Max nodes = 2^(n+1)−1, a binary tree at height n has n + 1 levels and each level i can have 2^i nodes.
 
 - What is the max number of leaves a balanced binary tree can have if the trees height is n ?
+	- Max leaves = 2^n, this is because in a balanced binary tree, the leaves are located at the last level (level n) and each level of a binary tree can have up to 2
 
 - How many edge does it need to build a tree that has n nodes ?
