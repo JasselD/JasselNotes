@@ -1,0 +1,1 @@
+- Divide and conquer sorting algorithm that divides an array into smaller sub-arrays, sorts them indivi
