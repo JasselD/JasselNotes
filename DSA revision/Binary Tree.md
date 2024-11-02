@@ -1,2 +1,1 @@
-- Time complexity of O (log n)
-- 
+- A tree is called as Binary Tree, if each node has 
