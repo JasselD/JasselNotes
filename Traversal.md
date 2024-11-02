@@ -1,6 +1,7 @@
 ![[Pasted image 20241102235224.png]]
 
 **In-order traversal (LNR)
+Steps:
 - Starting at root
 - Check if current Node not empty
 - Recursively move to left subtree (L)
@@ -25,6 +26,7 @@ private void traversal(TreeNode root) {
 ```
 
 **Post-order traversal (LRN)
+Steps:
 - Starting at root (root is printed at the end)
 - Check if current node not empty
 - Recursively move to left subtree L
@@ -42,6 +44,7 @@ private void traverseTree(Node root) {
 ```
 
 **Pre-oder traversal (NLR)
+Steps:
 - Starting at root (root is printed at the beginning)
 - Check if current node not empty
 - Proccess/visit current node N
@@ -60,4 +63,6 @@ private void traverseTree(Node root) {
 
 **Level-order traversal (Queue)
 - Starts from the root, and goes down level by level from left to right
-- 
+- Steps
+	- Enqueue root
+	- Loop 
