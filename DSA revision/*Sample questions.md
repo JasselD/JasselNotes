@@ -76,7 +76,7 @@
 	- Race condition, this happens when mulitple threads access and modify shared data at the same time. The result can vary depending on the order in which the threads run, leading to incorrect results
 
 - What is a monitor object?
-	- An object that can monitor the access of programs
+	- A monitor is a synchorization contrust that allows threads to have exclusive access to critical sections of code
 
 - Correct?
 •synchronize ( Object my_object) { … //critical session}
