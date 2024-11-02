@@ -38,10 +38,13 @@
 ```
 
 - Explanation: Linkedlist requires linear time for each access, making it inefficient for scenarios where you need to read elements sequentially multiple time, while Arraylist requires constant time access which provides much better performance for toString method
+---
 
 - What is the typical asymptotic complexity (Big O) of binary search?
+	- O(n²)
 
 - Why binary search requires the elements must be sorted?
+	- 
 
 - What is the best way of guessing a number from range of 0 to 1000 by using binary search? What is the maximum number of guesses needed to guess the number?
 
