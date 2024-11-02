@@ -40,7 +40,7 @@
 
 - Explanation: Linkedlist requires linear time for each access, making it inefficient for scenarios where you need to read elements sequentially multiple time, while Arraylist requires constant time access which provides much better performance for toString method
 ---
-
+**Sorting algorithms questions
 - What is the typical asymptotic complexity (Big O) of binary search?
 	- O(log n), because binary search works by dividing the search range in half with each iteration
 
@@ -69,3 +69,23 @@
 
 - What is the asymptotic complexity (Big O) of bin sort?
 	- O(K + n)
+
+---
+**Thread questions
+•What is the biggest issue of multi-thread? What is the name of this issue?
+
+•What is a monitor object?
+
+•Correct?
+
+•synchronize ( Object my_object) { … //critical session}
+
+•synchronize ( char my_char) { … //critical session}
+
+•synchronize ( “I am always correct!”) { … //critical session}
+
+•synchronize ( new String (“I am a monitor object”)) { … //critical session}
+
+•synchronize ( “I am the best!” + Math.random()) { … //critical session}
+
+•Can we put all the code of run() method surround by the synchronize?
