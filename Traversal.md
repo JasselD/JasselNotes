@@ -59,4 +59,5 @@ private void traverseTree(Node root) {
 ```
 
 **Level-order traversal (Queue)
-- Starts
+- Starts from the root, and goes down level by level from left to right
+- 
