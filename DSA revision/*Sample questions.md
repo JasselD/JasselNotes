@@ -102,3 +102,5 @@ incorrect, this creates a new string object every time it's executed, so no othe
 - What is the max number of node a binary tree can have if the trees height is n ?
 
 - What is the max number of leaves a balanced binary tree can have if the trees height is n ?
+
+- How many edge does it need to build a tree that has n nodes ?
