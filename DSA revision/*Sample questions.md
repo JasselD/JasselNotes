@@ -100,6 +100,7 @@ incorrect, this creates a new string object every time it's executed, so no othe
 ---
 **Binary Tree questions
 - What is the max number of node a binary tree can have if the trees height is n ?
+	- Max nodes = 2^(n+1) - 1
 
 - What is the max number of leaves a balanced binary tree can have if the trees height is n ?
 
