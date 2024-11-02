@@ -53,10 +53,12 @@
 	- Selection Sort
 	- Bubble Sort
 	- Insertion Sort
+	- These algorithms have quadratic time complexity 
 
 - Which are the O(〖nlog〗_2⁡n) sorting algorithms we have learnt?
 	- Quick Sort
 	- Merge Sort
+	- Both of these algorithms use divide and conquer approach, recursively splitting the input array
 
 - The asymptotic complexity (Big O) of radix sort is O(kn). What does k mean and what does n mean?
 	- K is the size of the array while n is the sample size
