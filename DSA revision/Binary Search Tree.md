@@ -20,3 +20,11 @@ public class BinarySeachTree<T extends Comparable<T>> implements Tree<T> {
 	}
 }
 ```
+```Java
+@Override
+public T getMin() {
+	if(isEmpty()) {
+		return null
+	}
+}
+```
