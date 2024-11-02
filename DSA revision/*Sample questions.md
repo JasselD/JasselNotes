@@ -61,6 +61,7 @@
 - The asymptotic complexity (Big O) of radix sort is O(kn). What does k mean and what does n mean?
 	- K is the size of the array while n is the sample size
 
-- Does O(kn) always better than O(〖nlog〗_2⁡n) sorting? If there are 8 3 digits numbers needs to be sort, would you use radix sort? How about 8 4 digits numbers? How about 8 2 digits numbers?
+- Does O(kn) always better than O(〖nlog〗_2⁡n) sorting? If there are 83 digits numbers needs to be sort, would you use radix sort? How about 84 digits numbers? How about 82 digits numbers?
 
 - What is the asymptotic complexity (Big O) of bin sort?
+	- O(K + n)
