@@ -76,17 +76,23 @@
 	- Race condition
 
 - What is a monitor object?
-	- Ca
+	- An object that can monitor the access of programs
 
 - Correct?
 •synchronize ( Object my_object) { … //critical session}
+correct
 
 •synchronize ( char my_char) { … //critical session}
+correct
 
 •synchronize ( “I am always correct!”) { … //critical session}
+wrong
 
 •synchronize ( new String (“I am a monitor object”)) { … //critical session}
+wrong
 
 •synchronize ( “I am the best!” + Math.random()) { … //critical session}
+wrong
 
 - Can we put all the code of run() method surround by the synchronize?
+	- No, this will slown down the program
