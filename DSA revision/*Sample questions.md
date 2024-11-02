@@ -1,3 +1,4 @@
+**Data structure questions
 - If a liner collection is often used by adding or removing a node from its head or tail. What is the best option for this liner collection?
 	- Doubly Linkedlist because it offers effiecient node management and it can traverse both directions
 
