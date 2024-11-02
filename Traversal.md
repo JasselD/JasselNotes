@@ -25,4 +25,9 @@ private void traversal(TreeNode root) {
 ```
 
 **Post-order traversal (LRN)
-- Starting at root ()
+- Starting at root (root is printed at the end)
+- Check if current node not empty
+- Recursively move to left subtree L
+- Recursively move to right subtree R
+- Process/visit current node N
+- 
