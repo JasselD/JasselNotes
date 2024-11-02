@@ -3,7 +3,7 @@
 	- left pointer
 	- data
 	- right pointer
-	- leftChild < parent < righ
+	- leftChild < parent < rightChild
 - Time complexity of building a binary tree is O (n log n)
 - How to represent a treenode
 ```Java
