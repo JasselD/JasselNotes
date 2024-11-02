@@ -98,4 +98,7 @@ incorrect, this creates a new string object every time it's executed, so no othe
 	- No, this will slown down the program. Synchronizing the entire run() method can lead to performance issues, especially in multi-threaded environments
 
 ---
-***
+**Binary Tree questions
+- What is the max number of node a binary tree can have if the trees height is n ?
+
+- What is the max number of leaves a balanced binary tree can have if the trees height is n ?
