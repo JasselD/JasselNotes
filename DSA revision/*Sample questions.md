@@ -55,7 +55,7 @@
 	- Insertion Sort
 	- These algorithms have quadratic time complexity 
 
-- Which are the O(〖nlog〗_2⁡n) sorting algorithms we have learnt?
+- Which are the O(n log n) sorting algorithms we have learnt?
 	- Quick Sort
 	- Merge Sort
 	- Both of these algorithms use divide and conquer approach, recursively splitting the input array into smaller subarrays and sorting them
@@ -64,7 +64,7 @@
 	- In radix sort, n is the number of elements to be sorted, while k is the number of digits (or maximum length of the elements)
 
 - Does O(kn) always better than O(〖nlog〗_2⁡n) sorting? If there are 83 digits numbers needs to be sort, would you use radix sort? How about 84 digits numbers? How about 82 digits numbers?
-	- Effiency of ra
+	- Effiency of radix sort depends on the value of k (number of digits) and n (number of elements). For smaller values of k; radix sort can be more efficient than O(n log n)
 
 - What is the asymptotic complexity (Big O) of bin sort?
 	- O(K + n)
