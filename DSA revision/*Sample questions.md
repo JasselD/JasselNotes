@@ -38,3 +38,19 @@
 ```
 
 - Explanation: Linkedlist requires linear time for each access, making it inefficient for scenarios where you need to read elements sequentially multiple time, while Arraylist requires constant time access which provides much better performance for toString method
+
+- What is the typical asymptotic complexity (Big O) of binary search?
+
+- Why binary search requires the elements must be sorted?
+
+- What is the best way of guessing a number from range of 0 to 1000 by using binary search? What is the maximum number of guesses needed to guess the number?
+
+- Which are the O(n^2) sorting algorithms we have learnt?
+
+- Which are the O(〖nlog〗_2⁡n) sorting algorithms we have learnt?
+
+- The asymptotic complexity (Big O) of radix sort is O(kn). What does k mean and what does n mean?
+
+- Does O(kn) always better than O(〖nlog〗_2⁡n) sorting? If there are 8 3 digits numbers needs to be sort, would you use radix sort? How about 8 4 digits numbers? How about 8 2 digits numbers?
+
+- What is the asymptotic complexity (Big O) of bin sort?

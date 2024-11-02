@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bin Sort/Bucket Sort.md",
+                "file": "DSA revision/*Sample questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bucket Sort"
+              "title": "*Sample questions"
             }
           },
           {
@@ -287,10 +287,10 @@
   },
   "active": "e9704b86011e346b",
   "lastOpenFiles": [
+    "Bin Sort/Bucket Sort.md",
     "DSA revision/Sorting algorithms.md",
     "DSA revision/Circular Singly LinkedList.md",
     "DSA revision/Linear Search.md",
-    "Bin Sort/Bucket Sort.md",
     "DSA revision/Synchronization.md",
     "Bin Sort",
     "Bin Sort.md",
