@@ -3,6 +3,7 @@
 	- left pointer
 	- data
 	- right pointer
+- Time complexity of building a binary tree is O (n log n)
 ```Java
 public class TreeNode{
 	private int data;
