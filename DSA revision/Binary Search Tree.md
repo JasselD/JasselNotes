@@ -26,5 +26,6 @@ public T getMin() {
 	if(isEmpty()) {
 		return null
 	}
+	return getMin(root);
 }
 ```
