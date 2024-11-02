@@ -50,5 +50,10 @@ private void traverseTree(Node root) {
 - Root -> left -> right
 
 ```Java
-private void traverseTree
+private void traverseTree(Node root) {
+
+	System.out.println(root.data);
+	traverseTree(root.left);
+	traverseTree(root.right);
+}
 ```
