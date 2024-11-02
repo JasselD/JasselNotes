@@ -5,7 +5,8 @@
 - Check if current Node not empty
 - Recursively move to left subtree (L)
 - Process/visit current node (N)
-- Recursively move to right subtree (R)
+- Recursively move to right subtree (R
+- Left -> root -> right
 
 ```Java
 public void traversal() {
@@ -22,3 +23,6 @@ private void traversal(TreeNode root) {
 	} 
 }
 ```
+
+**Post-order traversal (LRN)
+- Starting at root ()
