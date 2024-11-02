@@ -89,7 +89,7 @@ incorrect, char cannot synchronize
 incorrect, if you synchronize on a string literal, it might accidentally lock other code that uses the same string
 
 •synchronize ( new String (“I am a monitor object”)) { … //critical session}
-incorrect, 
+incorrect, synchronizing on a new String object is pointless because no to
 
 •synchronize ( “I am the best!” + Math.random()) { … //critical session}
 wrong
