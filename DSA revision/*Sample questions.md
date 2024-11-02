@@ -64,7 +64,7 @@
 	- In radix sort, n is the number of elements to be sorted, while k is the number of digits (or maximum length of the elements)
 
 - Does O(kn) always better than O(〖nlog〗_2⁡n) sorting? If there are 83 digits numbers needs to be sort, would you use radix sort? How about 84 digits numbers? How about 82 digits numbers?
-	- Effiency of radix sort depends on the value of k (number of digits) and n (number of elements). For smaller values of k; radix sort can be more efficient than O(n log n). But as K increases, the overhead of sorting each digit may make radix sort slower than O (n log n) sorting algorithms like quick sort or merge sort.
+	- Effiency of radix sort depends on the value of k (number of digits) and n (number of elements). For smaller values of k; radix sort can be more efficient than O(n log n). But as K increases, the overhead of sorting each digit may make radix sort slower than O (n log n) sorting algorithms like quick sort or merge sort. For large digit counts, O (n log n) will be more effiecient
 
 - What is the asymptotic complexity (Big O) of bin sort?
 	- O(K + n)
