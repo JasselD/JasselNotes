@@ -40,3 +40,5 @@ private void traverseTree(Node root) {
 	System.out.println(root.data);
 }
 ```
+
+**Pre-oder traversal (NLR)
