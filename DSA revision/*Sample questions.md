@@ -95,4 +95,4 @@ incorrect, synchronizing on a new String object is pointless because no other th
 incorrect, this creates a new string object every time it's executed, so no other thread will have access to the same monitor
 
 - Can we put all the code of run() method surround by the synchronize?
-	- No, this will slown down the program. Synchronizing
+	- No, this will slown down the program. Synchronizing the entire run() method can lead to performance issues, especially in multi-threaded environments
