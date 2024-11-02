@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bin Sort.md",
+                "file": "DSA revision/Sorting algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bin Sort"
+              "title": "Sorting algorithms"
             }
           },
           {
@@ -287,8 +287,8 @@
   },
   "active": "e9704b86011e346b",
   "lastOpenFiles": [
-    "DSA revision/Sorting algorithms.md",
     "Bin Sort.md",
+    "DSA revision/Sorting algorithms.md",
     "Radix Sort.md",
     "Merge Sort.md",
     "DSA revision/Stack.md",
