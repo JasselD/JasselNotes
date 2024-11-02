@@ -1,1 +1,2 @@
-- Non-comparative sorting algoriuth
+- Non-comparative sorting algorithm that sorts numbers( or strings) by processing individual digits
+- It sorts elements digit by digit, starting from the least significany digit(LSD) to the most significan
