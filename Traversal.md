@@ -80,7 +80,11 @@ void levelOrderTraversal(Node root) {
 	queue.add(root);
 
 	while(!queue.isEmpty()) {
-		Node current = queue.
+		Node current = queue.poll();
+		System.out.println(current.value + " ");
+
+		if(cuurent.left != null) {
+		queue.add}
 	}
 
 ```
