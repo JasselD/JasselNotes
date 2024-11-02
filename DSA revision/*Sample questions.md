@@ -41,10 +41,10 @@
 ---
 
 - What is the typical asymptotic complexity (Big O) of binary search?
-	- O(n²)
+	- O(log n), because binary search works by dividing the search range in half with each iteration
 
 - Why binary search requires the elements must be sorted?
-	- 
+	- Binary search works by comparing the 
 
 - What is the best way of guessing a number from range of 0 to 1000 by using binary search? What is the maximum number of guesses needed to guess the number?
 	- 
