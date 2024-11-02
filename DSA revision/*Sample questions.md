@@ -47,10 +47,15 @@
 	- 
 
 - What is the best way of guessing a number from range of 0 to 1000 by using binary search? What is the maximum number of guesses needed to guess the number?
+	- 
 
 - Which are the O(n^2) sorting algorithms we have learnt?
+	- Selection Sort
+	- Bubble Sort
+	- Insertion Sort
 
 - Which are the O(〖nlog〗_2⁡n) sorting algorithms we have learnt?
+	- 
 
 - The asymptotic complexity (Big O) of radix sort is O(kn). What does k mean and what does n mean?
 
