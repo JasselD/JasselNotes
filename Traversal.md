@@ -47,3 +47,8 @@ private void traverseTree(Node root) {
 - Proccess/visit current node N
 - Recursively move to left subtree L
 - Recursively move to right subtree R
+- Root -> left -> right
+
+```Java
+private void traverseTree
+```
