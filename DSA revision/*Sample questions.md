@@ -47,7 +47,7 @@
 	- Binary search works by comparing the middle element to the target value. If the array is not sorted, there is a chance that the left or right half does not contain the correct element
 
 - What is the best way of guessing a number from range of 0 to 1000 by using binary search? What is the maximum number of guesses needed to guess the number?
-	- The best way is the guess the middle of the range. Each time you guess, based on whether the target is higher ot
+	- The best way is the guess the middle of the range. Each time you guess, based on whether the target is higher or lower, you can eliminate half the remaining numbers. The maximum number of guesses is log2[1000] = 10. In the worst case, you would need 10 guesses to guess a number from 0 to 1000
 
 - Which are the O(n^2) sorting algorithms we have learnt?
 	- Selection Sort
