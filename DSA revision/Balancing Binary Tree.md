@@ -1,0 +1,1 @@
+- A tree is said to be "balanced"
