@@ -84,7 +84,13 @@ void levelOrderTraversal(Node root) {
 		System.out.println(current.value + " ");
 
 		if(cuurent.left != null) {
-		queue.add}
+		queue.add(current.left);
+		}
+
+		if(current.right != null) {
+			queue.add(current.right);
+		}
 	}
+}
 
 ```
