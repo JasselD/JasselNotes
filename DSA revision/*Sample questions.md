@@ -89,10 +89,10 @@ incorrect, char cannot synchronize
 incorrect, if you synchronize on a string literal, it might accidentally lock other code that uses the same string
 
 •synchronize ( new String (“I am a monitor object”)) { … //critical session}
-incorrect, synchronizing on a new String object is pointless because no to
+incorrect, synchronizing on a new String object is pointless because no other threads will use the same object
 
 •synchronize ( “I am the best!” + Math.random()) { … //critical session}
-wrong
+incorrect, this creates a new string object every time it's executed, so no other thread will have access to the same monitor
 
 - Can we put all the code of run() method surround by the synchronize?
 	- No, this will slown down the program
