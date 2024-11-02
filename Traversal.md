@@ -30,4 +30,10 @@ private void traversal(TreeNode root) {
 - Recursively move to left subtree L
 - Recursively move to right subtree R
 - Process/visit current node N
-- 
+- Left -> right -> root
+
+```Java
+private void traverseTree(Node root) {
+
+}
+```
