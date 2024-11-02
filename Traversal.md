@@ -75,4 +75,12 @@ private void traverseTree(Node root) {
 void levelOrderTraversal(Node root) {
 	if(root == null) return;
 }
+
+	Queue<Node> queue = new Linkedlist<>();
+	queue.add(root);
+
+	while(!queue.isEmpty()) {
+		Node current = queue.
+	}
+
 ```
