@@ -1,5 +1,11 @@
 - A tree is called as Binary Tree, if each node has zero, one or two children
 - TreeNode
-	- left
+	- left pointer
 	- data
-	- right
+	- right pointer
+```Java
+public class TreeNode{
+	private int data;
+	private 
+}
+```
