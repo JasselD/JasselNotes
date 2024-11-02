@@ -83,7 +83,7 @@
 correct
 
 •synchronize ( char my_char) { … //critical session}
-correct
+incorrect, char cannot synchronize 
 
 •synchronize ( “I am always correct!”) { … //critical session}
 wrong
