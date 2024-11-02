@@ -55,9 +55,11 @@
 	- Insertion Sort
 
 - Which are the O(〖nlog〗_2⁡n) sorting algorithms we have learnt?
-	- 
+	- Quick Sort
+	- Merge Sort
 
 - The asymptotic complexity (Big O) of radix sort is O(kn). What does k mean and what does n mean?
+	- K is the size of the array while n is the sample size
 
 - Does O(kn) always better than O(〖nlog〗_2⁡n) sorting? If there are 8 3 digits numbers needs to be sort, would you use radix sort? How about 8 4 digits numbers? How about 8 2 digits numbers?
 
