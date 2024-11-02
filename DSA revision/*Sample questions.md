@@ -72,12 +72,13 @@
 
 ---
 **Thread questions
-•What is the biggest issue of multi-thread? What is the name of this issue?
+- What is the biggest issue of multi-thread? What is the name of this issue?
+	- Race condition
 
-•What is a monitor object?
+- What is a monitor object?
+	- Ca
 
-•Correct?
-
+- Correct?
 •synchronize ( Object my_object) { … //critical session}
 
 •synchronize ( char my_char) { … //critical session}
@@ -88,4 +89,4 @@
 
 •synchronize ( “I am the best!” + Math.random()) { … //critical session}
 
-•Can we put all the code of run() method surround by the synchronize?
+- Can we put all the code of run() method surround by the synchronize?
