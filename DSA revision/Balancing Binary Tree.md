@@ -1,1 +1,1 @@
-- A tree is said to be "balanced"
+- A tree is said to be "balanced" if all leaf nodes are within at least one level of each other, "unbalanced" if there are any two leaf nodes that are more than one level apart, or "degenerate" if every node has only at most one child
