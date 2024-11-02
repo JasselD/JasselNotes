@@ -18,7 +18,7 @@ private void traversal(TreeNode root) {
 	}
 	System.out.println(root + ", ");
 	if(root.right != null) {
-		traversal(root.right))
-	}
+		traversal(root.right);
+	} 
 }
 ```
