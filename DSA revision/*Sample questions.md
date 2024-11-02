@@ -86,10 +86,10 @@ correct
 incorrect, char cannot synchronize 
 
 •synchronize ( “I am always correct!”) { … //critical session}
-incorrect, if you syncho
+incorrect, if you synchronize on a string literal, it might accidentally lock other code that uses the same string
 
 •synchronize ( new String (“I am a monitor object”)) { … //critical session}
-wrong
+incorrect, 
 
 •synchronize ( “I am the best!” + Math.random()) { … //critical session}
 wrong
