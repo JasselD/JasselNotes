@@ -162,6 +162,20 @@
             }
           },
           {
+            "id": "f12f4dd8c2e6de7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA revision/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "87df640fc6006508",
             "type": "leaf",
             "state": {
@@ -172,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -313,11 +327,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a00406b49153607",
+  "active": "3deee57fba1c68d3",
   "lastOpenFiles": [
+    "COMP610/Radix Sort.md",
+    "DSA revision/Untitled.md",
+    "DSA revision/*Sample questions.md",
     "DSA revision/Binary Tree.md",
     "DSA revision/Tree.md",
-    "DSA revision/*Sample questions.md",
     "Bin Sort/Bucket Sort.md",
     "DSA revision/Sorting algorithms.md",
     "DSA revision/Circular Singly LinkedList.md",
@@ -325,10 +341,9 @@
     "DSA revision/Synchronization.md",
     "Bin Sort",
     "Bin Sort.md",
-    "Radix Sort.md",
-    "Merge Sort.md",
+    "COMP610/Merge Sort.md",
     "DSA revision/Stack.md",
-    "Quick Sort.md",
+    "COMP610/Quick Sort.md",
     "DSA revision/Binary Search.md",
     "COMP610/Heap Sort.md",
     "COMP610/Bubble Sort.md",
@@ -341,7 +356,6 @@
     "DSA revision/Race condition.md",
     "DSA revision/Queue.md",
     "COMP610/Adding a node to start of a list.md",
-    "COMP610/Array vs Linked List.md",
     "DSA revision",
     "Images/Pasted image 20241027141147.png",
     "Images/Pasted image 20241026232001.png",
