@@ -65,4 +65,9 @@ private void traverseTree(Node root) {
 - Starts from the root, and goes down level by level from left to right
 - Steps
 	- Enqueue root
-	- Loop 
+	- Loop while queue not empty
+	- Get reference to front node in queue
+	- Enqueue front node's left child 
+	- Enqueue front node's right child
+	- Dequeue front node and repeat loop
+- 
