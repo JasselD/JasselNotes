@@ -29,3 +29,5 @@ public T getMin() {
 	return getMin(root);
 }
 ```
+
+[[Traversal]]
