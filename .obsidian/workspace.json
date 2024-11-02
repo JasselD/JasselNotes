@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Sorting algorithms.md",
+                "file": "Bin Sort/Bucket Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sorting algorithms"
+              "title": "Bucket Sort"
             }
           },
           {
@@ -287,21 +287,23 @@
   },
   "active": "e9704b86011e346b",
   "lastOpenFiles": [
-    "Bin Sort.md",
     "DSA revision/Sorting algorithms.md",
+    "DSA revision/Circular Singly LinkedList.md",
+    "DSA revision/Linear Search.md",
+    "Bin Sort/Bucket Sort.md",
+    "DSA revision/Synchronization.md",
+    "Bin Sort",
+    "Bin Sort.md",
     "Radix Sort.md",
     "Merge Sort.md",
     "DSA revision/Stack.md",
     "Quick Sort.md",
     "DSA revision/Binary Search.md",
-    "DSA revision/Linear Search.md",
     "COMP610/Heap Sort.md",
     "COMP610/Bubble Sort.md",
     "COMP610/Insertion Sort.md",
     "COMP610/Selection Sort.md",
-    "DSA revision/Synchronization.md",
     "DSA revision/*Sample questions.md",
-    "DSA revision/Circular Singly LinkedList.md",
     "DSA revision/Time complexity practice.md",
     "DSA revision/LinkedLists.md",
     "DSA revision/Doubly LinkedList.md",
@@ -312,7 +314,6 @@
     "COMP610/Array vs Linked List.md",
     "COMP610/Creating a node in a singly linked list.md",
     "COMP610/Recursion.md",
-    "COMP610/Big O notation.md",
     "DSA revision",
     "Images/Pasted image 20241027141147.png",
     "Images/Pasted image 20241026232001.png",
