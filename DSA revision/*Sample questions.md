@@ -44,7 +44,7 @@
 	- O(log n), because binary search works by dividing the search range in half with each iteration
 
 - Why binary search requires the elements must be sorted?
-	- Binary search works by comparing the middle element to the target value. If the array is not sorted, there is a chance that the left or right half does not contain the correct ee
+	- Binary search works by comparing the middle element to the target value. If the array is not sorted, there is a chance that the left or right half does not contain the correct element
 
 - What is the best way of guessing a number from range of 0 to 1000 by using binary search? What is the maximum number of guesses needed to guess the number?
 	- 
