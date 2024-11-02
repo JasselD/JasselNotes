@@ -13,5 +13,10 @@ public class Node<T extends Comparable<T>> {
 ```Java
 public class BinarySeachTree<T extends Comparable<T>> implements Tree<T> {
 	private Node<T> root;
+
+	@Override
+	public boolean isEmpty() {
+		return root == null;
+	}
 }
 ```
