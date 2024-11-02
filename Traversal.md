@@ -42,3 +42,8 @@ private void traverseTree(Node root) {
 ```
 
 **Pre-oder traversal (NLR)
+- Starting at root (root is printed at the beginning)
+- Check if current node not empty
+- Proccess/visit current node N
+- Recursively move to left subtree L
+- Recursively move to right subtree R
