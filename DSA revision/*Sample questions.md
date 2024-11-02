@@ -73,7 +73,7 @@
 ---
 **Thread questions
 - What is the biggest issue of multi-thread? What is the name of this issue?
-	- Race condition, this happens when mulitple threads access and modify shared data 
+	- Race condition, this happens when mulitple threads access and modify shared data at the same time. The result can vary depending on the order in which the threads run, leading to incorrect results
 
 - What is a monitor object?
 	- An object that can monitor the access of programs
