@@ -96,3 +96,6 @@ incorrect, this creates a new string object every time it's executed, so no othe
 
 - Can we put all the code of run() method surround by the synchronize?
 	- No, this will slown down the program. Synchronizing the entire run() method can lead to performance issues, especially in multi-threaded environments
+
+---
+***

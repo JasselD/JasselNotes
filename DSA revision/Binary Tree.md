@@ -31,7 +31,7 @@ public class BinaryTree {
             this.data = data;
         }
     }
-	// Create Node and
+	// Create Node and assign location
     public void createBinaryTree() {
         TreeNode first = new TreeNode(1);
         TreeNode second = new TreeNode(2);
