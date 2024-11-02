@@ -35,5 +35,8 @@ private void traversal(TreeNode root) {
 ```Java
 private void traverseTree(Node root) {
 
+	traverseTree(root.left);
+	traverseTree(root.right);
+	System.out.println(root.data);
 }
 ```
