@@ -19,4 +19,6 @@
 	- Right-left rotation (RL rotation) 
 		- combination of a right rotation followed by a left rotation, used when the right subtree of a node is left-heavy
 		- ![[Pasted image 20241103171252.png]]
-- 
+- Example:
+	- ![[Pasted image 20241103171534.png]]
+	- 
