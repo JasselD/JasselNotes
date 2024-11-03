@@ -5,3 +5,4 @@
 - A max/descending heap
 	- leftChild < parent > rightChild
 	- parent is greater than children
+	-
