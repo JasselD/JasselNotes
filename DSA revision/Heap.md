@@ -6,5 +6,7 @@
 
 [[Heap Rules]]
 
+[[Heapify]]
+
 
 
