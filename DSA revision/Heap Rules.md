@@ -17,6 +17,7 @@
 - Deletion
 	- Only can delete root node
 	- Last node will replace the root node
+	- Adjust the tree after
 
 **Min Heap
 - A min/ascending heap
