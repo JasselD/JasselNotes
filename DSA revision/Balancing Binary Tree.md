@@ -7,3 +7,5 @@
 	- bf = hl - hr = {-1, 0, 1}
 - **Rotations
 	- !!!Rotation is only done 3 nodes at a time
+	- Single right rotation (LL rotation)
+		- 
