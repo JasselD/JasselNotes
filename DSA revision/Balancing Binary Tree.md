@@ -3,6 +3,7 @@
 **AVL Trees
 - A type of self-balancing BST
 - Ensures that the heights of subtress of any node differ by at most 1, making it a height-balanced binary tree
-- balance fc
+- balance factor = height of left subtree - height of right subtree
+	- bf = hl - hr = {-1, 0, 1}
 - **Rotations
 	- !!!Rotation is only done 3 nodes at a time
