@@ -117,4 +117,4 @@ incorrect, this creates a new string object every time it's executed, so no othe
 	- No, the number of nodes are the same before and after balancing a tree
 
 - In-order traversal usually prints node in the order of the values from lowest to highest. How to prints node in the order of the values from highest to lowest?
-	- 
+	- To print nodes of a binary search tree in the order 
