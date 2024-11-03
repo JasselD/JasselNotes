@@ -1,5 +1,7 @@
 - Non-linear collection and is a binary tree where each node has only at most k=2 children
 - A min/ascending heap
-	- leftChild < parent > rightChild
+	- leftChild > parent < rightChild
+	- parent is less than children
 - A max/descending heap
-	- left
+	- leftChild < parent > rightChild
+	- parent is greater than children
