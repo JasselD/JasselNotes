@@ -16,6 +16,7 @@
 	- Big O is O (log n) (O(1) if no need to adjust)
 - Deletion
 	- Only can delete root node
+	- Last node will replace the root node
 
 **Min Heap
 - A min/ascending heap
