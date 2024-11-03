@@ -10,4 +10,6 @@
 	- If the nodes on the structure is in an array, there should not be any gaps in between nodes
 	- There should not be any missing nodes in the level before
 	- ![[Pasted image 20241103225824.png]]
-	- Big O for complete 
+	- Big O for complete binary tree is log n
+
+**Max Heap
