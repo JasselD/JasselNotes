@@ -193,12 +193,14 @@
             "id": "07f25555996a9049",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20241103173510.png"
+                "file": "DSA revision/Heaps.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241103173510"
+              "icon": "lucide-file",
+              "title": "Heaps"
             }
           },
           {
@@ -355,16 +357,17 @@
   },
   "active": "07f25555996a9049",
   "lastOpenFiles": [
+    "Self notes.md",
+    "Images/Pasted image 20241103173510.png",
     "Untitled.md",
     "DSA revision/*Sample questions.md",
     "DSA revision/Balancing Binary Tree.md",
-    "Pasted image 20241103173510.png",
-    "Pasted image 20241103171534.png",
-    "Pasted image 20241103171252.png",
+    "Images/Pasted image 20241103171534.png",
+    "Images/Pasted image 20241103171252.png",
     "Images/Pasted image 20241103171033.png",
     "Images/Pasted image 20241103165555.png",
     "Images/Pasted image 20241103165143.png",
-    "DSA revision/Untitled.md",
+    "DSA revision/Heaps.md",
     "DSA revision/Traversal.md",
     "DSA revision/Queue.md",
     "DSA revision/Tree.md",
@@ -388,7 +391,6 @@
     "DSA revision/Binary Search.md",
     "COMP610/Heap Sort.md",
     "COMP610/Bubble Sort.md",
-    "COMP610/Insertion Sort.md",
     "DSA revision",
     "Images/Pasted image 20241027141147.png",
     "Images/Pasted image 20241026232001.png",
