@@ -107,3 +107,5 @@ incorrect, this creates a new string object every time it's executed, so no othe
 
 - How many edge does it need to build a tree that has n nodes ?
 	- Each node has a parent which needs one edge except root. So n - 1
+
+---

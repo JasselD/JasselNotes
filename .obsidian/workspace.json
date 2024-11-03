@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Balancing Binary Tree.md",
+                "file": "DSA revision/*Sample questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Balancing Binary Tree"
+              "title": "*Sample questions"
             }
           },
           {
@@ -343,6 +343,7 @@
   },
   "active": "290e21c8d46f2a61",
   "lastOpenFiles": [
+    "DSA revision/Balancing Binary Tree.md",
     "Pasted image 20241103173510.png",
     "Pasted image 20241103171534.png",
     "Pasted image 20241103171252.png",
@@ -353,7 +354,6 @@
     "DSA revision/Traversal.md",
     "DSA revision/Queue.md",
     "DSA revision/Tree.md",
-    "DSA revision/Balancing Binary Tree.md",
     "DSA revision/Binary Search Tree.md",
     "Images/Pasted image 20241102235224.png",
     "DSA revision/Binary Tree.md",
@@ -379,7 +379,6 @@
     "DSA revision",
     "Images/Pasted image 20241027141147.png",
     "Images/Pasted image 20241026232001.png",
-    "Images/Pasted image 20241026230205.png",
-    "Images/Pasted image 20241026004625.png"
+    "Images/Pasted image 20241026230205.png"
   ]
 }
