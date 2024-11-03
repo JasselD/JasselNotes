@@ -5,4 +5,6 @@
 - A max/descending heap
 	- leftChild < parent > rightChild
 	- parent is greater than children
-	-
+- **Structure must be complete
+	- If the nodes on the structure is in an array, there should not be any gaps in between nodes
+	- 
