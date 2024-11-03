@@ -1,4 +1,4 @@
-- A FIFO data structi
+- A FIFO data structure that serves elements with the highest priority first before elements with lower priority
 
 **Min Heap
 - Smaller number, higher priority

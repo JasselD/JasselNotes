@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Priority Queue.md",
+                "file": "DSA revision/Queue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Priority Queue"
+              "title": "Queue"
             }
           },
           {
@@ -357,9 +357,9 @@
   },
   "active": "07f25555996a9049",
   "lastOpenFiles": [
+    "DSA revision/Priority Queue.md",
     "DSA revision/Queue.md",
     "[Priority Queue.md",
-    "DSA revision/Priority Queue.md",
     "DSA revision/Heap.md",
     "DSA revision/Heap Rules.md",
     "DSA revision/Balancing Binary Tree.md",
