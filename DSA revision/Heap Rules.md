@@ -7,4 +7,5 @@
 	- parent is greater than children
 - **Structure must be complete
 	- If the nodes on the structure is in an array, there should not be any gaps in between nodes
+	- ![[Pasted image 20241103225824.png]]
 	- 
