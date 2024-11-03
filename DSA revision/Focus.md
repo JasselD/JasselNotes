@@ -14,23 +14,13 @@
 - how to balance avl trees,
 - how the 3 types of dfs traversals work (preorder, inorder, postorder) 
 - the different sorting algorithms and their time complexities
-- Part A
-
-40 multichoice, followed by 6 written questions (40 marks + 30 marks)
-
-Part B
-
-choose 3 out of the 4 questions? ( 30 marks, 10 marks per question)
-
-time complexity of the different linkedlist, array, sets, stack, queue, heaps
-
-remember sets are O(n) implemented with array and linkedlist
-
-know how to use either merge sort or quick sort for O(nlogn) time complexity
-
-know both linear search and binary search (also know the mathematical equation to prove both)
-
-linear search = $(n⋅(n+1)​)/2n$
+- Part A 40 multichoice, followed by 6 written questions (40 marks + 30 marks)
+- Part B choose 3 out of the 4 questions? ( 30 marks, 10 marks per question)
+- time complexity of the different linkedlist, array, sets, stack, queue, heaps
+- remember sets are O(n) implemented with array and linkedlist
+- know how to use either merge sort or quick sort for O(nlogn) time complexity
+- know both linear search and binary search (also know the mathematical equation to prove both)
+- linear search = $(n⋅(n+1)​)/2n$
 
 binary search = (1/(2^k)n = 1
 
