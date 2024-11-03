@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heapify.md",
+                "file": "DSA revision/Priority Queue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heapify"
+              "title": "Priority Queue"
             }
           },
           {
@@ -358,8 +358,10 @@
   "active": "07f25555996a9049",
   "lastOpenFiles": [
     "DSA revision/Heap.md",
-    "Heapify.md",
+    "DSA revision/Priority Queue.md",
     "DSA revision/Heap Rules.md",
+    "DSA revision/Balancing Binary Tree.md",
+    "Heapify.md",
     "DSA revision/Traversal.md",
     "DSA revision/Focus.md",
     "DSA revision/Race condition.md",
@@ -367,7 +369,6 @@
     "Self notes.md",
     "Images/Pasted image 20241103173510.png",
     "DSA revision/*Sample questions.md",
-    "DSA revision/Balancing Binary Tree.md",
     "Images/Pasted image 20241103171534.png",
     "Images/Pasted image 20241103171252.png",
     "Images/Pasted image 20241103171033.png",
@@ -391,7 +392,6 @@
     "Bin Sort.md",
     "COMP610/Merge Sort.md",
     "DSA revision/Stack.md",
-    "COMP610/Quick Sort.md",
     "DSA revision",
     "Images/Pasted image 20241027141147.png",
     "Images/Pasted image 20241026232001.png"
