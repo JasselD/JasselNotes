@@ -7,13 +7,13 @@
 	- bf = hl - hr = {-1, 0, 1}
 - **Rotations
 	- !!!Rotation is only done 3 nodes at a time
-	- Single right rotation (LL rotation)
+	- **Single right rotation (LL rotation)
 		- Used when a left-heavy tree needs to rebalance
 		- ![[Pasted image 20241103165143.png]]
-	- Single left rotation (LR rotation)
+	- **Single left rotation (LR rotation)
 		- Combination of a left rotation followed by a right rotation, used when the left subtree of a node is right-heavy
 		- ![[Pasted image 20241103165555.png]]
-	- Single left rotation (RR rotation)
+	- **Single left rotation (RR rotation)
 		- Used when a right-heavy tree needs rebalancing
 		- ![[Pasted image 20241103171033.png]]
 	- Right-left rotation (RL rotation) 
