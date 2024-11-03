@@ -1,0 +1,1 @@
+- Non-linear collection and is a binary tree where each node has only at most k=2 children
