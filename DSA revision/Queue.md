@@ -27,3 +27,5 @@ public static void main(String[] args) {
 	queue.contains("Harold"); // Will show if object is in the queue or not but not the position
 }
 ```
+
+[[[Priority Queue]]]
