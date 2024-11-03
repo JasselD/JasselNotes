@@ -1,8 +1,5 @@
 - Non-linear collection and is a binary tree where each node has only at most k=2 children
-- Balanced
-- A min/ascending heap
-	- leftChild > parent < rightChild
-	- parent is less than children
+- Balanced tree and Complete/Full tree
 - **Structure must be complete
 	- If the nodes on the structure is in an array, there should not be any gaps in between nodes
 	- There should not be any missing nodes in the level before
@@ -13,5 +10,10 @@
 - A max/descending heap
 	- leftChild < parent > rightChild
 	- parent is greater than children
+- Insertion
+	- 
 
-**
+**Min Heap
+- A min/ascending heap
+	- leftChild > parent < rightChild
+	- parent is less than children
