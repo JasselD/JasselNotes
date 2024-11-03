@@ -111,6 +111,7 @@ incorrect, this creates a new string object every time it's executed, so no othe
 ---
 **Binary Search Tree questions
 - What is the complexity (big O) of using a binary tree to sort numbers?
+	- In a balanced bst, the big O is O(n log n). While, th
 
 - Does balancing a tree save memory?
 
