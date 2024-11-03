@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Heaps.md",
+                "file": "DSA revision/Heap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heaps"
+              "title": "Heap"
             }
           },
           {
@@ -367,7 +367,7 @@
     "Images/Pasted image 20241103171033.png",
     "Images/Pasted image 20241103165555.png",
     "Images/Pasted image 20241103165143.png",
-    "DSA revision/Heaps.md",
+    "DSA revision/Heap.md",
     "DSA revision/Traversal.md",
     "DSA revision/Queue.md",
     "DSA revision/Tree.md",
