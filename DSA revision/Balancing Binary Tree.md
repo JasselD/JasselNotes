@@ -11,6 +11,6 @@
 		- Used when a left-heavy tree needs to rebalance
 		- ![[Pasted image 20241103165143.png]]
 	- Single left rotation (LR rotation)
-		- Combination of a left rotation followed by a right rotation
+		- Combination of a left rotation followed by a right rotation, used when the left subtree of a node is right-heavyn 
 		- ![[Pasted image 20241103165555.png]]
 	- 
