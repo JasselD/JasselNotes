@@ -8,4 +8,5 @@
 - **Rotations
 	- !!!Rotation is only done 3 nodes at a time
 	- Single right rotation (LL rotation)
-		- 
+		- ![[Pasted image 20241103165143.png]]
+	- 
