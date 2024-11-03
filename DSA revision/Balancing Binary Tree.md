@@ -21,4 +21,5 @@
 		- ![[Pasted image 20241103171252.png]]
 - Example:
 	- ![[Pasted image 20241103171534.png]]
-	- 
+	- ![[Pasted image 20241103173510.png]]
+	
