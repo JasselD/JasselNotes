@@ -109,3 +109,9 @@ incorrect, this creates a new string object every time it's executed, so no othe
 	- Each node has a parent which needs one edge except root. So n - 1
 
 ---
+**Binary Search Tree questions
+- What is the complexity (big O) of using a binary tree to sort numbers?
+
+- Does balancing a tree save memory?
+
+- In-order traversal usually prints node in the order of the values from lowest to highest. How to prints node in the order of the values from highest to lowest?
