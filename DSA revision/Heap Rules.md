@@ -11,10 +11,11 @@
 	- leftChild < parent > rightChild
 	- parent is greater than children
 - Insertion
-	- FIrst add element to the correct leaf
-	- Then adjust the element
+	- FIrst add node to the correct leaf
+	- Then adjust the node
 	- Big O is O (log n) (O(1) if no need to adjust)
-	- 
+- Deletion
+	- Only can delete root node
 
 **Min Heap
 - A min/ascending heap
