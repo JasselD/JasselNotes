@@ -11,4 +11,6 @@
 		- Used when a left-heavy tree needs to rebalance
 		- ![[Pasted image 20241103165143.png]]
 	- Single left rotation (RR rotation)
-		- used when a right-heavy tree needs rebalancing
+		- Used when a right-heavy tree needs rebalancing
+		- ![[Pasted image 20241103165555.png]]
+	- 
