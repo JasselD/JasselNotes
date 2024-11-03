@@ -2,4 +2,4 @@
 - Queue and Priority Queue
 - Heap array
 - AVL
-- 
+- 2. the stuff u did in all the labs, big O notation for data structures and their methods, may be a part on synchronization (you prob just synchronize an object should be pretty easy), learn the construction of the data structures, maybe include circular array too, learn either merge or quick sort (we were given a choice between the 2 last sem), know how to read functions and determine the time complexity (be careful with this because theyll prob chuck in a O(n) method so a single for loop can be O(n^2), know how hasmaps and hashsets work and how the hashcode assigne works, LIFO / FIFO (stack / queue), how to balance avl trees, how the 3 types of dfs traversals work (preorder, inorder, postorder) the different sorting algorithms and their time complexities
