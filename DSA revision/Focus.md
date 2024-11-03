@@ -30,5 +30,4 @@
 - know min heap and max heap
 - AVL tree : know how to build a binary tree too, use numbers for avl, rotate avl
 - non multichoice: implement a list with arrays (arraylist and its functions, allocatesize() method is provided)
-
-implement a linkedlist with functions
+- implement a linkedlist with functions
