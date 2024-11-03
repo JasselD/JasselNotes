@@ -11,6 +11,9 @@
 	- leftChild < parent > rightChild
 	- parent is greater than children
 - Insertion
+	- FIrst add element to the correct leaf
+	- Then adjust the element
+	- Big O is O (log n) (O(1) if no need to adjust)
 	- 
 
 **Min Heap
