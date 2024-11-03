@@ -4,3 +4,4 @@
 - A type of self-balancing BST
 - Ensures that the heights of subtress of any node differ by at most 1, making it a height-balanced binary tree
 - **Rotations
+	- !!!Rotation is only done 3 nodes at a time
