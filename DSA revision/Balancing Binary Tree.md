@@ -10,7 +10,7 @@
 	- Single right rotation (LL rotation)
 		- Used when a left-heavy tree needs to rebalance
 		- ![[Pasted image 20241103165143.png]]
-	- Single left rotation (RR rotation)
-		- Used when a right-heavy tree needs rebalancing
+	- Single left rotation (LR rotation)
+		- Combination of a left rotation followed by a right rotation
 		- ![[Pasted image 20241103165555.png]]
 	- 
