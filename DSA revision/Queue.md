@@ -1,4 +1,4 @@
-- FIFO/LILO data structure, a collection designed for holding elements prior to processing Linear data structure
+ - FIFO/LILO data structure, a collection designed for holding elements prior to processing Linear data structure
 - enqueue (adding)
 - dequeue (removing)
 - offer(), adding a queue to the tail
