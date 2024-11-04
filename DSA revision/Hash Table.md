@@ -3,4 +3,4 @@
 	- Hash code is distinct for all objects of a class
 	- If two different objects have the same hash code then there has been a collision
 - Disadvantage
-	- If array gets full and need to expand capacity, you will need to copy all the elements over to t
+	- If array gets full and need to expand capacity, you will need to copy all the elements over to the new array and recalculate all the hash codes
