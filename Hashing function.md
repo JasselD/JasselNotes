@@ -1,1 +1,2 @@
 - Function that assigns integer values to objects
+- This interger is often referred to as the hash code of an object
