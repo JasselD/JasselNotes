@@ -4,3 +4,7 @@
 	- If two different objects have the same hash code then there has been a collision
 - Disadvantage
 	- If array gets full and need to expand capacity, you will need to copy all the elements over to the new array and recalculate all the hash codes
+- ![[Pasted image 20241104154724.png]]
+
+**Chaining
+- Maintain a table of singly linked lists. Elements that collide are just put into the linked list. Since order is not important, new
