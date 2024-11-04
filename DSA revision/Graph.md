@@ -1,0 +1,2 @@
+- Non-linear collection comprised of a set of verticles(nodes) and a set of edges(links which connect two nodes together)
+- 
