@@ -1,4 +1,6 @@
 - BFS
 - Visiting a vertex
 - Exploration of vertex
+- Level order
+- **Uses queue
 - 
