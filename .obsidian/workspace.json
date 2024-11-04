@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Hash Table.md",
+                "file": "DSA revision/Hashing function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hash Table"
+              "title": "Hashing function"
             }
           },
           {
@@ -385,10 +385,10 @@
   },
   "active": "b05e20b13ac11ad2",
   "lastOpenFiles": [
+    "DSA revision/Hash Table.md",
     "Pasted image 20241104154724.png",
     "Pasted image 20241104154720.png",
     "DSA revision/Hashing function.md",
-    "DSA revision/Hash Table.md",
     "DSA revision/*Sample questions.md",
     "Pasted image 20241104153204.png",
     "COMP603/HashMap.md",
@@ -414,7 +414,6 @@
     "Images/Pasted image 20241103165555.png",
     "Images/Pasted image 20241103165143.png",
     "DSA revision/Binary Search Tree.md",
-    "Images/Pasted image 20241102235224.png",
     "DSA revision/Binary Tree.md",
     "README.md",
     "Process.md",
