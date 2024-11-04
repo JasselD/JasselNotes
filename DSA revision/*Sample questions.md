@@ -118,3 +118,8 @@ incorrect, this creates a new string object every time it's executed, so no othe
 
 - In-order traversal usually prints node in the order of the values from lowest to highest. How to prints node in the order of the values from highest to lowest?
 	- To print nodes of a binary search tree in the order of values from highest to lowest, we can reverse the in-order traversal by swapping the left and right children for each node
+
+---
+**Hashing
+
+
