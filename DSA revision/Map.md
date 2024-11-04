@@ -1,0 +1,2 @@
+- Data structure that forms a functoin from a set (called keys) to a collection (called values)
+- E
