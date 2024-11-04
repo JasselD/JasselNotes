@@ -13,3 +13,6 @@
 **Weighted graph
 - A graph where each of the edges also hold a data value
 - ![[Pasted image 20241104164253.png]]
+
+**Connected vs Disconnected graphs
+- Fully connected graph is a graph where there is a path between e
