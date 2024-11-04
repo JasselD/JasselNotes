@@ -123,7 +123,7 @@ incorrect, this creates a new string object every time it's executed, so no othe
 **Hashing
 
 ---
-**Map
+**Map questions
 - Hash map uses array + linked list + tree. Can we fill gap of the array?
 	- No, each entry's position in the array is calculated. If the gap is filled by an entry, then this entry will be hard to find
 
@@ -132,3 +132,7 @@ incorrect, this creates a new string object every time it's executed, so no othe
 
 - Hash map replace an entry by the same value, hash or key ?
 	- Same key
+
+---
+**BFS & DFS questions
+- 
