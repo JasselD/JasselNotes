@@ -3,3 +3,4 @@
 - For numeric key(int), divide the key but the number of available addresses, n,  and take the remainder
 	- address = key % n
 - For alphanumeric key(String), divide the sum of ASCII codes in a key by the number of available addresses, n, and take the remainder
+- 
