@@ -237,12 +237,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Map.md",
+                "file": "COMP603/HashMap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Map"
+              "title": "HashMap"
             }
           },
           {
@@ -397,10 +397,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3deee57fba1c68d3",
+  "active": "7515a00e8deedeab",
   "lastOpenFiles": [
-    "DSA revision/Hashing function.md",
     "DSA revision/Map.md",
+    "DSA revision/Hashing function.md",
     "DSA revision/Hash Table.md",
     "Images/Pasted image 20241104154724.png",
     "Images/Pasted image 20241104154720.png",
