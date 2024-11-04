@@ -7,4 +7,7 @@
 - ![[Pasted image 20241104154724.png]]
 
 **Chaining
-- Maintain a table of singly linked lists. Elements that collide are just put into the linked list. Since order is not important, new
+- Maintain a table of singly linked lists. Elements that collide are just put into the linked list. Since order is not important, newer elements get put at the beginning of linked list
+
+**Overflow Area
+- Elements that collide are placed into an overflow area with a link from the element that alrea
