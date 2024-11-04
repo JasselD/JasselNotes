@@ -1,7 +1,3 @@
-- BST
-- Queue and Priority Queue
-- Heap array
-- AVL
 - the stuff u did in all the labs, 
 - big O notation for data structures and their methods, 
 - may be a part on synchronization (you prob just synchronize an object should be pretty easy), 
@@ -14,6 +10,8 @@
 - how to balance avl trees,
 - how the 3 types of dfs traversals work (preorder, inorder, postorder) 
 - the different sorting algorithms and their time complexities
+---
+
 - Part A 40 multichoice, followed by 6 written questions (40 marks + 30 marks)
 - Part B choose 3 out of the 4 questions? ( 30 marks, 10 marks per question)
 - time complexity of the different linkedlist, array, sets, stack, queue, heaps
