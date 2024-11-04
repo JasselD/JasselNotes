@@ -1,0 +1,2 @@
+- Sequence of edges (directed or undirected) which connenct together a sequence of vertices
+- 
