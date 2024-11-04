@@ -1,2 +1,2 @@
 - Sequence of edges (directed or undirected) which connenct together a sequence of vertices
-- 
+- A path that begins and ends at the same vertex is called a close path, or a circuit
