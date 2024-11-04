@@ -5,7 +5,6 @@
 - Adjacency Matrix:
 	- ![[Pasted image 20241104163650.png]]
 - Adjacency List:
-	- Array list of linked list
 	- ![[Pasted image 20241104163849.png]]
 	- 
 - Big O: O(1)
@@ -22,3 +21,6 @@
 [[Path]]
 
 ![[Pasted image 20241104165642.png]]
+**Adjacency list
+- An array/arraylist of linkedlist
+- Each linkedlist has a un
