@@ -5,5 +5,7 @@
 - Adjacency Matrix:
 	- ![[Pasted image 20241104163650.png]]
 - Adjacency List:
-	- Arraylist o
+	- Array list of linked list
+	- ![[Pasted image 20241104163849.png]]
+	- 
 - Big O: O(1)
