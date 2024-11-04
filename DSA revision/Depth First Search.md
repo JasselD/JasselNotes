@@ -1,2 +1,3 @@
 - **Uses stack
-- Can start traversal a
+- Can start traversal at any vertex
+- 
