@@ -20,3 +20,5 @@
 - ![[Pasted image 20241104164903.png]]
 
 [[Path]]
+
+![[Pasted image 20241104165642.png]]
