@@ -17,3 +17,5 @@
 **Connected vs Disconnected graphs
 - Fully connected graph is a graph where there is a path between every pair of vertices. From one vertex it is possible to travel to another vertex in the graph
 - A graph is disconnected if there is no path from a vertex in to travel to one or more other vertices in the graph
+- ![[Pasted image 20241104164903.png]]
+- 
