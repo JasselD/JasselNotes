@@ -1,0 +1,1 @@
+- Function that assigns integer values to objects
