@@ -5,3 +5,4 @@
 - **Uses queue
 
 ![[Pasted image 20241104221313.png]]
+- Similar to binary tree level order traversal
