@@ -122,4 +122,10 @@ incorrect, this creates a new string object every time it's executed, so no othe
 ---
 **Hashing
 
+---
+**Map
+- Hash map uses array + linked list + tree. Can we fill gap of the array?
 
+- How are the value allocated in the array ?
+
+- Hash m
