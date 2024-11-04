@@ -11,5 +11,5 @@
 - Big O: O(1)
 
 **Weighted graph
-- A graph where each nod
+- A graph where each of the edges also hold a data value
 - ![[Pasted image 20241104164253.png]]
