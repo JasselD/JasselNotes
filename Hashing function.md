@@ -1,2 +1,4 @@
 - Function that assigns integer values to objects
 - This interger is often referred to as the hash code of an object
+- For numeric key, divide the key but the number of available addresses, n,  and take the remainder
+	- address 
