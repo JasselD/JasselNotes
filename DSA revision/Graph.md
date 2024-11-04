@@ -23,4 +23,7 @@
 ![[Pasted image 20241104165642.png]]
 **Adjacency list
 - An array/arraylist of linkedlist
-- Each linkedlist has a un
+- Each linkedlist has a unique node at the end 
+- All adjacent neighbours to that node are added to that node's linkedlist
+- Big O: O(v)
+-  
