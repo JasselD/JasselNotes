@@ -2,5 +2,8 @@
 
 **Directed graph
 - Contains edges that will link nodes to each other
-- ![[Pasted image 20241104163650.png]]
-- Big O O(1)
+- Adjacency Matrix:
+	- ![[Pasted image 20241104163650.png]]
+- Adjacency List:
+	- Arraylist o
+- Big O: O(1)
