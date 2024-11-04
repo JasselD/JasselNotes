@@ -2,4 +2,4 @@
 - This interger is often referred to as the hash code of an object
 - For numeric key(int), divide the key but the number of available addresses, n,  and take the remainder
 	- address = key % n
-- For alphanumeric key(String), divide the sum of ASCII codes in a key by the number of avai
+- For alphanumeric key(String), divide the sum of ASCII codes in a key by the number of available addresses, n, and take the remainder
