@@ -9,3 +9,5 @@
 	- ![[Pasted image 20241104163849.png]]
 	- 
 - Big O: O(1)
+
+**Weighted graph
