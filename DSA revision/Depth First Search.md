@@ -1,2 +1,2 @@
 - **Uses stack
-- 
+- Can start traversal a
