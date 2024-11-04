@@ -11,3 +11,5 @@
 - Big O: O(1)
 
 **Weighted graph
+- A graph where each nod
+- ![[Pasted image 20241104164253.png]]
