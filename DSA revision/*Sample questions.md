@@ -125,7 +125,7 @@ incorrect, this creates a new string object every time it's executed, so no othe
 ---
 **Map
 - Hash map uses array + linked list + tree. Can we fill gap of the array?
-	- No, each entry's position in the array is calculated. 
+	- No, each entry's position in the array is calculated. If the gap is filled by an entry, then this entry will be hard to find
 
 - How are the value allocated in the array ?
 	- entry(key value), key -> hash -> index
