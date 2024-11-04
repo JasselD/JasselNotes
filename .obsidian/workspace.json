@@ -279,7 +279,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Depth First Search.md",
+                "file": "DSA revision/Depth First Search.md",
                 "mode": "source",
                 "source": false
               },
@@ -441,16 +441,16 @@
   },
   "active": "ac71f4875297adcf",
   "lastOpenFiles": [
+    "Images/Pasted image 20241104221313.png",
+    "DSA revision/Graph.md",
     "DSA revision/Breadth First Search.md",
-    "Depth First Search.md",
-    "Pasted image 20241104221313.png",
+    "DSA revision/Depth First Search.md",
     "DSA revision/Traversal.md",
     "DSA revision/Balancing Binary Tree.md",
     "DSA revision/Binary Search Tree.md",
     "DSA revision/Tree.md",
     "DSA revision/Binary Tree.md",
     "Path.md",
-    "DSA revision/Graph.md",
     "Images/Pasted image 20241104165642.png",
     "Images/Pasted image 20241104164903.png",
     "Images/Pasted image 20241104164253.png",
@@ -476,7 +476,6 @@
     "DSA revision/Race condition.md",
     "Images/Pasted image 20241103225824.png",
     "Self notes.md",
-    "README.md",
     "Bin Sort",
     "DSA revision"
   ]
