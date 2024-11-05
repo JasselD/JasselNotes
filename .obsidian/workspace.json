@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Heap Rules.md",
+                "file": "COMP610/Quick Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heap Rules"
+              "title": "Quick Sort"
             }
           },
           {
@@ -441,12 +441,13 @@
   },
   "active": "ac71f4875297adcf",
   "lastOpenFiles": [
+    "DSA revision/Sorting algorithms.md",
+    "DSA revision/Heap Rules.md",
     "DSA revision/Binary Tree.md",
     "DSA revision/Binary Search.md",
     "COMP610/Bubble Sort.md",
     "COMP610/Big O notation.md",
     "DSA revision/Race condition.md",
-    "DSA revision/Sorting algorithms.md",
     "DSA revision/LinkedLists.md",
     "DSA revision/Time complexity practice.md",
     "DSA revision/Focus.md",
@@ -476,7 +477,6 @@
     "Images/Pasted image 20241104153204.png",
     "DSA revision/Priority Queue.md",
     "DSA revision/Single LinkedList.md",
-    "DSA revision/Queue.md",
     "Bin Sort",
     "DSA revision"
   ]
