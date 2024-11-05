@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Time complexity practice.md",
+                "file": "DSA revision/Single LinkedList.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Time complexity practice"
+              "title": "Single LinkedList"
             }
           },
           {
@@ -442,6 +442,10 @@
   "active": "ac71f4875297adcf",
   "lastOpenFiles": [
     "DSA revision/LinkedLists.md",
+    "DSA revision/Focus.md",
+    "COMP610/Big O notation.md",
+    "DSA revision/Binary Search Tree.md",
+    "DSA revision/Time complexity practice.md",
     "DSA revision/Synchronization.md",
     "DSA revision/Sorting algorithms.md",
     "DSA revision/Race condition.md",
@@ -453,12 +457,9 @@
     "COMP610/Time Complexity.md",
     "COMP610/Algorithm.md",
     "COMP610/Array.md",
-    "DSA revision/Time complexity practice.md",
     "DSA revision/Linear Search.md",
-    "DSA revision/Focus.md",
     "DSA revision/Traversal.md",
     "DSA revision/Balancing Binary Tree.md",
-    "DSA revision/Binary Search Tree.md",
     "DSA revision/Depth First Search.md",
     "DSA revision/Breadth First Search.md",
     "DSA revision/Hash Table.md",
@@ -466,7 +467,6 @@
     "DSA revision/Binary Tree.md",
     "DSA revision/Tree.md",
     "COMP610/Bubble Sort.md",
-    "COMP610/Insertion Sort.md",
     "Pasted image 20241104225140.png",
     "Images/Pasted image 20241104221313.png",
     "Images/Pasted image 20241104165642.png",
