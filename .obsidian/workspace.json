@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Single LinkedList.md",
+                "file": "DSA revision/Circular Singly LinkedList.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Single LinkedList"
+              "title": "Circular Singly LinkedList"
             }
           },
           {
@@ -441,7 +441,9 @@
   },
   "active": "ac71f4875297adcf",
   "lastOpenFiles": [
+    "DSA revision/Doubly LinkedList.md",
     "DSA revision/LinkedLists.md",
+    "DSA revision/Single LinkedList.md",
     "DSA revision/Focus.md",
     "COMP610/Big O notation.md",
     "DSA revision/Binary Search Tree.md",
@@ -465,8 +467,6 @@
     "DSA revision/Hash Table.md",
     "DSA revision/Heap.md",
     "DSA revision/Binary Tree.md",
-    "DSA revision/Tree.md",
-    "COMP610/Bubble Sort.md",
     "Pasted image 20241104225140.png",
     "Images/Pasted image 20241104221313.png",
     "Images/Pasted image 20241104165642.png",
