@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Depth First Search.md",
+                "file": "DSA revision/Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Depth First Search"
+              "title": "Traversal"
             }
           },
           {
@@ -441,12 +441,14 @@
   },
   "active": "ac71f4875297adcf",
   "lastOpenFiles": [
+    "DSA revision/Balancing Binary Tree.md",
+    "DSA revision/Binary Search Tree.md",
+    "DSA revision/Depth First Search.md",
     "DSA revision/Breadth First Search.md",
     "DSA revision/Hash Table.md",
     "DSA revision/Heap.md",
     "DSA revision/Binary Tree.md",
     "DSA revision/Tree.md",
-    "DSA revision/Binary Search Tree.md",
     "DSA revision/Traversal.md",
     "COMP610/Selection Sort.md",
     "DSA revision/Sorting algorithms.md",
@@ -462,11 +464,9 @@
     "DSA revision/LinkedLists.md",
     "DSA revision/Time complexity practice.md",
     "DSA revision/Focus.md",
-    "DSA revision/Depth First Search.md",
     "Pasted image 20241104225140.png",
     "Images/Pasted image 20241104221313.png",
     "DSA revision/Graph.md",
-    "DSA revision/Balancing Binary Tree.md",
     "Path.md",
     "Images/Pasted image 20241104165642.png",
     "Images/Pasted image 20241104164903.png",
