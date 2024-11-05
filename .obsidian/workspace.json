@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/*Sample questions.md",
+                "file": "DSA revision/Binary Search Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "*Sample questions"
+              "title": "Binary Search Tree"
             }
           },
           {
@@ -441,6 +441,8 @@
   },
   "active": "ac71f4875297adcf",
   "lastOpenFiles": [
+    "DSA revision/Binary Tree.md",
+    "DSA revision/*Sample questions.md",
     "DSA revision/Circular Singly LinkedList.md",
     "DSA revision/Doubly LinkedList.md",
     "DSA revision/LinkedLists.md",
@@ -465,8 +467,6 @@
     "DSA revision/Balancing Binary Tree.md",
     "DSA revision/Depth First Search.md",
     "DSA revision/Breadth First Search.md",
-    "DSA revision/Hash Table.md",
-    "DSA revision/Heap.md",
     "Pasted image 20241104225140.png",
     "Images/Pasted image 20241104221313.png",
     "Images/Pasted image 20241104165642.png",
