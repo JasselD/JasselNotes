@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP610/Selection Sort.md",
+                "file": "DSA revision/Binary Search Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Selection Sort"
+              "title": "Binary Search Tree"
             }
           },
           {
@@ -441,13 +441,13 @@
   },
   "active": "ac71f4875297adcf",
   "lastOpenFiles": [
+    "DSA revision/Traversal.md",
+    "COMP610/Selection Sort.md",
     "DSA revision/Sorting algorithms.md",
     "COMP610/Bubble Sort.md",
     "COMP610/Insertion Sort.md",
-    "COMP610/Selection Sort.md",
     "DSA revision/Stack.md",
     "DSA revision/*Sample questions.md",
-    "DSA revision/Traversal.md",
     "COMP610/Quick Sort.md",
     "DSA revision/Heap Rules.md",
     "DSA revision/Binary Tree.md",
