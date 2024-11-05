@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Focus.md",
+                "file": "COMP610/Big O notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Focus"
+              "title": "Big O notation"
             }
           },
           {
@@ -441,6 +441,11 @@
   },
   "active": "ac71f4875297adcf",
   "lastOpenFiles": [
+    "DSA revision/Race condition.md",
+    "DSA revision/Sorting algorithms.md",
+    "DSA revision/LinkedLists.md",
+    "DSA revision/Time complexity practice.md",
+    "DSA revision/Focus.md",
     "DSA revision/Depth First Search.md",
     "DSA revision/Breadth First Search.md",
     "DSA revision/*Sample questions.md",
@@ -472,10 +477,6 @@
     "[Priority Queue.md",
     "DSA revision/Heap.md",
     "DSA revision/Heap Rules.md",
-    "Heapify.md",
-    "DSA revision/Focus.md",
-    "DSA revision/Race condition.md",
-    "Self notes.md",
     "Bin Sort",
     "DSA revision"
   ]
