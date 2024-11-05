@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Traversal.md",
+                "file": "COMP610/Bubble Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Traversal"
+              "title": "Bubble Sort"
             }
           },
           {
@@ -441,8 +441,13 @@
   },
   "active": "ac71f4875297adcf",
   "lastOpenFiles": [
-    "COMP610/Quick Sort.md",
     "DSA revision/Sorting algorithms.md",
+    "COMP610/Insertion Sort.md",
+    "COMP610/Selection Sort.md",
+    "DSA revision/Stack.md",
+    "DSA revision/*Sample questions.md",
+    "DSA revision/Traversal.md",
+    "COMP610/Quick Sort.md",
     "DSA revision/Heap Rules.md",
     "DSA revision/Binary Tree.md",
     "DSA revision/Binary Search.md",
@@ -454,12 +459,10 @@
     "DSA revision/Focus.md",
     "DSA revision/Depth First Search.md",
     "DSA revision/Breadth First Search.md",
-    "DSA revision/*Sample questions.md",
     "DSA revision/Binary Search Tree.md",
     "Pasted image 20241104225140.png",
     "Images/Pasted image 20241104221313.png",
     "DSA revision/Graph.md",
-    "DSA revision/Traversal.md",
     "DSA revision/Balancing Binary Tree.md",
     "DSA revision/Tree.md",
     "Path.md",
@@ -471,12 +474,9 @@
     "COMP603/Hashset.md",
     "COMP603/HashMap.md",
     "DSA revision/Map.md",
-    "DSA revision/Hashing function.md",
-    "DSA revision/Hash Table.md",
     "Images/Pasted image 20241104154724.png",
     "Images/Pasted image 20241104154720.png",
     "Images/Pasted image 20241104153204.png",
-    "DSA revision/Priority Queue.md",
     "Bin Sort",
     "DSA revision"
   ]
