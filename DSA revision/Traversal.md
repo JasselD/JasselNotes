@@ -1,4 +1,4 @@
-![[Pasted image 20241102235224.png]]
+ ![[Pasted image 20241102235224.png]]
 
 **In-order traversal (LNR)
 Steps:
