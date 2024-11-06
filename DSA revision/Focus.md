@@ -29,3 +29,7 @@
 - AVL tree : know how to build a binary tree too, use numbers for avl, rotate avl
 - non multichoice: implement a list with arrays (arraylist and its functions, allocatesize() method is provided)
 - implement a linkedlist with functions
+
+![[Pasted image 20241106135738.png]]
+
+![[Pasted image 20241106135757.png]]

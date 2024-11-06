@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Linear Search.md",
+                "file": "DSA revision/Focus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Search"
+              "title": "Focus"
             }
           },
           {
@@ -441,6 +441,9 @@
   },
   "active": "ac71f4875297adcf",
   "lastOpenFiles": [
+    "Pasted image 20241106135757.png",
+    "Pasted image 20241106135738.png",
+    "DSA revision/Linear Search.md",
     "DSA revision/*Sample questions.md",
     "DSA revision/Balancing Binary Tree.md",
     "DSA revision/Binary Tree.md",
@@ -463,10 +466,8 @@
     "COMP610/Time Complexity.md",
     "COMP610/Algorithm.md",
     "COMP610/Array.md",
-    "DSA revision/Linear Search.md",
     "DSA revision/Traversal.md",
     "DSA revision/Depth First Search.md",
-    "DSA revision/Breadth First Search.md",
     "Pasted image 20241104225140.png",
     "Images/Pasted image 20241104221313.png",
     "Images/Pasted image 20241104165642.png",
@@ -476,7 +477,6 @@
     "Images/Pasted image 20241104163650.png",
     "Images/Pasted image 20241104154724.png",
     "Images/Pasted image 20241104154720.png",
-    "Images/Pasted image 20241104153204.png",
     "Bin Sort",
     "DSA revision"
   ]
