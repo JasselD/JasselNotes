@@ -18,9 +18,9 @@
 - <mark style="background: #ABF7F7A6;">remember sets are O(n) implemented with array and linkedlist</mark>
 - know how to use either merge sort or quick sort for O(nlogn) time complexity
 - <mark style="background: #ABF7F7A6;">know both linear search and binary search (also know the mathematical equation to prove both)</mark>
-- <mark style="background: #ABF7F7A6;">linear search = $(n⋅(n+1)​)/2n$
-- binary search = (1/(2^k)n = 1</mark>
-- know adjacency matrix and adjacency list and the difference
+- <mark style="background: #ABF7F7A6;">linear search = $(n⋅(n+1)​)/2n$</mark>
+- <mark style="background: #ABF7F7A6;">binary search = (1/(2^k)n = 1</mark>
+- <mark style="background: #ABF7F7A6;">know adjacency matrix and adjacency list and the difference</mark>
 - hashmap
 - circular array queue, queue built with array and linkedlist, know the difference, does linked queues need to be circular arrays?
 - FIFO - QUEUE or LILO
