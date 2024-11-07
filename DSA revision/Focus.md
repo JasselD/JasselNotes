@@ -5,10 +5,10 @@
 - <mark style="background: #ABF7F7A6;">maybe include circular array too</mark>, 
 - <mark style="background: #ABF7F7A6;">learn either merge or quick sort (we were given a choice between the 2 last sem)</mark>,
 - <mark style="background: #ABF7F7A6;">know how to read functions and determine the time complexity (be careful with this because theyll prob chuck in a O(n) method so a single for loop can be O(n^2),</mark>
-- know how hasmaps and hashsets work and how the hashcode assigne works, 
+- <mark style="background: #ABF7F7A6;">know how hasmaps and hashsets work and how the hashcode assigne works,</mark> 
 - <mark style="background: #ABF7F7A6;">LIFO / FIFO (stack / queue),</mark>
 - <mark style="background: #ABF7F7A6;">how to balance avl trees,</mark>
-- how the 3 types of dfs traversals work (preorder, inorder, postorder) 
+- <mark style="background: #ABF7F7A6;">how the 3 types of dfs traversals work (preorder, inorder, postorder) </mark>
 - <mark style="background: #ABF7F7A6;">the different sorting algorithms and their time complexities</mark>
 ---
 
