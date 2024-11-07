@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Balancing Binary Tree.md",
+                "file": "DSA revision/Focus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Balancing Binary Tree"
+              "title": "Focus"
             }
           },
           {
@@ -441,6 +441,7 @@
   },
   "active": "ac71f4875297adcf",
   "lastOpenFiles": [
+    "DSA revision/Balancing Binary Tree.md",
     "DSA revision/Heap Rules.md",
     "DSA revision/Traversal.md",
     "DSA revision/Heap.md",
@@ -461,7 +462,6 @@
     "Pasted image 20241106135757.png",
     "Pasted image 20241106135738.png",
     "DSA revision/Linear Search.md",
-    "DSA revision/Balancing Binary Tree.md",
     "DSA revision/Circular Singly LinkedList.md",
     "DSA revision/Doubly LinkedList.md",
     "DSA revision/LinkedLists.md",
