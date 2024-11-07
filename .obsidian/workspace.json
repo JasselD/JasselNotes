@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Focus.md",
+                "file": "COMP610/Quick Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Focus"
+              "title": "Quick Sort"
             }
           },
           {
@@ -441,9 +441,12 @@
   },
   "active": "ac71f4875297adcf",
   "lastOpenFiles": [
+    "DSA revision/Sorting algorithms.md",
+    "DSA revision/Race condition.md",
+    "DSA revision/Traversal.md",
+    "DSA revision/Focus.md",
     "DSA revision/Balancing Binary Tree.md",
     "DSA revision/Heap Rules.md",
-    "DSA revision/Traversal.md",
     "DSA revision/Heap.md",
     "DSA revision/Priority Queue.md",
     "DSA revision/Hash Table.md",
@@ -454,7 +457,6 @@
     "DSA revision/Map.md",
     "DSA revision/Binary Tree.md",
     "DSA revision/Binary Search Tree.md",
-    "DSA revision/Focus.md",
     "DSA revision/Binary Search.md",
     "conflict-files-obsidian-git.md",
     "DSA revision/*Sample questions.md",
@@ -467,8 +469,6 @@
     "DSA revision/LinkedLists.md",
     "COMP610/Big O notation.md",
     "DSA revision/Time complexity practice.md",
-    "DSA revision/Synchronization.md",
-    "DSA revision/Sorting algorithms.md",
     "Pasted image 20241104225140.png",
     "Images/Pasted image 20241104221313.png",
     "Images/Pasted image 20241104165642.png",
