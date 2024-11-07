@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP610/Quick Sort.md",
+                "file": "DSA revision/Focus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Sort"
+              "title": "Focus"
             }
           },
           {
@@ -441,7 +441,11 @@
   },
   "active": "ac71f4875297adcf",
   "lastOpenFiles": [
+    "DSA revision/LinkedLists.md",
+    "COMP610/Radix Sort.md",
     "DSA revision/Sorting algorithms.md",
+    "COMP610/Merge Sort.md",
+    "COMP610/Quick Sort.md",
     "DSA revision/Race condition.md",
     "DSA revision/Traversal.md",
     "DSA revision/Focus.md",
@@ -465,10 +469,6 @@
     "Pasted image 20241106135738.png",
     "DSA revision/Linear Search.md",
     "DSA revision/Circular Singly LinkedList.md",
-    "DSA revision/Doubly LinkedList.md",
-    "DSA revision/LinkedLists.md",
-    "COMP610/Big O notation.md",
-    "DSA revision/Time complexity practice.md",
     "Pasted image 20241104225140.png",
     "Images/Pasted image 20241104221313.png",
     "Images/Pasted image 20241104165642.png",
