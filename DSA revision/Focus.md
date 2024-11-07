@@ -1,8 +1,8 @@
 - the stuff u did in all the labs, 
 - <mark style="background: #ABF7F7A6;">big O notation for data structures and their methods, </mark>
 - <mark style="background: #ABF7F7A6;">may be a part on synchronization (you prob just synchronize an object should be pretty easy), </mark>
-- learn the construction of the data structures, 
-- maybe include circular array too, 
+- <mark style="background: #ABF7F7A6;">learn the construction of the data structures, </mark>
+- <mark style="background: #ABF7F7A6;">maybe include circular array too</mark>, 
 - <mark style="background: #ABF7F7A6;">learn either merge or quick sort (we were given a choice between the 2 last sem)</mark>,
 - <mark style="background: #ABF7F7A6;">know how to read functions and determine the time complexity (be careful with this because theyll prob chuck in a O(n) method so a single for loop can be O(n^2),</mark>
 - know how hasmaps and hashsets work and how the hashcode assigne works, 
