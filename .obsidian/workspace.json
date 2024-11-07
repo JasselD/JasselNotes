@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Binary Search.md",
+                "file": "DSA revision/Focus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Search"
+              "title": "Focus"
             }
           },
           {
@@ -441,6 +441,7 @@
   },
   "active": "ac71f4875297adcf",
   "lastOpenFiles": [
+    "DSA revision/Binary Search.md",
     "DSA revision/Focus.md",
     "conflict-files-obsidian-git.md",
     "DSA revision/*Sample questions.md",
@@ -468,7 +469,6 @@
     "COMP610/Time Complexity.md",
     "COMP610/Algorithm.md",
     "COMP610/Array.md",
-    "DSA revision/Depth First Search.md",
     "Pasted image 20241104225140.png",
     "Images/Pasted image 20241104221313.png",
     "Images/Pasted image 20241104165642.png",
