@@ -1,5 +1,5 @@
 - the stuff u did in all the labs, 
-- big O notation for data structures and their methods, 
+- <mark style="background: #ABF7F7A6;">big O notation for data structures and their methods, </mark>
 - <mark style="background: #ABF7F7A6;">may be a part on synchronization (you prob just synchronize an object should be pretty easy), </mark>
 - learn the construction of the data structures, 
 - maybe include circular array too, 
