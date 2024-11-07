@@ -3,13 +3,13 @@
 - <mark style="background: #ABF7F7A6;">may be a part on synchronization (you prob just synchronize an object should be pretty easy), </mark>
 - learn the construction of the data structures, 
 - maybe include circular array too, 
-- learn either merge or quick sort (we were given a choice between the 2 last sem),
+- <mark style="background: #ABF7F7A6;">learn either merge or quick sort (we were given a choice between the 2 last sem)</mark>,
 - <mark style="background: #ABF7F7A6;">know how to read functions and determine the time complexity (be careful with this because theyll prob chuck in a O(n) method so a single for loop can be O(n^2),</mark>
 - know how hasmaps and hashsets work and how the hashcode assigne works, 
 - <mark style="background: #ABF7F7A6;">LIFO / FIFO (stack / queue),</mark>
 - <mark style="background: #ABF7F7A6;">how to balance avl trees,</mark>
 - how the 3 types of dfs traversals work (preorder, inorder, postorder) 
-- the different sorting algorithms and their time complexities
+- <mark style="background: #ABF7F7A6;">the different sorting algorithms and their time complexities</mark>
 ---
 
 - Part A 40 multichoice, followed by 6 written questions (40 marks + 30 marks)
