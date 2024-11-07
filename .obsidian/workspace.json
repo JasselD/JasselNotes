@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Queue.md",
+                "file": "DSA revision/Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Queue"
+              "title": "Stack"
             }
           },
           {
@@ -441,6 +441,7 @@
   },
   "active": "ac71f4875297adcf",
   "lastOpenFiles": [
+    "DSA revision/Queue.md",
     "DSA revision/Doubly LinkedList.md",
     "DSA revision/Hashing function.md",
     "DSA revision/Focus.md",
@@ -468,7 +469,6 @@
     "DSA revision/Single LinkedList.md",
     "Pasted image 20241106135757.png",
     "Pasted image 20241106135738.png",
-    "DSA revision/Linear Search.md",
     "Pasted image 20241104225140.png",
     "Images/Pasted image 20241104221313.png",
     "Images/Pasted image 20241104165642.png",
