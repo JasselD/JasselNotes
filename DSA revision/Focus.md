@@ -14,12 +14,12 @@
 
 - Part A 40 multichoice, followed by 6 written questions (40 marks + 30 marks)
 - Part B choose 3 out of the 4 questions? ( 30 marks, 10 marks per question)
-- time complexity of the different linkedlist, array, sets, stack, queue, heaps
-- remember sets are O(n) implemented with array and linkedlist
+- <mark style="background: #ABF7F7A6;">time complexity of the different linkedlist, array, sets, stack, queue, heaps</mark>
+- <mark style="background: #ABF7F7A6;">remember sets are O(n) implemented with array and linkedlist</mark>
 - know how to use either merge sort or quick sort for O(nlogn) time complexity
-- know both linear search and binary search (also know the mathematical equation to prove both)
-- linear search = $(n⋅(n+1)​)/2n$
-- binary search = (1/(2^k)n = 1
+- <mark style="background: #ABF7F7A6;">know both linear search and binary search (also know the mathematical equation to prove both)</mark>
+- <mark style="background: #ABF7F7A6;">linear search = $(n⋅(n+1)​)/2n$
+- binary search = (1/(2^k)n = 1</mark>
 - know adjacency matrix and adjacency list and the difference
 - hashmap
 - circular array queue, queue built with array and linkedlist, know the difference, does linked queues need to be circular arrays?
