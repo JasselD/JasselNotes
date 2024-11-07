@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA revision/Tree.md",
+                "file": "DSA revision/Single LinkedList.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tree"
+              "title": "Single LinkedList"
             }
           },
           {
@@ -441,15 +441,22 @@
   },
   "active": "ac71f4875297adcf",
   "lastOpenFiles": [
-    "DSA revision/Binary Tree.md",
+    "DSA revision/Binary Search.md",
+    "DSA revision/Tree.md",
     "DSA revision/Balancing Binary Tree.md",
+    "DSA revision/Traversal.md",
     "DSA revision/Binary Search Tree.md",
     "DSA revision/Heap Rules.md",
+    "DSA revision/Hash Table.md",
+    "DSA revision/Hashing function.md",
+    "DSA revision/Map.md",
+    "DSA revision/Breadth First Search.md",
+    "DSA revision/Graph.md",
+    "DSA revision/Binary Tree.md",
     "DSA revision/Heap.md",
     "DSA revision/Stack.md",
     "DSA revision/Queue.md",
     "DSA revision/Doubly LinkedList.md",
-    "DSA revision/Hashing function.md",
     "DSA revision/Focus.md",
     "DSA revision/LinkedLists.md",
     "COMP610/Radix Sort.md",
@@ -457,16 +464,9 @@
     "COMP610/Merge Sort.md",
     "COMP610/Quick Sort.md",
     "DSA revision/Race condition.md",
-    "DSA revision/Traversal.md",
     "DSA revision/Priority Queue.md",
-    "DSA revision/Hash Table.md",
-    "DSA revision/Graph.md",
-    "DSA revision/Breadth First Search.md",
     "DSA revision/Depth First Search.md",
-    "DSA revision/Map.md",
-    "DSA revision/Binary Search.md",
     "conflict-files-obsidian-git.md",
-    "DSA revision/*Sample questions.md",
     "Pasted image 20241106135757.png",
     "Pasted image 20241106135738.png",
     "Pasted image 20241104225140.png",
