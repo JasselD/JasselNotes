@@ -1,4 +1,4 @@
-- The last element is linked to the first element
+2333- The last element is linked to the first element
 - Instead of head, we keep track of last node in circular singly list
 - **Josephus Problem
 	- Question relating circular linkedl list, where nodes are deleted in a cyclic manner
