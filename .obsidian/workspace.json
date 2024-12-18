@@ -302,6 +302,18 @@
             }
           },
           {
+            "id": "303225cce83bf5e9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "87df640fc6006508",
             "type": "leaf",
             "state": {
@@ -312,7 +324,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -453,7 +465,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38f8d8fb700798d2",
+  "active": "303225cce83bf5e9",
   "lastOpenFiles": [
     "DSA revision/Stack.md",
     "DSA revision/Queue.md",
