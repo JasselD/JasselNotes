@@ -305,12 +305,14 @@
             "id": "303225cce83bf5e9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "DSA revision/Focus.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Focus"
             }
           },
           {
@@ -467,15 +469,18 @@
   },
   "active": "303225cce83bf5e9",
   "lastOpenFiles": [
+    "COMP610/Bubble Sort.md",
+    "DSA revision/Sorting algorithms.md",
+    "DSA revision/Time complexity practice.md",
+    "DSA revision/Heap Rules.md",
+    "DSA revision/Synchronization.md",
+    "DSA revision/Race condition.md",
+    "DSA revision/Circular Singly LinkedList.md",
+    "DSA revision/LinkedLists.md",
     "DSA revision/Stack.md",
     "DSA revision/Queue.md",
     "DSA revision/Binary Search.md",
-    "DSA revision/Circular Singly LinkedList.md",
-    "DSA revision/Time complexity practice.md",
-    "DSA revision/LinkedLists.md",
-    "DSA revision/Synchronization.md",
     "DSA revision/Traversal.md",
-    "DSA revision/Heap Rules.md",
     "DSA revision/Heap.md",
     "DSA revision/Hashing function.md",
     "DSA revision/Graph.md",
@@ -490,9 +495,6 @@
     "DSA revision/Tree.md",
     "DSA revision/Binary Search Tree.md",
     "DSA revision/Hash Table.md",
-    "DSA revision/Map.md",
-    "DSA revision/Breadth First Search.md",
-    "COMP610/Radix Sort.md",
     "Pasted image 20241106135757.png",
     "Pasted image 20241106135738.png",
     "Pasted image 20241104225140.png",
