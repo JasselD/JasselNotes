@@ -28,3 +28,5 @@
 [[User Assistance]]
 
 **Challenges
+- Broad knowledge of hardware and software
+- Must balance
