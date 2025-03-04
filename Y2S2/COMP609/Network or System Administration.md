@@ -9,4 +9,10 @@
 - User account management
 - Hardware management
 - File system backups and restores
-- Software and service
+- Software and service installation/configuration
+- System and service maintenance
+	- Monitor system and network
+	- Troubleshoot issues
+- Maintain documentation
+- Security auditing
+- User support and 
