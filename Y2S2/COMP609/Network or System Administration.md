@@ -62,4 +62,15 @@
 	- Systems should be stable, with timely hardware, software, and firmware updates. Quick repairs are essential
 - Productivity
 	- Users should work with minimal obstructions. Systems should be intuitive and efficient, reducing unnecessary effort
+- User Agency
+    - Do users have control over their environment?
+    - Are they free to explore creative potential or restricted to fixed features?
+    - Can they install applications, or is the system tightly controlled?
+- Currentness
+    - How quickly are new features deployed and available for use?
 
+System Administrator Priorities
+
+- Ensure machines are **easy to manage** by:
+    - **Limiting variation** between machines.
+    - **Automating** OS installation, configuration, and updates.
