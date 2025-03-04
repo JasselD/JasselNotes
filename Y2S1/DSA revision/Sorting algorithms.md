@@ -6,4 +6,4 @@
 - [[Quick Sort]]
 - [[Merge Sort]]
 - [[Radix Sort]]
-- [[Bin Sort/Bucket Sort]]
+- [[Bucket Sort]]

@@ -1,5 +1,5 @@
 [[Abstraction]]
-[[COMP603/Array]]
+[[Y2S1/COMP603/Array]]
 [[Encapsulation]]
 [[Interface]]
 [[Collection]]

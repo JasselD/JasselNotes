@@ -1,4 +1,4 @@
-[[COMP603/Array|Array]]
+[[Y2S1/COMP603/Array|Array]]
 - Collection of (box) data elements of specified type
 - All data holding partitions have contiguous memory locations
 - Each partition has two neighbours except first and second

@@ -1,4 +1,4 @@
-An object that can be used to loop through collections, like [[COMP603/Array]] and HashSet
+An object that can be used to loop through collections, like [[Y2S1/COMP603/Array]] and HashSet
 
 **Getting an Iterator**
 iterator() method can be used to get Iterator for any collection
