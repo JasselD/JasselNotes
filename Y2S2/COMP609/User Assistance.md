@@ -1,9 +1,8 @@
-≈ Time intensive!  
-≈ Techniques  
-• Help desks  
-• Trouble-ticket systems  
-≈ Software availability and usage  
-≈ Software configuration settings  
-≈ Hardware usage, maintenance, and  
-troubleshooting  
-≈ Writing FAQs  
+- Time intensive!  
+- Techniques  
+	- Help desks  
+	- Trouble-ticket systems  
+- Software availability and usage  
+- Software configuration settings  
+- Hardware usage, maintenance and troubleshooting  
+-  Writing FAQs  
