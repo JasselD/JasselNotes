@@ -316,6 +316,20 @@
             }
           },
           {
+            "id": "6fce6b600789975f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Y2S2/COMP609/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "87df640fc6006508",
             "type": "leaf",
             "state": {
@@ -326,7 +340,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -469,7 +483,11 @@
   },
   "active": "3deee57fba1c68d3",
   "lastOpenFiles": [
-    "Untitled",
+    "Y2S1/DSA revision/Focus.md",
+    "Y2S2/COMP609/Untitled.md",
+    "Y2S2/COMP602",
+    "Y2S2/COMP609",
+    "Y2S2",
     "Y2S1",
     "Y2S1/COMP610/Bubble Sort.md",
     "Y2S1/DSA revision/Sorting algorithms.md",
@@ -487,7 +505,6 @@
     "Y2S1/DSA revision/Hashing function.md",
     "Y2S1/DSA revision/Graph.md",
     "Y2S1/DSA revision/Balancing Binary Tree.md",
-    "Y2S1/DSA revision/Focus.md",
     "Y2S1/DSA revision/Doubly LinkedList.md",
     "Y2S1/DSA revision/Binary Tree.md",
     "Y2S1/COMP603/ArrayList.md",
