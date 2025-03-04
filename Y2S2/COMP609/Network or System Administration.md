@@ -69,8 +69,10 @@
 - Currentness
     - How quickly are new features deployed and available for use?
 
-System Administrator Priorities
-
-- Ensure machines are **easy to manage** by:
+**System Administrator Priorities
+- Ensure machines are easy to manage by
     - **Limiting variation** between machines.
-    - **Automating** OS installation, configuration, and updates.
+    - **Automating** OS installation, configuration, and updates
+
+**The 3 laws of network or system administration
+- Must not cause harm to the infrastructure or through inaction allow ha
