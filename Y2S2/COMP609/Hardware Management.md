@@ -2,3 +2,8 @@
 - Inventory
 - Hardware evaluation and purchase
 - Adding and removing hardware
+	- Configuration
+	- Cabling, wiring, etc
+- Device driver installation
+- System configuration and settings
+- User notification and documentation
