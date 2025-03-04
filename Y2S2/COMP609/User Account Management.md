@@ -1,2 +1,6 @@
 - User IDs
-- 
+- Mail
+- Home directories (quotas, drive, capacities)
+- Default startup files(paths)
+- Permissions, group memberships, accounting and restrictions
+- Communicating policies and proc
