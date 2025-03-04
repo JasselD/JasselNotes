@@ -77,4 +77,4 @@
 **The 3 laws of network or system administration
 - Must not cause harm to the infrastructure or through inaction allow harm to come to the infrastructure
 - Must honour all reasonable requests by users except where such requests conflict with the first law
-- Must protect its own existence except where such action
+- Must protect its own existence except where such action conflicts with the first or second laws
