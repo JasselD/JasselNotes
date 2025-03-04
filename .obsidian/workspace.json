@@ -330,6 +330,18 @@
             }
           },
           {
+            "id": "913666325af11fe8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
             "id": "87df640fc6006508",
             "type": "leaf",
             "state": {
@@ -340,7 +352,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -359,7 +371,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -481,7 +494,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fce6b600789975f",
+  "active": "913666325af11fe8",
   "lastOpenFiles": [
     "Y2S2/COMP609/User Account Management.md",
     "Y2S2/COMP609/User Assistance.md",
