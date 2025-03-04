@@ -5,3 +5,8 @@
 - Role varies depending on the wokrplace
 - Primarily a support role, helping users utilize the network effectively 
 
+**Task
+- User account management
+- Hardware management
+- File system backups and restores
+- Software and service
