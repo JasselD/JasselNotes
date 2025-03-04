@@ -29,4 +29,8 @@
 
 **Challenges
 - Broad knowledge of hardware and software
-- Must balance
+- Must balance conflicting requirements:
+	- Short term vs long term needs
+	- End-user vs organizational goals
+	- Service providers vs enforcement role
+- Needs to handle high-pressure situations e
