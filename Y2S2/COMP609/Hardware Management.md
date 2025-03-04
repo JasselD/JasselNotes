@@ -1,0 +1,4 @@
+- Capacity Planning
+- Inventory
+- Hardware evaluation and purchase
+- Adding and removing hardware
