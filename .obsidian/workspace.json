@@ -321,12 +321,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubleshooting.md",
+                "file": "Local Documentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Troubleshooting"
+              "title": "Local Documentation"
             }
           },
           {
@@ -484,7 +484,8 @@
   "active": "6fce6b600789975f",
   "lastOpenFiles": [
     "Y2S2/COMP609/Network or System Administration.md",
-    "Troubleshooting.md",
+    "Local Documentation.md",
+    "Y2S2/COMP609/Troubleshooting.md",
     "Y2S2/COMP609/System Monitoring.md",
     "Y2S2/COMP609/User Account Management.md",
     "Y2S2/COMP609/Software Installation and Maintenance.md",
@@ -512,7 +513,6 @@
     "Y2S1/DSA revision/Graph.md",
     "Y2S1/DSA revision/Balancing Binary Tree.md",
     "Y2S1/DSA revision/Doubly LinkedList.md",
-    "Y2S1/DSA revision/Binary Tree.md",
     "Images/Pasted image 20241106135757.png",
     "Images/Pasted image 20241106135738.png",
     "Images/Pasted image 20241104225140.png",
