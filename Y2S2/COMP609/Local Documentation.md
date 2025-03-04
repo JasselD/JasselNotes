@@ -7,4 +7,4 @@
 	- Install media (or download location)  
 	- Installation, build, and configuration details  
 	- Patches installed  
-• Acceptable use policies 
+- Acceptable use policies 

@@ -1,0 +1,8 @@
+-  System logging and audit facilities  
+	- Evaluation and implementation  
+	- Monitoring and analysis  
+	- Traps, auditing and monitoring programs  
+-  Unexpected or unauthorized use detection  
+- Monitoring of security advisories  
+	- Security holes and weaknesses  
+	- Live exploits
