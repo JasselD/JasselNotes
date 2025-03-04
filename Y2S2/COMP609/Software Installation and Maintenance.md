@@ -3,5 +3,5 @@
 - Installation  
 - Maintenance of multiple versions  
 - Security  
-≈ Patches and updates  
-≈ User notification, documentation
+- Patches and updates  
+- User notification, documentation
