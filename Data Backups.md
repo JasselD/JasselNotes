@@ -1,1 +1,8 @@
-- DIsk and backup media
+- DIsk and backup media capacity planning
+- Performance, network and system impact
+- Disaster recovery
+	- Onsite/offsite
+	- Periodic testing
+	- Multiple copies
+- User communication
+	- Schedules, restore guarantees and pr
