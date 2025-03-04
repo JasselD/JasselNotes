@@ -1,4 +1,7 @@
 **What is it?
 - Mix of technology and communication
 - Involves building and maintaining computer networks
-- Ensures systems function despite user actions that may cause
+- Ensures systems function despite user actions that may cause issues
+- Role varies depending on the wokrplace
+- Primarily a support role, helping users utilize the network effectively 
+
