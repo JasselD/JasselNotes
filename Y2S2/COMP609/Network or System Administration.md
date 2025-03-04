@@ -55,3 +55,9 @@
 - Scalability
 	- Understanding that systems and demands grow every year!
 
+**Key Issues for Customers
+- Locality
+	- Workstations must be available where and when needed.
+- Reliability 
+- Systems should be stable, with timely hardware, software, and firmware updates. Quick repairs are essential.
+- **Productivity**: Users should work with minimal obstructions. Systems should be intuitive and efficient, reducing unnecessary effort.
