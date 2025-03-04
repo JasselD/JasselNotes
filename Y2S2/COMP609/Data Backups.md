@@ -5,4 +5,4 @@
 	- Periodic testing
 	- Multiple copies
 - User communication
-	- Schedules, restore guarantees and pr
+	- Schedules, restore guarantees and procedures, loss tolerance
