@@ -25,3 +25,4 @@
 [[Troubleshooting]]
 [[Local Documentation]]
 [[Security Concerns]]
+[[User Assistance]]

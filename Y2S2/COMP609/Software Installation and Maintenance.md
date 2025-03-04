@@ -1,0 +1,7 @@
+- Evaluation of software  
+- Downloading and building (compiling and tweaking)  
+- Installation  
+- Maintenance of multiple versions  
+- Security  
+≈ Patches and updates  
+≈ User notification, documentation
