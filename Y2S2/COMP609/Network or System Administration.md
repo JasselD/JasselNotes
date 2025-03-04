@@ -33,4 +33,8 @@
 	- Short term vs long term needs
 	- End-user vs organizational goals
 	- Service providers vs enforcement role
-- Needs to handle high-pressure situations e
+- Needs to handle high-pressure situations effiecently
+- Often requires 24/7 availability
+- Requires flexibility, tolerance, and patience
+- Strong communication skills are essential
+- Often unnoticed until something goes wrong
