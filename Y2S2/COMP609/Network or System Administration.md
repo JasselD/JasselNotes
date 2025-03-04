@@ -38,3 +38,14 @@
 - Requires flexibility, tolerance, and patience
 - Strong communication skills are essential
 - Often unnoticed until something goes wrong
+- Network design 
+	- Ensuring it is logical, efficient, and scalable.
+- Service management
+	- Deciding what services are needed and how to deliver them effectively.
+- Machine deployment
+	- Setting up systems that can be easily upgraded.
+- Security planning**: Implementing and monitoring robust security measures.
+- **User & staff environment**: Ensuring a comfortable, healthy, and ergonomic workspace.
+- **Error detection & resolution**: Developing effective troubleshooting methods.
+- **Continuous learning**: Keeping up with new technologies and system updates.
+- **Scalability**: Understanding that systems and demands grow every year!
