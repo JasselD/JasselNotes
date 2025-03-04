@@ -321,12 +321,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/COMP609/Untitled.md",
+                "file": "Y2S2/COMP609/Network or System Administration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Network or System Administration"
             }
           },
           {
@@ -481,10 +481,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3deee57fba1c68d3",
+  "active": "6fce6b600789975f",
   "lastOpenFiles": [
     "Y2S1/DSA revision/Focus.md",
-    "Y2S2/COMP609/Untitled.md",
+    "Y2S2/COMP609/Network or System Administration.md",
     "Y2S2/COMP602",
     "Y2S2/COMP609",
     "Y2S2",
