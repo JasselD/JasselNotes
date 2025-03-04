@@ -15,4 +15,5 @@
 	- Troubleshoot issues
 - Maintain documentation
 - Security auditing
-- User support and 
+- User support and performance tuning
+
