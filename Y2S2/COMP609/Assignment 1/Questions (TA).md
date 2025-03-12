@@ -1,0 +1,2 @@
+- Are you planning/open to having a centralized server room
+- 
