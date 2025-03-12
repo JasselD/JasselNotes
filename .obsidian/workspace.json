@@ -349,12 +349,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/COMP609/Assignment 1/Questions (TA).md",
+                "file": "Y2S2/COMP609/Assignment 1/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions (TA)"
+              "title": "Summary"
             }
           },
           {
@@ -510,10 +510,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd00e98a7b44736c",
+  "active": "3deee57fba1c68d3",
   "lastOpenFiles": [
-    "Y2S2/COMP609/Assignment 1/Summary.md",
     "Y2S2/COMP609/Assignment 1/Questions (TA).md",
+    "Y2S2/COMP609/Assignment 1/Summary.md",
     "Y2S2/COMP609/Notes",
     "Y2S2/COMP609/Assignment 1",
     "Y2S2/COMP609/Notes/User Account Management.md",
