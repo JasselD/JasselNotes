@@ -44,4 +44,4 @@
 - Make it remote for Sales Manager
 - Upgrade Ovens' PC from floppy disks
 - Make infrastructure upgradable (future proof)
-- 
+- Upgrade web server (fix configuration)
