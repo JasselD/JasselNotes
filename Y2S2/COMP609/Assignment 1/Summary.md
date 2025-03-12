@@ -38,4 +38,6 @@
 - **Internet and email server** recently added.
 - **Amateur web server** running on the **email server** (improper configuration)
 
-###**Problems**
+**Problems
+- Access problems (give certain people access to certain things)
+- 
