@@ -40,6 +40,8 @@
 
 **Problems
 - Access problems (give certain people access to certain things)
-	- 
-- Make is remote
+	- Give bakers special authorithy 
+- Make it remote for Sales Manager
+- Upgrade Ovens' PC from floppy disks
+- 
 - 
