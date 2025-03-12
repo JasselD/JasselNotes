@@ -26,3 +26,14 @@
 - **People Manager** (payroll system).
 - **Oven control software** (3 separate PCs, **non-networked**, storing time/temp data in recipe DB)
 
+### **Current Network Setup**
+
+- **MS Peer-to-peer network** (unplanned, ad-hoc growth).
+- **No real network design**—devices added without strategy.
+- Some **desktops act as servers**.
+- **Dedicated server** for MYOB and People Manager (but has **access issues**).
+- **Sales manager has isolated MYOB copy** (order files unavailable unless he is present and PC is on).
+- **Bakers need order printouts by 9 PM**, but **only sales manager and manager have office keys**—logistics issue.
+- Ovens' PCs **isolated**, data transferred via **floppy disks** (prone to **corruption due to dust/flour**).
+- **Internet and email server** recently added.
+- **Amateur web server** running on the **email server** (improper configuration)
