@@ -40,4 +40,6 @@
 
 **Problems
 - Access problems (give certain people access to certain things)
+	- 
+- Make is remote
 - 
