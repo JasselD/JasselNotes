@@ -6,5 +6,7 @@
 - Who should have access to confidential files like payroll and order?
 - What level of security do you expect your system - basic protection or advanced features like firewalls and intrusion detection?
 - What backup system do you want? - on-site, off-site(cloud), or both?
-- How often should data
+- How often should databases be backed up?
+- Do you plan to add more staff, computers, or services in the next few years?
+- Do you have plans to offer online ordering for customer?
 
