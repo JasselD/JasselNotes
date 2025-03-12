@@ -333,12 +333,14 @@
             "id": "913666325af11fe8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "Y2S2/COMP609/Assignment 1/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -494,18 +496,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "913666325af11fe8",
+  "active": "3deee57fba1c68d3",
   "lastOpenFiles": [
-    "Y2S2/COMP609/User Account Management.md",
-    "Y2S2/COMP609/User Assistance.md",
-    "Y2S2/COMP609/Troubleshooting.md",
-    "Y2S2/COMP609/Network or System Administration.md",
-    "Y2S2/COMP609/Security Concerns.md",
-    "Y2S2/COMP609/Local Documentation.md",
-    "Y2S2/COMP609/System Monitoring.md",
-    "Y2S2/COMP609/Software Installation and Maintenance.md",
-    "Y2S2/COMP609/Data Backups.md",
-    "Y2S2/COMP609/Hardware Management.md",
+    "Y2S2/COMP609/Notes",
+    "Y2S2/COMP609/Assignment 1/Untitled.md",
+    "Y2S2/COMP609/Assignment 1",
+    "Y2S2/COMP609/Notes/User Account Management.md",
+    "Y2S2/COMP609/Notes/User Assistance.md",
+    "Y2S2/COMP609/Notes/Troubleshooting.md",
+    "Y2S2/COMP609/Notes/Network or System Administration.md",
+    "Y2S2/COMP609/Notes/Security Concerns.md",
+    "Y2S2/COMP609/Notes/Local Documentation.md",
+    "Y2S2/COMP609/Notes/System Monitoring.md",
+    "Y2S2/COMP609/Notes/Software Installation and Maintenance.md",
+    "Y2S2/COMP609/Notes/Data Backups.md",
+    "Y2S2/COMP609/Notes/Hardware Management.md",
     "Y2S1/DSA revision/Focus.md",
     "Y2S2/COMP602",
     "Y2S2/COMP609",
@@ -524,8 +529,6 @@
     "Y2S1/DSA revision/Binary Search.md",
     "Y2S1/DSA revision/Traversal.md",
     "Y2S1/DSA revision/Heap.md",
-    "Y2S1/DSA revision/Hashing function.md",
-    "Y2S1/DSA revision/Graph.md",
     "Images/Pasted image 20241106135757.png",
     "Images/Pasted image 20241106135738.png",
     "Images/Pasted image 20241104225140.png",
