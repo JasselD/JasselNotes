@@ -349,12 +349,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/COMP609/Assignment 1/Summary.md",
+                "file": "Y2S1/COMP610/Collections.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "Collections"
             }
           },
           {
@@ -512,8 +512,12 @@
   },
   "active": "fd00e98a7b44736c",
   "lastOpenFiles": [
-    "Y2S2/COMP609/Assignment 1/Questions (TA).md",
+    "Y2S1/COMP610/Data Structures.md",
+    "Y2S1/COMP610/Selection Sort.md",
+    "Y2S1/COMP610/Threads.md",
+    "Y2S1/COMP610/Algorithm.md",
     "Y2S2/COMP609/Assignment 1/Summary.md",
+    "Y2S2/COMP609/Assignment 1/Questions (TA).md",
     "Y2S2/COMP609/Notes",
     "Y2S2/COMP609/Assignment 1",
     "Y2S2/COMP609/Notes/User Account Management.md",
@@ -540,10 +544,6 @@
     "Y2S1/DSA revision/Circular Singly LinkedList.md",
     "Y2S1/DSA revision/LinkedLists.md",
     "Y2S1/DSA revision/Stack.md",
-    "Y2S1/DSA revision/Queue.md",
-    "Y2S1/DSA revision/Binary Search.md",
-    "Y2S1/DSA revision/Traversal.md",
-    "Y2S1/DSA revision/Heap.md",
     "Images/Pasted image 20241106135757.png",
     "Images/Pasted image 20241106135738.png",
     "Images/Pasted image 20241104225140.png",
