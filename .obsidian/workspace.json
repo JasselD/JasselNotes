@@ -358,6 +358,18 @@
             }
           },
           {
+            "id": "33e533bf1d98b198",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "87df640fc6006508",
             "type": "leaf",
             "state": {
@@ -368,7 +380,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -510,7 +522,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd00e98a7b44736c",
+  "active": "33e533bf1d98b198",
   "lastOpenFiles": [
     "Y2S1/DSA revision/Sorting algorithms.md",
     "Y2S1/DSA revision/Race condition.md",
