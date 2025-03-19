@@ -389,12 +389,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/Untitled.md",
+                "file": "Y2S2/ENEL611/Switch SVI Configuration Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Switch SVI Configuration Example"
             }
           },
           {
@@ -550,10 +550,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3deee57fba1c68d3",
+  "active": "2a3b1e14e3e76501",
   "lastOpenFiles": [
     "Y2S2/ENEL611/LED Indication.md",
-    "Y2S2/ENEL611/Untitled.md",
+    "Y2S2/ENEL611/Switch SVI Configuration Example.md",
     "Pasted image 20250319231210.png",
     "Y2S2/ENEL611/Configure switch with initial settings.md",
     "Images/Pasted image 20250319231015.png",
