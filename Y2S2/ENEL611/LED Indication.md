@@ -16,4 +16,4 @@
 		Indicates that the port speed mode is selected. When selected, the port LEDs will display colors with different meanings. If the LED is off, the port is operating at 10 Mbps. If the LED is green, the port is operating at 100 Mbps. If the LED is blinking green, the port is operating at 1000 Mbps.
 6. PoE
 	- **Power over Ethernet (PoE) Mode LED**
-	
+		If PoE is supported, the PoE mode LED shows the status. If the LED is off, PoE mode is not selected, and no ports are denied power or in a fault condition. A blinking amber LED means PoE mode is not selected, but at least one port has been denied power or has a PoE fault. A green LED indicates PoE mode is selected, and the port LEDs show different statuses. If a port LED is off, PoE is off; if it's green, PoE is on. An alternating green-amber LED means PoE is denied because the switch's power capacity would be exceeded. A blinking amber LED indicates a PoE fault, and an amber LED means PoE for the port has been disabled.
