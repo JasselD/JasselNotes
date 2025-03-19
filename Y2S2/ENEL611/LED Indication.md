@@ -12,4 +12,8 @@
 	- **Port Duplex LED**
 		Indicates that the port duplex mode is selected when the LED is green. When selected, port LEDs that are off are in half-duplex mode. If the port LED is green, the port is in full-duplex mode.
 5. SPEED
-6. 
+	- **Port Speed LED**
+		Indicates that the port speed mode is selected. When selected, the port LEDs will display colors with different meanings. If the LED is off, the port is operating at 10 Mbps. If the LED is green, the port is operating at 100 Mbps. If the LED is blinking green, the port is operating at 1000 Mbps.
+6. PoE
+	- **Power over Ethernet (PoE) Mode LED**
+	
