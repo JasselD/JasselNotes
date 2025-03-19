@@ -1,3 +1,4 @@
+**Switch Boot Sequence
 5 steps before configuring a switch
  - **POST (Power-On Self-Test):** The switch checks the CPU, DRAM, and flash file system.
 - **Boot Loader Loads:** A small program in ROM runs after POST.
