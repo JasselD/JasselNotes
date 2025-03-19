@@ -11,4 +11,9 @@
     - Reload the switch.
 ![[Pasted image 20250319232349.png]]
 
-**Step 2: Configure the
+**Step 2: Configure the Dafault Gateway**
+- The switch should be configured with a default gateway if it will be managed remotely from networks that are not directly connected.
+- Note: If the switch receives its default gateway information from a router advertisement (RA) message, it does not require an IPv6 default gateway.
+![[Pasted image 20250319232551.png]]
+
+**Step
