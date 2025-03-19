@@ -375,12 +375,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/Configure switch with initial settings.md",
+                "file": "Y2S2/ENEL611/LED Indication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configure switch with initial settings"
+              "title": "LED Indication"
             }
           },
           {
@@ -538,8 +538,10 @@
   },
   "active": "a5603055df0b641c",
   "lastOpenFiles": [
-    "Images/Pasted image 20250319231015.png",
+    "Pasted image 20250319231210.png",
     "Y2S2/ENEL611/Configure switch with initial settings.md",
+    "Y2S2/ENEL611/LED Indication.md",
+    "Images/Pasted image 20250319231015.png",
     "Y2S2/ENEL611",
     "Y2S1/DSA revision/Sorting algorithms.md",
     "Y2S1/DSA revision/Race condition.md",
@@ -566,7 +568,6 @@
     "Y2S2/COMP609/Notes",
     "Y2S2/COMP609/Assignment 1",
     "Y2S2/COMP609/Notes/User Account Management.md",
-    "Y2S2/COMP609/Notes/User Assistance.md",
     "Y2S2/COMP602",
     "Y2S2/COMP609",
     "Y2S2",
