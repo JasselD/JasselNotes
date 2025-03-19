@@ -375,12 +375,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/Untitled.md",
+                "file": "Y2S2/ENEL611/Switch Boot Sequence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Switch Boot Sequence"
             }
           },
           {
@@ -536,10 +536,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3deee57fba1c68d3",
+  "active": "a5603055df0b641c",
   "lastOpenFiles": [
     "Y2S2/ENEL611",
-    "Y2S2/ENEL611/Untitled.md",
+    "Y2S2/ENEL611/Switch Boot Sequence.md",
     "Y2S1/DSA revision/Sorting algorithms.md",
     "Y2S1/DSA revision/Race condition.md",
     "Y2S1/COMP610/Insertion Sort.md",
