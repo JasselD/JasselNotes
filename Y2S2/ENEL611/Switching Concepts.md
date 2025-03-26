@@ -4,3 +4,6 @@ Objective: Explain how layer 2 switches forward data
 
 **Switching Domains**: Compare a collision domain to a broadcast domain
 
+**Two terms accosiated with frames entering and leaving an interface**:
+- Ingress - Used to decribe the port where a frame enters the device
+- Engree - Used to describe the 
