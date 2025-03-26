@@ -417,12 +417,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/Basic Device Configuration/Switch SVI Configuration Example.md",
+                "file": "Y2S2/ENEL611/Basic Device Configuration/Duplex Communication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Switch SVI Configuration Example"
+              "title": "Duplex Communication"
             }
           },
           {
@@ -580,10 +580,10 @@
   },
   "active": "56a00853f6525825",
   "lastOpenFiles": [
-    "Y2S2/ENEL611/Switching Concepts/Switch Mac Address Table.md",
-    "Untitled.md",
-    "Y2S2/ENEL611/Switching Concepts",
     "Y2S2/ENEL611/Basic Device Configuration/Switch SVI Configuration Example.md",
+    "Y2S2/ENEL611/Switching Concepts/Switch Mac Address Table.md",
+    "Y2S2/ENEL611/Basic Device Configuration/Duplex Communication.md",
+    "Y2S2/ENEL611/Switching Concepts",
     "Y2S2/ENEL611/Basic Device Configuration",
     "Y2S2/ENEL611/Switching Concepts/Switching Concepts.md",
     "Images/Pasted image 20250319232707.png",
