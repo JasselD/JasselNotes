@@ -1,1 +1,2 @@
-- Switches use destination MAC addresses to direct neto
+- Switches use destination MAC addresses to direct network communications through the switch, out the appropriate port, toward the destination
+- 
