@@ -1,6 +1,6 @@
 **Input Errors**
 - Total number of errors. Includes runts, giants, no buffer, CRC, frame, overrun, and ignored counts
-- **Runts (Undersized Frames)**
+- **<mark style="background: #ABF7F7A6;">Runts (Undersized Frames)</mark>**
     
     - Ethernet frames **smaller than 64 bytes** (minimum valid size)
         
@@ -8,7 +8,7 @@
         
     - Indicate possible **network congestion or duplex mismatches**
         
-- **Causes of Runts**
+- **<mark style="background: #ABF7F7A6;">Causes of Runts</mark>**
     
     - **Half-duplex collisions**
         
@@ -16,7 +16,7 @@
         
     - **Mismatched speed or duplex settings** between devices
         
-- **Troubleshooting Runts**
+- **<mark style="background: #ABF7F7A6;">Troubleshooting Runts</mark>**
     
     - Check and **match duplex settings** on both ends of the connection
         
@@ -27,7 +27,7 @@
     - Use `show interfaces` on Cisco devices to check for runt counters
 
 
-- **Giants (Oversized Frames)**
+- **<mark style="background: #ABF7F7A6;">Giants (Oversized Frames)</mark>**
     
     - Ethernet frames **larger than the maximum allowed size** (typically **1518 bytes** for standard Ethernet, **1522 bytes** with VLAN tagging)
         
@@ -77,7 +77,7 @@
         
     - Monitor network congestion and **optimize traffic flow**
 
-- **Output Errors**
+- **<mark style="background: #ABF7F7A6;">Output Errors</mark>**
     
     - Indicate issues when transmitting frames from an interface
         
@@ -107,7 +107,7 @@
         
     - Reduce excessive broadcast or multicast traffic in the network
 
-- **Collisions**
+- **<mark style="background: #ABF7F7A6;">Collisions</mark>**
     
     - Occur when two devices on a network try to send data at the same time, causing their signals to interfere with each other
         
@@ -143,3 +143,38 @@
         
     - Replace **old hubs** with **modern switches** to eliminate collision domains
 
+- **<mark style="background: #ABF7F7A6;">Late Collisions</mark>**
+    
+    - Occur when a collision is detected **after the 512-bit time window** (the time it takes for a signal to travel across the network)
+        
+    - Typically indicate problems with **network configuration or hardware issues**
+        
+- **Causes of Late Collisions**
+    
+    - **Duplex mismatches** between devices (e.g., one side set to full-duplex, the other to half-duplex)
+        
+    - **Excessive network congestion** leading to delayed packet transmission
+        
+    - **Faulty cables or connectors** causing signal degradation
+        
+    - **Distance issues** in a network, such as too-long cable runs exceeding the maximum allowed distance
+        
+    - **Improperly configured network equipment**, like switches or NICs
+        
+- **Impact of Late Collisions**
+    
+    - **Increased latency** and **reduced network performance**
+        
+    - **Data corruption** due to collisions occurring after the transmission has started
+        
+    - **Frequent retransmissions** leading to network congestion
+        
+- **Troubleshooting Late Collisions**
+    
+    - Ensure devices are set to the **same duplex mode** (full-duplex or half-duplex)
+        
+    - **Check cable quality** and **replace faulty cables**
+        
+    - Verify that **network equipment is properly configured**
+        
+    - Check for **excessive network traffic** and ensure the network infrastructure can handle the load
