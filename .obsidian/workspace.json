@@ -375,7 +375,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/LED Indication.md",
+                "file": "Y2S2/ENEL611/Basic Device Configuration/LED Indication.md",
                 "mode": "source",
                 "source": false
               },
@@ -403,12 +403,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/Swtich Mac Address Table.md",
+                "file": "Y2S2/ENEL611/Switch SVI Configuration Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Swtich Mac Address Table"
+              "title": "Switch SVI Configuration Example"
             }
           },
           {
@@ -566,15 +566,16 @@
   },
   "active": "3deee57fba1c68d3",
   "lastOpenFiles": [
+    "Y2S2/ENEL611/Basic Device Configuration",
     "Y2S2/ENEL611/Switching Concepts.md",
     "Y2S2/ENEL611/Swtich Mac Address Table.md",
     "Images/Pasted image 20250319232707.png",
     "Y2S2/ENEL611/Switch SVI Configuration Example.md",
     "Images/Pasted image 20250319232551.png",
     "Images/Pasted image 20250319232349.png",
-    "Y2S2/ENEL611/LED Indication.md",
+    "Y2S2/ENEL611/Basic Device Configuration/LED Indication.md",
     "Images/Pasted image 20250319231210.png",
-    "Y2S2/ENEL611/Configure switch with initial settings.md",
+    "Y2S2/ENEL611/Basic Device Configuration/Configure switch with initial settings.md",
     "Images/Pasted image 20250319231015.png",
     "Y2S2/ENEL611",
     "Y2S1/DSA revision/Sorting algorithms.md",
@@ -597,7 +598,6 @@
     "Y2S1/COMP610/Data Structures.md",
     "Y2S1/COMP610/Threads.md",
     "Y2S1/COMP610/Algorithm.md",
-    "Y2S2/COMP609/Assignment 1/Summary.md",
     "Y2S2/COMP609/Notes",
     "Y2S2/COMP609/Assignment 1",
     "Y2S2/COMP602",
