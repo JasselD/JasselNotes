@@ -1,0 +1,1 @@
+Objective: Explain how layer 2 switches 

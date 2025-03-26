@@ -398,6 +398,20 @@
             }
           },
           {
+            "id": "2c77560c0d05c3c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Y2S2/ENEL611/Switching Concepts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Switching Concepts"
+            }
+          },
+          {
             "id": "87df640fc6006508",
             "type": "leaf",
             "state": {
@@ -408,7 +422,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -550,13 +564,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a3b1e14e3e76501",
+  "active": "2c77560c0d05c3c1",
   "lastOpenFiles": [
-    "Pasted image 20250319232707.png",
+    "Images/Pasted image 20250319232707.png",
+    "Y2S2/ENEL611/Switching Concepts.md",
+    "Y2S2/ENEL611/Switch SVI Configuration Example.md",
     "Images/Pasted image 20250319232551.png",
     "Images/Pasted image 20250319232349.png",
     "Y2S2/ENEL611/LED Indication.md",
-    "Y2S2/ENEL611/Switch SVI Configuration Example.md",
     "Images/Pasted image 20250319231210.png",
     "Y2S2/ENEL611/Configure switch with initial settings.md",
     "Images/Pasted image 20250319231015.png",
@@ -582,7 +597,6 @@
     "Y2S1/COMP610/Threads.md",
     "Y2S1/COMP610/Algorithm.md",
     "Y2S2/COMP609/Assignment 1/Summary.md",
-    "Y2S2/COMP609/Assignment 1/Questions (TA).md",
     "Y2S2/COMP609/Notes",
     "Y2S2/COMP609/Assignment 1",
     "Y2S2/COMP602",
@@ -594,7 +608,6 @@
     "Images/Pasted image 20241104225140.png",
     "Images/Pasted image 20241104221313.png",
     "Images/Pasted image 20241104165642.png",
-    "Images/Pasted image 20241104164903.png",
     "Y2S1/Bin Sort",
     "Y2S1/DSA revision"
   ]
