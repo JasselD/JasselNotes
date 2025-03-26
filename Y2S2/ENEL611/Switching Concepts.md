@@ -6,4 +6,5 @@ Objective: Explain how layer 2 switches forward data
 
 **Two terms accosiated with frames entering and leaving an interface**:
 - Ingress - Used to decribe the port where a frame enters the device
-- Engree - Used to describe the 
+- Engree - Used to describe the port that frames will use when leaving the device
+
