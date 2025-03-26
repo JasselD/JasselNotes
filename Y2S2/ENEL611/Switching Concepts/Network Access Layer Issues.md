@@ -1,2 +1,3 @@
 **Input Errors**
-- Total 
+- Total number of errors. Includes runts, giants, no buffer, CRC, frame, overrun, and ignored counts
+**
