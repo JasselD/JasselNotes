@@ -22,4 +22,6 @@
 
 ![[Pasted image 20250326155826.png]]
 
-*Gigabit Ethernet and 10 
+*Gigabit Ethernet and 10 Gb NICs require full-duplex connections to operate
+
+[[Configure Switch Ports]]
