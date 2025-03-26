@@ -580,12 +580,12 @@
   },
   "active": "56a00853f6525825",
   "lastOpenFiles": [
-    "Pasted image 20250326163310.png",
     "Y2S2/ENEL611/Basic Device Configuration/Network Access Layer Issues.md",
+    "Y2S2/ENEL611/Basic Device Configuration/Auto-MDIX.md",
     "Y2S2/ENEL611/Basic Device Configuration/Troubleshooting Network Access Layer Issues.md",
+    "Pasted image 20250326163310.png",
     "Y2S2/ENEL611/Basic Device Configuration/Verify Switch Port Configuration.md",
     "README.md",
-    "Y2S2/ENEL611/Switching Concepts/Auto-MDIX.md",
     "Y2S2/ENEL611/Basic Device Configuration/Configure Switch Ports.md",
     "Images/Pasted image 20250326160021.png",
     "Y2S2/ENEL611/Basic Device Configuration/Duplex Communication.md",
@@ -624,7 +624,6 @@
     "Y2S1",
     "Images/Pasted image 20241106135757.png",
     "Images/Pasted image 20241106135738.png",
-    "Images/Pasted image 20241104225140.png",
     "Y2S1/Bin Sort"
   ]
 }
