@@ -49,7 +49,7 @@
         
     - Monitor network interfaces using `show interfaces` on Cisco devices to check for giant counters
 
-- **Cyclic Redundancy Check (CRC) Errors**
+- **<mark style="background: #ABF7F7A6;">Cyclic Redundancy Check (CRC) Errors</mark>**
     
     - Occur when a received Ethernet frame **fails the CRC check**, indicating data corruption
         
@@ -76,3 +76,34 @@
     - Reduce **electromagnetic interference** by repositioning network cables
         
     - Monitor network congestion and **optimize traffic flow**
+
+- **Output Errors**
+    
+    - Indicate issues when transmitting frames from an interface
+        
+    - Found using the `show interfaces` command on Cisco devices
+        
+    - Total **output errors** include **collisions, buffer overflows, and interface congestion**
+        
+- **Causes of Output Errors**
+    
+    - **High network traffic** causing interface congestion
+        
+    - **Duplex mismatches**, leading to collisions and retransmissions
+        
+    - **Faulty cables or connectors**
+        
+    - **Overloaded switch or router interface buffers**
+        
+    - **Hardware failures** (e.g., bad network interface cards or switch ports)
+        
+- **Troubleshooting Output Errors**
+    
+    - Check and **match duplex settings** on both ends of the connection
+        
+    - Monitor **interface utilization** and consider **load balancing or upgrading bandwidth**
+        
+    - Replace **damaged cables or faulty hardware**
+        
+    - Reduce excessive broadcast or multicast traffic in the network
+
