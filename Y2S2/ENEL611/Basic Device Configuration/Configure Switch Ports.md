@@ -10,3 +10,4 @@
 
 ![[Pasted image 20250326160021.png]]
 
+[[Auto-MDIX]]

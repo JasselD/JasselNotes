@@ -417,12 +417,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/Basic Device Configuration/Configure Switch Ports.md",
+                "file": "Y2S2/ENEL611/Switching Concepts/Auto-MDIX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configure Switch Ports"
+              "title": "Auto-MDIX"
             }
           },
           {
@@ -580,9 +580,10 @@
   },
   "active": "56a00853f6525825",
   "lastOpenFiles": [
+    "Y2S2/ENEL611/Basic Device Configuration/Configure Switch Ports.md",
+    "Y2S2/ENEL611/Switching Concepts/Auto-MDIX.md",
     "Pasted image 20250326160021.png",
     "Y2S2/ENEL611/Basic Device Configuration/Duplex Communication.md",
-    "Y2S2/ENEL611/Basic Device Configuration/Configure Switch Ports.md",
     "Pasted image 20250326155826.png",
     "Y2S2/ENEL611/Basic Device Configuration/Switch SVI Configuration Example.md",
     "Y2S2/ENEL611/Switching Concepts/Switch Mac Address Table.md",
@@ -624,7 +625,6 @@
     "Images/Pasted image 20241106135757.png",
     "Images/Pasted image 20241106135738.png",
     "Images/Pasted image 20241104225140.png",
-    "Images/Pasted image 20241104221313.png",
     "Y2S1/Bin Sort"
   ]
 }
