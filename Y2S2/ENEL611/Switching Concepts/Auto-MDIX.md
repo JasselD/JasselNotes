@@ -22,4 +22,5 @@
         
     - Speed and duplex settings must be set to **auto** for auto-MDIX to function properly
 
+ [[Verify Switch Port Configuration]]
  
