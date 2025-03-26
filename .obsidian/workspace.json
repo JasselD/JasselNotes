@@ -389,7 +389,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/Switch SVI Configuration Example.md",
+                "file": "Y2S2/ENEL611/Basic Device Configuration/Switch SVI Configuration Example.md",
                 "mode": "source",
                 "source": false
               },
@@ -403,7 +403,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/Switch SVI Configuration Example.md",
+                "file": "Y2S2/ENEL611/Basic Device Configuration/Switch SVI Configuration Example.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Switch SVI Configuration Example"
+            }
+          },
+          {
+            "id": "56a00853f6525825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Y2S2/ENEL611/Basic Device Configuration/Switch SVI Configuration Example.md",
                 "mode": "source",
                 "source": false
               },
@@ -422,7 +436,7 @@
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -564,13 +578,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3deee57fba1c68d3",
+  "active": "56a00853f6525825",
   "lastOpenFiles": [
+    "Y2S2/ENEL611/Switching Concepts/Switch Mac Address Table.md",
+    "Untitled.md",
+    "Y2S2/ENEL611/Switching Concepts",
+    "Y2S2/ENEL611/Basic Device Configuration/Switch SVI Configuration Example.md",
     "Y2S2/ENEL611/Basic Device Configuration",
-    "Y2S2/ENEL611/Switching Concepts.md",
-    "Y2S2/ENEL611/Swtich Mac Address Table.md",
+    "Y2S2/ENEL611/Switching Concepts/Switching Concepts.md",
     "Images/Pasted image 20250319232707.png",
-    "Y2S2/ENEL611/Switch SVI Configuration Example.md",
     "Images/Pasted image 20250319232551.png",
     "Images/Pasted image 20250319232349.png",
     "Y2S2/ENEL611/Basic Device Configuration/LED Indication.md",
@@ -597,7 +613,6 @@
     "Y2S1/COMP610/Collections.md",
     "Y2S1/COMP610/Data Structures.md",
     "Y2S1/COMP610/Threads.md",
-    "Y2S1/COMP610/Algorithm.md",
     "Y2S2/COMP609/Notes",
     "Y2S2/COMP609/Assignment 1",
     "Y2S2/COMP602",
@@ -609,7 +624,6 @@
     "Images/Pasted image 20241104225140.png",
     "Images/Pasted image 20241104221313.png",
     "Images/Pasted image 20241104165642.png",
-    "Y2S1/Bin Sort",
-    "Y2S1/DSA revision"
+    "Y2S1/Bin Sort"
   ]
 }
