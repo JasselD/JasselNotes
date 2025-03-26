@@ -1,0 +1,1 @@
+- Switches use destination MAC addresses to direct neto

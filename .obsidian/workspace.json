@@ -403,12 +403,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/Switching Concepts.md",
+                "file": "Y2S2/ENEL611/Swtich Mac Address Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Switching Concepts"
+              "title": "Swtich Mac Address Table"
             }
           },
           {
@@ -564,10 +564,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c77560c0d05c3c1",
+  "active": "3deee57fba1c68d3",
   "lastOpenFiles": [
-    "Images/Pasted image 20250319232707.png",
     "Y2S2/ENEL611/Switching Concepts.md",
+    "Y2S2/ENEL611/Swtich Mac Address Table.md",
+    "Images/Pasted image 20250319232707.png",
     "Y2S2/ENEL611/Switch SVI Configuration Example.md",
     "Images/Pasted image 20250319232551.png",
     "Images/Pasted image 20250319232349.png",
