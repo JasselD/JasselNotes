@@ -25,3 +25,26 @@
     - Monitor **network traffic and congestion**
         
     - Use `show interfaces` on Cisco devices to check for runt counters
+
+
+- **Giants (Oversized Frames)**
+    
+    - Ethernet frames **larger than the maximum allowed size** (typically **1518 bytes** for standard Ethernet, **1522 bytes** with VLAN tagging)
+        
+    - Can be caused by **misconfigured MTU (Maximum Transmission Unit) settings**
+        
+- **Causes of Giants**
+    
+    - **Jumbo frames** sent on a network that doesn’t support them
+        
+    - **MTU mismatches** between devices
+        
+    - **Malfunctioning network hardware** (e.g., faulty NICs or switches)
+        
+- **Troubleshooting Giants**
+    
+    - Check and **standardize MTU settings** across devices
+        
+    - Ensure **jumbo frames** are supported if enabled
+        
+    - Monitor network interfaces using `show interfaces` on Cisco devices to check for giant counters
