@@ -4,4 +4,4 @@
 **Show interface**
 - Displays status and statistics information on the network interfaces of the switch
 
-[[Network Access]]
+[[Network Access Layer Issues]]
