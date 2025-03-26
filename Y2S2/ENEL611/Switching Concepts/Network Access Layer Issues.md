@@ -107,3 +107,39 @@
         
     - Reduce excessive broadcast or multicast traffic in the network
 
+- **Collisions**
+    
+    - Occur when two devices on a network try to send data at the same time, causing their signals to interfere with each other
+        
+    - Common in **half-duplex** networks (e.g., older hubs)
+        
+    - Results in **data loss**, and devices must resend the data
+        
+- **Causes of Collisions**
+    
+    - **Half-duplex communication**, where devices can’t send and receive simultaneously
+        
+    - **Network congestion** or high traffic causing frequent data transmissions
+        
+    - **Faulty or misconfigured network hardware**
+        
+    - **Incorrect duplex settings** (e.g., one device in full-duplex and the other in half-duplex)
+        
+- **Impact of Collisions**
+    
+    - Decreased network **performance** due to retransmissions
+        
+    - **Increased network delays**
+        
+    - **Potential for network congestion** in busy environments
+        
+- **Troubleshooting Collisions**
+    
+    - Ensure devices are set to **full-duplex** if possible (eliminates collisions)
+        
+    - **Match duplex settings** on both ends of the connection
+        
+    - Check for **network congestion** and upgrade equipment if necessary
+        
+    - Replace **old hubs** with **modern switches** to eliminate collision domains
+
