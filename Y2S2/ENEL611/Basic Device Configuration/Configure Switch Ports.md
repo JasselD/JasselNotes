@@ -9,3 +9,4 @@
 - Example: Both switches in a topology should be configured to **full-duplex at 100 Mbps**
 
 ![[Pasted image 20250326160021.png]]
+
