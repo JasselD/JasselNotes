@@ -48,3 +48,31 @@
     - Ensure **jumbo frames** are supported if enabled
         
     - Monitor network interfaces using `show interfaces` on Cisco devices to check for giant counters
+
+- **Cyclic Redundancy Check (CRC) Errors**
+    
+    - Occur when a received Ethernet frame **fails the CRC check**, indicating data corruption
+        
+    - Found using `show interfaces` on Cisco devices
+        
+- **Causes of CRC Errors**
+    
+    - **Network interference** (e.g., electromagnetic interference from nearby devices)
+        
+    - **Faulty cables or connectors** (damaged or poor-quality cables)
+        
+    - **Mismatched duplex settings**, leading to late collisions
+        
+    - **High network congestion** causing frame corruption
+        
+    - **Hardware issues** (e.g., failing network interface cards or switch ports)
+        
+- **Troubleshooting CRC Errors**
+    
+    - Replace or check **cables and connectors** for damage
+        
+    - Verify **duplex and speed settings** on both ends of the connection
+        
+    - Reduce **electromagnetic interference** by repositioning network cables
+        
+    - Monitor network congestion and **optimize traffic flow**
