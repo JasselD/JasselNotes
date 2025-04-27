@@ -18,4 +18,8 @@ Duplex Modes
 	- Collision domains exist when switch ports are operating in half-duplex
 - Full-Duplex:
 	- Devices can send and receive at the same time
-	- No collisions occur in full-duplex mo
+	- No collisions occur in full-duplex mode
+
+Switch Port Autonegotiation
+- Switch ports try to negotiate full-duplex by default
+- If the connected device only supports half-duplex,
