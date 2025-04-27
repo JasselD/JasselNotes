@@ -23,4 +23,8 @@ Key Points
 	- To send packets between VLANs, routing is needed (eg. a router or a Layer 3 switch)
 
 Benefits:
-- Smaller b
+- Smaller Broadcast Domains:
+	- Reduces unnecessary broadcast traffic -> better network performance
+- Segmentation by Functions:
+	- Segmetn based on department, team, application, etc., not physical location
+- Security
