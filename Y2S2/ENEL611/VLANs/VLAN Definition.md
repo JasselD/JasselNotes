@@ -9,4 +9,8 @@ Example Setup
 - 3-Floor Building with switches on each floor
 - VLANs span all three floors:
 	- VLAN 2 (IT) -> Network: 10.0.2.0/24
-	- 
+	- VLAN 3 (HR) -> Network: 10.0.3.0/24
+	- VLAN 4 (Sales) -> Network: 10.0.4.0/24
+- All VLANs connect through an additional switch linked to a router
+
+Key
