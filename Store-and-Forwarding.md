@@ -5,4 +5,9 @@ Error Checking
 - The switch compares the Frame Check Sequence (FCS) at the end of the frame with its own FCS calculation
 - If FCS matches -> Frame is error-free -> Frame is forwarded
 - If FCS does not match -> Frame is dropped (not forwarded)
-- FCS helps ensure the frame has no physical or data-l9ink 
+- FCS helps ensure the frame has no physical or data-link errors
+
+Automatic Buffering
+- Incoming frame is stored (buffered) before forwarding
+- Supports different Ethernet speeds between ports
+	- Example: Receiving from 100 Mbps port
