@@ -27,4 +27,10 @@ Benefits:
 	- Reduces unnecessary broadcast traffic -> better network performance
 - Segmentation by Functions:
 	- Segmetn based on department, team, application, etc., not physical location
-- Security
+- Security and Access Control:
+	- Different policies can be applied to different VLANs
+
+Without VLANs (Flat Network)
+- Even with multiple IP subnets:
+	- All devices would still be in the same Layer 2 broadcast domain
+	- Broad
