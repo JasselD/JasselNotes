@@ -7,5 +7,8 @@ How LAN Switches Help Reduce Congestion
 	- Using MAC address tables to forward frames efficiently
 	- Reducing or completely eliminating collisions
 
-Switch characteristics that reduces congestion
-- 
+Switch Characteristics That Reduces Congestion
+- Fast Port Speeds
+	- Access Layer Switches:
+		- Support 100 Mbps and 1 Gbps ports
+	- Distribution Layer Swi
