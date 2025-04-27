@@ -6,4 +6,11 @@ Collisions vs Congestion
 
 Collision Domains
 - Legacy Hub-Based Networks:
-	- Devices share the sma
+	- Devices share the same bandwidth:
+		- All devices are in one large collision domain
+- Switches:
+	- Break up collision domains:
+		- Each port on a switch is its own collision domain (if operating in half-duplex)
+
+Duplex Modes
+- Half-duple
