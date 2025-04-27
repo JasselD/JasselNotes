@@ -10,4 +10,4 @@
 - A frame or packet is sent from one device to a group of devices that have joined a specific multicast group
 - Example:
 	- You stream a live video to a club of users (only those users who subcribed to the stream receive it)
-	- In networing, multicast addresses are special MAC addresses, and the switch fl
+	- In networing, multicast addresses are special MAC addresses, and the switch **floods** multicast frames **only to devices that are part of the multicast group** (or to all ports if it doesn't know the group members)
