@@ -3,4 +3,9 @@ How LAN Switches Help Reduce Congestion
 - Each full-duplex port provides full bandwidth to the connected devices(s)
 - Full-duplex is required for 1 Gbps Ethernet and faster speeds
 - Switches improve LAN performance by:
-	- Inter
+	- Interconnecting LAN segments
+	- Using MAC address tables to forward frames efficiently
+	- Reducing or completely eliminating collisions
+
+Switch characteristics that reduces congestion
+- 
