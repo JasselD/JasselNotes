@@ -11,4 +11,6 @@ Step 2: Forward (Examining the destination MAC Address)
 	- Found in table: Forward frame out the matched port
 	- Not found in table: Flood frame out all ports (except incoming ports) Unknown unicast
 - Destination MAC is broadcast or mulitcast;:
-	- Always flood the frame out all ports (excep)
+	- Always flood the frame out all ports (except the incoming port)
+
+[[Unicast and Multicast]]

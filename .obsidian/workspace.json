@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/Switching Concepts/Learn and Forward Method.md",
+                "file": "Unicast and Multicast.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learn and Forward Method"
+              "title": "Unicast and Multicast"
             }
           }
         ],
@@ -178,10 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3deee57fba1c68d3",
+  "active": "4e59513b47f0a0fe",
   "lastOpenFiles": [
-    "Y2S2/ENEL611/Switching Concepts/Switching Concepts.md",
     "Y2S2/ENEL611/Switching Concepts/Learn and Forward Method.md",
+    "Unicast and Multicast.md",
+    "Y2S2/ENEL611/Switching Concepts/Switching Concepts.md",
     "Y2S2/ENEL611/Switching Concepts/Switch Mac Address Table.md",
     "Y2S2/ENEL611/Basic Device Configuration/Troubleshooting Network Access Layer Issues.md",
     "Y2S2/ENEL611/Basic Device Configuration/Network Access Layer Issues.md",
@@ -206,7 +207,6 @@
     "Images/Pasted image 20250326163310.png",
     "README.md",
     "Y2S1/COMP607/RAID.md",
-    "Y2S1/COMP607/Definitons.md",
     "Images/Pasted image 20250326160021.png",
     "Images/Pasted image 20250326155826.png",
     "Y2S2/ENEL611/Switching Concepts",
