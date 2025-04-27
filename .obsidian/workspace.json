@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Store-and-Forwarding.md",
+                "file": "Cut-Through.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Store-and-Forwarding"
+              "title": "Cut-Through"
             }
           }
         ],
@@ -192,11 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3deee57fba1c68d3",
+  "active": "543466c6402ec966",
   "lastOpenFiles": [
+    "Y2S2/ENEL611/Switching Concepts/Store-and-Forwarding.md",
     "Cut-Through.md",
+    "Self notes.md",
     "Y2S2/ENEL611/Switching Concepts/Switching Forwarding Methods.md",
-    "Store-and-Forwarding.md",
     "Images/Pasted image 20250427151518.png",
     "Y2S2/ENEL611/Switching Concepts/Learn and Forward Method.md",
     "Y2S2/ENEL611/Switching Concepts/Unicast and Multicast.md",
@@ -220,7 +221,6 @@
     "Y2S1/DSA revision/Race condition.md",
     "Y2S1/DSA revision/Focus.md",
     "Y2S1/COMP610/Multithreading.md",
-    "Y2S1/COMP610/Space Complexity.md",
     "Images/Pasted image 20250326163310.png",
     "Images/Pasted image 20250326160021.png",
     "Images/Pasted image 20250326155826.png",
