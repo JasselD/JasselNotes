@@ -13,4 +13,10 @@ Layer 2 Broadcast Details
 
 Switch Behavior with Broadcasts
 - When a switch receives a broadcast frame:
-	- It forwards the frame out of every port, 
+	- It forwards the frame out of every port, except the one it came in on (ingress port)
+	- Every device connected to the switch receives a copy of the broadcast frame
+
+Impact of Broadcast
+- Broadcast are sometimes necessary:
+	- For example, for locating devices or servies (like ARP)
+	- 
