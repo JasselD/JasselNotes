@@ -19,4 +19,10 @@ Switch Behavior with Broadcasts
 Impact of Broadcast
 - Broadcast are sometimes necessary:
 	- For example, for locating devices or servies (like ARP)
+- Too many broadcasts:
+	- Can waste network bandwidth
+	- Can cause network congestions and slow down performace
+
+Broadcast Domains and Multiple Switches
+- Connecting two switches:
 	- 
