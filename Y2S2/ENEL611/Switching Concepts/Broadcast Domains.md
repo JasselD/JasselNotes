@@ -25,4 +25,5 @@ Impact of Broadcast
 
 Broadcast Domains and Multiple Switches
 - Connecting two switches:
-	- 
+	- Expands the broadcast domain
+	- A broadcast frame sent on Swithc S1 will also be forwarded to all devices connected to Switch S2
