@@ -1,4 +1,3 @@
-What is a VLAN?
 VLAN (Virtual LAN):
 - Creates logical groupings of devices, not based on physical connections
 - Devices within a VLAN communicate anywhere (different switches, different floors) and still be part fo the same VLAN
@@ -33,4 +32,5 @@ Benefits:
 Without VLANs (Flat Network)
 - Even with multiple IP subnets:
 	- All devices would still be in the same Layer 2 broadcast domain
-	- Broad
+	- Broadcast traffic (like ARP) would reach every device, even those not intended to receive it
+- 
