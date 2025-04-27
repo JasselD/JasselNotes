@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cut-Through.md",
+                "file": "Store-and-Forwarding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cut-Through"
+              "title": "Store-and-Forwarding"
             }
           }
         ],
@@ -192,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "543466c6402ec966",
+  "active": "3deee57fba1c68d3",
   "lastOpenFiles": [
-    "Y2S2/ENEL611/Switching Concepts/Switching Forwarding Methods.md",
     "Cut-Through.md",
+    "Y2S2/ENEL611/Switching Concepts/Switching Forwarding Methods.md",
     "Store-and-Forwarding.md",
     "Images/Pasted image 20250427151518.png",
     "Y2S2/ENEL611/Switching Concepts/Learn and Forward Method.md",
