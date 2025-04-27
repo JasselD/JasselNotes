@@ -25,12 +25,14 @@
             "id": "4e59513b47f0a0fe",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Y2S1/COMP610/Collections.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Collections"
             }
           }
         ],
@@ -178,6 +180,7 @@
   },
   "active": "4e59513b47f0a0fe",
   "lastOpenFiles": [
+    "Y2S1/COMP610/Data Structures.md",
     "Y2S1/COMP610/Merge Sort.md",
     "Y2S1/DSA revision/Sorting algorithms.md",
     "Y2S1/COMP610/Quick Sort.md",
@@ -204,7 +207,6 @@
     "Y2S2/COMP609/Assignment 1/Questions (TA).md",
     "Y2S2/ENEL611/Basic Device Configuration/Network Access Layer Issues.md",
     "Y2S2/ENEL611/Basic Device Configuration/Verify Switch Port Configuration.md",
-    "Y2S2/ENEL611/Basic Device Configuration/Auto-MDIX.md",
     "Images/Pasted image 20250326160021.png",
     "Images/Pasted image 20250326155826.png",
     "Y2S2/ENEL611/Switching Concepts",
