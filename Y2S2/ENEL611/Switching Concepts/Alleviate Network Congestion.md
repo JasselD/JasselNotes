@@ -27,4 +27,8 @@ Switch Characteristics That Reduces Congestion
 		- Example:
 			- 2 x 48-port switches are cheaper and better than 4 x 24-port switches
 	- High port density:
-		- 
+		- Keep traffic local
+		- Reduces congestion by limiting unnecessary external traffic
+
+
+**In conclusion**: Full-Duplex + Fast Ports + Big Buffers + High Port Density = Less Network Congestion 
