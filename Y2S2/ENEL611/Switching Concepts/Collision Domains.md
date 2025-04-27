@@ -5,4 +5,5 @@ Collisions vs Congestion
 	- Too much data traffic on the network, like traffic jams
 
 Collision Domains
-- Legacy Hub-Based neto
+- Legacy Hub-Based Networks:
+	- Devices share the sma
