@@ -15,4 +15,9 @@ Switch Characteristics That Reduces Congestion
 		- Support 100 Mbps, 1 Gbps, and 10 Gbps ports
 	- Core/Data Center Switches:
 		- Support 10 Gbps, 40 Gbps, and 100 Gbps ports
-	- Note: Faster switches cost more but s
+	- Note: Faster switches cost more but significantly reduce congestions
+- Fast Internal Switching:
+	- Switches use fast internal buses or shared memory
+	- Help deliver high performance by moving frames quickly inside the switch
+- Large Frame buffers
+	- 
