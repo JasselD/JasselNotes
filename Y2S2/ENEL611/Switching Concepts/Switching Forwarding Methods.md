@@ -5,4 +5,9 @@ Fast Decisions with ASICs
 **Two Main Switching Methods**
 - Store-and-Forwarding Switching (Cisco's primary method)
 	- Switch waits and receive the entire frame
-	- It performs a Cyclic Redundancy Check (CRC)
+	- It performs a Cyclic Redundancy Check (CRC) to check for errors
+	- Only error-free frames are forwarded
+	- More reliable, but slightly slower
+- Cut-Through Switching
+	- Switch starts forwarding as soon as it reads the destination MAC address and knows where to send it
+	- Does not wait fo t
