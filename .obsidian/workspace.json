@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/Switching Concepts/Alleviate Network Congestion.md",
+                "file": "Y2S2/ENEL611/VLANs/VLAN Definition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alleviate Network Congestion"
+              "title": "VLAN Definition"
             }
           }
         ],
@@ -236,8 +236,12 @@
   },
   "active": "4ea56944d3bc94df",
   "lastOpenFiles": [
-    "Y2S2/ENEL611/Switching Concepts/Broadcast Domains.md",
     "Y2S2/ENEL611/Switching Concepts/Alleviate Network Congestion.md",
+    "Y2S2/ENEL611/VLANs/VLAN Definition.md",
+    "Y2S2/ENEL611/VLANs",
+    "Y2S2/ENEL611/Untitled.canvas",
+    "Untitled",
+    "Y2S2/ENEL611/Switching Concepts/Broadcast Domains.md",
     "Y2S2/ENEL611/Switching Concepts/Collision Domains.md",
     "Y2S2/ENEL611/Switching Concepts/Cut-Through.md",
     "Y2S2/ENEL611/Switching Concepts/Switch Mac Address Table.md",
@@ -262,7 +266,6 @@
     "Y2S1/COMP610/Heap Sort.md",
     "Y2S1/COMP610/Insertion Sort.md",
     "Y2S1/COMP610/Bubble Sort.md",
-    "Y2S1/COMP610/Selection Sort.md",
     "Images/Pasted image 20250326163310.png",
     "Images/Pasted image 20250326160021.png",
     "Images/Pasted image 20250326155826.png",
@@ -279,8 +282,6 @@
     "Y2S2/COMP602",
     "Y2S2/COMP609",
     "Y2S2",
-    "Y2S1",
-    "Images/Pasted image 20241106135757.png",
-    "Y2S1/Bin Sort"
+    "Images/Pasted image 20241106135757.png"
   ]
 }
