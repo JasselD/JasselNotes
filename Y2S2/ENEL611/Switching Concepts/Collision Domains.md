@@ -13,4 +13,9 @@ Collision Domains
 		- Each port on a switch is its own collision domain (if operating in half-duplex)
 
 Duplex Modes
-- Half-duple
+- Half-Duplex:
+	- Devices can send or receive, but not at the same time
+	- Collision domains exist when switch ports are operating in half-duplex
+- Full-Duplex:
+	- Devices can send and receive at the same time
+	- No collisions occur in full-duplex mo
