@@ -11,4 +11,6 @@ Layer 2 Broadcast Details
 - Mac Broadcast Domain:
 	- All devices to the LAN that receives and process Layer 2 broadcast frames
 
-Switch Behavior with Broadcas
+Switch Behavior with Broadcasts
+- When a switch receives a broadcast frame:
+	- It forwards the frame out of every port, 
