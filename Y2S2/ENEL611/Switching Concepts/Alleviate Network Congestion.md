@@ -19,5 +19,7 @@ Switch Characteristics That Reduces Congestion
 - Fast Internal Switching:
 	- Switches use fast internal buses or shared memory
 	- Help deliver high performance by moving frames quickly inside the switch
-- Large Frame buffers
-	- 
+- Large Frame buffers:
+	- Switches store more incoming frames temporarily without dropping them
+	- Especially helpful when traffic goes from fast ports (1 Gbps) to slower ports (100 Mbps)
+- High Port Density:
