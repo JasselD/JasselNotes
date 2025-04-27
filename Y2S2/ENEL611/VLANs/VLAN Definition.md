@@ -19,4 +19,8 @@ Key Points
 - Switch Ports:
 	- Any switch port can be assigned to only one VLAN (except trunk ports or IP phone ports)
 - Packet Forwarding:
-	- Unicast,
+	- Unicast, Broadcast, and Multicast packets stay within their VLAN
+	- To send packets between VLANs, routing is needed (eg. a router or a Layer 3 switch)
+
+Benefits:
+- Smaller b
