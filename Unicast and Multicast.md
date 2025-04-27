@@ -8,4 +8,6 @@
 **Multicast
 - One-to-many communication (but not everyone)
 - A frame or packet is sent from one device to a group of devices that have joined a specific multicast group
-- Example
+- Example:
+	- You stream a live video to a club of users (only those users who subcribed to the stream receive it)
+	- In networing, multicast addresses are special MAC addresses, and the switch fl
