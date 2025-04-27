@@ -10,4 +10,7 @@ Fast Decisions with ASICs
 	- More reliable, but slightly slower
 - Cut-Through Switching
 	- Switch starts forwarding as soon as it reads the destination MAC address and knows where to send it
-	- Does not wait fo t
+	- Does not wait for the whole frame
+	- Faster, but errors may be forwarded because it doesn't check the full frame
+
+![[Pasted image 20250427151518.png]]
