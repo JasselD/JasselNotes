@@ -13,4 +13,10 @@ Example Setup
 	- VLAN 4 (Sales) -> Network: 10.0.4.0/24
 - All VLANs connect through an additional switch linked to a router
 
-Key
+Key Points
+- Logical Networks:
+	- Each VLAN acts as a separate independent network
+- Switch Ports:
+	- Any switch port can be assigned to only one VLAN (except trunk ports or IP phone ports)
+- Packet Forwarding:
+	- Unicast,
