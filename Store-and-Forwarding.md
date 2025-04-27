@@ -10,4 +10,6 @@ Error Checking
 Automatic Buffering
 - Incoming frame is stored (buffered) before forwarding
 - Supports different Ethernet speeds between ports
-	- Example: Receiving from 100 Mbps port
+	- Example: Receiving from 100 Mbps port and sending to a 1 Gbps port
+- Process:
+	- Frame is stored in ingress buffer -> FCS is verified -> Frame moves to engress buffer -> Sent out
