@@ -6,4 +6,7 @@ Step 1: Learn (Examing the Source MAC Address)
 	- Same port: Just refresh the timer (default: 5 minutes)
 	- Different port: Update the entry with the new port number
 
-Step 2: 
+Step 2: Forward (Examining the destination MAC Address)
+- Fou:
+	- Forward frame out the matched port
+	- Not found in table:
