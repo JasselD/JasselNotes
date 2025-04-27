@@ -22,4 +22,4 @@ Duplex Modes
 
 Switch Port Autonegotiation
 - Switch ports try to negotiate full-duplex by default
-- If the connected device only supports half-duplex,
+- If the connected device only supports half-duplex (like legacy hub), the switch port will aslo operate in half-duplex (meaning collision can happen)
