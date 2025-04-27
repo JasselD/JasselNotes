@@ -6,4 +6,9 @@ Broadcast Domains
 
 Layer 2 Broadcast Details
 - Layer 2 broadcast:
-	- Frame's destination MAC address is set to all binary one
+	- Frame's destination MAC address is set to all binary ones
+		- Example: (FF:FF:FF:FF:FF:FF)
+- Mac Broadcast Domain:
+	- All devices to the LAN that receives and process Layer 2 broadcast frames
+
+Switch Behavior with Broadcas
