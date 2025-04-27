@@ -11,4 +11,8 @@ Switch Characteristics That Reduces Congestion
 - Fast Port Speeds
 	- Access Layer Switches:
 		- Support 100 Mbps and 1 Gbps ports
-	- Distribution Layer Swi
+	- Distribution Layer Switches:
+		- Support 100 Mbps, 1 Gbps, and 10 Gbps ports
+	- Core/Data Center Switches:
+		- Support 10 Gbps, 40 Gbps, and 100 Gbps ports
+	- Note: Faster switches cost more but s
