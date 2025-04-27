@@ -23,3 +23,8 @@ Switch Characteristics That Reduces Congestion
 	- Switches store more incoming frames temporarily without dropping them
 	- Especially helpful when traffic goes from fast ports (1 Gbps) to slower ports (100 Mbps)
 - High Port Density:
+	- More ports per switch = fewer switches needed overall
+		- Example:
+			- 2 x 48-port switches are cheaper and better than 4 x 24-port switches
+	- High port density:
+		- 
