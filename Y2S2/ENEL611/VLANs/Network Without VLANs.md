@@ -8,4 +8,8 @@
 	- PC1 (Faculty computer) sends a broadcast frame
 	- Switches S2 receives the broadcast and forwards it to all other ports
 	- Eventually, every device in the network receives the broadcast because there's only one broadcast domain
-- Impact 
+- Impact of No VLANs
+	- Single broadcast domain
+		- Every device in the network receives broadcasts, causing network congestion
+	- Broadcast traffic can overload the network, especially with a large number of devices
+	- 
