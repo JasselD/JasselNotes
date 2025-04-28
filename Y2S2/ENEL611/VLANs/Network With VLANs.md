@@ -7,11 +7,12 @@
 		- The switch is configured with VLANs, while IP addressing is configured on the devices
 - Scenario (Network with Two VLANs):
 	- The network is segmented into two VLANs:
-		- VLAN 10 for facu
+		- VLAN 10 for faculty devices
+		- VLAN 20 for student devices
 - Broadcast Traffic in VLANs:
 	- Faculty Computer (PC1) in VLAN 10 sends a broadcast frame
 	- Switch S2 receives the broadcast and forwards it only to the ports configured for VLAN 10
 	- Trunk Ports:
 		- Ports F0/1 and F0/3 are trunk ports connecting switches (S1, S2, S3) and allow traffic for all VLANs
 - How It Travel in VLANs:
-	- When S
+	- When S1 receives the broadcast frame from S2 on port F0/1, it forwards it to port F0/3
