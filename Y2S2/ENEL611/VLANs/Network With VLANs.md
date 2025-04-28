@@ -9,4 +9,6 @@
 	- Faculty Computer (PC1) in VLAN 10 sends a broadcast frame
 	- Switch S2 receives the broadcast and forwards it only to the ports configured for VLAN 10
 	- Trunk Ports:
-		- 
+		- Ports F0/1 and F0/3 are trunk ports connecting switches (S1, S2, S3) and allow traffic for all VLANs
+- How It Travel in VLANs:
+	- When S
