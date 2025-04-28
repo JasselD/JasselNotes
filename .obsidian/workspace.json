@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/VLANs/Data VLAN.md",
+                "file": "Y2S2/ENEL611/VLANs/Native VLAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data VLAN"
+              "title": "Native VLAN"
             }
           }
         ],
@@ -250,8 +250,9 @@
   },
   "active": "3deee57fba1c68d3",
   "lastOpenFiles": [
-    "Y2S2/ENEL611/VLANs/Default VLAN.md",
     "Y2S2/ENEL611/VLANs/Data VLAN.md",
+    "Y2S2/ENEL611/VLANs/Native VLAN.md",
+    "Y2S2/ENEL611/VLANs/Default VLAN.md",
     "Pasted image 20250428174248.png",
     "Y2S2/ENEL611/VLANs/VLAN Definition.md",
     "Y2S2/ENEL611/Switching Concepts/Alleviate Network Congestion.md",
@@ -280,7 +281,6 @@
     "Y2S1/COMP610/Merge Sort.md",
     "Y2S1/DSA revision/Sorting algorithms.md",
     "Y2S1/COMP610/Quick Sort.md",
-    "Y2S1/COMP610/Heap Sort.md",
     "Images/Pasted image 20250326163310.png",
     "Images/Pasted image 20250326160021.png",
     "Images/Pasted image 20250326155826.png",

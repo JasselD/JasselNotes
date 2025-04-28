@@ -10,4 +10,7 @@
 		- Teams (Development, Support)
 		- Functions (Students, Staff)
 - Example:
-	- VLAN 10 = IT Department
+	- VLAN 10 = IT Department (Data VLAN)
+	- VLAN 20 = Sales Department (Data VLAN)
+
+[[Native VLAN]]
