@@ -7,4 +7,10 @@
 	- Trunks are essential for VLANs to span across multiple switches
 	- Default behaviour on Ciscop switches:
 		- All VLANs are allowed on trunk links unless manually restricted
-	- Trunks can also connect to servers with 802.1Q-ca;
+	- Trunks can also connect to servers with 802.1Q-capable network cards (NICs)
+- Trunking Protocol
+	- IEEE 802.1Q is the industry standard for trunking on:
+		- Fast Ethernet
+		- Gigabit Ethernet
+		- 10-Gigabit Ethernet
+	- 802.1Q Tagging
