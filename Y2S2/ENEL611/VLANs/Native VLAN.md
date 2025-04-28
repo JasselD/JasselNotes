@@ -13,3 +13,5 @@
 - Example:
 	- VLAN 99 is configured as the Native VLAN across all trunk ports
 	- All regular user traffic is tagged, except some legacy traffic, which is associated with VLAN 99
+
+[[Management VLAN]]
