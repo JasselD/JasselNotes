@@ -7,4 +7,7 @@
 - Tagged Frames on the Native VLAN
 	- Normally, native VLAN traffic should not be tagged
 	- If an 802.1Q trunk port receives a tagged frame with the same VLAN ID as the native VLAN, it drops the frame
-	- Devices that add tags to native VLAN traffic include IP phones, routers, and non-Cisco switche
+	- Devices that add tags to native VLAN traffic include IP phones, routers, and non-Cisco switches
+	- Cisco best practice: Configure devices to not send tagged frames on the native VLAN
+- Untagged Frames on the Native VLAN
+	- If a Cisco switch trunk port receives
