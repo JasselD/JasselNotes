@@ -20,4 +20,7 @@
 - Example:
 	- VLAN 150 = Voice VLAN (For Cisco IP phones)
 	- VLAN 20 = Data VLAN (for student's computer, PC5)
-	- Setup:L
+	- Setup:
+		- PC5 connects to the IP phone
+		- The IP phone connects to the switch (S3)
+		- The IP phones tags voice traffic into VLAN 150 and forwards PC4's data traffic into VLAN 20
