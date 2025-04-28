@@ -4,4 +4,7 @@
 - Purpose:
 	- Transport multiple VLANs over a single link
 	- Does not belong to any specific VLAN, it acts as a conduit
-	- Trunks are essential for VLAN
+	- Trunks are essential for VLANs to span across multiple switches
+	- Default behaviour on Ciscop switches:
+		- All VLANs are allowed on trunk links unless manually restricted
+	- Trunks can also connect to servers with 802.1Q-ca;
