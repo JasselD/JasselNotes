@@ -19,4 +19,6 @@
 	- S3 receives the broadcast frame on F0/3 and forwards it to PC4 on F0/11 (the port for VLAN 10)
 	- PC4 (faculty device) receives the broadcast frame, and the transmission is restricted to VLAN 10 devices
 - VLANs Limit Broadcast Traffic
-	- Unicast, multicast, and broadcast traffic from a host is s
+	- Unicast, multicast, and broadcast traffic from a host is restricted to the VLAN it belongs to
+	- This segregates traffic between VLANs and prevents unnecessary broadcasts from being sent across the entire network
+- 
