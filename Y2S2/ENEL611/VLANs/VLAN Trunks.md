@@ -20,3 +20,5 @@
 	- Swtiches S1, S2, and S3 are connected using trunks
 	- VLANs 10, 20, 30, and 99 (native VLAN) are allowed across the trunks
 	- Devices in VLAN 10 on S1 can talk to devices in VLAN 10 on S2 through the trunk
+
+![[Pasted image 20250428193201.png]]
