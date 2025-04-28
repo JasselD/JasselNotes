@@ -32,4 +32,4 @@
 		- Using a hub is inefficient, as it broadcasts to all connected devices
 		- PC1 is connected to a trunk link, which is unusual and poor design because trunks are meant to carry multiple VLAN traffic, not end-host traffic
 		- Access ports are assigned to the native VLAN, which is generally discouraged
-		- This topology illustrates legacy network designs that may require native VLAN handling to en
+		- This topology illustrates legacy network designs that may require native VLAN handling to ensure compatibility
