@@ -13,4 +13,9 @@
 		- Fast Ethernet
 		- Gigabit Ethernet
 		- 10-Gigabit Ethernet
-	- 802.1Q Tagging
+	- 802.1Q Tagging:
+		- Each Ethernet frame gets a 4-byte tag added to indicate which VLAN it belongs to
+		- Frames from the native VLAN are not tagged
+- Example:
+	- Swtiches S1, S2, and S3 are connected using trunks
+	- VLANs 10, 20, 30, and 9 9 (native VLAN)
