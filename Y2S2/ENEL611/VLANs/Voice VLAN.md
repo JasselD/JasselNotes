@@ -11,4 +11,9 @@
 	- Low Delay:
 		- Network delay must be less than 150 ms end-to-end
 - Purpose:
-	- A v
+	- A Voice VLAN ensures:
+		- Better voice quality
+		- Less interference from normal data traffic
+	- The switch must be properly configured to:
+		- Separate voice traffic from regular data traffic
+		- Prio
