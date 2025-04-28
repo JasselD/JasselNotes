@@ -12,4 +12,8 @@
 - Untagged Frames on the Native VLAN
 	- If a Cisco switch trunk port receives untagged frames (whcih are uncommon), the switch assigns them to the native VLAN
 	- If there are no devices in the native VLAN or no other trunk ports, the untagged frames may be dropped
-	- The default native VLAN is VLAN
+	- The default native VLAN is VLAN 1
+	- The PVID (Port VLAN ID) is used to forward untagged traffic.
+		- For example:
+			- If VLAN 99 is set as the native VLAN, the PVID is 99
+			- If the native VLAN is not reconfigured, the dedau
