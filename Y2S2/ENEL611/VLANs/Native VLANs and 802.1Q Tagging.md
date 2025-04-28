@@ -27,4 +27,7 @@
 		- Hub forwards it to switches
 		- Switches forward the untagged traffic to the corerct ports, using the native VLAN configuration
 		- Untagged frames are forwarded through the VLAN 1 port, but tagged frames on the trunk link are dropped by the switch
-- 
+- Network Design Issues in Scenario:
+	- Problems with this setup:
+		- Using a hub is inefficient, as it broadcasts to all connected devices
+		- PC1 is connected to a trunk link, which is unus
