@@ -12,5 +12,7 @@
 		- Having Native VLAN = Management VLAN (both VLAN 1) is considered a security vulnerability
 		- Best practice: Change the management VLAN and use a differrent native VLAN
 - For example, **show vlan brief** "all ports are currently assigned to the default VLAN 1"
-	- 
+	- ![[Pasted image 20250428174248.png]]
 
+
+[[Data VLAN]]

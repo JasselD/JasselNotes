@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/VLANs/Types of VLANs.md",
+                "file": "Y2S2/ENEL611/VLANs/Data VLAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types of VLANs"
+              "title": "Data VLAN"
             }
           }
         ],
@@ -248,10 +248,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48d12e7427e6c512",
+  "active": "3deee57fba1c68d3",
   "lastOpenFiles": [
+    "Y2S2/ENEL611/VLANs/Default VLAN.md",
+    "Y2S2/ENEL611/VLANs/Data VLAN.md",
+    "Pasted image 20250428174248.png",
     "Y2S2/ENEL611/VLANs/VLAN Definition.md",
-    "Y2S2/ENEL611/VLANs/Types of VLANs.md",
     "Y2S2/ENEL611/Switching Concepts/Alleviate Network Congestion.md",
     "Y2S2/ENEL611/VLANs",
     "Y2S2/ENEL611/Untitled.canvas",
@@ -279,7 +281,6 @@
     "Y2S1/DSA revision/Sorting algorithms.md",
     "Y2S1/COMP610/Quick Sort.md",
     "Y2S1/COMP610/Heap Sort.md",
-    "Y2S1/COMP610/Insertion Sort.md",
     "Images/Pasted image 20250326163310.png",
     "Images/Pasted image 20250326160021.png",
     "Images/Pasted image 20250326155826.png",
@@ -295,7 +296,6 @@
     "Y2S2/COMP609/Assignment 1",
     "Y2S2/COMP602",
     "Y2S2/COMP609",
-    "Y2S2",
-    "Images/Pasted image 20241106135757.png"
+    "Y2S2"
   ]
 }
