@@ -17,4 +17,6 @@
 - How It Travel in VLANs:
 	- When S1 receives the broadcast frame from S2 on port F0/1, it forwards it to port F0/3 (the trunk port connected to S3)
 	- S3 receives the broadcast frame on F0/3 and forwards it to PC4 on F0/11 (the port for VLAN 10)
-	- PC4 (faculty device) receives the broadcast frame, and the transmission is restricted to VLAN 10 de
+	- PC4 (faculty device) receives the broadcast frame, and the transmission is restricted to VLAN 10 devices
+- VLANs Limit Broadcast Traffic
+	- Unicast, multicast, and broadcast traffic from a host is s
