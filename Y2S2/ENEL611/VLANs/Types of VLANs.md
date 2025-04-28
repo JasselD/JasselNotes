@@ -10,4 +10,5 @@
 	- VLAN 1 cannot be renamed or deleted
 	- Security Risk:
 		- Having Native VLAN = Management VLAN (both VLAN 1) is considered a security vulnerability
-		- Best practice: Change the management VLAN and use 
+		- Best practice: Change the management VLAN and use a differrent native VLAN
+- For example, **show vlan brief** "all ports are currently assigned"
