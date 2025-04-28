@@ -12,4 +12,4 @@
 	- Single broadcast domain
 		- Every device in the network receives broadcasts, causing network congestion
 	- Broadcast traffic can overload the network, especially with a large number of devices
-	- 
+	- Lack of segmentation makes the network harder to manage and scaled
