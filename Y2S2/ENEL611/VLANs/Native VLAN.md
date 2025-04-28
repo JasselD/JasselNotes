@@ -7,4 +7,8 @@
 	- Untagged traffic on a trunk is assigned to the Native VLAN
 	- On Cisco switches:
 		- By default, the Native VLAN = VLAN 1
-		- 
+		- Best practice:
+			- Change Native VLAN to an unused VLAN (not VLAN 1 or a Data VLAN)
+			- Helps in enhancing security and preventing VLAN hopping attacks
+- Example:
+	- Vlan 99 
