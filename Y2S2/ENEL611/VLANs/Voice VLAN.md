@@ -24,3 +24,5 @@
 		- PC5 connects to the IP phone
 		- The IP phone connects to the switch (S3)
 		- The IP phones tags voice traffic into VLAN 150 and forwards PC4's data traffic into VLAN 20
+
+![[Pasted image 20250428180607.png]]
