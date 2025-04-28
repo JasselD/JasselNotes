@@ -16,4 +16,8 @@
 		- Less interference from normal data traffic
 	- The switch must be properly configured to:
 		- Separate voice traffic from regular data traffic
-		- Prio
+		- Prioritise voice frames using QoS (Quality of Service)
+- Example:
+	- VLAN 150 = Voice VLAN (For Cisco IP phones)
+	- VLAN 20 = Data VLAN (for student's computer, PC5)
+	- Setup:L
