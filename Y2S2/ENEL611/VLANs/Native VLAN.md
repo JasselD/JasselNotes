@@ -11,4 +11,5 @@
 			- Change Native VLAN to an unused VLAN (not VLAN 1 or a Data VLAN)
 			- Helps in enhancing security and preventing VLAN hopping attacks
 - Example:
-	- Vlan 99 
+	- VLAN 99 is configured as the Native VLAN across all trunk ports
+	- All regular user traffic is tagged, except some legacy traffic, which is associated with VLAN 99
