@@ -5,4 +5,9 @@
 - Purpose:
 	- Carries only user data traffic e.g web browsing, emails, business applications
 	- Voice traffic and network management traffic should NOT be allowed on Data VLANs
-	- Organisations can have mul
+	- Organisations can have multiple Data VLANs depending on:
+		- Departments (HR, IT, SALES)
+		- Teams (Development, Support)
+		- Functions (Students, Staff)
+- Example:
+	- VLAN 10 = IT Department
