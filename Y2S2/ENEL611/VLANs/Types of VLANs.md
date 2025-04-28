@@ -7,4 +7,7 @@
 	- All ports are assigned to VLAN 1 initially
 	- The Native VLAN is VLAN 1 by default
 	- The Management VLAN is VLAN 1 by default
-	- VLAN 1 cannot be renamed o
+	- VLAN 1 cannot be renamed or deleted
+	- Security Risk:
+		- Having Native VLAN = Management VLAN (both VLAN 1) is considered a security vulnerability
+		- Best practice: Change the management VLAN and use 
