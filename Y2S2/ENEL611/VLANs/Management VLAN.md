@@ -8,4 +8,8 @@
 - Purpose:
 	- To seperate management traffic from user/data traffic for security and organisations
 	- Default settings:
-		- VLAN 1 is the default Management VLAN on 
+		- VLAN 1 is the default Management VLAN on Cisco switches
+	- Best Pratice:
+		- Create a dedicated, separate VLAN for management (not VLAN 1) to enchance security
+	- Only network administrator should have access to devices on the Management VLAN
+- Example:
