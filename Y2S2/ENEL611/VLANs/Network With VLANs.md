@@ -25,4 +25,6 @@
 	- Traffic Segmentation:
 		- Broadcast traffic is isolated within the VLAN, improving network efficiency
 	- Security:
-		- Sensitive traffic can be kept within specific VLANs, mini
+		- Sensitive traffic can be kept within specific VLANs, minimizing the risk of unauthorised access
+	- Network Management:
+		- Simplifies troubleshooting and management by logically grouping devices into VLANs, regardless of their physical location
