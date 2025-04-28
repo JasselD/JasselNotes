@@ -13,3 +13,7 @@
 		- Create a dedicated, separate VLAN for management (not VLAN 1) to enchance security
 	- Only network administrator should have access to devices on the Management VLAN
 - Example:
+	- VLAN 99 = Management VLAN
+	- Network admins connect to switches IP addresses inside VLAN 99 via SSH to configure and monitor devices
+
+[[Voice VLAN]]
