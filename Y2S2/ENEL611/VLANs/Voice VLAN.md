@@ -5,4 +5,10 @@
 	- Assured Bandwidth:
 		- To prevent dropped or choppy calls
 	- Transmission Priority:
-		- 
+		- Voice traffic must be prioritised over data traffic
+	- Routing Flexibility:
+		- Able to avoid congested paths
+	- Low Delay:
+		- Network delay must be less than 150 ms end-to-end
+- Purpose:
+	- A v
