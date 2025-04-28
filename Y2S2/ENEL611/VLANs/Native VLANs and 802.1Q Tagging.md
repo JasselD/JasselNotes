@@ -16,4 +16,5 @@
 	- The PVID (Port VLAN ID) is used to forward untagged traffic.
 		- For example:
 			- If VLAN 99 is set as the native VLAN, the PVID is 99
-			- If the native VLAN is not reconfigured, the dedau
+			- If the native VLAN is not reconfigured, the default PVID is 1
+- 
