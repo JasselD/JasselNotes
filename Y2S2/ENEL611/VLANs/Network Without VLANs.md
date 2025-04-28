@@ -6,4 +6,6 @@
 	- No VLANs configured = everything is in the same broadcast domain
 - Example:
 	- PC1 (Faculty computer) sends a broadcast frame
-	- 
+	- Switches S2 receives the broadcast and forwards it to all other ports
+	- Eventually, every device in the network receives the broadcast because there's only one broadcast domain
+- Impact 
