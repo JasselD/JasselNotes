@@ -17,4 +17,8 @@
 		- For example:
 			- If VLAN 99 is set as the native VLAN, the PVID is 99
 			- If the native VLAN is not reconfigured, the default PVID is 1
-- 
+- Network Scenario: Flow of Untagged Traffic:
+	- Network Setup:
+		- Switches are interconnected with 802.1Q trunk links
+		- A hub is used to connect PC1 to the network
+		- The hub sne
