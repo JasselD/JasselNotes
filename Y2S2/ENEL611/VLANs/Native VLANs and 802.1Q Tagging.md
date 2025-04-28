@@ -21,4 +21,8 @@
 	- Network Setup:
 		- Switches are interconnected with 802.1Q trunk links
 		- A hub is used to connect PC1 to the network
-		- The hub sne
+		- The hub sends PC1's untagged traffic to the switches, which assign it to the native VLAN (VLAN 1)
+	- Traffic Flow:
+		- PC1 sends untagged traffic
+		- Hub forwards it to switches
+		- Switches forward the untagged traffic to the corerct ports, usion
