@@ -21,4 +21,8 @@
 - VLANs Limit Broadcast Traffic
 	- Unicast, multicast, and broadcast traffic from a host is restricted to the VLAN it belongs to
 	- This segregates traffic between VLANs and prevents unnecessary broadcasts from being sent across the entire network
-- 
+- Benefits of VLANs
+	- Traffic Segmentation:
+		- Broadcast traffic is isolated within the VLAN, improving network efficiency
+	- Security:
+		- Sensitive traffic can be kept within specific VLANs, mini
