@@ -10,4 +10,6 @@
 	- Devices that add tags to native VLAN traffic include IP phones, routers, and non-Cisco switches
 	- Cisco best practice: Configure devices to not send tagged frames on the native VLAN
 - Untagged Frames on the Native VLAN
-	- If a Cisco switch trunk port receives
+	- If a Cisco switch trunk port receives untagged frames (whcih are uncommon), the switch assigns them to the native VLAN
+	- If there are no devices in the native VLAN or no other trunk ports, the untagged frames may be dropped
+	- The default native VLAN is VLAN
