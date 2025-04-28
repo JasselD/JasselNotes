@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/VLANs/Native VLAN.md",
+                "file": "Y2S2/ENEL611/VLANs/Voice VLAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Native VLAN"
+              "title": "Voice VLAN"
             }
           }
         ],
@@ -250,13 +250,13 @@
   },
   "active": "48d12e7427e6c512",
   "lastOpenFiles": [
+    "Y2S2/ENEL611/Legacy Traffic and Legacy Devices.md",
+    "Y2S2/ENEL611/VLANs/Native VLAN.md",
     "Y2S2/ENEL611/VLANs/Management VLAN.md",
     "Y2S2/ENEL611/VLANs/Voice VLAN.md",
     "Pasted image 20250428180607.png",
-    "Y2S2/ENEL611/Legacy Traffic and Legacy Devices.md",
     "README.md",
     "Self notes.md",
-    "Y2S2/ENEL611/VLANs/Native VLAN.md",
     "Y2S2/ENEL611/VLANs/Data VLAN.md",
     "Y2S2/ENEL611/VLANs/Default VLAN.md",
     "Images/Pasted image 20250428174248.png",
