@@ -4,4 +4,8 @@
 	- SSH
 	- Telnet
 	- HTTPS/HTTP (for web-based management)
-	- SNMP (Simple ne)
+	- SNMP (Simple Network Management Protocol)
+- Purpose:
+	- To seperate management traffic from user/data traffic for security and organisations
+	- Default settings:
+		- VLAN 1 is the default Management VLAN on 
