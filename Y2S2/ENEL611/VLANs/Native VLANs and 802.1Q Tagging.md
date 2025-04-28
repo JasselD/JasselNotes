@@ -25,4 +25,6 @@
 	- Traffic Flow:
 		- PC1 sends untagged traffic
 		- Hub forwards it to switches
-		- Switches forward the untagged traffic to the corerct ports, usion
+		- Switches forward the untagged traffic to the corerct ports, using the native VLAN configuration
+		- Untagged frames are forwarded through the VLAN 1 port, but tagged frames on the trunk link are dropped by the switch
+- 
