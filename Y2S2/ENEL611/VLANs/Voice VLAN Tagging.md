@@ -8,4 +8,3 @@
 	- Connect to the network switch
 	- Connect to a PC or host device
 	- Separate voice and data traffic using two VLANs on single switch port
-	- 
