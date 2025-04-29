@@ -7,4 +7,5 @@
 - A Cisco IP phone has a built-in 3-port switch, enabling it to:
 	- Connect to the network switch
 	- Connect to a PC or host device
-	- Separate voice and data traffic using
+	- Separate voice and data traffic using two VLANs on single switch port
+	- 
