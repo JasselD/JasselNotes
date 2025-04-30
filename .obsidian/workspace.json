@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/VLANs/Voice VLAN Tagging.md",
+                "file": "Revision/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Voice VLAN Tagging"
+              "title": "Untitled"
             }
           }
         ],
@@ -320,8 +320,10 @@
   },
   "active": "be6d4eedbdbd1021",
   "lastOpenFiles": [
-    "Y2S2/ENEL611/VLANs/Native VLANs and 802.1Q Tagging.md",
     "Y2S2/ENEL611/VLANs/Voice VLAN Tagging.md",
+    "Revision/Untitled.md",
+    "Revision",
+    "Y2S2/ENEL611/VLANs/Native VLANs and 802.1Q Tagging.md",
     "Y2S2/ENEL611/VLANs/Network With VLANs.md",
     "Y2S2/ENEL611/VLANs/Network Without VLANs.md",
     "Y2S2/ENEL611/VLANs/VLAN Trunks.md",
@@ -340,7 +342,6 @@
     "Y2S2/ENEL611/Switching Concepts/Alleviate Network Congestion.md",
     "Y2S2/ENEL611/VLANs",
     "Y2S2/ENEL611/Untitled.canvas",
-    "Untitled",
     "Y2S2/ENEL611/Switching Concepts/Broadcast Domains.md",
     "Y2S2/ENEL611/Switching Concepts/Collision Domains.md",
     "Y2S2/ENEL611/Switching Concepts/Cut-Through.md",
@@ -352,7 +353,6 @@
     "Y2S2/ENEL611/Switching Concepts/Unicast and Multicast.md",
     "Y2S2/ENEL611/Switching Concepts/Switching Concepts.md",
     "Y2S2/ENEL611/Basic Device Configuration/Troubleshooting Network Access Layer Issues.md",
-    "Y2S2/ENEL611/Basic Device Configuration/Network Access Layer Issues.md",
     "Images/Pasted image 20250326163310.png",
     "Images/Pasted image 20250326160021.png",
     "Images/Pasted image 20250326155826.png",
