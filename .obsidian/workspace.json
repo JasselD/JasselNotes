@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/DHCP message type.md",
+                "file": "Revision/Common Spanning Tree Protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DHCP message type"
+              "title": "Common Spanning Tree Protocol"
             }
           }
         ],
@@ -334,8 +334,8 @@
   },
   "active": "fe74a820f64a40f0",
   "lastOpenFiles": [
-    "Revision/Common Spanning Tree Protocol.md",
     "Revision/DHCP message type.md",
+    "Revision/Common Spanning Tree Protocol.md",
     "Untitled",
     "Y2S2/ENEL611/VLANs/Voice VLAN Tagging.md",
     "Revision",
