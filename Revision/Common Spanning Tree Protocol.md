@@ -11,4 +11,4 @@
 - IEEE 802.1s standard that maps multiple VLANs to a single STP instance, reducing the number of instances
 
 **MST**
-- Cisco implementation of MSTP (IEEE 802.1s). Allows manual grouping of VLANs into fewer spanning-tree instances
+- IEEE standard that reduces the number o
