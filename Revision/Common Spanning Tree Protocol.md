@@ -5,10 +5,10 @@
 - Cisco proprietary enchancement of IEEE 802.1w (RTSP) that provides faster convergence and per-VLAN instances
 
 **RSTP**
-- IEEE 802.1w standard that improves convergence time compared to 802.1D
+- Fast cone
 
 **MSTP**
-- IEEE 802.1s standard that maps multiple VLANs to a single STP instance, reducing the number of instances
+- IEEE standard that reduces the number of STP instances
 
 **MST**
-- IEEE standard that reduces the number o
+- Proprietary per VLAN implementation of IEEE 802.1w
