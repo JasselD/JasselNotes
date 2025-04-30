@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revision/Untitled.md",
+                "file": "Revision/Common Spanning Tree Protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Common Spanning Tree Protocol"
             }
           }
         ],
@@ -321,7 +321,7 @@
   "active": "be6d4eedbdbd1021",
   "lastOpenFiles": [
     "Y2S2/ENEL611/VLANs/Voice VLAN Tagging.md",
-    "Revision/Untitled.md",
+    "Revision/Common Spanning Tree Protocol.md",
     "Revision",
     "Y2S2/ENEL611/VLANs/Native VLANs and 802.1Q Tagging.md",
     "Y2S2/ENEL611/VLANs/Network With VLANs.md",
