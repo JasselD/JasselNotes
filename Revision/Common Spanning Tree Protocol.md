@@ -12,4 +12,3 @@
 
 **MST**
 - Cisco implementation of MSTP (IEEE 802.1s). Allows manual grouping of VLANs into fewer spanning-tree instances
-
