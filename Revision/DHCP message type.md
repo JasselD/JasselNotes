@@ -8,4 +8,4 @@
 - A client initiating a message to find a DHCP server
 
 **DHCPOFFER**
-- A DHCP server responding to thje
+- A DHCP server responding to the initial request by a client
