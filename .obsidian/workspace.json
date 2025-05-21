@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S1/DSA revision/Balancing Binary Tree.md",
+                "file": "Y2S1/DSA revision/Heap Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Balancing Binary Tree"
+              "title": "Heap Rules"
             }
           }
         ],
@@ -334,14 +334,16 @@
   },
   "active": "fe74a820f64a40f0",
   "lastOpenFiles": [
-    "Y2S1/DSA revision/Binary Tree.md",
+    "Y2S1/DSA revision/Heap.md",
+    "Y2S1/DSA revision/Hashing function.md",
+    "Y2S1/DSA revision/Graph.md",
     "Y2S1/DSA revision/Balancing Binary Tree.md",
+    "Y2S1/DSA revision/Binary Tree.md",
     "Y2S1/DSA revision/Focus.md",
     "Y2S1/DSA revision/Race condition.md",
     "Y2S1/DSA revision/Stack.md",
     "Y2S1/DSA revision/Circular Singly LinkedList.md",
     "Y2S1/DSA revision/Priority Queue.md",
-    "Y2S1/DSA revision/Hashing function.md",
     "Y2S1/DSA revision/Single LinkedList.md",
     "Y2S1/DSA revision/*Sample questions.md",
     "Revision/Common Spanning Tree Protocol.md",
@@ -362,8 +364,6 @@
     "Images/Pasted image 20250428180607.png",
     "README.md",
     "Self notes.md",
-    "Y2S2/ENEL611/VLANs/Data VLAN.md",
-    "Y2S2/ENEL611/VLANs/Default VLAN.md",
     "Images/Pasted image 20250428174248.png",
     "Y2S2/ENEL611/VLANs",
     "Y2S2/ENEL611/Untitled.canvas",
