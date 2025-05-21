@@ -7,3 +7,4 @@
 - [[Merge Sort]]
 - [[Radix Sort]]
 - [[Bucket Sort]]
+- [[Fast Sort]]
