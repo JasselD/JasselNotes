@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S1/DSA revision/Binary Search Tree.md",
+                "file": "Y2S1/DSA revision/Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Search Tree"
+              "title": "Traversal"
             }
           }
         ],
@@ -334,6 +334,7 @@
   },
   "active": "fe74a820f64a40f0",
   "lastOpenFiles": [
+    "Y2S1/DSA revision/Binary Search Tree.md",
     "Y2S1/DSA revision/Heap Rules.md",
     "Y2S1/DSA revision/Heap.md",
     "Y2S1/DSA revision/Hashing function.md",
@@ -363,7 +364,6 @@
     "Y2S2/ENEL611/VLANs/Native VLAN.md",
     "Y2S2/ENEL611/VLANs/Management VLAN.md",
     "Images/Pasted image 20250428180607.png",
-    "README.md",
     "Images/Pasted image 20250428174248.png",
     "Y2S2/ENEL611/VLANs",
     "Y2S2/ENEL611/Untitled.canvas",
