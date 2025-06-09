@@ -11,17 +11,17 @@
 		- Can be used either <mark style="background: #ABF7F7A6;">passwords or public/private key pairs</mark> for authentication
 - How?
 	- SSH keys: 
-		- Uses <mark style="background: #ABF7F7A6;">public and private keys</mark> for a more secure authentication process. When a devices tries to access another device, the public key encrypts the communication, and only the corresponding private key can decrypt it
+		- Uses <mark style="background: #ABF7F7A6;">public and private keys</mark> for a more secure authentication process. When a devices tries to access another device, the <mark style="background: #ABF7F7A6;">public key encrypts the communication</mark>, and <mark style="background: #ABF7F7A6;">only the corresponding private key</mark> can decrypt it
 	- Command
 - How to Connect via SSH
 	- Once SSH is configured on your device, you can connect from your computer using a terminal or SSH client like PuTTy
 
 **Telnet**
 - What?
-	- Older remote access protocol that allows you to manage devices remotely. Unlike SSH, Telnet sends data in plaintext without any encryption, which makes it vulnerable to security risks
+	- <mark style="background: #ABF7F7A6;">Older remote access protocol</mark> that allows you to manage devices remotely. Unlike SSH, Telnet <mark style="background: #ABF7F7A6;">sends data in plaintext without any encryption</mark>, which makes it <mark style="background: #ABF7F7A6;">vulnerable</mark> to security risks
 - Why?
-	- Does not encrypt data, so sensitive information like passwords can be intercepted by attackers who can access the network
-	- Should be used in trusted environments or with devices that do not support SSH
+	- <mark style="background: #ABF7F7A6;">Does not encrypt data</mark>, so sensitive information like passwords can be intercepted by attackers who can access the network
+	- Should be <mark style="background: #ABF7F7A6;">used in trusted environments</mark> or with devices that do not support SSH
 - How?
 	- It operates over port 23 and allows for basic remote access without encryption
 
