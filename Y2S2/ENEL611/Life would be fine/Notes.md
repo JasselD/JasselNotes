@@ -22,3 +22,4 @@ SSH & Telnet
 		- Cut-Through
 			- Forwards frames as soon as the destination MAC is recognized, without error checking
 
+VLANs (Virtual Local)
