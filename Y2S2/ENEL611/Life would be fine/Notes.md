@@ -122,4 +122,12 @@ MAC Address Attacks
 			- Personal (PSK): Pre-shared keys
 			- Enterprise (EAP): Uses a RADIUS server for authentication
 		- Encrpytion:
-			- WEP (weak, outfa)
+			- WEP (weak, outdated)
+			- WPA/WPA2 (Stronger security)
+
+**Routing: Static & Dynamic**
+- Static Routing
+	- What?
+		- Manually configured devices
+	- Why?
+		- For small networks or wh
