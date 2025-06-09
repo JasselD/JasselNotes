@@ -64,4 +64,11 @@ MAC Address Attacks
 	- Port security
 	- Action:
 		- Shutdown or restrict mode on violation
-- DHCP Sp
+- DHCP Spoofing
+	- What?
+		- Attackers send fake DHCP offers to clients, causing them to connect to malicious servers
+	- How to Prevent?
+		- DHCP Snooping
+- VLAN Hopping & Double Tagging Attacks
+	- What?
+		- Attackers
