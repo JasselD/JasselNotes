@@ -13,4 +13,5 @@
 	- SSH keys: 
 		- Uses public and private keys for a more secure authentication process. When a devices tries to access another device, the public ket encrypts the communication, and only the corresponding private key can decrypt it
 	- Command
-- How to Conne
+- How to Connect via SSH
+	- Once SSH is configured on your device, you can connect from your computer using a terminal or SSH client like PuTTy
