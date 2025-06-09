@@ -20,4 +20,7 @@
 - What?
 	- Older remote access protocol that allows you to manage devices remotely. Unlike SSH, Telnet sends data in plaintext without any encryption, which makes it vulnerable to security risks
 - Why?
-	- Does not enc
+	- Does not encrypt data, so sensitive information like passwords can be intercepted by attackers who can access the network
+	- Should be used in trusted environments or with devices that do not support SSH
+- How?
+	- It operates over port 23 and allow
