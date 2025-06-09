@@ -1,7 +1,7 @@
 **Switch**
 - What?
-	- Layer 2 device in the OSL model that operates at the Data Link Layer
-	- Function is to forward frames (data packets at Layer 2) based on MAC (Media Access Control) addresses
+	- <mark style="background: #ABF7F7A6;">Layer 2 device</mark> in the OSL model that operates at the <mark style="background: #ABF7F7A6;">Data Link Layer</mark>
+	- Function is to <mark style="background: #ABF7F7A6;">forward frames</mark> (data packets at Layer 2) based on <mark style="background: #ABF7F7A6;">MAC</mark> (Media Access Control) addresses
 	- Fundamental in local area networks (LANs), as they ensure efficient data delivery by sending traffic only to the specific port that needs it
 - How?
 	- Learns the MAC addressess of devices that are connected to each of its port
@@ -43,6 +43,9 @@
 	- **Store-and-Forward**: The switch waits to receive the entire frame and checks for errors before forwarding. It's slower but more reliable.
     
 	- **Cut-through**: The switch starts forwarding the frame as soon as it knows the destination MAC address, without checking for errors. It's faster but may forward corrupted frames.
+	
 - How does a switch learn MAC addressess?
 	- The switch learns MAC addresses by inspecting the **source MAC address** of incoming frames and associating them with the **port** they arrived on.
-- What does the 'show mac address'
+	
+- What does the 'show mac address-table' command display?
+	- The **MAC address table** shows the **MAC addresses** associated with each **port** on the switch, along with their **VLAN** and the type of entry (dynamic or static).
