@@ -4,4 +4,8 @@
 	- It uses encryption to protect the data, including username and passwords, from being intercepted by unauthorized parties
 - Why?
 	- Security: 
-		- SSH encrypts the entire communication session, 
+		- SSH encrypts the entire communication session, which means your data is safe from eavesdropping
+	- Remote Management:
+		- You can manage devices remotely, saving time and allowing access without being physically near the device
+	- Authentication:
+		- SSH
