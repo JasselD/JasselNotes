@@ -82,4 +82,8 @@ MAC Address Attacks
 
 **EtherChannel**
 - What?
-	- EtherChannel is a link aggrea
+	- EtherChannel is a link aggregation technology that combines multiple physical links into a single logical link to increase bandwidth
+- Why?
+	- To improve performance and provide redundancy
+- How?
+	- Configuration Command
