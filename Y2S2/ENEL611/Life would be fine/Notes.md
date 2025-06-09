@@ -116,4 +116,10 @@ MAC Address Attacks
 	- What?
 		- Secure wireless networks using WPA and WPA2 protocols
 	- Why?
-		- To prevent unauthorized access and eavesdrop
+		- To prevent unauthorized access and eavesdropping
+	- How?
+		- Authentication Methods:
+			- Personal (PSK): Pre-shared keys
+			- Enterprise (EAP): Uses a RADIUS server for authentication
+		- Encrpytion:
+			- WEP (weak, outfa)
