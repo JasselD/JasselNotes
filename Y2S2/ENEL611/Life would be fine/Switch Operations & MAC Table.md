@@ -33,4 +33,9 @@
 		- Cons: Risk of forwarding corrupted frames
 
 **<mark style="background: #ABF7F7A6;">QNA</mark>
-- What is the prima
+- What is the primary function of a switch
+	- A switch **forwards frames** based on the **MAC address**. It efficiently delivers data to the correct port on the network.
+	
+- What does a switch do if it does not know the destination MAC address?
+	- The switch will **broadcast** the frame to all ports, except the one it came from, until it learns the MAC address.
+- What is the difference between store-and-forawrd
