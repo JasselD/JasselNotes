@@ -26,4 +26,7 @@
 	- Store-and-Forward:
 		- Stores the entire frame and checks it for errors (CRC errors) before forwarding it to the appropriate port
 		- Pros: Error-free transmission
-		- Cons: Sli
+		- Cons: Slightly slower because waits for the entire frame
+	- Cut-through:
+		- Begins forwarding the frame as soon as it knows the destination MAC address, without error-checking
+		- 
