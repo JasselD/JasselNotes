@@ -105,4 +105,10 @@ MAC Address Attacks
 **Wireless LAN & Security**
 - Access Points (APs)
 	- What?
-		- Autonomous APs operate i
+		- Autonomous APs operate independently, while Controller-based APs are managed by a central controller
+	- Why?
+		- Controller-based APs simplify management in larger networks
+	- How?
+		- Autonomous AP configuration
+		- Controlelr-based AP:
+			- Uses centralized configut
