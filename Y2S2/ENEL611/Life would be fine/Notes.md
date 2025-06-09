@@ -87,3 +87,11 @@ MAC Address Attacks
 	- To improve performance and provide redundancy
 - How?
 	- Configuration Command
+
+**IPv4 & IPv6 Address Provisioning**
+- IPv4 Addressing
+	- What?
+		- IPv4 assigns 32-bit addresses to devices on a network
+	- How to Assign?
+		- Static IP Configuration or via DHCP
+- 
