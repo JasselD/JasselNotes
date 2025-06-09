@@ -12,4 +12,8 @@ SSH & Telnet
 
 **Switch Operations & MAC Table**
 - What?
-	- Switches operate by forwarding frames based on mAC
+	- Switches operate by forwarding frames based on MAC (Media Access Control) addresses stored in the MAC address table
+- Why?
+	- This mapping allows switches to efficiently forward traffic only to the correct port
+- How?
+	- 
