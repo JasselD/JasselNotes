@@ -57,4 +57,7 @@ SSH & Telnet
 		- Alternate Port: Blocked port that can be used if the root port fails
 
 **Securing Switches Against Attacks**
-MAC Address A
+MAC Address Attacks
+- What?
+	- Attackers flood the MAC table with fake addresses, causing the switch to fail and broadcast traffic to all ports
+- 
