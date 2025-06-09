@@ -130,4 +130,8 @@ MAC Address Attacks
 	- What?
 		- Manually configured devices
 	- Why?
-		- For small networks or wh
+		- For small networks or where predictability is required
+	- How?
+		- Command
+- Default Routes & Next Hop
+	- 
