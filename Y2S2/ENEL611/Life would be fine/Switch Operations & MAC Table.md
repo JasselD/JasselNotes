@@ -23,11 +23,11 @@
 
 **Forwading Methods**
 - Switches can use different methods to forward frames
-	- Store-and-Forward:
+	- <mark style="background: #ABF7F7A6;">Store-and-Forward</mark>:
 		- Stores the entire frame and checks it for errors (CRC errors) before forwarding it to the appropriate port
 		- Pros: Error-free transmission
 		- Cons: Slightly slower because waits for the entire frame
-	- Cut-through:
+	- <mark style="background: #ABF7F7A6;">Cut-through</mark>:
 		- Begins forwarding the frame as soon as it knows the destination MAC address, without error-checking
 		- Pros: Faster forwarding
 		- Cons: Risk of forwarding corrupted frames
