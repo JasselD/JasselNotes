@@ -37,4 +37,10 @@ SSH & Telnet
 - What?
 	- 802.1Q is a VLAN tagging protocol that allows multiple VLANs to travel over a single physical link
 - Why?
-	- To identify VLANs in a trunk link between si
+	- To identify VLANs in a trunk link between switches
+- How?
+	- Native VLAN:
+		- The VLAN that does not get tagged. Usually VLAN 1
+	- Tagging Command
+
+**Spanning Tree Protocol
