@@ -28,4 +28,6 @@ VLANs (Virtual Local Area Networks)
 - Why?
 	- To segragate traffic and improve network performance by reducing broadcast domains
 - How?
-	- Configu
+	- Configuration on Switches:
+		- Change VLAN name 
+	- VLANs on Routers
