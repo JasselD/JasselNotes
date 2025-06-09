@@ -16,4 +16,6 @@ SSH & Telnet
 - Why?
 	- This mapping allows switches to efficiently forward traffic only to the correct port
 - How?
-	- 
+	- Forwarding Methods:
+		- Store and Forward
+			- 
