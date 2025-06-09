@@ -22,4 +22,8 @@ SSH & Telnet
 		- Cut-Through
 			- Forwards frames as soon as the destination MAC is recognized, without error checking
 
-VLANs (Virtual Local)
+VLANs (Virtual Local Area Networks)
+- What?
+	- VLANs divide large physical networks into smaller, logical networks, improving security and traffic management
+- Why?
+	- To segraga
