@@ -50,4 +50,7 @@ SSH & Telnet
 	- To avoid broadcast storms and ensure loop-free path
 - How?
 	- Root Bridge Election:
-		- The lowe
+		- The lowest Bridge ID (MAC + priority) becomes the Root Bridge
+	- Port Roles:
+		- Root Port: The port closest to the root bridge
+		- Designated Port: The poer that sends traffic for the netow
