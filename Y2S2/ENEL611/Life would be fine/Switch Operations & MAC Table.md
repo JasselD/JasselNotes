@@ -6,13 +6,13 @@
 - How?
 	- <mark style="background: #ABF7F7A6;">Learns the MAC addressess</mark> of devices that are connected to each of its port
 	- It then <mark style="background: #ABF7F7A6;">stores</mark> these addressess in a <mark style="background: #ABF7F7A6;">MAC address table (forwarding table)</mark>
-	- When frames is received, the switch checks its MAC address table to see if it has an entry for the destination MAC address. If found, it forwards the frame to the correct port
+	- When <mark style="background: #ABF7F7A6;">frames is received</mark>, the switch <mark style="background: #ABF7F7A6;">checks its MAC address table</mark> to see if it has an entry for the destination MAC address. If found, it forwards the frame to the correct port
 
 **MAC Address Table**
 - What?
-	- Database that maps MAC addresses to specific ports on the switch
+	- <mark style="background: #ABF7F7A6;">Database that maps MAC addresses</mark> to <mark style="background: #ABF7F7A6;">specific ports</mark> on the switch
 	- Learning Process:
-		- When a switch receives a frame, it reads the source MAC address and the port it arrived on, then adds this information to its MAC table
+		- When a switch <mark style="background: #ABF7F7A6;">receives a frame</mark>, it <mark style="background: #ABF7F7A6;">reads the source MAC address and the port it arrived on</mark>, then <mark style="background: #ABF7F7A6;">adds this information to its MAC table</mark>
 	- Forwarding Process:
 		- When a frame is received, the switch checks if the destination MAC address it already in the table. 
 		- If found, it forwards the frame to the corresponding port
