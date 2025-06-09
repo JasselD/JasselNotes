@@ -38,4 +38,11 @@
 	
 - What does a switch do if it does not know the destination MAC address?
 	- The switch will **broadcast** the frame to all ports, except the one it came from, until it learns the MAC address.
-- What is the difference between store-and-forawrd
+	
+- What is the difference between store-and-forawrd and cut-through forwarding methods?
+	- **Store-and-Forward**: The switch waits to receive the entire frame and checks for errors before forwarding. It's slower but more reliable.
+    
+	- **Cut-through**: The switch starts forwarding the frame as soon as it knows the destination MAC address, without checking for errors. It's faster but may forward corrupted frames.
+- How does a switch learn MAC addressess?
+	- The switch learns MAC addresses by inspecting the **source MAC address** of incoming frames and associating them with the **port** they arrived on.
+- What does the 'show mac address'
