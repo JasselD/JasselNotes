@@ -99,4 +99,10 @@ MAC Address Attacks
 		- IPv6 assigns 128-bit addresses, solving the IPv4 address shortage
 	- How?
 		- Stateless SLAAC (Stateless Address Autoconfiguration):
-			- Device
+			- Devices automatically generate their IPv6 address based on Router Advertisements
+		- Stateful DHCPv6
+
+**Wireless LAN & Security**
+- Access Points (APs)
+	- What?
+		- Autonomous APs operate i
