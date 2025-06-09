@@ -2,10 +2,10 @@
 - What?
 	- <mark style="background: #ABF7F7A6;">Layer 2 device</mark> in the OSL model that operates at the <mark style="background: #ABF7F7A6;">Data Link Layer</mark>
 	- Function is to <mark style="background: #ABF7F7A6;">forward frames</mark> (data packets at Layer 2) based on <mark style="background: #ABF7F7A6;">MAC</mark> (Media Access Control) addresses
-	- Fundamental in local area networks (LANs), as they ensure efficient data delivery by sending traffic only to the specific port that needs it
+	- Fundamental in local area networks (LANs), as they ensure <mark style="background: #ABF7F7A6;">efficient data delivery</mark> by <mark style="background: #ABF7F7A6;">sending traffic only to the specific port that needs it</mark>
 - How?
-	- Learns the MAC addressess of devices that are connected to each of its port
-	- It then stores these addressess in a MAC address table (forwarding table)
+	- <mark style="background: #ABF7F7A6;">Learns the MAC addressess</mark> of devices that are connected to each of its port
+	- It then <mark style="background: #ABF7F7A6;">stores</mark> these addressess in a <mark style="background: #ABF7F7A6;">MAC address table (forwarding table)</mark>
 	- When frames is received, the switch checks its MAC address table to see if it has an entry for the destination MAC address. If found, it forwards the frame to the correct port
 
 **MAC Address Table**
