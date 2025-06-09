@@ -134,4 +134,10 @@ MAC Address Attacks
 	- How?
 		- Command
 - Default Routes & Next Hop
-	- 
+	- What?
+		- Default routes provides a last resort path for packets
+	- How?
+		- Command
+- Floating Routes
+	- What?
+		- Backup routes with a higher administrative distance that only become active if the primary route fails
