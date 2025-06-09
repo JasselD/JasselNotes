@@ -26,4 +26,5 @@ VLANs (Virtual Local Area Networks)
 - What?
 	- VLANs divide large physical networks into smaller, logical networks, improving security and traffic management
 - Why?
-	- To segraga
+	- To segragate traffic and improve network performance by reducing broadcast domains
+- How?
