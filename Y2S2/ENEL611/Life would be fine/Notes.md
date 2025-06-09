@@ -10,3 +10,6 @@ SSH & Telnet
 	- Telnet:
 		- Older, unencrypted method used for remote access
 
+**Switch Operations & MAC Table**
+- What?
+	- Switches operate by forwarding frames based on mAC
