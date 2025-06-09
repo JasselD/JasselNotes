@@ -71,4 +71,9 @@ MAC Address Attacks
 		- DHCP Snooping
 - VLAN Hopping & Double Tagging Attacks
 	- What?
-		- Attackers
+		- Attackers manipulate VLAN tags to send frames to unauthorized VLANs
+	- How to Prevent?
+		- Disable unused VLANs and restrict access to trunk ports
+- ARP Attacks
+	- What?
+		- Attackers send false ARP messages, causing
