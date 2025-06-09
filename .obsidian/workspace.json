@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/Life would be fine/Notes.md",
+                "file": "Y2S2/ENEL611/Life would be fine/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Untitled"
             }
           }
         ],
@@ -335,6 +335,7 @@
   "active": "fe74a820f64a40f0",
   "lastOpenFiles": [
     "Y2S2/ENEL611/Life would be fine/Notes.md",
+    "Y2S2/ENEL611/Life would be fine/Untitled.md",
     "Y2S2/ENEL611/Life would be fine",
     "Fast Sort.md",
     "Y2S1/DSA revision/Sorting algorithms.md",
@@ -362,7 +363,6 @@
     "Untitled",
     "Y2S2/ENEL611/VLANs/Voice VLAN Tagging.md",
     "Revision",
-    "Y2S2/ENEL611/VLANs/Native VLANs and 802.1Q Tagging.md",
     "Images/Pasted image 20250428193201.png",
     "Images/Pasted image 20250428180607.png",
     "Images/Pasted image 20250428174248.png",
