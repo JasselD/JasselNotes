@@ -53,4 +53,8 @@ SSH & Telnet
 		- The lowest Bridge ID (MAC + priority) becomes the Root Bridge
 	- Port Roles:
 		- Root Port: The port closest to the root bridge
-		- Designated Port: The poer that sends traffic for the netow
+		- Designated Port: The poer that sends traffic for the network segment
+		- Alternate Port: Blocked port that can be used if the root port fails
+
+**Securing Switches Against Attacks**
+MAC Address A
