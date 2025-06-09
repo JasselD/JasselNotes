@@ -23,4 +23,8 @@
 	- Does not encrypt data, so sensitive information like passwords can be intercepted by attackers who can access the network
 	- Should be used in trusted environments or with devices that do not support SSH
 - How?
-	- It operates over port 23 and allow
+	- It operates over port 23 and allows for basic remote access without encryption
+
+**QNA**
+- What is the difference between SSH and Telnet?
+	- 
