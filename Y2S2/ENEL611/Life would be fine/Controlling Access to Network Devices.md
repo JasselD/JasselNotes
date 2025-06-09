@@ -15,3 +15,7 @@
 	- Command
 - How to Connect via SSH
 	- Once SSH is configured on your device, you can connect from your computer using a terminal or SSH client like PuTTy
+
+**Telnet**
+- What?
+	- 
