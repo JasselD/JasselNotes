@@ -29,4 +29,8 @@
 		- Cons: Slightly slower because waits for the entire frame
 	- Cut-through:
 		- Begins forwarding the frame as soon as it knows the destination MAC address, without error-checking
-		- 
+		- Pros: Faster forwarding
+		- Cons: Risk of forwarding corrupted frames
+
+**<mark style="background: #ABF7F7A6;">QNA</mark>
+- What is the prima
