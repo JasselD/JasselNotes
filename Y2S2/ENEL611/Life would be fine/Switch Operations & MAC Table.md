@@ -11,13 +11,13 @@
 **MAC Address Table**
 - What?
 	- <mark style="background: #ABF7F7A6;">Database that maps MAC addresses</mark> to <mark style="background: #ABF7F7A6;">specific ports</mark> on the switch
-	- Learning Process:
-		- When a switch <mark style="background: #ABF7F7A6;">receives a frame</mark>, it <mark style="background: #ABF7F7A6;">reads the source MAC address and the port it arrived on</mark>, then <mark style="background: #ABF7F7A6;">adds this information to its MAC table</mark>
-	- Forwarding Process:
+	- <mark style="background: #ABF7F7A6;">Learning Proces</mark>s:
+		- When a switch receives a frame, it reads the source MAC address and the port it arrived on, then adds this information to its MAC table
+	- <mark style="background: #ABF7F7A6;">Forwarding Process</mark>:
 		- When a frame is received, the switch checks if the destination MAC address it already in the table. 
-		- If found, it forwards the frame to the corresponding port
-		- If not found, it broadcast the frame to all ports except the one it came from
-- What happens if a MAC Address if not in the table?
+		- If <mark style="background: #ABF7F7A6;">found</mark>, it <mark style="background: #ABF7F7A6;">forwards the frame</mark> to the corresponding port
+		- If <mark style="background: #ABF7F7A6;">not found</mark>, it <mark style="background: #ABF7F7A6;">broadcast the frame</mark> to <mark style="background: #ABF7F7A6;">all ports except the one it came from</mark>
+- <mark style="background: #ABF7F7A6;">What happens if a MAC Address if not in the table?</mark>
 	- If the destination MAC address is not in the MAC table, the switch will broadcast the frame to all ports except the port it was received form (flood)
 	- The is normal behaviour in a netwrok until the switch learns the destination MAC address and adds it to the MAC table for future reference
 
