@@ -9,4 +9,4 @@ SSH & Telnet
 		- Secure, encrypted access to devices using a public/private key pair of devices
 	- Telnet:
 		- Older, unencrypted method used for remote access
-		- 
+
