@@ -9,6 +9,7 @@ SSH & Telnet
 		- Secure, encrypted access to devices using a public/private key pair of devices
 	- Telnet:
 		- Older, unencrypted method used for remote access
+[[Controlling Access to Network Devices]]
 
 **Switch Operations & MAC Table**
 - What?
@@ -21,6 +22,7 @@ SSH & Telnet
 			- Stores entire frames and checks for errors before and forwarding
 		- Cut-Through:
 			- Forwards frames as soon as the destination MAC is recognized, without error checking
+[[Switch Operations & MAC Table]]
 
 **VLANs (Virtual Local Area Networks)**
 - What?

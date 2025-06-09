@@ -19,4 +19,7 @@
 		- If not found, it broadcast the frame to all ports except the one it came from
 - What happens if a MAC Address if not in the table?
 	- If the destination MAC address is not in the MAC table, the switch will broadcast the frame to all ports except the port it was received form (flood)
-	- The is normal behaviour in a netwrok until the switch learns the desti
+	- The is normal behaviour in a netwrok until the switch learns the destination MAC address and adds it to the MAC table for future reference
+
+**Forwading Methods**
+- 
