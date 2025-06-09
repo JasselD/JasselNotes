@@ -60,4 +60,8 @@ SSH & Telnet
 MAC Address Attacks
 - What?
 	- Attackers flood the MAC table with fake addresses, causing the switch to fail and broadcast traffic to all ports
-- 
+- How to Prevent?
+	- Port security
+	- Action:
+		- Shutdown or restrict mode on violation
+- DHCP Sp
