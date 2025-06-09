@@ -18,4 +18,6 @@
 
 **Telnet**
 - What?
-	- 
+	- Older remote access protocol that allows you to manage devices remotely. Unlike SSH, Telnet sends data in plaintext without any encryption, which makes it vulnerable to security risks
+- Why?
+	- Does not enc
