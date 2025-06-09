@@ -111,4 +111,9 @@ MAC Address Attacks
 	- How?
 		- Autonomous AP configuration
 		- Controlelr-based AP:
-			- Uses centralized configut
+			- Uses centralized configuration and management
+- Securing WLAN
+	- What?
+		- Secure wireless networks using WPA and WPA2 protocols
+	- Why?
+		- To prevent unauthorized access and eavesdrop
