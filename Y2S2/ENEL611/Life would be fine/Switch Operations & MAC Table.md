@@ -14,4 +14,7 @@
 	- Learning Process:
 		- When a switch receives a frame, it reads the source MAC address and the port it arrived on, then adds this information to its MAC table
 	- Forwarding Process:
-		- When a frame is received, the switch checks if the destination MAC address it already in t
+		- When a frame is received, the switch checks if the destination MAC address it already in the table. 
+		- If found, it forwards the frame to the corresponding port
+		- If not found, it broadcast the frame to all ports except the one it came from
+- What happens if a MAC Address if not foun
