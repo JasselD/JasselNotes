@@ -76,4 +76,10 @@ MAC Address Attacks
 		- Disable unused VLANs and restrict access to trunk ports
 - ARP Attacks
 	- What?
-		- Attackers send false ARP messages, causing
+		- Attackers send false ARP messages, causing devices to send data to the attacker
+	- How to Prevent?
+		- Dynamic ARP Inspection (DAI)
+
+**EtherChannel**
+- What?
+	- EtherChannel is a link aggrea
