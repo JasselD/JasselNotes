@@ -18,4 +18,7 @@ SSH & Telnet
 - How?
 	- Forwarding Methods:
 		- Store and Forward
-			- 
+			- Stores entire frames and checks for errors before and forwarding
+		- Cut-Through
+			- Forwards frames as soon as the destination MAC is recognized, without error checking
+
