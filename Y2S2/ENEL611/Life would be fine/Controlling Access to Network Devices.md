@@ -25,7 +25,7 @@
 - How?
 	- It operates over port 23 and allows for basic remote access without encryption
 
-**QNA**
+**<mark style="background: #ABF7F7A6;">QNA</mark>
 - What is the difference between SSH and Telnet?
 	- **SSH** is a **secure, encrypted** protocol for remote access, while **Telnet** is an older **unsecure** protocol that transmits data in **plaintext**, making it vulnerable to eavesdropping.
 	
@@ -34,4 +34,6 @@
 	
 - Which encyption method does SSH uses to secure communication?
 	- **SSH** uses **public/private key encryption** to secure the communication between devices. The **public key** encrypts the data, and the **private key** decrypts it, ensuring secure communication.
-- 
+	
+- What is the default port used by Telnet for remote access?
+	- **Telnet** uses **port 23** by default for remote access to network devices.
