@@ -12,4 +12,6 @@
 - What?
 	- Database that maps MAC addresses to specific ports on the switch
 	- Learning Process:
-		- W
+		- When a switch receives a frame, it reads the source MAC address and the port it arrived on, then adds this information to its MAC table
+	- Forwarding Process:
+		- When a frame is received, the switch checks if the destination MAC address it already in t
