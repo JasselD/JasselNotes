@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/Life would be fine/Controlling Access to Network Devices.md",
+                "file": "Y2S2/ENEL611/Life would be fine/Switch Operations & MAC Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Controlling Access to Network Devices"
+              "title": "Switch Operations & MAC Table"
             }
           }
         ],
@@ -334,8 +334,9 @@
   },
   "active": "fe74a820f64a40f0",
   "lastOpenFiles": [
-    "Y2S2/ENEL611/Life would be fine/Notes.md",
     "Y2S2/ENEL611/Life would be fine/Controlling Access to Network Devices.md",
+    "Y2S2/ENEL611/Life would be fine/Switch Operations & MAC Table.md",
+    "Y2S2/ENEL611/Life would be fine/Notes.md",
     "Y2S2/ENEL611/Life would be fine",
     "Fast Sort.md",
     "Y2S1/DSA revision/Sorting algorithms.md",
@@ -361,7 +362,6 @@
     "Revision/Common Spanning Tree Protocol.md",
     "Revision/DHCP message type.md",
     "Untitled",
-    "Y2S2/ENEL611/VLANs/Voice VLAN Tagging.md",
     "Revision",
     "Images/Pasted image 20250428193201.png",
     "Images/Pasted image 20250428180607.png",
