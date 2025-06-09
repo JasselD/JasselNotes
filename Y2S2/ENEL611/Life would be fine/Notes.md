@@ -94,4 +94,9 @@ MAC Address Attacks
 		- IPv4 assigns 32-bit addresses to devices on a network
 	- How to Assign?
 		- Static IP Configuration or via DHCP
-- 
+- IPv6 Addressing
+	- What?
+		- IPv6 assigns 128-bit addresses, solving the IPv4 address shortage
+	- How?
+		- Stateless SLAAC (Stateless Address Autoconfiguration):
+			- Device
