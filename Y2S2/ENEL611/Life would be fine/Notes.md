@@ -17,12 +17,12 @@ SSH & Telnet
 	- This mapping allows switches to efficiently forward traffic only to the correct port
 - How?
 	- Forwarding Methods:
-		- Store and Forward
+		- Store and Forward:
 			- Stores entire frames and checks for errors before and forwarding
-		- Cut-Through
+		- Cut-Through:
 			- Forwards frames as soon as the destination MAC is recognized, without error checking
 
-VLANs (Virtual Local Area Networks)
+**VLANs (Virtual Local Area Networks)**
 - What?
 	- VLANs divide large physical networks into smaller, logical networks, improving security and traffic management
 - Why?
@@ -30,4 +30,7 @@ VLANs (Virtual Local Area Networks)
 - How?
 	- Configuration on Switches:
 		- Change VLAN name 
-	- VLANs on Routers
+	- VLANs on Routers:
+		- Routers route between different VLANs using Router-on-a-Stick configuration
+
+**802.1
