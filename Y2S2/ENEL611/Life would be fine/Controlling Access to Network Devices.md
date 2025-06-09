@@ -8,4 +8,7 @@
 	- Remote Management:
 		- You can manage devices remotely, saving time and allowing access without being physically near the device
 	- Authentication:
-		- SSH
+		- Can be used either passwords or public/private key pairs for authentication
+- How?
+	- SSH keys: 
+		- Uses public and private keys for a more secure authentication process. When a devices tries to access another deic
