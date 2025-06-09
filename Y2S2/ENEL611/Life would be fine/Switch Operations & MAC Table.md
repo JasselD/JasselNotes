@@ -22,4 +22,8 @@
 	- The is normal behaviour in a netwrok until the switch learns the destination MAC address and adds it to the MAC table for future reference
 
 **Forwading Methods**
-- 
+- Switches can use different methods to forward frames
+	- Store-and-Forward:
+		- Stores the entire frame and checks it for errors (CRC errors) before forwarding it to the appropriate port
+		- Pros: Error-free transmission
+		- Cons: Sli
