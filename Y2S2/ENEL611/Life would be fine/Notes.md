@@ -33,4 +33,8 @@ SSH & Telnet
 	- VLANs on Routers:
 		- Routers route between different VLANs using Router-on-a-Stick configuration
 
-**802.1
+**802.1Q Tagging & Native VLAN**
+- What?
+	- 802.1Q is a VLAN tagging protocol that allows multiple VLANs to travel over a single physical link
+- Why?
+	- To identify VLANs in a trunk link between si
