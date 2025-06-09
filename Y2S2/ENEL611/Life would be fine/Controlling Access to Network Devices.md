@@ -27,4 +27,6 @@
 
 **QNA**
 - What is the difference between SSH and Telnet?
+	- **SSH** is a **secure, encrypted** protocol for remote access, while **Telnet** is an older **unsecure** protocol that transmits data in **plaintext**, making it vulnerable to eavesdropping.
+- Why should you prefer SSH over Telnet for remote access?
 	- 
