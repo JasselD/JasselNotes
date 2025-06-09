@@ -23,7 +23,7 @@
 	- <mark style="background: #ABF7F7A6;">Does not encrypt data</mark>, so sensitive information like passwords can be intercepted by attackers who can access the network
 	- Should be <mark style="background: #ABF7F7A6;">used in trusted environments</mark> or with devices that do not support SSH
 - How?
-	- It operates over port 23 and allows for basic remote access without encryption
+	- It operates over <mark style="background: #ABF7F7A6;">port 23</mark> and allows for basic remote access without encryption
 
 **<mark style="background: #ABF7F7A6;">QNA</mark>
 - What is the difference between SSH and Telnet?
