@@ -43,4 +43,11 @@ SSH & Telnet
 		- The VLAN that does not get tagged. Usually VLAN 1
 	- Tagging Command
 
-**Spanning Tree Protocol
+**Spanning Tree Protocol (STP)**
+- What?
+	- STP prevents network loops in a redundant network. setup by blocking redundant paths
+- Why?
+	- To avoid broadcast storms and ensure loop-free path
+- How?
+	- Root Bridge Election:
+		- The lowe
