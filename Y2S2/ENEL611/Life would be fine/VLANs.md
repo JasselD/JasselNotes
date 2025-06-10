@@ -1,5 +1,5 @@
 - What?
-	- Logical grouping of devices in a network, regardless of their physical locations. Devices in the same VLAN can communicate directly with each other, while devices in different VLANs cannot communicate unless routed by a router or Layer 3 switch
+	- <mark style="background: #ABF7F7A6;">Logical grouping of devices</mark> in a network, regardless of their physical locations. Devices in the <mark style="background: #ABF7F7A6;">same VLAN can communicate directly with each other</mark>, while devices in <mark style="background: #ABF7F7A6;">different VLANs cannot communicate unless routed by a router or Layer 3 switch</mark>
 - Why?
 	- Segmentation:
 		- VLANs divide a large broadcast domain into smaller, isolated broadcasr domains. This helps reduce broadcast traffic and improves network performance
@@ -23,13 +23,16 @@
 - Router-on-a-stick
 	- This method involves creating subinterfaces on a router, each associated with a specific VLAN
 
-**QNA
+**<mark style="background: #ABF7F7A6;">QNA</mark>
 - What is the main purpose of VLANs in a network?
 	- The main purpose of VLANs is to **segregate** devices into **logical groups** regardless of their physical location, improving **network performance** by reducing **broadcast traffic** and increasing **security** by isolating different groups of devices.
+	
 - What does VLAN tagging do in a network?
 	- **VLAN tagging** adds a **VLAN ID** to frames as they travel through **trunk links** between switches, allowing **multiple VLANs** to share a single physical link while keeping traffic from each VLAN separate.
+	
 - What are the two main types of switch port modes?
 	- **Access Mode**: The port is assigned to a single VLAN.
     - **Trunk Mode**: The port can carry traffic from multiple VLANs and tags each frame with the appropriate VLAN ID.
+    
 - What is the purpose of inter-VLAN routing?
-	- 
+	- **Inter-VLAN routing** allows devices in different VLANs to **communicate** with each other. This is achieved by a **router** or a **Layer 3 switch** that routes traffic between VLANs.
