@@ -21,4 +21,9 @@
 **VLAN Routing**
 - Allow communication between devices in different VLANs, you need to configure inter-VLAN routing. This can be done using a router or a Layer 3 switch
 - Router-on-a-stick
-	- This method involves creating
+	- This method involves creating subinterfaces on a router, each associated with a specific VLAN
+
+**QNA
+- What is the main purpose of VLANs in a network?
+	- The main purpose of VLANs is to **segregate** devices into **logical groups** regardless of their physical location, improving **network performance** by reducing **broadcast traffic** and increasing **security** by isolating different groups of devices.
+- What does VLAN tagging do in a network?
