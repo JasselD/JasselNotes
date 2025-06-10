@@ -1,2 +1,2 @@
-What?
-- 
+- What?
+	- Logical grouping of devices in a network, regardless of their physical locations. Devices in the same VLAN can communic
