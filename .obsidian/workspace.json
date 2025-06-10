@@ -334,8 +334,9 @@
   },
   "active": "fe74a820f64a40f0",
   "lastOpenFiles": [
-    "Y2S2/ENEL611/Life would be fine/Controlling Access to Network Devices.md",
+    "Y2S2/ENEL611/Life would be fine/VLANs.md",
     "Y2S2/ENEL611/Life would be fine/Switch Operations & MAC Table.md",
+    "Y2S2/ENEL611/Life would be fine/Controlling Access to Network Devices.md",
     "Y2S1/DSA revision/Binary Tree.md",
     "Y2S1/DSA revision/Linear Search.md",
     "Y2S1/DSA revision/LinkedLists.md",
@@ -360,7 +361,6 @@
     "Y2S1/DSA revision/Race condition.md",
     "Y2S1/DSA revision/Stack.md",
     "Y2S1/DSA revision/Circular Singly LinkedList.md",
-    "Y2S1/DSA revision/Priority Queue.md",
     "Untitled",
     "Revision",
     "Images/Pasted image 20250428193201.png",
