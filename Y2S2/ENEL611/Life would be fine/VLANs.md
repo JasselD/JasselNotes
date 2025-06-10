@@ -4,4 +4,6 @@
 	- Segmentation:
 		- VLANs divide a large broadcast domain into smaller, isolated broadcasr domains. This helps reduce broadcast traffic and improves network performance
 		- Security:
-			- VLANs provide a logical separation of devices. For example, finance devices can be in one VLAN, and HR devices can be in another, increasing security by limiting acc
+			- VLANs provide a logical separation of devices. For example, finance devices can be in one VLAN, and HR devices can be in another, increasing security by limiting access
+		- Simplified Management:
+			- VLANs allow network administrators to group devices by function, even if they're spread across different physical location. This makes management easeir and more efficient
