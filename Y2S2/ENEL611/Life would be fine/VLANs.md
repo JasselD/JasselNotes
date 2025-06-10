@@ -1,11 +1,11 @@
 - What?
 	- <mark style="background: #ABF7F7A6;">Logical grouping of devices</mark> in a network, regardless of their physical locations. Devices in the <mark style="background: #ABF7F7A6;">same VLAN can communicate directly with each other</mark>, while devices in <mark style="background: #ABF7F7A6;">different VLANs cannot communicate unless routed by a router or Layer 3 switch</mark>
 - Why?
-	- Segmentation:
-		- VLANs divide a large broadcast domain into smaller, isolated broadcasr domains. This helps reduce broadcast traffic and improves network performance
-		- Security:
-			- VLANs provide a logical separation of devices. For example, finance devices can be in one VLAN, and HR devices can be in another, increasing security by limiting access
-		- Simplified Management:
+	- <mark style="background: #ABF7F7A6;">Segmentation</mark>:
+		- VLANs divide a large broadcast domain into <mark style="background: #ABF7F7A6;">smaller, isolated broadcast domains</mark>. This helps <mark style="background: #ABF7F7A6;">reduce broadcast traffic</mark> and <mark style="background: #ABF7F7A6;">improves network performance</mark>
+		- <mark style="background: #ABF7F7A6;">Security</mark>:
+			- VLANs provide a <mark style="background: #ABF7F7A6;">logical separation of devices</mark>. For example, finance devices can be in one VLAN, and HR devices can be in another, increasing security by limiting access
+		- <mark style="background: #ABF7F7A6;">Simplified Management</mark>:
 			- VLANs allow network administrators to group devices by function, even if they're spread across different physical location. This makes management easeir and more efficient
 - How?
 	- VLAN Tagging:
