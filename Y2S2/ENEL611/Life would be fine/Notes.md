@@ -34,7 +34,7 @@ SSH & Telnet
 		- Change VLAN name 
 	- VLANs on Routers:
 		- Routers route between different VLANs using Router-on-a-Stick configuration
--
+[[VLANs]]
 
 **802.1Q Tagging & Native VLAN**
 - What?

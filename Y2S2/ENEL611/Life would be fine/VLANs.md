@@ -7,3 +7,6 @@
 			- VLANs provide a logical separation of devices. For example, finance devices can be in one VLAN, and HR devices can be in another, increasing security by limiting access
 		- Simplified Management:
 			- VLANs allow network administrators to group devices by function, even if they're spread across different physical location. This makes management easeir and more efficient
+- How?
+	- VLAN Tagging:
+		- When device sends data, it is assigned a VLAN ID. This ID is added to the frame by the switch to tag the traffic as beloging to a specific V
