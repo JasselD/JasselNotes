@@ -19,9 +19,9 @@
 				- THe port can carry traffic from <mark style="background: #ABF7F7A6;">multiple VLANs</mark> and tags each frame with the appropriate VLAN ID
 
 **VLAN Routing**
-- Allow communication between devices in different VLANs, you need to configure inter-VLAN routing. This can be done using a router or a Layer 3 switch
-- Router-on-a-stick
-	- This method involves creating subinterfaces on a router, each associated with a specific VLAN
+- Allow <mark style="background: #ABF7F7A6;">communication between devices in different VLANs</mark>, you need to <mark style="background: #ABF7F7A6;">configure inter-VLAN routing</mark>. This can be done using a <mark style="background: #ABF7F7A6;">router</mark> or a <mark style="background: #ABF7F7A6;">Layer 3 switch</mark>
+- <mark style="background: #ABF7F7A6;">Router-on-a-stick</mark>:
+	- This method involves <mark style="background: #ABF7F7A6;">creating subinterfaces on a router</mark>, each associated with a specific VLAN
 
 **<mark style="background: #ABF7F7A6;">QNA</mark>
 - What is the main purpose of VLANs in a network?
