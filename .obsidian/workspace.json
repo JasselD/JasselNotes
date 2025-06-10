@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S1/Bin Sort/Bucket Sort.md",
+                "file": "Y2S1/DSA revision/LinkedLists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bucket Sort"
+              "title": "LinkedLists"
             }
           }
         ],
@@ -332,8 +332,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe74a820f64a40f0",
+  "active": "3deee57fba1c68d3",
   "lastOpenFiles": [
+    "Y2S1/DSA revision/*Sample questions.md",
+    "Y2S1/DSA revision/Balancing Binary Tree.md",
+    "Y2S1/Bin Sort/Bucket Sort.md",
     "Y2S1/DSA revision/Sorting algorithms.md",
     "Y2S1/DSA revision/Focus.md",
     "Y2S2/ENEL611/Life would be fine/Switch Operations & MAC Table.md",
@@ -351,16 +354,13 @@
     "Y2S1/DSA revision/Heap.md",
     "Y2S1/DSA revision/Hashing function.md",
     "Y2S1/DSA revision/Graph.md",
-    "Y2S1/DSA revision/Balancing Binary Tree.md",
     "Y2S1/DSA revision/Binary Tree.md",
     "Y2S1/DSA revision/Race condition.md",
     "Y2S1/DSA revision/Stack.md",
     "Y2S1/DSA revision/Circular Singly LinkedList.md",
     "Y2S1/DSA revision/Priority Queue.md",
     "Y2S1/DSA revision/Single LinkedList.md",
-    "Y2S1/DSA revision/*Sample questions.md",
     "Revision/Common Spanning Tree Protocol.md",
-    "Revision/DHCP message type.md",
     "Untitled",
     "Revision",
     "Images/Pasted image 20250428193201.png",
