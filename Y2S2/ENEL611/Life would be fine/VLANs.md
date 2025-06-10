@@ -12,4 +12,8 @@
 		- When device sends data, it is assigned a VLAN ID. This ID is added to the frame by the switch to tag the traffic as beloging to a specific VLAN
 		- Trunk Links between switches use 802.1Q VLAN tagging to allow traffic from multiple VLANs to pass through a single physical link
 	- Switch Port Modes:
-		- A switch port can be in one o
+		- A switch port can be in one of the following modes:
+			- Access Mode:
+				- The port is assigned to a single VLAN. Devices connected to the port are part of the VLAN
+			- Trunk Mode:
+				- THe port can carry traffic from multiple VLANs and tags each frame with the appropriate VLAN ID
