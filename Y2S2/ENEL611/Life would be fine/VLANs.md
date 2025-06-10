@@ -17,3 +17,8 @@
 				- The port is assigned to a single VLAN. Devices connected to the port are part of the VLAN
 			- Trunk Mode:
 				- THe port can carry traffic from multiple VLANs and tags each frame with the appropriate VLAN ID
+
+**VLAN Routing**
+- Allow communication between devices in different VLANs, you need to configure inter-VLAN routing. This can be done using a router or a Layer 3 switch
+- Router-on-a-stick
+	- This method involves creating
