@@ -27,3 +27,9 @@
 - What is the main purpose of VLANs in a network?
 	- The main purpose of VLANs is to **segregate** devices into **logical groups** regardless of their physical location, improving **network performance** by reducing **broadcast traffic** and increasing **security** by isolating different groups of devices.
 - What does VLAN tagging do in a network?
+	- **VLAN tagging** adds a **VLAN ID** to frames as they travel through **trunk links** between switches, allowing **multiple VLANs** to share a single physical link while keeping traffic from each VLAN separate.
+- What are the two main types of switch port modes?
+	- **Access Mode**: The port is assigned to a single VLAN.
+    - **Trunk Mode**: The port can carry traffic from multiple VLANs and tags each frame with the appropriate VLAN ID.
+- What is the purpose of inter-VLAN routing?
+	- 
