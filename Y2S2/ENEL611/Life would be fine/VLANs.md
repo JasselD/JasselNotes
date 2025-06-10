@@ -1,2 +1,5 @@
 - What?
-	- Logical grouping of devices in a network, regardless of their physical locations. Devices in the same VLAN can communic
+	- Logical grouping of devices in a network, regardless of their physical locations. Devices in the same VLAN can communicate directly with each other, while devices in different VLANs cannot communicate unless routed by a router or Layer 3 switch
+- Why?
+	- Segmentation:
+		- VLANs divide a large broadcast domain into smaller, isolated broadcasr domains. This helps reduce broadcasr 
