@@ -2,4 +2,6 @@
 	- Logical grouping of devices in a network, regardless of their physical locations. Devices in the same VLAN can communicate directly with each other, while devices in different VLANs cannot communicate unless routed by a router or Layer 3 switch
 - Why?
 	- Segmentation:
-		- VLANs divide a large broadcast domain into smaller, isolated broadcasr domains. This helps reduce broadcasr 
+		- VLANs divide a large broadcast domain into smaller, isolated broadcasr domains. This helps reduce broadcast traffic and improves network performance
+		- Security:
+			- VLANs provide a logical separation of devices. For example, finance devices can be in one VLAN, and HR devices can be in another, increasing security by limiting acc
