@@ -9,4 +9,7 @@
 			- VLANs allow network administrators to group devices by function, even if they're spread across different physical location. This makes management easeir and more efficient
 - How?
 	- VLAN Tagging:
-		- When device sends data, it is assigned a VLAN ID. This ID is added to the frame by the switch to tag the traffic as beloging to a specific V
+		- When device sends data, it is assigned a VLAN ID. This ID is added to the frame by the switch to tag the traffic as beloging to a specific VLAN
+		- Trunk Links between switches use 802.1Q VLAN tagging to allow traffic from multiple VLANs to pass through a single physical link
+	- Switch Port Modes:
+		- A switch port can be in one o
