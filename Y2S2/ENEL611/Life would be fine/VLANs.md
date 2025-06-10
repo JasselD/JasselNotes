@@ -14,9 +14,9 @@
 	- Switch Port Modes:
 		- A switch port can be in one of the following modes:
 			- <mark style="background: #ABF7F7A6;">Access Mode</mark>:
-				- The port is assigned to a single VLAN. Devices connected to the port are part of the VLAN
+				- The port is assigned to a <mark style="background: #ABF7F7A6;">single VLAN</mark>. Devices connected to the port are part of the VLAN
 			- <mark style="background: #ABF7F7A6;">Trunk Mode</mark>:
-				- THe port can carry traffic from multiple VLANs and tags each frame with the appropriate VLAN ID
+				- THe port can carry traffic from <mark style="background: #ABF7F7A6;">multiple VLANs</mark> and tags each frame with the appropriate VLAN ID
 
 **VLAN Routing**
 - Allow communication between devices in different VLANs, you need to configure inter-VLAN routing. This can be done using a router or a Layer 3 switch
