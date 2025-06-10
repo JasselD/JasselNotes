@@ -6,16 +6,16 @@
 		- <mark style="background: #ABF7F7A6;">Security</mark>:
 			- VLANs provide a <mark style="background: #ABF7F7A6;">logical separation of devices</mark>. For example, finance devices can be in one VLAN, and HR devices can be in another, increasing security by limiting access
 		- <mark style="background: #ABF7F7A6;">Simplified Management</mark>:
-			- VLANs allow network administrators to group devices by function, even if they're spread across different physical location. This makes management easeir and more efficient
+			- VLANs <mark style="background: #ABF7F7A6;">allow network administrators to group devices by function</mark>, even if they're spread across different physical location. This makes <mark style="background: #ABF7F7A6;">management easier and more efficient</mark>
 - How?
-	- VLAN Tagging:
+	- <mark style="background: #ABF7F7A6;">VLAN Tagging</mark>:
 		- When device sends data, it is assigned a VLAN ID. This ID is added to the frame by the switch to tag the traffic as beloging to a specific VLAN
-		- Trunk Links between switches use 802.1Q VLAN tagging to allow traffic from multiple VLANs to pass through a single physical link
+		- <mark style="background: #ABF7F7A6;">Trunk Links</mark> between switches use <mark style="background: #ABF7F7A6;">802.1Q VLAN tagging</mark> to allow traffic from <mark style="background: #ABF7F7A6;">multiple VLANs to pass through a single physical link</mark>
 	- Switch Port Modes:
 		- A switch port can be in one of the following modes:
-			- Access Mode:
+			- <mark style="background: #ABF7F7A6;">Access Mode</mark>:
 				- The port is assigned to a single VLAN. Devices connected to the port are part of the VLAN
-			- Trunk Mode:
+			- <mark style="background: #ABF7F7A6;">Trunk Mode</mark>:
 				- THe port can carry traffic from multiple VLANs and tags each frame with the appropriate VLAN ID
 
 **VLAN Routing**
