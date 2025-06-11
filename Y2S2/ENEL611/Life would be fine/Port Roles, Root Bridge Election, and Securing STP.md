@@ -66,14 +66,21 @@
 	- Loop Guard:
 		- What?
 			- Loop Guard prevents a blocked port from becoming unblocked unexpectedly. This protects againts forwarding loops of the network topology changes unexpectedly
+			
 		- How?
 			- If the STP state of a port changes unexpectedly (e.g, from blocked to forwarding), Loop Guard will keep it in a blocked state
+			
 	- PortFast:
 		- What?
 			- The PortFast feature allows ports to immediately transition to the forwarding state, bypassing the usual STP listening and learning states
+			
 		- Why?
 			- This is useful for end-devices like computers or printers that don't participate in STP
+			
 		- How?
 			- PortFast should only be used on access ports (ports that connect to end-user devices)
 
-## 
+## QNA
+- What is the role of the Root Port (RP) in STP?
+	- The **Root Port (RP)** is the port on a non-root bridge that provides the **shortest path** to the Root Bridge. It’s the **best port** for forwarding traffic towards the Root Bridge.
+- How is the Root Bridge elected in 
