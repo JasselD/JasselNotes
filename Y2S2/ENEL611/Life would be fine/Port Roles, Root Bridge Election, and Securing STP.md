@@ -19,5 +19,8 @@
 	- Blocked/Alternate Port:
 		- What?
 			- Ports that are not forwarding traffic to prevent network loops. These are backup paths will be used if the Root Port fails
+			
 		- Why?
-			- 
+			- To prevent redundant paths from causing loops in the network
+
+/
