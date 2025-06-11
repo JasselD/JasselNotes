@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "43a3475f1265e878",
+        "id": "c838ba469546d3a7",
         "type": "tabs",
         "children": [
           {
-            "id": "4841d79b8b660cca",
+            "id": "9c8a1d4577bc64f5",
             "type": "leaf",
             "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
+              "title": "New tab"
             }
           }
         ]
@@ -147,10 +145,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA revision/Synchronization.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Synchronization"
+              "title": "Outline"
             }
           }
         ],
@@ -172,8 +172,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81553d8019f86699",
+  "active": "9c8a1d4577bc64f5",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "2025-06-11.md",
     "Y2S2/ENEL611/Life would be fine/802.1Q Tagging & Native VLAN.md",
     "Revision/Common Spanning Tree Protocol.md",
@@ -200,7 +201,6 @@
     "Y2S1/DSA revision/LinkedLists.md",
     "Y2S1/DSA revision/*Sample questions.md",
     "Y2S1/DSA revision/Balancing Binary Tree.md",
-    "Y2S1/Bin Sort/Bucket Sort.md",
     "Y2S2/ENEL611/Life would be fine",
     "Untitled",
     "Revision",
