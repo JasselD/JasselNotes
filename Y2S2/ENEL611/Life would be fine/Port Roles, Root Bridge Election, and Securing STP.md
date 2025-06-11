@@ -2,4 +2,8 @@
 - STP assigns different roles to the switch ports depending on their position in the network topology. These roles determine whether the port will be used for forwarding traffic, blocking traffic, or acting as a backup
 	- Root Port (RP):
 		- What?
-			- The port on a non-root bridge that is closest 
+			- The port on a non-root bridge that is closest to the Root Bridge. It is the port that receives the best path to the Root Bridge
+		- Why?
+			- The Root Port ensures that the switch has a path to the Root Bridge for forwarding traffic
+		- Example:
+			- If a switch has multiple paths to the Root Bridge, the Root Por
