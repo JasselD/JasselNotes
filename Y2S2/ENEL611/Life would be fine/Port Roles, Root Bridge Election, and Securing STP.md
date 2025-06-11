@@ -43,6 +43,8 @@
 	
 - Designated Port (DP):
 	- The port on each network segment that is selected to forward traffic for that segment
-	- 
+	
 - Alternate Port:
 	- Ports that block traffic to avoid loops but will be used if the Root Port fails
+
+# Securing STP to 
