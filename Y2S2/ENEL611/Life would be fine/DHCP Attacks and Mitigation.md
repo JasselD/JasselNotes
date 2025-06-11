@@ -39,6 +39,9 @@
 	- DHCP Snooping Binding Database:
 		- What?
 			- The binding database stores information about IP-to-MAC address mappings, VLANs, and leased IP addresses from DHCP servers
+			
 			- It is used to track which devices received which IP address from the DHCP server
+			
 		- Why?
-			- The binding database helps to identify any rogue devi
+			- The binding database helps to identify any rogue devices attempting to interfere with the legitimate DHCP process
+	- 
