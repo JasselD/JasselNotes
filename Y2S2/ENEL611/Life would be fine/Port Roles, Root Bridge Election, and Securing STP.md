@@ -23,7 +23,7 @@
 		- Why?
 			- To prevent redundant paths from causing loops in the network
 
-# Root Bridge Election Process
+## Root Bridge Election Process
 - Root Bridge is the central switch in the STP topology. It serves as the reference points for all other switches. The Root Bridge Election process happens as follows:
 	- Initial Election:
 		- When STP starts, every switch assumes it is the Root Bridge and sends a BDPU (Bridge Protocol Data Unit) with its Bridge ID
@@ -35,4 +35,5 @@
 		- The Root Bridge does not have a Root Port (because it si the topmost bridge), but all other switches' Root Ports will point to the Root Bridge
 		
 	- Re-election:
-		- If the Root Bridge fails, the 
+		- If the Root Bridge fails, the election process is repeated, and a new Root Bridge is selected based on the lowest Bridge ID
+
