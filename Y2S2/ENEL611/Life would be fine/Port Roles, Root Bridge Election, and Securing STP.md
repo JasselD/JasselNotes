@@ -47,4 +47,5 @@
 - Alternate Port:
 	- Ports that block traffic to avoid loops but will be used if the Root Port fails
 
-# Securing STP to 
+# Securing STP to Prevent Attacks
+- Although STP is designed to prevent loops, it is vulnerable to certain attacks that can compromise network stability and security. How to sec
