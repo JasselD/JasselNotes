@@ -47,4 +47,8 @@
 			
 	- Port Security:
 		- What?
-			- Port security helps mitigate DHCP starvation attacks by limiting the number of MAC addresses on a switch port. This can prevent attackers 
+			- Port security helps mitigate DHCP starvation attacks by limiting the number of MAC addresses on a switch port. This can prevent attackers from flooding the DHCP server with fake request
+			
+	- Dynamic ARP Inspection (DAI):
+		- What?
+			- DAI prevents ARP sp
