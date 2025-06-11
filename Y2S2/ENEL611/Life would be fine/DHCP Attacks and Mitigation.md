@@ -9,4 +9,6 @@
 				- Attacker can control client configurations, leading to network disruption or data interception (main-in-the middle attack)
 		- Rogue DHCP Servers:
 			- What?
-				- Rogue DHCP server is an unauthorized DHCP server that operates on the network. It can interface witht h
+				- Rogue DHCP server is an unauthorized DHCP server that operates on the network. It can interface with the legitimate DHCP process, leading to incorrect IP assignments or network outages
+			- Why?
+				- Rogue servers can provide incorrect network configurations to cli
