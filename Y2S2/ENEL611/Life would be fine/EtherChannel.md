@@ -12,4 +12,8 @@
 		- If one physical link fails, the traffic will automatically be forwarded over the other active links, ensuring no discruption in service
 		
 	- Simplified Configuration:
-		- EtherChannel simplifies network configuration by creating a single logical interface that behaves like a single link, even though multiple physical 
+		- EtherChannel simplifies network configuration by creating a single logical interface that behaves like a single link, even though multiple physical links are involved
+		
+- How?
+	- Link Aggregation:
+		- EtherChannel groups several physical links 
