@@ -40,4 +40,7 @@
 
 # Port Roles and How They Are Chosen:
 - Root Port (RP):
-	- 
+	- The port closest to the Root Bridge. Each switch has only one Root Port
+- Designated Port (DP):
+	- The port that forwards traffic for a particular network segment. Every segment has one Designated Port
+- 
