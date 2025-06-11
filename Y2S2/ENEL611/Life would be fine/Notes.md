@@ -108,7 +108,8 @@ MAC Address Attacks
 		- Stateless SLAAC (Stateless Address Autoconfiguration):
 			- Devices automatically generate their IPv6 address based on Router Advertisements
 		- Stateful DHCPv6
-[[]]
+[[IPv4 Address Provisioning]]
+[[IPv6 Address Provisioning]]
 
 **Wireless LAN & Security**
 - Access Points (APs)
