@@ -23,4 +23,8 @@
 		- Easier to manage IP addresses in larger networks, as DHCP dynamically assigns and renew addresses
 	- IP Address Reuse:
 		- DHCP and recycle IP addresses when devices disconnect, making efficient use of the address pool
-	- 
+- How?
+	- DHCP Discover:
+		- The client device sends a DHCP Discover message to fing a DHCP server
+	- DHCP Offer:
+		- T
