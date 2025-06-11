@@ -40,5 +40,9 @@
 ## How Port Roles Are Determined
 - Root Port (RP):
 	- The port on the non--root switch that provides the best (lowest-cost) path to the Root Bridge
+	
 - Designated Port (DP):
-	- The port on each network sem
+	- The port on each network segment that is selected to forward traffic for that segment
+	- 
+- Alternate Port:
+	- Ports that block traffic to avoid loops but will be used if the Root Port fails
