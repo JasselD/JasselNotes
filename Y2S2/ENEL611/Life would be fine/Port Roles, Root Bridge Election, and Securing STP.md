@@ -67,4 +67,9 @@
 		- What?
 			- Loop Guard prevents a blocked port from becoming unblocked unexpectedly. This protects againts forwarding loops of the network topology changes unexpectedly
 		- How?
-			- If the STP state of a port changes unexpectedly (e.g, from blocked to forwarding), Loop Guard will keep
+			- If the STP state of a port changes unexpectedly (e.g, from blocked to forwarding), Loop Guard will keep it in a blocked state
+	- PortFast:
+		- What?
+			- The PortFast feature allows ports to immediately transition to the forwarding state, bypassing the usual STP listening and learning states
+		- Why?
+			- 
