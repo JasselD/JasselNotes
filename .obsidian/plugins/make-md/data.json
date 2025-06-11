@@ -43,7 +43,9 @@
     "/",
     "Personal",
     "//Y2S2",
-    "//Y2S2/Y2S2/ENEL611"
+    "//Y2S2/Y2S2/ENEL611",
+    "//Y2S1",
+    "//Y2S1/Y2S1/DSA revision"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
