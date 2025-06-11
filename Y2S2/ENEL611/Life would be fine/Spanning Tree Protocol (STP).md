@@ -1,3 +1,4 @@
+
 - What?
 	- Layer 2 protocol used to prevent loops in a network with redundant paths
 	- Loops occur when multiple network path exist between switches, and without STP, frames could circulate endlessly, causing a broadcast storm and network congestion
@@ -29,4 +30,5 @@
 		- Forwarding:
 			- The port forwards traffic and is part of the active forwarding path
 	- BPDUs (Bridge Protocol Data Units):
-		- 
+		- BDPUs are special frames exchanged between switches to share topology information. They help in the Root Bridge election and are used to maintain the network's spanning tree structure
+
