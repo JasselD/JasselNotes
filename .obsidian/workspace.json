@@ -207,10 +207,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "/"
+                "path": "Y2S2"
               },
               "icon": "lucide-file",
-              "title": "JasselNotes"
+              "title": "Y2S2"
             }
           }
         ],
@@ -369,6 +369,8 @@
   },
   "active": "e1f6e225d5f524b0",
   "lastOpenFiles": [
+    "README.md",
+    "Fast Sort.md",
     "Tags",
     "Y2S2/ENEL611/Life would be fine/802.1Q Tagging & Native VLAN.md",
     "Y2S2/ENEL611/Life would be fine/Switch Operations & MAC Table.md",
@@ -384,11 +386,9 @@
     "Y2S1/DSA revision/Sorting algorithms.md",
     "Y2S1/DSA revision/Focus.md",
     "Y2S2/ENEL611/Life would be fine",
-    "Fast Sort.md",
     "Y2S1/COMP603/Interface.md",
     "Y2S1/COMP603/OOP.md",
     "Y2S1/DSA revision/Doubly LinkedList.md",
-    "README.md",
     "Y2S1/DSA revision/Traversal.md",
     "Y2S1/DSA revision/Binary Search Tree.md",
     "Y2S1/DSA revision/Heap Rules.md",
@@ -414,7 +414,6 @@
     "Images/Pasted image 20250319232349.png",
     "Y2S2/ENEL611",
     "Y2S2/COMP609/Notes",
-    "Y2S2/COMP609/Assignment 1",
-    "Y2S2/COMP602"
+    "Y2S2/COMP609/Assignment 1"
   ]
 }
