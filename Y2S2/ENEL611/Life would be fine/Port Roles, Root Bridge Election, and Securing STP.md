@@ -83,14 +83,21 @@
 ## QNA
 - What is the role of the Root Port (RP) in STP?
 	- The **Root Port (RP)** is the port on a non-root bridge that provides the **shortest path** to the Root Bridge. It’s the **best port** for forwarding traffic towards the Root Bridge.
+	
 - How is the Root Bridge elected in STP?
 	- The **Root Bridge** is elected based on the **lowest Bridge ID**, which includes the **priority** (default is 32768) and the **MAC address**. The switch with the lowest **Bridge ID** becomes the Root Bridge.
+	
 - What are the three main port roles in STP?
 	-  **Root Port (RP)**: The port closest to the Root Bridge.
         
     - **Designated Port (DP)**: The port that forwards traffic for a specific network segment.
         
     - **Alternate Port**: The port that is **blocked** to prevent loops but can be used if the Root Port fails.
+    
 - What is BDPU Guard, and how does it secure STP?
 	- **BPDU Guard** disables ports that receive BPDUs from unauthorized devices, preventing rogue switches from interfering with the STP topology.
-- What is 
+	
+- What is the difference between Root Guard and Loop Guard?
+	- **Root Guard** prevents unauthorized switches from becoming the Root Bridge by blocking BPDUs from them.
+    
+	- **Loop Guard** ensures that a port stays **blocked** if it unexpectedly transitions out of a blocking state, preventing potential forwarding loops.
