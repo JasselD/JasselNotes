@@ -34,4 +34,8 @@
 
 # Root Bridge Election Process
 - Each switch sends out a BDPU with its Bridge ID (priority + MAC address). The switch with the lowest Bridge ID becomes the Root Bridge
-- 
+	- Example BDPU Format:
+		- Priority (default: 32768)
+		- MAC address (unique to each switch)
+
+# Port Roles and How They Are Chosen:
