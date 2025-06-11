@@ -7,6 +7,7 @@
 			- The Root Port ensures that the switch has a path to the Root Bridge for forwarding traffic
 		- Example:
 			- If a switch has multiple paths to the Root Bridge, the Root Port is the one with the lowest cost (best path)
+			
 	- Designated Port (DP):
 		- What?
 			- The port on a switch that forwards traffic for a given network segment (VLAN). It is the forwarding port on each segment
@@ -14,5 +15,7 @@
 			- The Designated Port is responsible for sending data towards other switches and devices on that segment
 		- Example:
 			- For each network segment (ie., a cable or switch port), there is only one Designated Port to avoid conflicts
+			
 	- Blocked/Alternate Port:
-		- 
+		- What?
+			- Ports that are not forwarding traffic to prevent network loops. These are backup
