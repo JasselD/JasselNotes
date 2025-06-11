@@ -27,4 +27,8 @@
 	- DHCP Discover:
 		- The client device sends a DHCP Discover message to fing a DHCP server
 	- DHCP Offer:
-		- T
+		- The server responds with a DHCP Offer, offering an IP address from the pool
+	- DHCP Request:
+		- The client sends a DHCP Request to confirm the offer
+	- DHCP Acknowledgment:
+		- The ser
