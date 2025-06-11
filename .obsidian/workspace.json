@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/Life would be fine/802.1Q Tagging & Native VLAN.md",
+                "file": "Y2S2/ENEL611/Life would be fine/Spanning Tree Protocol (STP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "802.1Q Tagging & Native VLAN"
+              "title": "Spanning Tree Protocol (STP)"
             }
           }
         ]
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y2S2/ENEL611/Life would be fine/802.1Q Tagging & Native VLAN.md",
+                "file": "Y2S2/ENEL611/Life would be fine/Spanning Tree Protocol (STP).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 802.1Q Tagging & Native VLAN"
+              "title": "Outline of Spanning Tree Protocol (STP)"
             }
           }
         ],
@@ -179,6 +179,9 @@
   },
   "active": "9c8a1d4577bc64f5",
   "lastOpenFiles": [
+    "Y2S2/ENEL611/Life would be fine/Notes.md",
+    "Y2S2/ENEL611/Life would be fine/Spanning Tree Protocol (STP).md",
+    "Y2S2/ENEL611/Life would be fine/802.1Q Tagging & Native VLAN.md",
     "Y2S2/ENEL611/Life would be fine/header.md",
     "Revision/DHCP message type.md",
     "Revision/Common Spanning Tree Protocol.md",
@@ -190,7 +193,6 @@
     "Personal",
     "Untitled.canvas",
     "2025-06-11.md",
-    "Y2S2/ENEL611/Life would be fine/802.1Q Tagging & Native VLAN.md",
     "Y2S2/ENEL611/VLANs/Native VLANs and 802.1Q Tagging.md",
     "Y2S2/ENEL611/VLANs/Network With VLANs.md",
     "Y2S2/ENEL611/VLANs/Network Without VLANs.md",
@@ -207,8 +209,6 @@
     "Tags",
     "Y2S2/ENEL611/Life would be fine/Switch Operations & MAC Table.md",
     "Y2S2/ENEL611/Life would be fine/VLANs.md",
-    "Y2S2/ENEL611/Life would be fine/Controlling Access to Network Devices.md",
-    "Y2S2/ENEL611/Life would be fine/Notes.md",
     "Y2S2/ENEL611/Life would be fine",
     "Untitled",
     "Revision",
