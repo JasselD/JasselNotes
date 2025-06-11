@@ -9,4 +9,5 @@
 		- STP allows network redundancy. If one link fails, STP automatically activates a backup path, keeping the network stable and available
 - How?
 	- Root Bridge Election:
-		- STP elects a Root Bridge, which is the central reference point for
+		- STP elects a Root Bridge, which is the central reference point for the network. This bridge is chosen based on the lowest Bridge ID (priority + MAC address)
+		- Why? The Root Bridge serves as the logical center of the network, and all switches calculate the bes
