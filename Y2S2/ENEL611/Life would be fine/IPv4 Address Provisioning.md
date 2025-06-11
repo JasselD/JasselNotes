@@ -1,2 +1,3 @@
 - What?
-	- IPv4 addressing assigns unique 32-
+	- IPv4 addressing assigns unique 32-bits addresses to devices on a network. It's used to identify devices in Layer 3 (Network Layer)
+	- Provisioning is the process of assigning these addresses to devices in a network, either manually (static as)
