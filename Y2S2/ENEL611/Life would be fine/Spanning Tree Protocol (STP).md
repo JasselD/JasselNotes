@@ -10,4 +10,8 @@
 - How?
 	- Root Bridge Election:
 		- STP elects a Root Bridge, which is the central reference point for the network. This bridge is chosen based on the lowest Bridge ID (priority + MAC address)
-		- Why? The Root Bridge serves as the logical center of the network, and all switches calculate the bes
+		- Why? The Root Bridge serves as the logical center of the network, and all switches calculate the best path to it
+	- Port Roles:
+		- Once the Root Bridge is elected, each switch determines the role of each port relative to the Root Bridge. This port roles include:
+			- Root Port (RP):
+				- The port on a switch that sends traffic towards 
