@@ -15,4 +15,7 @@
 
 ## Dynamic IPv4 Address Assignments (DHCP)
 - What?
-	- Dynamic Host Configuration Proto
+	- Dynamic Host Configuration Protocol (DHCP) automatically assigns IP addresses to devices when they connect to the network. The DHCP server manages and assigns IP addresses from a pool of available addresses
+- Why?
+	- Automation:
+		- Devices automatically rece
