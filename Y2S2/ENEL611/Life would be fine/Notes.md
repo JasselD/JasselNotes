@@ -45,6 +45,7 @@ SSH & Telnet
 	- Native VLAN:
 		- The VLAN that does not get tagged. Usually VLAN 1
 	- Tagging Command
+[[802.1Q Tagging & Native VLAN]]
 
 **Spanning Tree Protocol (STP)**
 - What?
@@ -58,6 +59,7 @@ SSH & Telnet
 		- Root Port: The port closest to the root bridge
 		- Designated Port: The poer that sends traffic for the network segment
 		- Alternate Port: Blocked port that can be used if the root port fails
+[[Spanning Tree Protocol (STP)]]
 
 **Securing Switches Against Attacks**
 MAC Address Attacks
@@ -82,6 +84,7 @@ MAC Address Attacks
 		- Attackers send false ARP messages, causing devices to send data to the attacker
 	- How to Prevent?
 		- Dynamic ARP Inspection (DAI)
+[[DHCP Attacks and Mitigation]]
 
 **EtherChannel**
 - What?
@@ -90,6 +93,7 @@ MAC Address Attacks
 	- To improve performance and provide redundancy
 - How?
 	- Configuration Command
+[[EtherChannel]]
 
 **IPv4 & IPv6 Address Provisioning**
 - IPv4 Addressing
@@ -104,6 +108,7 @@ MAC Address Attacks
 		- Stateless SLAAC (Stateless Address Autoconfiguration):
 			- Devices automatically generate their IPv6 address based on Router Advertisements
 		- Stateful DHCPv6
+[[]]
 
 **Wireless LAN & Security**
 - Access Points (APs)
