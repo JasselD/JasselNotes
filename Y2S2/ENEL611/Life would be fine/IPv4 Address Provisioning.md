@@ -11,4 +11,8 @@
 	- Predictability:
 		- You always know the address of key devices
 - How to configure
-	- 
+	- On a router or PC, you configure the IP address, subnet mask, and default gateway
+
+## Dynamic IPv4 Address Assignments (DHCP)
+- What?
+	- Dynamic Host Configuration Proto
