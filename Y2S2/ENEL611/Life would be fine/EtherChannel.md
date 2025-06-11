@@ -61,8 +61,9 @@ EtherChannel can operate in the following modes:
 ## QNA
 - What is EtherChannel and why is it used?
 	-  **EtherChannel** is a link aggregation technology used to combine multiple physical links into a single logical link, providing **increased bandwidth** and **redundancy**.
+	
 - What are the two protocols used for EtherChannel?
 	- The two protocols are **LACP (Link Aggregation Control Protocol)** and **PAgP (Port Aggregation Protocol)**. LACP is an **open standard**, while PAgP is **Cisco proprietary**.
+	
 - What is the difference between Active mode and Passive mode in LACP?
 	-  **Active mode** means the switch actively tries to form an EtherChannel by sending LACP requests. In **Passive mode**, the switch waits for the other side to initiate the EtherChannel.
-- How do you configure an Ether

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/ENEL611/Life would be fine/EtherChannel.md",
+                "file": "Y2S2/ENEL611/Life would be fine/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EtherChannel"
+              "title": "Untitled"
             }
           }
         ]
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y2S2/ENEL611/Life would be fine/EtherChannel.md",
+                "file": "Y2S2/ENEL611/Life would be fine/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EtherChannel"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -179,10 +179,11 @@
   },
   "active": "9c8a1d4577bc64f5",
   "lastOpenFiles": [
+    "Y2S2/ENEL611/Life would be fine/EtherChannel.md",
+    "Y2S2/ENEL611/Life would be fine/Untitled.md",
+    "Y2S2/ENEL611/Life would be fine/Notes.md",
     "Y2S2/ENEL611/Life would be fine/802.1Q Tagging & Native VLAN.md",
     "Y2S2/ENEL611/Life would be fine/Port Roles, Root Bridge Election, and Securing STP.md",
-    "Y2S2/ENEL611/Life would be fine/EtherChannel.md",
-    "Y2S2/ENEL611/Life would be fine/Notes.md",
     "Y2S2/ENEL611/Life would be fine/Spanning Tree Protocol (STP).md",
     "Y2S2/ENEL611/Life would be fine/header.md",
     "Revision/DHCP message type.md",
@@ -207,7 +208,6 @@
     "Y2S2/ENEL611/Switching Concepts/Learn and Forward Method.md",
     "Y2S1/DSA revision/Sorting algorithms.md",
     "README.md",
-    "Fast Sort.md",
     "Tags",
     "Y2S2/ENEL611/Life would be fine",
     "Untitled",
