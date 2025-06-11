@@ -30,5 +30,8 @@
 		- The server responds with a DHCP Offer, offering an IP address from the pool
 	- DHCP Request:
 		- The client sends a DHCP Request to confirm the offer
-	- DHCP Acknowledgment:
-		- The ser
+	- DHCP Acknowledgement:
+		- The server sends a DHCP Acknowledgement to finalize the lease and assign the IP
+
+## DHCP Lease Process
+- What?
