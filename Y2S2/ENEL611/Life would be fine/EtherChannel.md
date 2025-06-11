@@ -47,4 +47,8 @@ EtherChannel can operate in the following modes:
 		- Auto Mode:
 			- The switch waits for the other switch to initiate the formation of the EtherChannel
 
-# Configuring EtherChannel on a Cisco Switch
+# Benefits of EtherChannel
+- Increased Bandwidth:
+	- Combining multiple links increases the total bandwidth between switches
+- Redundancy:
+	- 
