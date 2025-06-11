@@ -35,3 +35,6 @@
 
 ## DHCP Lease Process
 - What?
+	- A DHCP lease is the period of time that a device is allowed to use a DHCP-assigned IP address. After the lease expires, the device may need to request a new IP address from the DHCP server
+- Lease Renewal:
+	- DHCP cl
