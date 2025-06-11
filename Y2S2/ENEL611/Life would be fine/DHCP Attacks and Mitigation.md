@@ -55,4 +55,8 @@
 
 ## Other DHCP Security Considerations
 - DHCP Filtering:
-	- Ensures that only authorized DHCP servers can operate on the network. You can configure the switch to allow only trusted DHCP servers or specific
+	- Ensures that only authorized DHCP servers can operate on the network. You can configure the switch to allow only trusted DHCP servers or specific DHCP servers based on IP address or MAC address
+	
+- Rogue DHCP Server Detection
+	- What?
+		- This feature allows you to detect unauthorized DHCP servers on the network and alert ad
