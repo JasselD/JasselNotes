@@ -6,4 +6,7 @@
 			- What?
 				- An attacks impersonates a DHCP server and sends fake DHCP responses to clients. This can result in clients receiving incorrect IP addresses, default gateways, and DNS servers, potentially redirecting traffic or causing network outages
 			- Why?
-				- Attacker can control client configuratio
+				- Attacker can control client configurations, leading to network disruption or data interception (main-in-the middle attack)
+		- Rogue DHCP Servers:
+			- What?
+				- Rogue DHCP server is an unauthorized DHCP server that operates on the network. It can interface witht h
