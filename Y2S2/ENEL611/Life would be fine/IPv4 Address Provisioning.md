@@ -6,6 +6,7 @@
 - What?
 	- Static IP addressing is when you manually configure a fixed IP address on a device. This means that the device will always use the same IP address every time it connects to the network
 	- It's ideal for servers, printers, and devices that need a consistent address
+	
 - Why?
 	- Fixed address for critical devices (routers, web servers)
 	- Predictability:
@@ -37,4 +38,6 @@
 - What?
 	- A DHCP lease is the period of time that a device is allowed to use a DHCP-assigned IP address. After the lease expires, the device may need to request a new IP address from the DHCP server
 - Lease Renewal:
-	- DHCP cl
+	- DHCP clients attempt to renew their lease halfway through the lease time ensure they don't lose connectivity
+- DHCP Lease Time:
+	- You can configure the lease time to determine how long an IP address will be assigned to a client before it must renew
