@@ -56,4 +56,5 @@
 			- When BPDU Guard is enabled, if a BDPU is received on a port in PortFast mode, the port is shut down immediately
 	- Root Guard:
 		- What?
-			- Root Guard
+			- Root Guard prevents a switch from becoming the Root Bridge by blocking any BDPUs with a lower priority or higher MAC address than the current Root Bridge
+		- How?
