@@ -14,4 +14,6 @@
 	- Port Roles:
 		- Once the Root Bridge is elected, each switch determines the role of each port relative to the Root Bridge. This port roles include:
 			- Root Port (RP):
-				- The port on a switch that sends traffic towards 
+				- The port on a 
+			- Designated Port (DP):
+				- The port on a switch that sends traffic towards the network segment. It is the forwarding port
