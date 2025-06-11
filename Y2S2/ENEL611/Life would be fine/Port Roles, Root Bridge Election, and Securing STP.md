@@ -9,4 +9,6 @@
 			- If a switch has multiple paths to the Root Bridge, the Root Port is the one with the lowest cost (best path)
 	- Designated Port (DP):
 		- What?
-			- The port on a switch
+			- The port on a switch that forwards traffic for a given network segment (VLAN). It is the forwarding port on each segment
+		- Why?
+			- The Designated Port is responsible for sending data towards other switches and devices on that se
