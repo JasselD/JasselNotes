@@ -52,9 +52,16 @@
 	- BDPU Guard:
 		- What?
 			- BDPU Guard disables ports that receive BDPUs (Bridge Protocol Data Units) from an unauthorized device, preventing rogue devices from becoming part of the STP topology
+			
 		- How?
 			- When BPDU Guard is enabled, if a BDPU is received on a port in PortFast mode, the port is shut down immediately
+			
 	- Root Guard:
 		- What?
 			- Root Guard prevents a switch from becoming the Root Bridge by blocking any BDPUs with a lower priority or higher MAC address than the current Root Bridge
+			
 		- How?
+			- This prevents rogue switches from becoming the Root Bridge and disrupting the STP topology
+			
+	- Loop Guard:
+		- 
