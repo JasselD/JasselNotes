@@ -188,9 +188,33 @@
               "icon": "lucide-file",
               "title": "802.1Q Tagging & Native VLAN"
             }
+          },
+          {
+            "id": "4841d79b8b660cca",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
+            }
+          },
+          {
+            "id": "e1f6e225d5f524b0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/GetStarted.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/GetStarted.md"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -242,8 +266,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "81553d8019f86699",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -332,11 +367,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe74a820f64a40f0",
+  "active": "e1f6e225d5f524b0",
   "lastOpenFiles": [
+    "Tags",
+    "Y2S2/ENEL611/Life would be fine/802.1Q Tagging & Native VLAN.md",
     "Y2S2/ENEL611/Life would be fine/Switch Operations & MAC Table.md",
     "Y2S2/ENEL611/Life would be fine/VLANs.md",
-    "Y2S2/ENEL611/Life would be fine/802.1Q Tagging & Native VLAN.md",
     "Y2S2/ENEL611/Life would be fine/Controlling Access to Network Devices.md",
     "Y2S2/ENEL611/Life would be fine/Notes.md",
     "Y2S1/DSA revision/Binary Tree.md",
@@ -360,7 +396,6 @@
     "Y2S1/DSA revision/Hashing function.md",
     "Y2S1/DSA revision/Graph.md",
     "Y2S1/DSA revision/Race condition.md",
-    "Y2S1/DSA revision/Stack.md",
     "Untitled",
     "Revision",
     "Images/Pasted image 20250428193201.png",
