@@ -29,5 +29,9 @@ EtherChannel can operate in the following modes:
 - Active Mode (LACP):
 	- LACP (Link Aggregation Control Protocol)
 		- Open standard used for negotiating EtherChannel links
+		
 	- Active mode
-		- Switch actively attempth
+		- Switch actively attempts to bundle links using LACP. It is the preferred mode for creating EtherChannel connections
+		
+- Passive Mode (LACP):
+	- 
