@@ -37,3 +37,8 @@
 	- Re-election:
 		- If the Root Bridge fails, the election process is repeated, and a new Root Bridge is selected based on the lowest Bridge ID
 
+## How Port Roles Are Determined
+- Root Port (RP):
+	- The port on the non--root switch that provides the best (lowest-cost) path to the Root Bridge
+- Designated Port (DP):
+	- The port on each network sem
