@@ -50,7 +50,15 @@ EtherChannel can operate in the following modes:
 # Benefits of EtherChannel
 - Increased Bandwidth:
 	- Combining multiple links increases the total bandwidth between switches
+	
 - Redundancy:
 	- If one physical link fails, the others continue to carry traffic, preventing network disruption
+	
 - Simple Configuration:
-	- Instead of managing multiple individual links, EtherChannel simpl
+	- Instead of managing multiple individual links, EtherChannel simplifies configuration by treating them as a single logical link
+
+
+## QNA
+- What is EtherChannel and why is it used?
+	-  **EtherChannel** is a link aggregation technology used to combine multiple physical links into a single logical link, providing **increased bandwidth** and **redundancy**.
+- What are the two
