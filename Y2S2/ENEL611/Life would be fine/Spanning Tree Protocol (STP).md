@@ -47,4 +47,8 @@
 	- The port that is blocked to prevent network loops. It is used in case the Root Port fails
 
 # Spanning Tree Algorithm
-- STP uses the Spanning Tree Algorithm (STA) to determine the best path to the Root
+- STP uses the Spanning Tree Algorithm (STA) to determine the best path to the Root Bridge
+- STP states are used to ensure only one active path between switches and block redundant paths
+
+# Common STP Terms
+- BPDU (Bridge Protocol Data)
