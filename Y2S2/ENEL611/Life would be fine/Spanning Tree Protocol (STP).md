@@ -6,4 +6,7 @@
 	- Loop Prevention:
 		- Without STP, switches would broadcast traffic to all ports. When loops exist, the traffic gets duplicated, causing the network to become unresponsive
 	- Redundancy:
-		- STP allows network redundancy. If one 
+		- STP allows network redundancy. If one link fails, STP automatically activates a backup path, keeping the network stable and available
+- How?
+	- Root Bridge Election:
+		- STP elects a Root Bridge, which is the central reference point for
