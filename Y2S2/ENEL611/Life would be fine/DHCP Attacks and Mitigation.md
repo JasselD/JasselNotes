@@ -51,4 +51,6 @@
 			
 	- Dynamic ARP Inspection (DAI):
 		- What?
-			- DAI prevents ARP sp
+			- DAI prevents ARP spoofing attacks by ensuring that ARP requests and responses are valid. DAI uses the DHCP snooping bindng database to verify that sender's MAC address matches the IP address
+
+/
