@@ -35,4 +35,7 @@
 		- Benefits:
 			- Block unauthorized DHCP servers
 			- Prevents DHCP spoofing attacks
-	- 
+			
+	- DHCP Snooping Binding Database:
+		- What?
+			- The binding database stores information about IP-
