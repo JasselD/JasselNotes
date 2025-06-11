@@ -72,4 +72,8 @@
 		- What?
 			- The PortFast feature allows ports to immediately transition to the forwarding state, bypassing the usual STP listening and learning states
 		- Why?
-			- 
+			- This is useful for end-devices like computers or printers that don't participate in STP
+		- How?
+			- PortFast should only be used on access ports (ports that connect to end-user devices)
+
+## 
