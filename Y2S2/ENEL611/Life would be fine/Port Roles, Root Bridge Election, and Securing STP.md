@@ -11,4 +11,8 @@
 		- What?
 			- The port on a switch that forwards traffic for a given network segment (VLAN). It is the forwarding port on each segment
 		- Why?
-			- The Designated Port is responsible for sending data towards other switches and devices on that se
+			- The Designated Port is responsible for sending data towards other switches and devices on that segment
+		- Example:
+			- For each network segment (ie., a cable or switch port), there is only one Designated Port to avoid conflicts
+	- Blocked/Alternate Port:
+		- 
