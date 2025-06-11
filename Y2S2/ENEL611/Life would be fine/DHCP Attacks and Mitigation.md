@@ -53,4 +53,6 @@
 		- What?
 			- DAI prevents ARP spoofing attacks by ensuring that ARP requests and responses are valid. DAI uses the DHCP snooping bindng database to verify that sender's MAC address matches the IP address
 
-/
+## Other DHCP Security Considerations
+- DHCP Filtering:
+	- Ensures that only authorized DHCP servers can operate on the network. You can configure the switch to allow only trusted DHCP servers or specific
