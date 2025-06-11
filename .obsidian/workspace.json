@@ -207,10 +207,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Y2S2"
+                "path": "/"
               },
               "icon": "lucide-file",
-              "title": "Y2S2"
+              "title": "JasselNotes"
             }
           }
         ],
