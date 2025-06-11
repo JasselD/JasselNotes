@@ -44,4 +44,7 @@
 			
 		- Why?
 			- The binding database helps to identify any rogue devices attempting to interfere with the legitimate DHCP process
-	- 
+			
+	- Port Security:
+		- What?
+			- Port security helps mitigate DHCP starvation attacks by limiting the number of MAC addresses on a switch port. This can prevent attackers 
