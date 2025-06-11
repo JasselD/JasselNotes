@@ -3,4 +3,7 @@
 	- Loops occur when multiple network path exist between switches, and without STP, frames could circulate endlessly, causing a broadcast storm and network congestion
 	- STP ensures there is only one active path between any two devices in a network, blocking the redundant paths to avoid loops
 - Why?
-	- Loop 
+	- Loop Prevention:
+		- Without STP, switches would broadcast traffic to all ports. When loops exist, the traffic gets duplicated, causing the network to become unresponsive
+	- Redundancy:
+		- STP allows network redundancy. If one 
