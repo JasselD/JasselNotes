@@ -21,4 +21,8 @@
 				- Ports that are not forwarding traffic to prevent loops
 	- STP States:
 		- Blocking:
-			- The port does not forward
+			- The port does not forward frames and is not part of the forwarding path
+		- Listening:
+			- The switch listens to BDPUs (Bridge Protocol Data Units) to learn network topology changes
+		- Learning:
+			- The switch builds its MAC tab
