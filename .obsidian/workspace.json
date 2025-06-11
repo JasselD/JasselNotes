@@ -205,12 +205,12 @@
             "id": "e1f6e225d5f524b0",
             "type": "leaf",
             "state": {
-              "type": "mk-uri-view",
+              "type": "mk-space",
               "state": {
-                "path": "https://www.make.md/static/GetStarted.md"
+                "path": "/"
               },
               "icon": "lucide-file",
-              "title": "https://www.make.md/static/GetStarted.md"
+              "title": "JasselNotes"
             }
           }
         ],
