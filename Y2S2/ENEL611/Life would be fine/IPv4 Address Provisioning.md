@@ -6,4 +6,9 @@
 - What?
 	- Static IP addressing is when you manually configure a fixed IP address on a device. This means that the device will always use the same IP address every time it connects to the network
 	- It's ideal for servers, printers, and devices that need a consistent address
+- Why?
+	- Fixed address for critical devices (routers, web servers)
+	- Predictability:
+		- You always know the address of key devices
+- How to configure
 	- 
