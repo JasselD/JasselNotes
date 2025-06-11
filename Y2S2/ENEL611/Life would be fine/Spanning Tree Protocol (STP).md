@@ -56,4 +56,10 @@
 - Root Bridge:
 	- The switch with the lowest Bridge ID
 - Root Port (RP):
-	- 
+	- The port on a non-root bridge closest to the Root Bridge
+- Designated Port (DP):
+	- The port on switch that forwards traffic for a specific segment
+- Alternate Port:
+	- The port that is blocked to prevent loops
+- Loop Prevention:
+	- Ensures ther
