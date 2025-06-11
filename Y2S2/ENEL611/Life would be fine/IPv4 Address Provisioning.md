@@ -4,4 +4,6 @@
 
 ## Static IPv4 Address Assignment
 - What?
-	- Static IP addressing is when you manually conf
+	- Static IP addressing is when you manually configure a fixed IP address on a device. This means that the device will always use the same IP address every time it connects to the network
+	- It's ideal for servers, printers, and devices that need a consistent address
+	- 
