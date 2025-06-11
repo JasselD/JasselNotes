@@ -77,7 +77,9 @@
 	- **Designated Port (DP)**: The port that forwards traffic for a network segment.
     
 	- **Alternate Port**: The port that is **blocked** to prevent loops but can be used if the Root Port fails.
+	
 - What is the difference between Root Port (RP) and Designated Port (DP)?
 	- The **Root Port** is the port on a non-root bridge that provides the **shortest path** to the Root Bridge, whereas the **Designated Port** is the port that **forwards traffic** towards a particular network segment.
+	
 - What does the BDPU contain, and what is its role in STP?
 	-  **BPDUs (Bridge Protocol Data Units)** contain information such as the **Bridge ID**, **Root Bridge ID**, and **path cost** to the Root Bridge. They are used by switches to share **topology information** and to elect the **Root Bridge**.
