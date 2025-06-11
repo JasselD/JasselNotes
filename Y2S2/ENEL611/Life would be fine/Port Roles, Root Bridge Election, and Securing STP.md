@@ -29,4 +29,6 @@
 		- When STP starts, every switch assumes it is the Root Bridge and sends a BDPU (Bridge Protocol Data Unit) with its Bridge ID
 		- The Bridge ID consists of the priority value and MAC address of the switch
 		- Default priority is 32768, and the MAC address is unique to each switch
-	- Choosing
+	- Choosing the Root Bridge:
+		- The switch with the lowest Bridge ID (priority + MAC address) is elected as the Root Bridge
+		- The Root Bridge does not have a Root Port (because it si the topmost )
