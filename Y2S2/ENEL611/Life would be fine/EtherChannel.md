@@ -25,3 +25,4 @@
 		- EtherChannel can use LACP (open standard) or PAgP (Cisco proprietary) to negotiate link bundling
 
 ## EtherChannel Modes
+EtherChannel can op
