@@ -38,9 +38,13 @@
 		- Priority (default: 32768)
 		- MAC address (unique to each switch)
 
-# Port Roles and How They Are Chosen:
+# Port Roles and How They Are Chosen
 - Root Port (RP):
 	- The port closest to the Root Bridge. Each switch has only one Root Port
 - Designated Port (DP):
 	- The port that forwards traffic for a particular network segment. Every segment has one Designated Port
-- Alternate 
+- Alternate Port:
+	- The port that is blocked to prevent network loops. It is used in case the Root Port fails
+
+# Spanning Tree Algorithm
+- STP uses the Spanning Tree Algorithm (STA) to determine the best path to the Root
