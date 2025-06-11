@@ -1,2 +1,3 @@
 - What?
-	- Sp
+	- Layer 2 protocol used to prevent loops in a network with redundant paths
+	- Loops occur when multiple network path exist between switches, and without STP, frames could circulate endlessly, causing.
