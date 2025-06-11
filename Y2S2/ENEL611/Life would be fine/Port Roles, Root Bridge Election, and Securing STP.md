@@ -64,4 +64,5 @@
 			- This prevents rogue switches from becoming the Root Bridge and disrupting the STP topology
 			
 	- Loop Guard:
-		- 
+		- What?
+			- Loop Guard prevents a blocked port from becoming unblocked unexpectedly. Thi
