@@ -51,4 +51,9 @@
 - STP states are used to ensure only one active path between switches and block redundant paths
 
 # Common STP Terms
-- BPDU (Bridge Protocol Data)
+- BPDU (Bridge Protocol Data Units):
+	- The frames used by STP to share topology information
+- Root Bridge:
+	- The switch with the lowest Bridge ID
+- Root Port (RP):
+	- 
