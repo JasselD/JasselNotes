@@ -60,4 +60,6 @@
 	
 - How does the DHCP lease process work?
 	- The **client** sends a **DHCP Discover** message, the **server** replies with a **DHCP Offer**, the **client** sends a **DHCP Request**, and the **server** responds with a **DHCP Acknowledgment** to finalize the lease.
-- What i
+	
+- What is the purpose of a DHCP pool?
+	- A **DHCP pool** is a range of **IP addresses** that the DHCP server uses to assign addresses to devices on the network.
