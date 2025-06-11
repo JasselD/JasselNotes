@@ -18,4 +18,6 @@
 	- Dynamic Host Configuration Protocol (DHCP) automatically assigns IP addresses to devices when they connect to the network. The DHCP server manages and assigns IP addresses from a pool of available addresses
 - Why?
 	- Automation:
-		- Devices automatically rece
+		- Devices automatically receive an IP address, subnet mask, and default gateway without manual configuration
+	- Scalability:
+		- Easier to manage IP addresses in larger networks, as DHCP dynamically assigns and renew addr
