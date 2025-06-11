@@ -6,4 +6,7 @@
 		- Why?
 			- The Root Port ensures that the switch has a path to the Root Bridge for forwarding traffic
 		- Example:
-			- If a switch has multiple paths to the Root Bridge, the Root Por
+			- If a switch has multiple paths to the Root Bridge, the Root Port is the one with the lowest cost (best path)
+	- Designated Port (DP):
+		- What?
+			- The port on a switch
