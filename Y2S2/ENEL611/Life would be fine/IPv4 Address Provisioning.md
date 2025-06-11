@@ -20,4 +20,7 @@
 	- Automation:
 		- Devices automatically receive an IP address, subnet mask, and default gateway without manual configuration
 	- Scalability:
-		- Easier to manage IP addresses in larger networks, as DHCP dynamically assigns and renew addr
+		- Easier to manage IP addresses in larger networks, as DHCP dynamically assigns and renew addresses
+	- IP Address Reuse:
+		- DHCP and recycle IP addresses when devices disconnect, making efficient use of the address pool
+	- 
