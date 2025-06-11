@@ -29,4 +29,4 @@
 		- What?
 			- DHCP Snooping is a security feature that acts as a filter for DHCP messages. It monitors DHCP traffic on the network and ensures that only trusted DHCP servers can provide IP addresses to clients
 		- How?
-			- 
+			- When enabled, DHCP Snooping ensures that only trusted ports (where DHCP servers are located) can send DHCP offers. 
