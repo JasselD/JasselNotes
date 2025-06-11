@@ -64,4 +64,9 @@
 ## QNA
 - What is DHCP Spoofing, and how does it affect the network?
 	-  **DHCP Spoofing** occurs when an attacker impersonates a DHCP server and sends false DHCP responses to clients. This can lead to clients receiving incorrect IP configurations, causing network disruptions or allowing attackers to intercept traffic.
-- What is DHCP 
+- What is DHCP Snooping, and how does it mitigate DHCP attacks?
+	-  **DHCP Snooping** is a security feature that prevents unauthorized DHCP servers from providing IP addresses to clients. It ensures only **trusted ports** (connected to authorized DHCP servers) can send DHCP offers.
+- How can DHCP Snooping help prevent DHCP Spoofing attacks?
+	- **DHCP Snooping** blocks DHCP responses from **untrusted ports** (ports connected to clients) and only allows **trusted ports** (where the DHCP server is located) to send DHCP offers, preventing **DHCP Spoofing**.
+- What is the purpose of the DHCP binding database?
+	- - - The **DHCP binding database** stores information about IP-to-MAC address mappings, VLANs, and DHCP leases. It is used to **verify** legitimate DHCP clients and ensure correct IP address assignments.
