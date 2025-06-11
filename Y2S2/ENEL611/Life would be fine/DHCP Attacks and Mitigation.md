@@ -11,4 +11,7 @@
 			- What?
 				- Rogue DHCP server is an unauthorized DHCP server that operates on the network. It can interface with the legitimate DHCP process, leading to incorrect IP assignments or network outages
 			- Why?
-				- Rogue servers can provide incorrect network configurations to cli
+				- Rogue servers can provide incorrect network configurations to clients or cause IP address conflicts
+		- DHCP Starvation:
+			- What?
+				- DHCP starvation attack, an attacker sends a large number of DHCP requests to exhaust the DHCP pool of available IP addresses. This causes legitimate
