@@ -11,10 +11,12 @@
             "id": "9c8a1d4577bc64f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "mk-space",
+              "state": {
+                "path": "/"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "JasselNotes"
             }
           }
         ]
@@ -174,6 +176,9 @@
   },
   "active": "81553d8019f86699",
   "lastOpenFiles": [
+    "Personal/Personal.md",
+    "School/Untitled.md",
+    "Personal",
     "Untitled.canvas",
     "2025-06-11.md",
     "Y2S2/ENEL611/Life would be fine/802.1Q Tagging & Native VLAN.md",
@@ -200,7 +205,6 @@
     "Y2S1/DSA revision/Linear Search.md",
     "Y2S1/DSA revision/LinkedLists.md",
     "Y2S1/DSA revision/*Sample questions.md",
-    "Y2S1/DSA revision/Balancing Binary Tree.md",
     "Y2S2/ENEL611/Life would be fine",
     "Untitled",
     "Revision",
@@ -219,7 +223,6 @@
     "Images/Pasted image 20250319232551.png",
     "Images/Pasted image 20250319232349.png",
     "Y2S2/ENEL611",
-    "Y2S2/COMP609/Notes",
-    "Y2S2/COMP609/Assignment 1"
+    "Y2S2/COMP609/Notes"
   ]
 }
