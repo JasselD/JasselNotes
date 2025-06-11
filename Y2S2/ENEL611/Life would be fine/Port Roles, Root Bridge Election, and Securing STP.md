@@ -51,4 +51,9 @@
 - Although STP is designed to prevent loops, it is vulnerable to certain attacks that can compromise network stability and security. How to secure STP:
 	- BDPU Guard:
 		- What?
-			- BDPU Guard disables ports that receive BDPUs (Bridge Protocol Data Units) from an unauthorized device, preventing rogue devices from becoming part of the STP
+			- BDPU Guard disables ports that receive BDPUs (Bridge Protocol Data Units) from an unauthorized device, preventing rogue devices from becoming part of the STP topology
+		- How?
+			- When BPDU Guard is enabled, if a BDPU is received on a port in PortFast mode, the port is shut down immediately
+	- Root Guard:
+		- What?
+			- Root Guard
