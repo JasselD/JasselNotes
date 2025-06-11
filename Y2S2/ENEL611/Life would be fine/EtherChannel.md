@@ -25,4 +25,9 @@
 		- EtherChannel can use LACP (open standard) or PAgP (Cisco proprietary) to negotiate link bundling
 
 ## EtherChannel Modes
-EtherChannel can op
+EtherChannel can operate in the following modes:
+- Active Mode (LACP):
+	- LACP (Link Aggregation Control Protocol)
+		- Open standard used for negotiating EtherChannel links
+	- Active mode
+		- Switch actively attempth
