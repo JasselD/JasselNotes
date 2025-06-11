@@ -67,4 +67,12 @@
 ## QNA
 - What is the main purpose of Spanning Tree Protocol (STP)
 	- The main purpose of STP is to **prevent network loops** in a redundant network topology and to ensure **only one active path** is used between switches, keeping the network **stable**.
-- What is the Root Bridge
+- What is the Root Bridge, and how is it elected in STP?
+	- The **Root Bridge** is the central reference point for the network. It is elected based on the **lowest Bridge ID** (which includes a **priority** and **MAC address**). The switch with the **lowest** Bridge ID becomes the Root Bridge.
+- What are the three main port roles in STP?
+	- **Root Port (RP)**: The port closest to the Root Bridge.
+    
+	- **Designated Port (DP)**: The port that forwards traffic for a network segment.
+    
+	- **Alternate Port**: The port that is **blocked** to prevent loops but can be used if the Root Port fails.
+- What is the differenc
