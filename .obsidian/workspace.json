@@ -8,188 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d84aae5d01878769",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2S1/DSA revision/Sorting algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sorting algorithms"
-            }
-          },
-          {
-            "id": "4e59513b47f0a0fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2S2/ENEL611/Switching Concepts/Learn and Forward Method.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Learn and Forward Method"
-            }
-          },
-          {
-            "id": "543466c6402ec966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2S2/ENEL611/Switching Concepts/Cut-Through.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cut-Through"
-            }
-          },
-          {
-            "id": "26929ddec4ea8c7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2S2/ENEL611/Switching Concepts/Collision Domains.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Collision Domains"
-            }
-          },
-          {
-            "id": "e2e2954d6c1c8e09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2S2/ENEL611/Switching Concepts/Broadcast Domains.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Broadcast Domains"
-            }
-          },
-          {
-            "id": "4ea56944d3bc94df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2S2/ENEL611/VLANs/VLAN Definition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VLAN Definition"
-            }
-          },
-          {
-            "id": "48d12e7427e6c512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2S2/ENEL611/VLANs/Voice VLAN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Voice VLAN"
-            }
-          },
-          {
-            "id": "5f4aab132bb72ed2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2S2/ENEL611/VLANs/VLAN Trunks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VLAN Trunks"
-            }
-          },
-          {
-            "id": "01a9ca84abcf9e89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2S2/ENEL611/VLANs/Network Without VLANs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Network Without VLANs"
-            }
-          },
-          {
-            "id": "ad249d88c2b4a5e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2S2/ENEL611/VLANs/Network With VLANs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Network With VLANs"
-            }
-          },
-          {
-            "id": "af61e207bdbfd73f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2S2/ENEL611/VLANs/Native VLANs and 802.1Q Tagging.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Native VLANs and 802.1Q Tagging"
-            }
-          },
-          {
-            "id": "be6d4eedbdbd1021",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revision/Common Spanning Tree Protocol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Common Spanning Tree Protocol"
-            }
-          },
-          {
-            "id": "fe74a820f64a40f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2S2/ENEL611/Life would be fine/802.1Q Tagging & Native VLAN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "802.1Q Tagging & Native VLAN"
-            }
-          },
-          {
             "id": "4841d79b8b660cca",
             "type": "leaf",
             "state": {
@@ -200,21 +18,8 @@
               "icon": "lucide-file",
               "title": "https://www.make.md/static/latest.md"
             }
-          },
-          {
-            "id": "e1f6e225d5f524b0",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Tags"
-              },
-              "icon": "lucide-file",
-              "title": "Tags"
-            }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -367,12 +172,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1f6e225d5f524b0",
+  "active": "81553d8019f86699",
   "lastOpenFiles": [
+    "2025-06-11.md",
+    "Y2S2/ENEL611/Life would be fine/802.1Q Tagging & Native VLAN.md",
+    "Revision/Common Spanning Tree Protocol.md",
+    "Y2S2/ENEL611/VLANs/Native VLANs and 802.1Q Tagging.md",
+    "Y2S2/ENEL611/VLANs/Network With VLANs.md",
+    "Y2S2/ENEL611/VLANs/Network Without VLANs.md",
+    "Y2S2/ENEL611/VLANs/VLAN Trunks.md",
+    "Y2S2/ENEL611/VLANs/Voice VLAN.md",
+    "Y2S2/ENEL611/VLANs/VLAN Definition.md",
+    "Y2S2/ENEL611/Switching Concepts/Broadcast Domains.md",
+    "Y2S2/ENEL611/Switching Concepts/Collision Domains.md",
+    "Y2S2/ENEL611/Switching Concepts/Cut-Through.md",
+    "Y2S2/ENEL611/Switching Concepts/Learn and Forward Method.md",
+    "Y2S1/DSA revision/Sorting algorithms.md",
     "README.md",
     "Fast Sort.md",
     "Tags",
-    "Y2S2/ENEL611/Life would be fine/802.1Q Tagging & Native VLAN.md",
     "Y2S2/ENEL611/Life would be fine/Switch Operations & MAC Table.md",
     "Y2S2/ENEL611/Life would be fine/VLANs.md",
     "Y2S2/ENEL611/Life would be fine/Controlling Access to Network Devices.md",
@@ -383,19 +201,7 @@
     "Y2S1/DSA revision/*Sample questions.md",
     "Y2S1/DSA revision/Balancing Binary Tree.md",
     "Y2S1/Bin Sort/Bucket Sort.md",
-    "Y2S1/DSA revision/Sorting algorithms.md",
-    "Y2S1/DSA revision/Focus.md",
     "Y2S2/ENEL611/Life would be fine",
-    "Y2S1/COMP603/Interface.md",
-    "Y2S1/COMP603/OOP.md",
-    "Y2S1/DSA revision/Doubly LinkedList.md",
-    "Y2S1/DSA revision/Traversal.md",
-    "Y2S1/DSA revision/Binary Search Tree.md",
-    "Y2S1/DSA revision/Heap Rules.md",
-    "Y2S1/DSA revision/Heap.md",
-    "Y2S1/DSA revision/Hashing function.md",
-    "Y2S1/DSA revision/Graph.md",
-    "Y2S1/DSA revision/Race condition.md",
     "Untitled",
     "Revision",
     "Images/Pasted image 20250428193201.png",
