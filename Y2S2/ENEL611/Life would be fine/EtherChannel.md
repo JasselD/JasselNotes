@@ -34,4 +34,8 @@ EtherChannel can operate in the following modes:
 		- Switch actively attempts to bundle links using LACP. It is the preferred mode for creating EtherChannel connections
 		
 - Passive Mode (LACP):
+	- Passive mode
+		- Switch will wait for an LACP request from the other side before forming an EtherChannel
+		
+- PAgp (Port Aggregation Protocol):
 	- 
