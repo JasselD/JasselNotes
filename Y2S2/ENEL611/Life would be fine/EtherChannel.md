@@ -16,4 +16,6 @@
 		
 - How?
 	- Link Aggregation:
-		- EtherChannel groups several physical links 
+		- EtherChannel groups several physical links (Ethernet ports) into one logical link. This is done using the LACP (Link Aggregation Control Protocol) or PAgP (Port Aggregation Protocol)
+	- Load Balancing:
+		- EtherChannel
