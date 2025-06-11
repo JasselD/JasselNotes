@@ -39,6 +39,12 @@ EtherChannel can operate in the following modes:
 		
 - PAgp (Port Aggregation Protocol):
 	- PAgp is a Cisco proprietary protocol used to create EtherChannel links
+	
 	- PAgP can operate in two modes:
 		- Desirable Mode:
-			- The switch actively attempts to form an EtherChanne
+			- The switch actively attempts to form an EtherChannel
+			
+		- Auto Mode:
+			- The switch waits for the other switch to initiate the formation of the EtherChannel
+
+# Configuring EtherChannel on a Cisco Switch
