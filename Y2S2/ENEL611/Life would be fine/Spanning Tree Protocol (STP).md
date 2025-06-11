@@ -25,4 +25,8 @@
 		- Listening:
 			- The switch listens to BDPUs (Bridge Protocol Data Units) to learn network topology changes
 		- Learning:
-			- The switch builds its MAC tab
+			- The switch builds its MAC table but does not forward frames yet
+		- Forwarding:
+			- The port forwards traffic and is part of the active forwarding path
+	- BPDUs (Bridge Protocol Data Units):
+		- 
