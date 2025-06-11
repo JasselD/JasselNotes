@@ -33,4 +33,5 @@
 		- BDPUs are special frames exchanged between switches to share topology information. They help in the Root Bridge election and are used to maintain the network's spanning tree structure
 
 # Root Bridge Election Process
-- Each switch sends out
+- Each switch sends out a BDPU with its Bridge ID (priority + MAC address). The switch with the lowest Bridge ID becomes the Root Bridge
+- 
