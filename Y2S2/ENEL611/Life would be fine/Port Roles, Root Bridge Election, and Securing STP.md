@@ -65,4 +65,6 @@
 			
 	- Loop Guard:
 		- What?
-			- Loop Guard prevents a blocked port from becoming unblocked unexpectedly. Thi
+			- Loop Guard prevents a blocked port from becoming unblocked unexpectedly. This protects againts forwarding loops of the network topology changes unexpectedly
+		- How?
+			- If the STP state of a port changes unexpectedly (e.g, from blocked to forwarding), Loop Guard will keep
