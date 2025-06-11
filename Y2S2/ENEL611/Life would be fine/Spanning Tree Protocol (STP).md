@@ -39,3 +39,5 @@
 		- MAC address (unique to each switch)
 
 # Port Roles and How They Are Chosen:
+- Root Port (RP):
+	- 
