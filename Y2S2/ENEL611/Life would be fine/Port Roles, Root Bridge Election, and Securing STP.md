@@ -25,4 +25,8 @@
 
 # Root Bridge Election Process
 - Root Bridge is the central switch in the STP topology. It serves as the reference points for all other switches. The Root Bridge Election process happens as follows:
-	- Initial Electi
+	- Initial Election:
+		- When STP starts, every switch assumes it is the Root Bridge and sends a BDPU (Bridge Protocol Data Unit) with its Bridge ID
+		
+	- The Bridge ID:
+		- 
