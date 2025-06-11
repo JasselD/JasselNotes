@@ -6,4 +6,7 @@
 	
 - Why?
 	- Increase Bandwdith:
-		- Instead of having a single 1Gbps link between switches, you can combine multiple links (e.g, 2x 1Gbps li)
+		- Instead of having a single 1Gbps link between switches, you can combine multiple links (e.g, 2x 1Gbps links) to create a 2Gbps link
+		
+	- Redundancy:
+		- If one physical link fails, the traffic will automatically be forwarded over the other active links, ensuring no discruption in service
