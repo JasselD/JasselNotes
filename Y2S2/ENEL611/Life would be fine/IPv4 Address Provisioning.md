@@ -53,4 +53,11 @@
 	- You can configure the lease time to determine how long an IP address will be assigned to a client before it must renew
 
 ## QNA
-- What is the difference nb
+- What is the difference between static and dynamic IP addressing?
+	- **Static IP addressing** requires **manual configuration** of an IP address on each device. The device always uses the same IP address.
+    
+	- **Dynamic IP addressing** uses **DHCP** to automatically assign IP addresses to devices when they connect to the network.
+	
+- How does the DHCP lease process work?
+	- The **client** sends a **DHCP Discover** message, the **server** replies with a **DHCP Offer**, the **client** sends a **DHCP Request**, and the **server** responds with a **DHCP Acknowledgment** to finalize the lease.
+- What i
