@@ -62,4 +62,9 @@
 - Alternate Port:
 	- The port that is blocked to prevent loops
 - Loop Prevention:
-	- Ensures ther
+	- Ensures there's only one active path between any two devices
+
+## QNA
+- What is the main purpose of Spanning Tree Protocol (STP)
+	- The main purpose of STP is to **prevent network loops** in a redundant network topology and to ensure **only one active path** is used between switches, keeping the network **stable**.
+- What is the Root Bridge
