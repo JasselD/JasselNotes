@@ -51,4 +51,6 @@ EtherChannel can operate in the following modes:
 - Increased Bandwidth:
 	- Combining multiple links increases the total bandwidth between switches
 - Redundancy:
-	- 
+	- If one physical link fails, the others continue to carry traffic, preventing network disruption
+- Simple Configuration:
+	- Instead of managing multiple individual links, EtherChannel simpl
