@@ -38,7 +38,8 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Y2S2"
+    "//Y2S2",
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

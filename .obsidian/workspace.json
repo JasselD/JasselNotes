@@ -207,10 +207,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "/"
+                "path": "Tags"
               },
               "icon": "lucide-file",
-              "title": "JasselNotes"
+              "title": "Tags"
             }
           }
         ],
