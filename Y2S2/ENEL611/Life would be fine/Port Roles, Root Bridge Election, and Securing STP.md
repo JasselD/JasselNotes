@@ -48,4 +48,7 @@
 	- Ports that block traffic to avoid loops but will be used if the Root Port fails
 
 # Securing STP to Prevent Attacks
-- Although STP is designed to prevent loops, it is vulnerable to certain attacks that can compromise network stability and security. How to sec
+- Although STP is designed to prevent loops, it is vulnerable to certain attacks that can compromise network stability and security. How to secure STP:
+	- BDPU Guard:
+		- What?
+			- BDPU Guard disables ports that receive BDPUs (Bridge Protocol Data Units) from an unauthorized device, preventing rogue devices from becoming part of the STP
