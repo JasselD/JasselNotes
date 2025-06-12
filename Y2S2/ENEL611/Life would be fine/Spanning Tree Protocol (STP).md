@@ -12,26 +12,33 @@
 		
 - How?
 	- Root Bridge Election:
-		- STP elects a Root Bridge, which is the central reference point for the network. This bridge is chosen based on the lowest Bridge ID (priority + MAC address)
+		- <mark style="background: #ABF7F7A6;">STP elects a Root Bridge</mark>, which is the central reference point for the network. This bridge is chosen based on the lowest Bridge ID (priority + MAC address)
 		- Why? The Root Bridge serves as the logical center of the network, and all switches calculate the best path to it
 		
 	- Port Roles:
 		- Once the Root Bridge is elected, each switch determines the role of each port relative to the Root Bridge. This port roles include:
 			- Root Port (RP):
 				- The port on a switch that has the shortest path to the Root Bridge
+				
 			- Designated Port (DP):
 				- The port on a switch that sends traffic towards the network segment. It is the forwarding port
+				
 			- Blocked/Alternative Port:
 				- Ports that are not forwarding traffic to prevent loops
+				
 	- STP States:
 		- Blocking:
 			- The port does not forward frames and is not part of the forwarding path
+			
 		- Listening:
 			- The switch listens to BDPUs (Bridge Protocol Data Units) to learn network topology changes
+			
 		- Learning:
 			- The switch builds its MAC table but does not forward frames yet
+			
 		- Forwarding:
 			- The port forwards traffic and is part of the active forwarding path
+			
 	- BPDUs (Bridge Protocol Data Units):
 		- BDPUs are special frames exchanged between switches to share topology information. They help in the Root Bridge election and are used to maintain the network's spanning tree structure
 
@@ -44,8 +51,10 @@
 # Port Roles and How They Are Chosen
 - Root Port (RP):
 	- The port closest to the Root Bridge. Each switch has only one Root Port
+	
 - Designated Port (DP):
 	- The port that forwards traffic for a particular network segment. Every segment has one Designated Port
+	
 - Alternate Port:
 	- The port that is blocked to prevent network loops. It is used in case the Root Port fails
 
