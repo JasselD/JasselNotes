@@ -54,18 +54,18 @@
 			- BDPU Guard <mark style="background: #ABF7F7A6;">disables ports</mark> that receive BDPUs (Bridge Protocol Data Units) from an <mark style="background: #ABF7F7A6;">unauthorized device</mark>, <mark style="background: #ABF7F7A6;">preventing rogue devices</mark> from becoming part of the STP topology
 			
 		- How?
-			- When BPDU Guard is enabled, if a BDPU is received on a port in <mark style="background: #ABF7F7A6;">PortFast mode</mark>, the port is shut down immediately
+			- When BPDU Guard is enabled, if a BDPU is received on a port in <mark style="background: #ABF7F7A6;">PortFast mode</mark>, the port is <mark style="background: #ABF7F7A6;">shut down immediately</mark>
 			
 	- Root Guard:
 		- What?
-			- Root Guard prevents a switch from becoming the Root Bridge by blocking any BDPUs with a lower priority or higher MAC address than the current Root Bridge
+			- Root Guard <mark style="background: #ABF7F7A6;">prevents a switch from becoming the Root Bridge</mark> by <mark style="background: #ABF7F7A6;">blocking any BDPUs</mark> with a <mark style="background: #ABF7F7A6;">lower priority or higher MAC address</mark> than the <mark style="background: #ABF7F7A6;">current Root Bridge</mark>
 			
 		- How?
-			- This prevents rogue switches from becoming the Root Bridge and disrupting the STP topology
+			- This <mark style="background: #ABF7F7A6;">prevents rogue switches</mark> from becoming the Root Bridge and disrupting the STP topology
 			
 	- Loop Guard:
 		- What?
-			- Loop Guard prevents a blocked port from becoming unblocked unexpectedly. This protects againts forwarding loops of the network topology changes unexpectedly
+			- Loop Guard <mark style="background: #ABF7F7A6;">prevents a blocked port</mark> from becoming <mark style="background: #ABF7F7A6;">unblocked unexpectedly</mark>. This protects againts <mark style="background: #ABF7F7A6;">forwarding loops</mark> of the network topology changes unexpectedly
 			
 		- How?
 			- If the STP state of a port changes unexpectedly (e.g, from blocked to forwarding), Loop Guard will keep it in a blocked state
