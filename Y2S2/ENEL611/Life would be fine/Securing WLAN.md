@@ -30,4 +30,6 @@
 		- Stronger than WPA and WEP because it uses AES encryption, which more resistant to attacks and offers better data protection
 	- WPA2 Personal vs. WPA2 Enterprise:
 		- WPA2 Personal:
-			- Uses a standard passph
+			- Uses a standard passphrase for authentication, making it suitable for home networks or small business setups
+		- WPA2 Enterprise:
+			- 
