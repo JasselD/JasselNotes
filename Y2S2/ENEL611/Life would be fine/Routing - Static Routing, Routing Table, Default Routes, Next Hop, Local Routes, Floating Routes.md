@@ -36,4 +36,8 @@
 
 # Local Routes
 - What?
-	- A local route is a route that is directly configured on the  router's interface. It is a route
+	- A local route is a route that is directly configured on the  router's interface. It is a route to the network that is directly connected to the router
+- How to view?
+	- Local routes can be viewed in the routing table used ther C (connected) code. They do not require static configuration because the router automatically knows about them
+
+/
