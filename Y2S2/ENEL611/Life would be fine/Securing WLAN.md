@@ -19,4 +19,6 @@
 	- What?
 		- WPA was introduced as an improvement to WEP. It uses TKIP (Temporal Key Integrity Protocol) for encryption, which is more secure than WEP's RC4 encryption
 	- Why use?
-		- WPA improved security by addressing some of WEP's vulnerabilities, but it still has weak
+		- WPA improved security by addressing some of WEP's vulnerabilities, but it still has weaknesses. TKIP is more secure but has been outdated compared to newer encryption methods
+	- When to use?
+		- WPA is considered obsolete as it is not recommended for new network. It can still be found in older devices but should be replaced with WPA2 
