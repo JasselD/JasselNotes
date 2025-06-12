@@ -12,4 +12,8 @@
 	- Control:
 		- You have full control over the routes and can fine-tune network traffic paths
 	- Security:
-		- Static routes are less susceptible to 
+		- Static routes are less susceptible to routing attacks (e.g, route poisoning) because no dynamic updates are received from other routers
+
+# Routing Table
+- What?
+	- Routing table cont
