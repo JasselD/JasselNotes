@@ -32,4 +32,6 @@
 		- WPA2 Personal:
 			- Uses a standard passphrase for authentication, making it suitable for home networks or small business setups
 		- WPA2 Enterprise:
-			- 
+			- Uses 802.1X authentication and RADIUS servers, making it more suitable for large networks with multiple users needing individual authentication
+	- When?
+		- WPA2 should be standard for most networks as it provides strong security with AE
