@@ -56,4 +56,7 @@
 
 # Authentication Methods: Personal vs. Enterprise
 - WPA2 Personal (PSK):
-	- 
+	- What?
+		- PSK (Pre-Shared Key) is the simpler authentication method where all devices share the same Wi-Fi password
+		- It is ideal for home networks and small businesses with a small number of devices
+	- Limitations of P
