@@ -67,4 +67,25 @@
 		- It is suited for large networks where individual authentication is required
 	- Benefits:
 		- Per-user authentication and encryption
-		- Easier to manage for large organizations as you can control access with user-specific
+		- Easier to manage for large organizations as you can control access with user-specific credentials
+
+## QNA
+- **What is the main difference between WPA2 Personal and WPA2 Enterprise?**
+    
+    - **WPA2 Personal** uses a **shared passphrase** for authentication (PSK), while **WPA2 Enterprise** uses **802.1X** authentication with a **RADIUS server**, providing **individualized user authentication**.
+        
+- **Why should you avoid using WEP in modern networks?**
+    
+    - **WEP** is **insecure** because it uses **weak encryption** and is vulnerable to **easy decryption**. It can be **cracked** quickly with modern tools, leaving networks open to **attacks**.
+        
+- **What is WPA3, and how does it improve upon WPA2?**
+    
+    - **WPA3** is the latest Wi-Fi security protocol, offering **stronger encryption**, **protection against offline dictionary attacks**, and **forward secrecy** to improve overall network security.
+        
+- **What is the advantage of using WPA2 Enterprise with 802.1X over WPA2 Personal?**
+    
+    - **WPA2 Enterprise** with **802.1X** provides **individualized authentication** and **stronger security** by using **unique credentials** for each user, compared to WPA2 Personal’s shared key.
+        
+- **Which Wi-Fi security protocol is the most secure and recommended for modern networks?**
+    
+    - **WPA3** is the **most secure** and **recommended** Wi-Fi security protocol for modern networks, offering the **best encryption** and protection against attacks.
