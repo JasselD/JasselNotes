@@ -59,4 +59,5 @@
 	- What?
 		- PSK (Pre-Shared Key) is the simpler authentication method where all devices share the same Wi-Fi password
 		- It is ideal for home networks and small businesses with a small number of devices
-	- Limitations of P
+	- Limitations of PSK:
+		- Security risks arise if the password is weak or compromised. It does not offer individualized authentication for users
