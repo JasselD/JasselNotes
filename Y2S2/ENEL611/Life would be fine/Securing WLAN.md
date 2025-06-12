@@ -18,20 +18,31 @@
 - WPA (Wi-Fi Protected Access):
 	- What?
 		- WPA was introduced as an improvement to WEP. It uses TKIP (Temporal Key Integrity Protocol) for encryption, which is more secure than WEP's RC4 encryption
+		
 	- Why use?
 		- WPA improved security by addressing some of WEP's vulnerabilities, but it still has weaknesses. TKIP is more secure but has been outdated compared to newer encryption methods
+		
 	- When to use?
 		- WPA is considered obsolete as it is not recommended for new network. It can still be found in older devices but should be replaced with WPA2 or WPA3 when possible
+		
 - WPA2 (Wi-Fi Protected Access 2):
 	- What?
 		- WPA2 uses AES (Advanced Encryption Standard) for encryption, which is much more secure than TKIP
+		
 		- WPA2 is widely used in modern Wi-Fi networks due to its strong security, offering both encryption and authentication
+		
 	- Why use?
 		- Stronger than WPA and WEP because it uses AES encryption, which more resistant to attacks and offers better data protection
+		
 	- WPA2 Personal vs. WPA2 Enterprise:
 		- WPA2 Personal:
 			- Uses a standard passphrase for authentication, making it suitable for home networks or small business setups
+			
 		- WPA2 Enterprise:
 			- Uses 802.1X authentication and RADIUS servers, making it more suitable for large networks with multiple users needing individual authentication
+			
 	- When?
-		- WPA2 should be standard for most networks as it provides strong security with AE
+		- WPA2 should be standard for most networks as it provides strong security with AES encryption
+		
+- WPA3 (Wi-Fi Protected Access 3):
+	- 
