@@ -61,5 +61,8 @@
 			- Some networks may prefer stateful configuration for consistency or because SLAAC doesn't provide other configuration options (like DNS)
 	- How?
 		- The client sends DHCPv6 Request message to the DHCP server
-		- The DHCP server responds with an 
+		- The DHCP server responds with an IPv6 address and other configuration details (like DNS servers)
+		- The client uses the provided IPv6 address to communicate on the network
+
+# IPv6 Stateless Address Autoconfiguration (SLAAC) vs Stateful DHCPv6
 
