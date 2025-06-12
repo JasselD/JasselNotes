@@ -64,17 +64,17 @@
 
 # Common STP Terms
 - BPDU (Bridge Protocol Data Units):
-	- The frames used by STP to share topology information
+	- The frames used by STP to share <mark style="background: #ABF7F7A6;">topology information</mark>
 - Root Bridge:
-	- The switch with the lowest Bridge ID
+	- The switch with the <mark style="background: #ABF7F7A6;">lowest Bridge ID</mark>
 - Root Port (RP):
-	- The port on a non-root bridge closest to the Root Bridge
+	- The port on a <mark style="background: #ABF7F7A6;">non-root bridge closest to the Root Bridge</mark>
 - Designated Port (DP):
-	- The port on switch that forwards traffic for a specific segment
+	- The port on switch that <mark style="background: #ABF7F7A6;">forwards traffic for a specific segment</mark>
 - Alternate Port:
-	- The port that is blocked to prevent loops
+	- The port that is <mark style="background: #ABF7F7A6;">blocked to prevent loops</mark>
 - Loop Prevention:
-	- Ensures there's only one active path between any two devices
+	- Ensures there's <mark style="background: #ABF7F7A6;">only one active path</mark> between any two devices
 
 ## QNA
 - What is the main purpose of Spanning Tree Protocol (STP)
