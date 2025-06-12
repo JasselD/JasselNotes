@@ -24,4 +24,6 @@
 		- WPA is considered obsolete as it is not recommended for new network. It can still be found in older devices but should be replaced with WPA2 or WPA3 when possible
 - WPA2 (Wi-Fi Protected Access 2):
 	- What?
-		- WPA 2
+		- WPA2 uses AES (Advanced Encryption Standard) for encryption, which is much more secure than TKIP
+		- WPA2 is widely used in modern Wi-Fi networks due to its strong security, offering both encryption and authentication
+	- Why
