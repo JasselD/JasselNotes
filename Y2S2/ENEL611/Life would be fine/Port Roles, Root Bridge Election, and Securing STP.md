@@ -42,19 +42,19 @@
 	- The port on the non--root switch that provides the <mark style="background: #ABF7F7A6;">best (lowest-cost) path</mark> to the Root Bridge
 	
 - Designated Port (DP):
-	- The port on each network segment that is selected to forward traffic for that segment
+	- The port on each network segment that is selected to <mark style="background: #ABF7F7A6;">forward traffic</mark> for that segment
 	
 - Alternate Port:
-	- Ports that block traffic to avoid loops but will be used if the Root Port fails
+	- Ports that <mark style="background: #ABF7F7A6;">block traffic to avoid loops</mark> but will be used if the <mark style="background: #ABF7F7A6;">Root Port fails</mark>
 
 # Securing STP to Prevent Attacks
 - Although STP is designed to prevent loops, it is vulnerable to certain attacks that can compromise network stability and security. How to secure STP:
 	- BDPU Guard:
 		- What?
-			- BDPU Guard disables ports that receive BDPUs (Bridge Protocol Data Units) from an unauthorized device, preventing rogue devices from becoming part of the STP topology
+			- BDPU Guard <mark style="background: #ABF7F7A6;">disables ports</mark> that receive BDPUs (Bridge Protocol Data Units) from an <mark style="background: #ABF7F7A6;">unauthorized device</mark>, <mark style="background: #ABF7F7A6;">preventing rogue devices</mark> from becoming part of the STP topology
 			
 		- How?
-			- When BPDU Guard is enabled, if a BDPU is received on a port in PortFast mode, the port is shut down immediately
+			- When BPDU Guard is enabled, if a BDPU is received on a port in <mark style="background: #ABF7F7A6;">PortFast mode</mark>, the port is shut down immediately
 			
 	- Root Guard:
 		- What?
