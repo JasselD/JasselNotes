@@ -20,4 +20,9 @@
 	- Each entry in the routing table consists of:
 		- Destination network
 		- Subnet network
-		- Next
+		- Next-hop IP address or exit interface
+		- Route source (whether the route was learned through static routing, dynamic routing, or directly connected)
+
+# Default Routes
+- What?
+	- Default route is used when the route does not know how to rea
