@@ -133,6 +133,8 @@ MAC Address Attacks
 		- Encrpytion:
 			- WEP (weak, outdated)
 			- WPA/WPA2 (Stronger security)
+[[Wireless LAN - Autonomous Access Points, Controller-based APs]]
+[[Sec]]
 
 **Routing: Static & Dynamic**
 - Static Routing

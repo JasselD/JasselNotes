@@ -5,12 +5,16 @@
 # Static Routing
 - What?
 	- Static Routing involves manually configuring routes on a router. The administrator specific the destination network and the next-hop IP address for exit interface to reach that network
+	
 	- Unlike dynamic routing, which uses protocols like OSPF or EIGRP to automatically learn routes, static routing requires manual configuration and is fixed unless modified
+	
 - Why?
 	- Simplicity:
 		- Static routes are easy to configure and do not require complex protocols
+		
 	- Control:
 		- You have full control over the routes and can fine-tune network traffic paths
+		
 	- Security:
 		- Static routes are less susceptible to routing attacks (e.g, route poisoning) because no dynamic updates are received from other routers
 
@@ -51,3 +55,12 @@
 	
 - Why?
 	- Floating routes are useful for backup routes that are only used when the primary route is unavailable. This provides redundancy and fault tolerance in a network
+
+## QNA
+- **What is the difference between a default route and a floating route?**
+    
+    - A **default route** is a **catch-all route** used when no specific route matches the destination. A **floating route** is a **backup route** with a higher **administrative distance** that is only used if the primary route fails.
+        
+- **What is the purpose of the "next hop" in static routing?**
+    
+    - The **next hop** is the **next router** or device where packets should be forwarded in order to reach their final destination.
