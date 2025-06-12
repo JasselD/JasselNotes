@@ -27,4 +27,5 @@
 	- Centralized Management:
 		- Configuration and management of all APs are handled centrally through the WLC, making it easier to configure, monitor, and troubleshoot the network
 - How?
-	- The controller communicates with E
+	- The controller communicates with each AP, pushing configuration settings like SSID settings, security policies, and firmware updates
+	- Each AP is dependent on the controller for configuration, which
