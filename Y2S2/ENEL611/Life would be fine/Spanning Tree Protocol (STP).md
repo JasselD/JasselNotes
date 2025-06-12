@@ -12,15 +12,15 @@
 		
 - How?
 	- Root Bridge Election:
-		- <mark style="background: #ABF7F7A6;">STP elects a Root Bridge</mark>, which is the central reference point for the network. This bridge is chosen based on the lowest Bridge ID (priority + MAC address)
-		- Why? The Root Bridge serves as the logical center of the network, and all switches calculate the best path to it
+		- <mark style="background: #ABF7F7A6;">STP elects a Root Bridge</mark>, which is the <mark style="background: #ABF7F7A6;">central reference point for the network</mark>. This bridge is chosen based on the <mark style="background: #ABF7F7A6;">lowest Bridge ID (priority + MAC address)</mark>
+		- Why? The Root Bridge serves as the <mark style="background: #ABF7F7A6;">logical center of the network</mark>, and all switches calculate the <mark style="background: #ABF7F7A6;">best path</mark> to it
 		
 	- Port Roles:
 		- Once the Root Bridge is elected, each switch determines the role of each port relative to the Root Bridge. This port roles include:
-			- Root Port (RP):
+			- <mark style="background: #ABF7F7A6;">Root Port (RP)</mark>:
 				- The port on a switch that has the shortest path to the Root Bridge
 				
-			- Designated Port (DP):
+			- <mark style="background: #ABF7F7A6;">Designated Port (DP)</mark>:
 				- The port on a switch that sends traffic towards the network segment. It is the forwarding port
 				
 			- Blocked/Alternative Port:
