@@ -23,4 +23,6 @@
 ## IPv6 Addresses Assigned
 - Stateless Address Autoconfiguration (SLAAC):
 	- What?
-		- 
+		- SLAAC allows devices to automatically configure their own IPv6 address without needing a DHCP server. The device generates its own address based on its MAC address and the network prefix advertised by the router
+	- Why?
+		- Autonomous:
