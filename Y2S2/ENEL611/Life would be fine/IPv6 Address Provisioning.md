@@ -32,4 +32,7 @@
 	- How?
 		- The device sends a Router Solicitation (RS) message to find routers
 		- The router responds with a Router Advertisement (RA) message, which includes the prefix (network portion of the IPv6 address) and other configuration information
-		- The device generates its IPv6 address using the prefix from the RA and combines it with a unique identifi
+		- The device generates its IPv6 address using the prefix from the RA and combines it with a unique identifier (based on the device's MAC address)
+	- SLACC Example:
+		- The router advertises the prefix 2001::0db8:85a3::/64 via Ra
+		- The device generates an address like 
