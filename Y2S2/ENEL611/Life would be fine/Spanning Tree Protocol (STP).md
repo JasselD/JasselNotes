@@ -5,13 +5,16 @@
 	- STP ensures there is only <mark style="background: #ABF7F7A6;">one active path</mark> between any two devices in a network, <mark style="background: #ABF7F7A6;">blocking the redundant paths to avoid loops</mark>
 - Why?
 	- Loop Prevention:
-		- Without STP, switches would broadcast traffic to all ports. When loops exist, the traffic gets duplicated, causing the network to become unresponsive
+		- Without STP, switches would <mark style="background: #ABF7F7A6;">broadcast traffic to all ports</mark>. When loops exist, the traffic gets <mark style="background: #ABF7F7A6;">duplicated</mark>, causing the network to become <mark style="background: #ABF7F7A6;">unresponsive</mark>
+		
 	- Redundancy:
-		- STP allows network redundancy. If one link fails, STP automatically activates a backup path, keeping the network stable and available
+		- STP allows <mark style="background: #ABF7F7A6;">network redundancy</mark>. If one link fails, STP automatically activates a <mark style="background: #ABF7F7A6;">backup path</mark>, keeping the network stable and available
+		
 - How?
 	- Root Bridge Election:
 		- STP elects a Root Bridge, which is the central reference point for the network. This bridge is chosen based on the lowest Bridge ID (priority + MAC address)
 		- Why? The Root Bridge serves as the logical center of the network, and all switches calculate the best path to it
+		
 	- Port Roles:
 		- Once the Root Bridge is elected, each switch determines the role of each port relative to the Root Bridge. This port roles include:
 			- Root Port (RP):
