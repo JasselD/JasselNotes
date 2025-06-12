@@ -6,17 +6,24 @@
 ## IPv6 Address Types
 - Global Unicast Address (GUA):
 	- GUAs are globally routable on the internet
+	
 	- Example:
 		- 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+		
 - Link-Local Addres:
 	- Link-local addresses are only valid within a single network segment (i.e, not routable beyond the local link)
+	
 	- Start with prefix FE80::/10
+	
 	- Example:
 		- fe80::a2c8:1e56:adfe:25b6
+		
 - Multicast Address:
 	- Multicast addresses are used to send data to a group of devices on the network
+	
 	- Example:
 		- ff02::1 (all nodes on the local link)
+		
 - Anycast Address:
 	- Anycast addresses are assigned to multiple devices, and the packet is delivered to the nearest device (in terms of routing distance)
 
@@ -24,15 +31,23 @@
 - Stateless Address Autoconfiguration (SLAAC):
 	- What?
 		- SLAAC allows devices to automatically configure their own IPv6 address without needing a DHCP server. The device generates its own address based on its MAC address and the network prefix advertised by the router
+		
 	- Why?
 		- Autonomous:
 			- Devices can configure themselves without manual intervention or a DHCP server
+			
 		- Simplifies network:
 			- Devices can communicate as soon as they receive Router Advertisements (RAs) from a router
+			
 	- How?
 		- The device sends a Router Solicitation (RS) message to find routers
+		
 		- The router responds with a Router Advertisement (RA) message, which includes the prefix (network portion of the IPv6 address) and other configuration information
+		
 		- The device generates its IPv6 address using the prefix from the RA and combines it with a unique identifier (based on the device's MAC address)
+		
 	- SLACC Example:
 		- The router advertises the prefix 2001::0db8:85a3::/64 via Ra
-		- The device generates an address like 
+		
+		- The device generates an address like 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+
