@@ -53,5 +53,10 @@
 		
 - Stateful DHCPv6:
 	- What?
-		- Stateful DHCPv6 works similarly to DHCPv5, where a DHCPv6 server assign
+		- Stateful DHCPv6 works similarly to DHCPv5, where a DHCPv6 server assigns IPv6 addresses to devices. The DHCP server keeps track of which addresses have been assigned and to which devices
+	- Why?
+		- Centralized management:
+			- Network administrators have full control over address allocation
+		- No reliance on SLAAC:
+			- Some networks may prefe
 
