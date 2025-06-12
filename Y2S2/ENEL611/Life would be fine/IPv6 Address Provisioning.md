@@ -15,4 +15,7 @@
 		- fe80::a2c8:1e56:adfe:25b6
 - Multicast Address:
 	- Multicast addresses are used to send data to a group of devices on the network
-	- Ex
+	- Example:
+		- ff02::1 (all nodes on the local link)
+- Anycast Address:
+	- Anycast addresses are assigned to multiple devices, and the packet is delivered to the nearest device (in terms of routing )
