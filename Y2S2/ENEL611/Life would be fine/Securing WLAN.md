@@ -53,3 +53,7 @@
 		- It also introduces forward secrecy, ensuring that if a device's encryption key is compromised, past communicationsc cannot be decrypted
 	- When to use?
 		- WPA3 is recommended for newer networks and devices as it provides is the best available protection for wireless communication
+
+# Authentication Methods: Personal vs. Enterprise
+- WPA2 Personal (PSK):
+	- 
