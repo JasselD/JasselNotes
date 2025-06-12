@@ -16,4 +16,8 @@
 
 # Routing Table
 - What?
-	- Routing table cont
+	- Routing table contains all the routes that a router knows about, either through static routes, dynamic routing protocols, or directly connected networks
+	- Each entry in the routing table consists of:
+		- Destination network
+		- Subnet network
+		- Next
