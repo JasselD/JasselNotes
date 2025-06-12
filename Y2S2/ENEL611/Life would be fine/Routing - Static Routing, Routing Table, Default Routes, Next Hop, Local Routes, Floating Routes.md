@@ -40,4 +40,7 @@
 - How to view?
 	- Local routes can be viewed in the routing table used ther C (connected) code. They do not require static configuration because the router automatically knows about them
 
-/
+# Floating Routes
+- What?
+	- A floating route is a backup route that is configured with a higher administrative distance (AD) than the primary route. The route will only be used if the primary route fails
+	- The administrative distance defines the truthworh
