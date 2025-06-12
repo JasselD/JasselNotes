@@ -31,4 +31,5 @@
 			- Devices can communicate as soon as they receive Router Advertisements (RAs) from a router
 	- How?
 		- The device sends a Router Solicitation (RS) message to find routers
-		- The router responds
+		- The router responds with a Router Advertisement (RA) message, which includes the prefix (network portion of the IPv6 address) and other configuration information
+		- The device generates its IPv6 address using the prefix from the RA and combines it with a unique identifi
