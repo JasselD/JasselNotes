@@ -10,15 +10,15 @@
 			
 	- Designated Port (DP):
 		- What?
-			- The port on a switch that <mark style="background: #ABF7F7A6;">forwards traffic for a given network segment (VLAN)</mark>. It is the forwarding port on each segment
+			- The port on a switch that <mark style="background: #ABF7F7A6;">forwards traffic for a given network segment (VLAN)</mark>. It is the <mark style="background: #ABF7F7A6;">forwarding port on each segment</mark>
 		- Why?
-			- The Designated Port is responsible for sending data towards other switches and devices on that segment
+			- The Designated Port is responsible for <mark style="background: #ABF7F7A6;">sending data towards other switches and devices on that segment</mark>
 		- Example:
-			- For each network segment (ie., a cable or switch port), there is only one Designated Port to avoid conflicts
+			- For each network segment (ie., a cable or switch port), there is <mark style="background: #ABF7F7A6;">only one Designated Port to avoid conflicts</mark>
 			
 	- Blocked/Alternate Port:
 		- What?
-			- Ports that are not forwarding traffic to prevent network loops. These are backup paths will be used if the Root Port fails
+			- Ports that are <mark style="background: #ABF7F7A6;">not forwarding traffic</mark> to <mark style="background: #ABF7F7A6;">prevent network loops</mark>. These are <mark style="background: #ABF7F7A6;">backup paths</mark> will be used if the <mark style="background: #ABF7F7A6;">Root Port fails</mark>
 			
 		- Why?
 			- To prevent redundant paths from causing loops in the network
