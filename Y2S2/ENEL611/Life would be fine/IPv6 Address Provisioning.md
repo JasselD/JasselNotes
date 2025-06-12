@@ -26,3 +26,8 @@
 		- SLAAC allows devices to automatically configure their own IPv6 address without needing a DHCP server. The device generates its own address based on its MAC address and the network prefix advertised by the router
 	- Why?
 		- Autonomous:
+			- Devices can configure themselves without manual intervention or a DHCP server
+		- Simplifies network:
+			- Devices can communicate as soon as they receive Router Advertisements (RAs) from a router
+	- How?
+		- S
