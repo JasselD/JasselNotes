@@ -64,3 +64,7 @@
 - WPA2 Enterprise (802.1X Authentication):
 	- What?
 		- WPA2 Enterprise uses 802.1X authentication with a RADIUS server. Each user has their own unique credentials, making it much more secure than WPA2 Personal
+		- It is suited for large networks where individual authentication is required
+	- Benefits:
+		- Per-user authentication and encryption
+		- Easier to manage for large organizations as you can control access with user-specific
