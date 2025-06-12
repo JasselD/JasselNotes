@@ -61,3 +61,6 @@
 		- It is ideal for home networks and small businesses with a small number of devices
 	- Limitations of PSK:
 		- Security risks arise if the password is weak or compromised. It does not offer individualized authentication for users
+- WPA2 Enterprise (802.1X Authentication):
+	- What?
+		- WPA2 Enterprise uses 802.1X authentication with a RADIUS server. Each user has their own unique credentials, making it much more secure than WPA2 Personal
