@@ -31,15 +31,15 @@
 		- Default priority is <mark style="background: #ABF7F7A6;">32768</mark>, and the MAC address is unique to each switch
 		
 	- Choosing the Root Bridge:
-		- The switch with the lowest Bridge ID (priority + MAC address) is elected as the Root Bridge
-		- The Root Bridge does not have a Root Port (because it si the topmost bridge), but all other switches' Root Ports will point to the Root Bridge
+		- The switch with the <mark style="background: #ABF7F7A6;">lowest Bridge ID (priority + MAC address)</mark> is elected as the Root Bridge
+		- The Root Bridge <mark style="background: #ABF7F7A6;">does not have a Root Port</mark> (because it is the <mark style="background: #ABF7F7A6;">topmost bridge</mark>), but all other switches' Root Ports will point to the Root Bridge
 		
 	- Re-election:
-		- If the Root Bridge fails, the election process is repeated, and a new Root Bridge is selected based on the lowest Bridge ID
+		- If the Root Bridge fails, the <mark style="background: #ABF7F7A6;">election process is repeated</mark>, and a new Root Bridge is selected based on the <mark style="background: #ABF7F7A6;">lowest Bridge ID</mark>
 
 ## How Port Roles Are Determined
 - Root Port (RP):
-	- The port on the non--root switch that provides the best (lowest-cost) path to the Root Bridge
+	- The port on the non--root switch that provides the <mark style="background: #ABF7F7A6;">best (lowest-cost) path</mark> to the Root Bridge
 	
 - Designated Port (DP):
 	- The port on each network segment that is selected to forward traffic for that segment
