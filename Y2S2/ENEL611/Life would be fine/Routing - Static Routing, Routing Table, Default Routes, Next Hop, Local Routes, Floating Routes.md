@@ -32,4 +32,8 @@
 
 # Next Hop
 - What?
-	- The next hop is the next router or device that a packet must pass through to reach its final destination. In static routing, the next hop is specified
+	- The next hop is the next router or device that a packet must pass through to reach its final destination. In static routing, the next hop is specified as the next hop IP address
+
+# Local Routes
+- What?
+	- A local route is a route that is directly configured on the  router's interface. It is a route
