@@ -45,4 +45,7 @@
 
 ## Choosing Between Autonomous and Controller-based APs
 - Autonomous APs
-	- Suitable for small to medium-sized networks with a limited number o
+	- Suitable for small to medium-sized networks with a limited number of devices and APs
+	- Offer lower initial cost but may require more manual management as the network grows
+- Controller-based APs
+	- More suited for large-scale networks, where centralized management, seamless roaming, and scalability are
