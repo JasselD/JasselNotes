@@ -43,3 +43,6 @@
 	- Load Balancing:
 		- The controller can balance the load between multiple APs, ensuring optimal network performance
 
+## Choosing Between Autonomous and Controller-based APs
+- Autonomous APs
+	- Suitable for small to medium-sized networks with a limited number o
