@@ -17,4 +17,6 @@
 		
 - WPA (Wi-Fi Protected Access):
 	- What?
-		- WPA was introduced as an improvement to WEP. 
+		- WPA was introduced as an improvement to WEP. It uses TKIP (Temporal Key Integrity Protocol) for encryption, which is more secure than WEP's RC4 encryption
+	- Why use?
+		- WPA improved security by addressing some of WEP's vulnerabilities, but it still has weak
