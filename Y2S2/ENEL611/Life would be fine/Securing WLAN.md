@@ -6,4 +6,6 @@
 - WEP (Wired Equivalent Privacy):
 	- What?
 		- WEP is one of the earliest Wi-Fi security protocols and was designed to provide a level of security equivalent to what a wired network would have
-		- It uses RC4 encryptoin to encrypt data, but WEP has several weaknesses, including 
+		- It uses RC4 encryptoin to encrypt data, but WEP has several weaknesses, including short encryption keys and poor implementation, making it insecure by modern standards
+	- Why avoid?
+		- WEP is easilt cracked due to weak encryption and is considered obsolete. It is vulnerable to brute-force attacks and ket reuse attacks
