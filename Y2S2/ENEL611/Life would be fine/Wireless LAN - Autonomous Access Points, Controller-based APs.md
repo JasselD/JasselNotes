@@ -18,4 +18,7 @@
 	
 	- They can support multiple SSIDs and VLANs
 
-# Controller-based Access Points (Controller-)
+# Controller-based Access Points (Controller-managed APs)
+- What?
+	- Controller-based APs are managed by a central controller (called a Wireless LAN Controller or WLC). This allows centralized management of all APs in the network
+- Why?
