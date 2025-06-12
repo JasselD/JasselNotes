@@ -43,4 +43,6 @@
 # Floating Routes
 - What?
 	- A floating route is a backup route that is configured with a higher administrative distance (AD) than the primary route. The route will only be used if the primary route fails
-	- The administrative distance defines the truthworh
+	- The administrative distance defines the truthworthiness of a route. Lower values are more trusted (eg., directly connected routes have an AD of 0, while static routes have an AD of 1)
+- Why?
+	- Floating
