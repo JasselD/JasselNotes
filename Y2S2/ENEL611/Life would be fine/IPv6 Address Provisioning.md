@@ -6,4 +6,7 @@
 ## IPv6 Address Types
 - Global Unicast Address (GUA):
 	- GUAs are globally routable on the internet
-	- Exmapl
+	- Example:
+		- 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+- Link-Local Addres:
+	- Link-local addresses are only valid within a single network segment (i.e, not routable beyond the local link)
