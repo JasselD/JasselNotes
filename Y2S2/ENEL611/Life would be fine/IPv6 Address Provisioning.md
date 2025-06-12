@@ -54,14 +54,19 @@
 - Stateful DHCPv6:
 	- What?
 		- Stateful DHCPv6 works similarly to DHCPv5, where a DHCPv6 server assigns IPv6 addresses to devices. The DHCP server keeps track of which addresses have been assigned and to which devices
+		
 	- Why?
 		- Centralized management:
 			- Network administrators have full control over address allocation
+			
 		- No reliance on SLAAC:
 			- Some networks may prefer stateful configuration for consistency or because SLAAC doesn't provide other configuration options (like DNS)
+			
 	- How?
 		- The client sends DHCPv6 Request message to the DHCP server
+		
 		- The DHCP server responds with an IPv6 address and other configuration details (like DNS servers)
+		
 		- The client uses the provided IPv6 address to communicate on the network
 
 # IPv6 Stateless Address Autoconfiguration (SLAAC) vs Stateful DHCPv6
@@ -71,10 +76,25 @@
 			- No need for DHCP server, simpler configuration
 		- Cons:
 			- Limited to address configuration; does not provide DNS or other settings
+			
 - Stateful DHCPv6:
 	- A DHCP server provides the address and configuration (including DNS and more)
 		- Pros:
 			- Full control over the addressing and configuration process
 		- Cons:
-			- Requires a DHCPv6 serv
+			- Requires a DHCPv6 server
 
+## QNA
+- **What is the difference between SLAAC and Stateful DHCPv6?**
+    
+    - **SLAAC** allows devices to **automatically configure** their own **IPv6 address** using the prefix advertised by a router. **Stateful DHCPv6** requires a **DHCP server** to assign an IPv6 address to the device.
+        
+- **What are the benefits of using SLAAC in an IPv6 network?**
+    
+    - **Simplicity**: Devices can **self-configure** without requiring a DHCP server.
+        
+    - **Autonomy**: Devices generate their own **IPv6 address** based on the router's advertised prefix.
+        
+- **How does SLAAC work to assign an IPv6 address to a device?**
+    
+    - The device listens for a **Router Advertisement (RA)**, uses the **prefix** in the RA, and appends its own **unique identifier** (often derived from its MAC address) to form the **full IPv6 address**.
