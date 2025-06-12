@@ -30,4 +30,5 @@
 		- Simplifies network:
 			- Devices can communicate as soon as they receive Router Advertisements (RAs) from a router
 	- How?
-		- S
+		- The device sends a Router Solicitation (RS) message to find routers
+		- The router responds
