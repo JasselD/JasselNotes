@@ -21,4 +21,7 @@
 	- Why use?
 		- WPA improved security by addressing some of WEP's vulnerabilities, but it still has weaknesses. TKIP is more secure but has been outdated compared to newer encryption methods
 	- When to use?
-		- WPA is considered obsolete as it is not recommended for new network. It can still be found in older devices but should be replaced with WPA2 
+		- WPA is considered obsolete as it is not recommended for new network. It can still be found in older devices but should be replaced with WPA2 or WPA3 when possible
+- WPA2 (Wi-Fi Protected Access 2):
+	- What?
+		- WPA 2
