@@ -1,8 +1,8 @@
 # STP
 - What?
 	- Layer 2 protocol used to <mark style="background: #ABF7F7A6;">prevent loops in a network with redundant paths</mark>
-	- Loops occur when multiple network path exist between switches, and without STP, frames could circulate endlessly, causing a broadcast storm and network congestion
-	- STP ensures there is only one active path between any two devices in a network, blocking the redundant paths to avoid loops
+	- Loops occur when <mark style="background: #ABF7F7A6;">multiple network path exist between switches</mark>, and without STP, frames could <mark style="background: #ABF7F7A6;">circulate endlessly</mark>, causing a <mark style="background: #ABF7F7A6;">broadcast storm</mark> and <mark style="background: #ABF7F7A6;">network congestion</mark>
+	- STP ensures there is only <mark style="background: #ABF7F7A6;">one active path</mark> between any two devices in a network, <mark style="background: #ABF7F7A6;">blocking the redundant paths to avoid loops</mark>
 - Why?
 	- Loop Prevention:
 		- Without STP, switches would broadcast traffic to all ports. When loops exist, the traffic gets duplicated, causing the network to become unresponsive
