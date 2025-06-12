@@ -24,8 +24,15 @@
 - Why?
 	- Scalable Networks:
 		- Ideal for large networks where managing each AP individually would be impractical. Controller-based systems allow for easier deployment and management of multiple APs
+		
 	- Centralized Management:
 		- Configuration and management of all APs are handled centrally through the WLC, making it easier to configure, monitor, and troubleshoot the network
+		
 - How?
 	- The controller communicates with each AP, pushing configuration settings like SSID settings, security policies, and firmware updates
-	- Each AP is dependent on the controller for configuration, which
+	
+	- Each AP is dependent on the controller for configuration, which simplifies the deployment and management process
+	
+- Benefits:
+	- Seamless Roaming:
+		- 
