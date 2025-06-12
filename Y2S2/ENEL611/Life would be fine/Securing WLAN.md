@@ -11,7 +11,10 @@
 		
 	- Why avoid?
 		- WEP is easilt cracked due to weak encryption and is considered obsolete. It is vulnerable to brute-force attacks and ket reuse attacks
+		
 	- When to use?
 		- WEP should only be used in legacy systems where updating the security protocol is not an option
+		
 - WPA (Wi-Fi Protected Access):
-	- 
+	- What?
+		- WPA was introduced as an improvement to WEP. 
