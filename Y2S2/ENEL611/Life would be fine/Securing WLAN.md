@@ -45,4 +45,5 @@
 		- WPA2 should be standard for most networks as it provides strong security with AES encryption
 		
 - WPA3 (Wi-Fi Protected Access 3):
-	- 
+	- What?
+		- WPA3 is the latest Wi-Fi security standard, designed to provide even stronger encryption and protection against various at
