@@ -26,9 +26,9 @@
 ## Root Bridge Election Process
 - Root Bridge is the central switch in the STP topology. It serves as the reference points for all other switches. The Root Bridge Election process happens as follows:
 	- Initial Election:
-		- When STP starts, every switch assumes it is the Root Bridge and sends a BDPU (Bridge Protocol Data Unit) with its Bridge ID
-		- The Bridge ID consists of the priority value and MAC address of the switch
-		- Default priority is 32768, and the MAC address is unique to each switch
+		- When STP starts, every switch <mark style="background: #ABF7F7A6;">assumes</mark> it is the Root Bridge and sends a <mark style="background: #ABF7F7A6;">BDPU (Bridge Protocol Data Unit) with its Bridge ID</mark>
+		- The Bridge ID consists of the <mark style="background: #ABF7F7A6;">priority value</mark> and <mark style="background: #ABF7F7A6;">MAC address</mark> of the switch
+		- Default priority is <mark style="background: #ABF7F7A6;">32768</mark>, and the MAC address is unique to each switch
 		
 	- Choosing the Root Bridge:
 		- The switch with the lowest Bridge ID (priority + MAC address) is elected as the Root Bridge
