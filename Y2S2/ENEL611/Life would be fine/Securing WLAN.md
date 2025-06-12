@@ -26,4 +26,8 @@
 	- What?
 		- WPA2 uses AES (Advanced Encryption Standard) for encryption, which is much more secure than TKIP
 		- WPA2 is widely used in modern Wi-Fi networks due to its strong security, offering both encryption and authentication
-	- Why
+	- Why use?
+		- Stronger than WPA and WEP because it uses AES encryption, which more resistant to attacks and offers better data protection
+	- WPA2 Personal vs. WPA2 Enterprise:
+		- WPA2 Personal:
+			- Uses a standard passph
