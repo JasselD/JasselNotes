@@ -46,6 +46,31 @@
 ## Choosing Between Autonomous and Controller-based APs
 - Autonomous APs
 	- Suitable for small to medium-sized networks with a limited number of devices and APs
+	
 	- Offer lower initial cost but may require more manual management as the network grows
+	
 - Controller-based APs
-	- More suited for large-scale networks, where centralized management, seamless roaming, and scalability are
+	- More suited for large-scale networks, where centralized management, seamless roaming, and scalability are critical
+	
+	- Require additional infrastructure (WLC) but provide better manageability in the long run
+
+## QNA
+- **What is the main difference between Autonomous APs and Controller-based APs?**
+    
+    - **Autonomous APs** are standalone devices that are **individually managed**, while **Controller-based APs** are managed by a **central Wireless LAN Controller (WLC)**, allowing **centralized management** of the network.
+        
+- **Why would you choose Autonomous APs for a network?**
+    
+    - **Autonomous APs** are ideal for **small to medium-sized networks** where **manual configuration** is feasible and there is no need for centralized management.
+        
+- **How do Controller-based APs provide seamless roaming?**
+    
+    - Controller-based APs enable **seamless roaming** by allowing the **controller** to manage the handoff process between APs as users move around the network. The controller ensures that the device stays connected without dropping the connection.
+        
+- **What are the advantages of using Controller-based APs in a large network?**
+    
+    - **Controller-based APs** provide **centralized management**, **easier scalability**, **seamless roaming**, **consistent security policies**, and **automatic firmware updates**, making them ideal for large networks.
+        
+- **How are security settings handled in Autonomous APs compared to Controller-based APs?**
+    
+    - **Autonomous APs** require **individual configuration** of security settings on each AP. In **Controller-based APs**, security settings are **configured centrally** through the WLC and applied to all APs in the network.
