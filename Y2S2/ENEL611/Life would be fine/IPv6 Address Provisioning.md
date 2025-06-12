@@ -50,4 +50,8 @@
 		- The router advertises the prefix 2001::0db8:85a3::/64 via Ra
 		
 		- The device generates an address like 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+		
+- Stateful DHCPv6:
+	- What?
+		- Stateful DHCPv6 works similarly to DHCPv5, where a DHCPv6 server assign
 
