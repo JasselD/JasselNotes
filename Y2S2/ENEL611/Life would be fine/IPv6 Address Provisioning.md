@@ -98,3 +98,7 @@
 - **How does SLAAC work to assign an IPv6 address to a device?**
     
     - The device listens for a **Router Advertisement (RA)**, uses the **prefix** in the RA, and appends its own **unique identifier** (often derived from its MAC address) to form the **full IPv6 address**.
+    
+- **What is the purpose of the "ipv6 dhcp pool" command in DHCPv6 configuration?**
+
+	- The **"ipv6 dhcp pool"** command is used to define the **range of IPv6 addresses** that the router can assign to clients via **DHCPv6**.
