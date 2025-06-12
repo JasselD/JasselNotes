@@ -1,16 +1,16 @@
 # Port Roles in STP
-- STP assigns <mark style="background: #ABF7F7A6;">different roles to the switch ports</mark> depending on <mark style="background: #ABF7F7A6;">their position in the network topology</mark>. These roles determine whether the port will be used for forwarding traffic, blocking traffic, or acting as a backup
+- STP assigns <mark style="background: #ABF7F7A6;">different roles to the switch ports</mark> depending on <mark style="background: #ABF7F7A6;">their position in the network topology</mark>. These roles determine whether the port will be used for <mark style="background: #ABF7F7A6;">forwarding traffic, blocking traffic, or acting as a backup</mark>
 	- Root Port (RP):
 		- What?
-			- The port on a non-root bridge that is closest to the Root Bridge. It is the port that receives the best path to the Root Bridge
+			- The port on a non-root bridge that is <mark style="background: #ABF7F7A6;">closest to the Root Bridge</mark>. It is the port that <mark style="background: #ABF7F7A6;">receives the best path</mark> to the Root Bridge
 		- Why?
-			- The Root Port ensures that the switch has a path to the Root Bridge for forwarding traffic
+			- The Root Port ensures that the <mark style="background: #ABF7F7A6;">switch has a path to the Root Bridge</mark> for f<mark style="background: #ABF7F7A6;">orwarding traffic</mark>
 		- Example:
-			- If a switch has multiple paths to the Root Bridge, the Root Port is the one with the lowest cost (best path)
+			- If a switch has <mark style="background: #ABF7F7A6;">multiple paths</mark> to the Root Bridge, the Root Port is the one with the <mark style="background: #ABF7F7A6;">lowest cost (best path)</mark>
 			
 	- Designated Port (DP):
 		- What?
-			- The port on a switch that forwards traffic for a given network segment (VLAN). It is the forwarding port on each segment
+			- The port on a switch that <mark style="background: #ABF7F7A6;">forwards traffic for a given network segment (VLAN)</mark>. It is the forwarding port on each segment
 		- Why?
 			- The Designated Port is responsible for sending data towards other switches and devices on that segment
 		- Example:
