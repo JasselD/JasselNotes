@@ -50,4 +50,6 @@
 		- WPA3 uses SAE (Simultaneous Authentication of Equals) instead of PSK (Pre-Shared Key), which enchances key exchange security
 	- Why use?
 		- WPA3 offers the highest level of security for modern wireless networks. It provides stronger encryption, individualized encryption keys, and improved protection against offline attacks
-		- It also introduces forward s
+		- It also introduces forward secrecy, ensuring that if a device's encryption key is compromised, past communicationsc cannot be decrypted
+	- When to use?
+		- WPA3 is recommended for newer networks and devices as it provides is the best available protection for wireless communication
