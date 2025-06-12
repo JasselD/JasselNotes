@@ -27,4 +27,5 @@
 - What?
 	- Default route is used when the route does not know how to reach a specific destination in the routing table. It acts as a catch-all route and forwards traffic to a specified next hop when no other matching routes exist
 	- The default route is commonly referred to as the "gateway of last resort"
-	- 
+- When?
+	- Use a default route when a router is connected to the Internet or to an external network where it needs to fo
