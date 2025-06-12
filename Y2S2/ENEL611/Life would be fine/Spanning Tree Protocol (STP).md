@@ -43,20 +43,20 @@
 		- BDPUs are special frames exchanged between switches to share topology information. They help in the Root Bridge election and are used to maintain the network's spanning tree structure
 
 # Root Bridge Election Process
-- Each switch sends out a <mark style="background: #ABF7F7A6;">BDPU with its Bridge ID (priority + MAC address)</mark>. The switch with the l<mark style="background: #ABF7F7A6;">owest Bridge ID</mark> becomes the Root Bridge
+- Each switch sends out a <mark style="background: #ABF7F7A6;">BDPU with its Bridge ID (priority + MAC address)</mark>. The switch with the <mark style="background: #ABF7F7A6;">lowest Bridge ID</mark> becomes the Root Bridge
 	- Example BDPU Format:
 		- Priority (default: 32768)
 		- MAC address (unique to each switch)
 
 # Port Roles and How They Are Chosen
 - Root Port (RP):
-	- The port closest to the Root Bridge. Each switch has only one Root Port
+	- The port <mark style="background: #ABF7F7A6;">closest to the Root Bridge</mark>. Each switch has only <mark style="background: #ABF7F7A6;">one Root Port</mark>
 	
 - Designated Port (DP):
-	- The port that forwards traffic for a particular network segment. Every segment has one Designated Port
+	- The port that <mark style="background: #ABF7F7A6;">forwards traffic for a particular network segment</mark>. Every segment has <mark style="background: #ABF7F7A6;">one Designated Port</mark>
 	
 - Alternate Port:
-	- The port that is blocked to prevent network loops. It is used in case the Root Port fails
+	- The port that is <mark style="background: #ABF7F7A6;">blocked to prevent network loops</mark>. It is used in case the Root Port fails
 
 # Spanning Tree Algorithm
 - STP uses the Spanning Tree Algorithm (STA) to determine the best path to the Root Bridge
