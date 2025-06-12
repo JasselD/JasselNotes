@@ -18,4 +18,9 @@
 	- Example:
 		- ff02::1 (all nodes on the local link)
 - Anycast Address:
-	- Anycast addresses are assigned to multiple devices, and the packet is delivered to the nearest device (in terms of routing )
+	- Anycast addresses are assigned to multiple devices, and the packet is delivered to the nearest device (in terms of routing distance)
+
+## IPv6 Addresses Assigned
+- Stateless Address Autoconfiguration (SLAAC):
+	- What?
+		- 
