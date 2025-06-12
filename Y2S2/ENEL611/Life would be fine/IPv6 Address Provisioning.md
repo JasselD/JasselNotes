@@ -58,5 +58,8 @@
 		- Centralized management:
 			- Network administrators have full control over address allocation
 		- No reliance on SLAAC:
-			- Some networks may prefe
+			- Some networks may prefer stateful configuration for consistency or because SLAAC doesn't provide other configuration options (like DNS)
+	- How?
+		- The client sends DHCPv6 Request message to the DHCP server
+		- The DHCP server responds with an 
 
