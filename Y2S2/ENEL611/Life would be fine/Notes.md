@@ -134,7 +134,7 @@ MAC Address Attacks
 			- WEP (weak, outdated)
 			- WPA/WPA2 (Stronger security)
 [[Wireless LAN - Autonomous Access Points, Controller-based APs]]
-[[Sec]]
+[[Securing WLAN]]
 
 **Routing: Static & Dynamic**
 - Static Routing
@@ -152,3 +152,4 @@ MAC Address Attacks
 - Floating Routes
 	- What?
 		- Backup routes with a higher administrative distance that only become active if the primary route fails
+[[Routing - Static Routing, Routing Table, Default Routes, Next Hop, Local Routes, Floating Routes]]
