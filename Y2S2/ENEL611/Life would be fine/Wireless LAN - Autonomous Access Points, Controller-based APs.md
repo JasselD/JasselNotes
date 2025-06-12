@@ -9,4 +9,6 @@
 	- Simpler Networks:
 		- Ideal for small or medium-sized networks where the number of APs is limited and manual configuration is feasible
 	- Local Configuration:
-		- Each AP is configured separately, which 
+		- Each AP is configured separately, which gives network administrators direct control over each device
+- How?
+	- They broadcast a single SSID (Service Set Identifier) and handle 
