@@ -23,27 +23,27 @@
 			- <mark style="background: #ABF7F7A6;">Designated Port (DP)</mark>:
 				- The port on a switch that sends traffic towards the network segment. It is the forwarding port
 				
-			- Blocked/Alternative Port:
+			- <mark style="background: #ABF7F7A6;">Blocked/Alternative Port</mark>:
 				- Ports that are not forwarding traffic to prevent loops
 				
 	- STP States:
-		- Blocking:
+		- <mark style="background: #ABF7F7A6;">Blocking</mark>:
 			- The port does not forward frames and is not part of the forwarding path
 			
-		- Listening:
+		- <mark style="background: #ABF7F7A6;">Listening</mark>:
 			- The switch listens to BDPUs (Bridge Protocol Data Units) to learn network topology changes
 			
-		- Learning:
+		- <mark style="background: #ABF7F7A6;">Learning</mark>:
 			- The switch builds its MAC table but does not forward frames yet
 			
-		- Forwarding:
+		- <mark style="background: #ABF7F7A6;">Forwarding</mark>:
 			- The port forwards traffic and is part of the active forwarding path
 			
-	- BPDUs (Bridge Protocol Data Units):
+	- <mark style="background: #ABF7F7A6;">BPDUs (Bridge Protocol Data Units)</mark>:
 		- BDPUs are special frames exchanged between switches to share topology information. They help in the Root Bridge election and are used to maintain the network's spanning tree structure
 
 # Root Bridge Election Process
-- Each switch sends out a BDPU with its Bridge ID (priority + MAC address). The switch with the lowest Bridge ID becomes the Root Bridge
+- Each switch sends out a <mark style="background: #ABF7F7A6;">BDPU with its Bridge ID (priority + MAC address)</mark>. The switch with the l<mark style="background: #ABF7F7A6;">owest Bridge ID</mark> becomes the Root Bridge
 	- Example BDPU Format:
 		- Priority (default: 32768)
 		- MAC address (unique to each switch)
