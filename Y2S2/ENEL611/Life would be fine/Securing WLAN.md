@@ -46,4 +46,6 @@
 		
 - WPA3 (Wi-Fi Protected Access 3):
 	- What?
-		- WPA3 is the latest Wi-Fi security standard, designed to provide even stronger encryption and protection against various at
+		- WPA3 is the latest Wi-Fi security standard, designed to provide even stronger encryption and protection against various attacks, such as bruto-force and offline dictionary attacks
+		- WPA3 uses SAE (Simultaneous Authentication of Equals) instead of PSK (Pre-Shared Key), which enchances key exchange security
+		- 
