@@ -56,11 +56,11 @@
 	- The port that <mark style="background: #ABF7F7A6;">forwards traffic for a particular network segment</mark>. Every segment has <mark style="background: #ABF7F7A6;">one Designated Port</mark>
 	
 - Alternate Port:
-	- The port that is <mark style="background: #ABF7F7A6;">blocked to prevent network loops</mark>. It is used in case the Root Port fails
+	- The port that is <mark style="background: #ABF7F7A6;">blocked to prevent network loops</mark>. It is used in case the <mark style="background: #ABF7F7A6;">Root Port fails</mark>
 
 # Spanning Tree Algorithm
-- STP uses the Spanning Tree Algorithm (STA) to determine the best path to the Root Bridge
-- STP states are used to ensure only one active path between switches and block redundant paths
+- STP uses the <mark style="background: #ABF7F7A6;">Spanning Tree Algorithm (STA)</mark> to determine the <mark style="background: #ABF7F7A6;">best path to the Root Bridge</mark>
+- STP states are used to <mark style="background: #ABF7F7A6;">ensure only one active path between switches and block redundant paths</mark>
 
 # Common STP Terms
 - BPDU (Bridge Protocol Data Units):
