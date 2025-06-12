@@ -22,3 +22,6 @@
 - What?
 	- Controller-based APs are managed by a central controller (called a Wireless LAN Controller or WLC). This allows centralized management of all APs in the network
 - Why?
+	- Scalable Networks:
+		- Ideal for large networks where managing each AP individually would be impractical. Controller-based systems allow for easier deployment and management of multiple APs
+	- Centa
