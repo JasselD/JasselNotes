@@ -35,4 +35,6 @@
 	
 - Benefits:
 	- Seamless Roaming:
-		- 
+		- As devices move between APs, the controller ensures continous connectivity by managing the handoff between APs
+	- Enchanced Security:
+		- Centralized managemtn
