@@ -17,6 +17,7 @@
 # Routing Table
 - What?
 	- Routing table contains all the routes that a router knows about, either through static routes, dynamic routing protocols, or directly connected networks
+	
 	- Each entry in the routing table consists of:
 		- Destination network
 		- Subnet network
@@ -27,6 +28,7 @@
 - What?
 	- Default route is used when the route does not know how to reach a specific destination in the routing table. It acts as a catch-all route and forwards traffic to a specified next hop when no other matching routes exist
 	- The default route is commonly referred to as the "gateway of last resort"
+	
 - When?
 	- Use a default route when a router is connected to the Internet or to an external network where it needs to forward traffic to any destination that is not in the local routing table
 
@@ -37,12 +39,15 @@
 # Local Routes
 - What?
 	- A local route is a route that is directly configured on the  router's interface. It is a route to the network that is directly connected to the router
+	
 - How to view?
 	- Local routes can be viewed in the routing table used ther C (connected) code. They do not require static configuration because the router automatically knows about them
 
 # Floating Routes
 - What?
 	- A floating route is a backup route that is configured with a higher administrative distance (AD) than the primary route. The route will only be used if the primary route fails
+	
 	- The administrative distance defines the truthworthiness of a route. Lower values are more trusted (eg., directly connected routes have an AD of 0, while static routes have an AD of 1)
+	
 - Why?
-	- Floating
+	- Floating routes are useful for backup routes that are only used when the primary route is unavailable. This provides redundancy and fault tolerance in a network
