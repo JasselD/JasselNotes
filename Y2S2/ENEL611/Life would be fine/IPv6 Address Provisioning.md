@@ -65,4 +65,10 @@
 		- The client uses the provided IPv6 address to communicate on the network
 
 # IPv6 Stateless Address Autoconfiguration (SLAAC) vs Stateful DHCPv6
+- SLAAC:
+	- The device configures itself using the information provided by the router (via Router Advertisements)
+		- Pros:
+			- No need for DHCP server, simpler configuration
+		- Cons:
+			- Limited to address configuration; does not provide DNS or to
 
