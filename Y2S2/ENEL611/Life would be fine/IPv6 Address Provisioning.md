@@ -70,5 +70,11 @@
 		- Pros:
 			- No need for DHCP server, simpler configuration
 		- Cons:
-			- Limited to address configuration; does not provide DNS or to
+			- Limited to address configuration; does not provide DNS or other settings
+- Stateful DHCPv6:
+	- A DHCP server provides the address and configuration (including DNS and more)
+		- Pros:
+			- Full control over the addressing and configuration process
+		- Cons:
+			- Requires a DHCPv6 serv
 
