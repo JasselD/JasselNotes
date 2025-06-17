@@ -49,4 +49,14 @@
 [[RAID]]
 
 # Storage Redundancy Methods
-- Disk Redundanc
+- Disk Redundancy:
+	- Using RAID to reduce risk of disk failure
+	
+- Data Backups:
+	- Copying data to external or cloud systems
+
+# Data Backup Strategies
+- Full Backup:
+	- Copies everything
+- Incremental:
+	- C
