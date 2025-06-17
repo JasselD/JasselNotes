@@ -3,4 +3,14 @@
 	- Display detailed IP configuration for all interfaces
 - ipconfig /release:
 	- Releases the current DHCP lease
-- ipconfig /
+- ipconfig /renew:
+	- Requests a new DHCP lease
+- ipconfig /flushdns:
+	- Clears the DNS resolver cache
+- ping:
+	- Tests connectivity to a host
+- tracert:
+	- Traces the route packets take to a destination
+- nslookup:
+	- Queries DNS records for a domain
+- 
