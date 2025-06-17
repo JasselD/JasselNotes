@@ -121,3 +121,5 @@
 	
 - VLSM helps optimize IP usage
 
+# Short QNA
+
