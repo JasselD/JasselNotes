@@ -61,4 +61,12 @@
 # Subnet Mask
 - Subnet mask is used to determine which part of the IP address is the network and which is the host
 - Subnet Mask:
+	- 255.0.0.0 
+		- /8 
+	- 255.255.0.0 
+		- /16 
+	- 255.255.255.0
+		- /24 
+- Prefix length:
+	- The number of bits set to 1 in subnet mask
 	- 
