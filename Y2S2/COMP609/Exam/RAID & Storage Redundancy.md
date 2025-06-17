@@ -15,4 +15,11 @@
 	- Fault Tolerance:
 		- None
 	- Use Case:
-		- V
+		- Video editing, temp storage
+		
+- RAID 1:
+	- Name:
+		- Mirroring
+	- Features:
+		- 1:1 copy of data (mirror)
+	- Fault Tolerance:
