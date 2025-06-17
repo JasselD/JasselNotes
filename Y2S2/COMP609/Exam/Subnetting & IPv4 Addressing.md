@@ -69,4 +69,10 @@
 		- /24 
 - Prefix length:
 	- The number of bits set to 1 in subnet mask
-	- 
+	- It is called "slash notation"
+- ANDing proccess:
+	- Used to identify the network address by performing a bitwise AND between the IP address and the subnet mask
+
+# Types of IPv4 Addresses
+- Network Address
+	- Identifies the entire subnet
