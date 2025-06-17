@@ -54,4 +54,9 @@
 	- Use Case:
 		- Small networks (offices, small businesses)
 		
-- 127.0.
+- 127.0.0.0/8 is reserved for loopback
+- 224.0.0.0 - 239.255.255.255 is Class D (Multicast)
+- 240.0.0.0 - 255.255.255.255 is Class E (Experimental)
+
+# Subnet Mask
+- Subnet 
