@@ -59,4 +59,6 @@
 - 240.0.0.0 - 255.255.255.255 is Class E (Experimental)
 
 # Subnet Mask
-- Subnet 
+- Subnet mask is used to determine which part of the IP address is the network and which is the host
+- Subnet Mask:
+	- 
