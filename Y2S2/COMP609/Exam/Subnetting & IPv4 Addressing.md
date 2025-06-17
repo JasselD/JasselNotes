@@ -96,6 +96,12 @@
 	- Purpose:
 		- Assigned automatically when DHCP fails
 
+# Reasons for subnetting
+- Reduces network congestions
+- Enchances performance
+- Implements security boundaries
+- Allows logical groupings (location, department, device type)
 
+# Subnetting Method
 
 
