@@ -11,6 +11,9 @@
 # IPv4 Structure
 - Network Portion:
 	- Identifies the network
+	
 - Host Portion:
 	- Identifies the devices within that network
-- Determined using 
+	
+- Determined using the Subnet Mask
+
