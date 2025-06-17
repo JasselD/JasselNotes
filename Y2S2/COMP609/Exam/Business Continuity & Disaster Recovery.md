@@ -50,3 +50,16 @@
 - Cloud backups now widely used
 
 # Grandfather-Father-Son Strategy
+- Son:
+	- Daily
+	
+- Father:
+	- Weekly
+	
+- Grandfather:
+	- Monthly
+
+# Redundant Sites for Disaster Recovery
+- Hot Site:
+	- Fully equipped, live
+
