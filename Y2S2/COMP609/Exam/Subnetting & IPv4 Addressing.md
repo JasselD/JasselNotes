@@ -114,5 +114,9 @@
 # VLSM (Variable Length Subnet Mask)
 - What?
 	- VLSM alows for subnetting a subnet using different subnet masks per segment
-	- Start with the largest host requiremetn
+	- Start with the largest host requirement, then move down
+	
+- Example Task:
+	- Design a VLSM-based IP plan for network 192.168.4.0/24
+- VLSM helps optimize IP usage
 
