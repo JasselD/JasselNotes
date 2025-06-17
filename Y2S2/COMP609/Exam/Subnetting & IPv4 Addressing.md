@@ -122,4 +122,35 @@
 - VLSM helps optimize IP usage
 
 # Short QNA
+- **How many bits are in an IPv4 address?**  
+    **Answer:** 32 bits
+    
+- **What is the format of an IPv4 address?**  
+    **Answer:** Dotted decimal format (e.g., 192.168.1.1)
+    
+- **What range does each octet of an IPv4 address fall into?**  
+    **Answer:** 0 to 255
+    
+- **What is the main purpose of a subnet mask?**  
+    **Answer:** To distinguish the network portion from the host portion of an IP address
+    
+- **Which class does the IP address 10.0.0.1 belong to?**  
+    **Answer:** Class A
+    
+- **What is the default subnet mask for Class B?**  
+    **Answer:** 255.255.0.0 (/16)
+    
+- **How many hosts can Class C support per network?**  
+    **Answer:** 254 hosts
+    
+- **What address is used for loopback testing?**  
+    **Answer:** 127.0.0.1
+    
+- **What IP address range is used by APIPA?**  
+    **Answer:** 169.254.0.0/16
+    
+- **What is VLSM used for?**  
+    **Answer:** To allocate different subnet sizes based on host requirements, optimizing IP usage
+
+# Long QNA
 
