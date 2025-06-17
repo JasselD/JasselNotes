@@ -6,6 +6,13 @@
 - Hostname:
 	- The human-readable name of a device on a network
 		- www.example.com
+		
 - Namespace:
 	- The structured naming hierarchy that organizes domain names. Root -> Top-level Domains (TLD) -> Domains -> Subdomains
-- 
+	
+- Record Types:
+	- DNS stores data in records (A, AAAA, CNAME, MX, etc.)
+
+# DNS Query Types
+- Recursive Query:
+	- 
