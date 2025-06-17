@@ -34,4 +34,5 @@
 - APIPA/Link-local address (169.254.x.x) is assigned automatically by the client if DHCP is unreachable
 
 
+# Short QNA
 
