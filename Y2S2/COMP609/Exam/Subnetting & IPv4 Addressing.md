@@ -88,6 +88,14 @@
 	- Range:
 		- 127.0.0.1
 	- Purpose:
-		- Used for internal testing
+		- Used for internal testing (e.g., pinging self)
+		
+- Link-local/APIPA
+	- Range:
+		- 169.254.0.0/16
+	- Purpose:
+		- Assigned automatically when DHCP fails
+
+
 
 
