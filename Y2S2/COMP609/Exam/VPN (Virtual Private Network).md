@@ -46,4 +46,5 @@
 - Site-to-Site VPNs:
 	- Connect branch offices securely
 
-[[VPN (Virtual Private Network)]]
+
+
