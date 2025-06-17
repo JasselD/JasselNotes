@@ -4,4 +4,8 @@
 
 # DNS concepts & Structure
 - Hostname:
-	- The human-reada
+	- The human-readable name of a device on a network
+		- www.example.com
+- Namespace:
+	- The structured naming hierarchy that organizes domain names. Root -> Top-level Domains (TLD) -> Domains -> Subdomains
+- 
