@@ -149,13 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y2S2/COMP609/Exam/DNS (Domain Name System).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DNS (Domain Name System)"
+              "title": "Outline"
             }
           }
         ],
@@ -177,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e44ddb568c6be574",
+  "active": "59892040aff13aec",
   "lastOpenFiles": [
-    "Y2S2/COMP609/Exam/Fiber vs Copper.md",
     "Y2S2/COMP609/Exam/DNS (Domain Name System).md",
+    "Y2S2/COMP609/Exam/Fiber vs Copper.md",
     "Y2S2/COMP609/Exam/Exam.md",
     "Y2S2/COMP609/Notes/Security Concerns.md",
     "Y2S2/COMP609/Exam",
