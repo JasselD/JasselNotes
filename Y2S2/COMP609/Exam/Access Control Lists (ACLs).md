@@ -18,3 +18,9 @@
 		- Detailed
 
 # Example ACL Commands
+- Standard ACL
+```bash
+
+access-list 1 permit 192.168.1.0 0.0.0.255
+interface g0/
+```
