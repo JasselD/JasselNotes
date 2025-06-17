@@ -1,2 +1,2 @@
 # Cloud Computing
-- Cloud Computing refers to the delivery of computing devices such
+- Cloud Computing refers to the delivery of computing devices such as storage, servers, databases, networking, software over the internet (the "cloud"), allowing users to access resources on-demand and pay-as
