@@ -28,3 +28,5 @@
 5. TLD DNS refers to Authoritative DNS Server
 6. IP address is returned -> Browser loads website
 
+# Short QNA
+
