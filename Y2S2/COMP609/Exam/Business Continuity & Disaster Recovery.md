@@ -28,3 +28,9 @@
 - Helps to prioritize recovery plans based on operational importance
 
 # Data Storage and Redundancy & Backup
+- What?
+	- Copying importatn information to another medium or offsite location for disaster recovery purposes
+
+# Backup Strategy: 5 W's
+1. What should be backed up?
+2. When
