@@ -58,5 +58,12 @@
 # Data Backup Strategies
 - Full Backup:
 	- Copies everything
+	
 - Incremental:
-	- C
+	- Copies changes since last backup
+	
+- Differential:
+	- Copies changes since last full backup
+[[Backup Types]]
+
+- Cloud
