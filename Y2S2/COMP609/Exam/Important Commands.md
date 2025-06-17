@@ -36,5 +36,6 @@
 	- ipconfig /flushdns
 - Need new IP from DHCP:
 	- ipconfig /release + ipconfig /renew
-- Track open 
+- Track open ports:
+	- netstat -a
 
