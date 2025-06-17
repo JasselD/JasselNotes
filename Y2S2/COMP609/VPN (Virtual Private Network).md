@@ -23,11 +23,20 @@
 # VPN Protocols
 - IPsec:
 	- Industry standard for secure VPN tunnels(supports both transport and tunnel modes)
+	
 - PPTP (obsolete):
 	- Older and less secure
+	
 - L2TP + IPsec:
 	- Combines features of Layer 2 Tunneling and IPsec encryption
+	
 - SSL VPN:
 	- Commonly used in web browsers for remote access
+	
 - OpenVPN:
-	- Open
+	- Open-source, very secure, uses TLS for encryption
+
+# Uses Cases
+- Remote Work:
+	- Secure access to company resources
+- 
