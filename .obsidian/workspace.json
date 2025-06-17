@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/COMP609/Exam/Important Commands.md",
+                "file": "Y2S2/COMP609/Exam/Fiber vs Copper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Important Commands"
+              "title": "Fiber vs Copper"
             }
           }
         ]
@@ -149,13 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y2S2/COMP609/Exam/Important Commands.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Important Commands"
+              "title": "Outline"
             }
           }
         ],
@@ -177,20 +176,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e44ddb568c6be574",
+  "active": "1bf65c51b2900842",
   "lastOpenFiles": [
-    "Y2S2/COMP609/Exam/Business Continuity & Disaster Recovery.md",
-    "Y2S2/COMP609/Exam/Important Commands.md",
+    "Y2S2/COMP609/Exam/Fiber vs Copper.md",
+    "Y2S2/COMP609/Exam/TCP Three-Way Handshake.md",
+    "Y2S2/COMP609/Exam/Subnetting & IPv4 Addressing.md",
     "Y2S2/COMP609/Exam/Cloud Computing.md",
+    "Y2S2/COMP609/Exam/DNS (Domain Name System).md",
+    "Y2S2/COMP609/Exam/Important Commands.md",
+    "Y2S2/COMP609/Exam/Business Continuity & Disaster Recovery.md",
     "Y2S2/COMP609/Exam/Access Control Lists (ACLs).md",
     "Y2S2/COMP609/Exam/VPN (Virtual Private Network).md",
     "Y2S2/COMP609/Exam/RAID & Storage Redundancy.md",
     "Y2S2/COMP609/Exam/Network Security (Malware & Attacks).md",
-    "Y2S2/COMP609/Exam/Subnetting & IPv4 Addressing.md",
-    "Y2S2/COMP609/Exam/TCP Three-Way Handshake.md",
     "Y2S2/COMP609/Exam/DHCP (Dynamic Host Configuration Protocol).md",
-    "Y2S2/COMP609/Exam/DNS (Domain Name System).md",
-    "Y2S2/COMP609/Exam/Fiber vs Copper.md",
     "Y2S1/COMP607/Business Continuity.md",
     "Y2S1/COMP607/Redundant Sites.md",
     "Y2S1/COMP607/Cloud computing.md",
