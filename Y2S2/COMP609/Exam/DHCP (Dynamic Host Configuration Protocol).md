@@ -7,9 +7,19 @@
 	- Discover:
 		- Clients sends a broadcast to find DHCP sercer
 		- "Is anyone out there?"
+		
 	- Offer:
 		- Server responds with an IP offer and configuration
 		- "Here's an IP you can use"
+		
 	- Request:
 		- Clients requests the offered IP
-		- "I'd like this one,"
+		- "I'd like this one, please"
+		
+	- ACK:
+		- Server acknowledges the request
+		- "It's all yours"
+
+# DHCP Lease Renewal Process
+- Renewal (T1)
+
