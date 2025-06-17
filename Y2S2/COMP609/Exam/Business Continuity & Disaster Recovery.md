@@ -42,4 +42,11 @@
 - Full backup
 	- Backs up all selected files
 - Incremental:
-	- Backs up only files changed since last back
+	- Backs up only files changed since last backup
+- Differential:
+	- Backs up changes since last full backup
+
+- Magnetic tape was standard for decades
+- Cloud backups now widely used
+
+# Grandfather-Father-Son Strategy
