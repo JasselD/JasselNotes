@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/COMP609/Exam/Access Control Lists (ACLs).md",
+                "file": "Y2S2/COMP609/Exam/Cloud Computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Access Control Lists (ACLs)"
+              "title": "Cloud Computing"
             }
           }
         ]
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y2S2/COMP609/Exam/Access Control Lists (ACLs).md",
+                "file": "Y2S2/COMP609/Exam/Cloud Computing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Access Control Lists (ACLs)"
+              "title": "Outline of Cloud Computing"
             }
           }
         ],
@@ -179,6 +179,7 @@
   },
   "active": "e44ddb568c6be574",
   "lastOpenFiles": [
+    "Y2S2/COMP609/Exam/Access Control Lists (ACLs).md",
     "Y2S2/COMP609/Exam/VPN (Virtual Private Network).md",
     "Y2S2/COMP609/Exam/RAID & Storage Redundancy.md",
     "Y2S2/COMP609/Exam/Network Security (Malware & Attacks).md",
@@ -195,7 +196,6 @@
     "Y2S1/COMP607/Cloud computing.md",
     "Untitled.md",
     "Y2S1/DSA revision/*Sample questions.md",
-    "Y2S2/COMP609/Exam/Access Control Lists (ACLs).md",
     "Y2S2/COMP609/COMP609.md",
     "Y2S1/COMP607/Backup Types.md",
     "Y2S1/COMP607/RAID.md",
