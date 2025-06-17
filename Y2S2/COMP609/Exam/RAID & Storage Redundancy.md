@@ -45,4 +45,8 @@
 	- Fault Tolerance:
 		- 1 disk per mirror
 	- Use Case:
-		- Video editing, temp storage
+		- High performance systems
+[[RAID]]
+
+# Storage Redundancy Methods
+- Disk Redundanc
