@@ -76,7 +76,18 @@
 # Types of IPv4 Addresses
 - Network Address
 	- Identifies the entire subnet (e.g., 192.168.1.0/24)
+	
 - Host Addresses
 	- Usable IPs within a subnet (e.g., 192.168.1.1 - 192.168.1.254)
+	
 - Broadcast Address
-	- Last address in subnet (e.g., 192)
+	- Last address in subnet (e.g., 192.158.1.255)
+
+# Special IPv4 Addresses
+- Loopback
+	- Range:
+		- 127.0.0.1
+	- Purpose:
+		- Used for internal testing
+
+
