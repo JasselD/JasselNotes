@@ -22,5 +22,11 @@
 ```bash
 
 access-list 1 permit 192.168.1.0 0.0.0.255
-interface g0/
+interface g0/1
+ip access-group 1 in
+```
+- Permits access from 192.168.1.0/24 network
+
+- Extended ACL
+- ``
 ```
