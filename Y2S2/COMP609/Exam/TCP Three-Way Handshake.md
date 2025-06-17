@@ -20,4 +20,8 @@
 	- Who sends it?:
 		- Client
 	- Purpose:
-		- "Confirmed. Ready to  "
+		- "Confirmed. Ready to go"
+
+# Key Concepts
+- TCP is connection-oriented (not like UDP)
+- Sequence numbers are initial
