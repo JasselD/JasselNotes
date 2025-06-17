@@ -17,4 +17,8 @@
 - Public Cloud:
 	- Available to the general public via a pay-per-use or free model (e.g., AWS, Azure, Google Cloud)
 - Private Cloud:
-	- Exclusive for one organizatiob
+	- Exclusive for one organization (e.g., a company or government agency)
+- Hybrid Cloud:
+	- Combines public and private clouds with shared architecture (e.g., sensitive data on private, other services on public)
+- Custom Cloud:
+- 
