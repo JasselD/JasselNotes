@@ -23,8 +23,13 @@
 # DHCP Lease Renewal Process
 - Renewal (T1):
 	- When 50% of the lease time has passed, the client sends a DHCPREQUEST to renew
+	
 - Rebinding (T2):
 	- At 87.5% of lease time, the client tries any DHCP server if no response
+	
 - Lease Expiry:
-	- 
+	- If no DHCP server responds, the IP address lease expires, and the client must restart the DORA process
+
+## When DHCP Fails
+- APIPA/
 
