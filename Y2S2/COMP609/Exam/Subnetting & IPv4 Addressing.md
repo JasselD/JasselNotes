@@ -26,5 +26,8 @@
 		-   1.0.0.0 - 126.255.255.255
 	- Default Subnet Mark:
 		- 255.0.0.0 (/8)
-	- 
-		  
+	- Host per Network
+		- 16.7 million
+	- Use Case:
+		- Very large networks (ISPs, multinational corps)
+- 
