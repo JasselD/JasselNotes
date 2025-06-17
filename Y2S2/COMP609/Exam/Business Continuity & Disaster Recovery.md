@@ -22,3 +22,9 @@
 - This ensures continuity in leadership and critical decision-making
 
 # Business Impact Analysis (BIA)
+- Identifies critical business functions
+- Assesses the impact of their loss
+- Uses risk assessments to find potential threats
+- Helps to prioritize recovery plans based on operational importance
+
+# Data Storage and Redundancy & Backup
