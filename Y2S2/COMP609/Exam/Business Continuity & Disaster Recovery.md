@@ -33,4 +33,13 @@
 
 # Backup Strategy: 5 W's
 1. What should be backed up?
-2. When
+2. When should backups occur?
+3. Where should backups be stored?
+4. Which media will be used?
+5. Who/what tool performs the backup?
+
+# Backup Methods
+- Full backup
+	- Backs up all selected files
+- Incremental:
+	- Backs up only files changed since last back
