@@ -106,7 +106,13 @@
 - Subnetting on Octet Boundaries
 	- Uses standard subnet sizes:
 		- /8, /16, /24
+		
 - Subnetting Within Octets
-	- 
+	- Use custom mask like /26, /30
+	- More control over host allocation
 
+# VLSM (Variable Length Subnet Mask)
+- What?
+	- VLSM alows for subnetting a subnet using different subnet masks per segment
+	- Start with the largest host requiremetn
 
