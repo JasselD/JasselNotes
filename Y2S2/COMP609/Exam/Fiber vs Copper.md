@@ -39,4 +39,10 @@
 
 - What type of signal does a fiber optic cable use to transmit data?
 	- Light
-- Which type of cable is more immune to electromagnetic interferen
+- Which type of cable is more immune to electromagnetic interference (EMI)?
+	- Fiber optic cable
+- What is the maximum recommended distance for copper cable transmission?
+	- Less than 100 meters
+- Which cable type is typically cheaper: fiber optic or copper?
+	- Copper cable
+- Name one ideal use case for fiber optic cables
