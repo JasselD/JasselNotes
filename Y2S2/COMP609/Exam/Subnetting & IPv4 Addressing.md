@@ -30,7 +30,7 @@
 		- 16.7 million
 	- Use Case:
 		- Very large networks (ISPs, multinational corps)
-- Class A:
+- Class B:
 	- Starting Bits:
 		- 10xx
 	- IP Range:
@@ -40,4 +40,15 @@
 	- Host per Network
 		- 65000
 	- Use Case:
-		-  networks (ISPs, multinational corps)
+		- Medium-sized networks (Universities, companies)
+- Class C:
+	- Starting Bits:
+		- 110x
+	- IP Range:
+		-   192.0.0.0 - 223.255.255.255
+	- Default Subnet Mark:
+		- 255.255.0.0 (/16)
+	- Host per Network
+		- 65000
+	- Use Case:
+		- Medium-sized networks (Universities, companies)
