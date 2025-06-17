@@ -7,4 +7,9 @@
 - Cost Efficiency:
 	- Pay only for what you use
 - Accessibility:
-	- Acces
+	- Access from anywhere with an internet conenction
+- Resilience:
+	- Built-in redundancy and backup option
+- Agility:
+	- Fast deployment of services
+
