@@ -28,5 +28,12 @@ ip access-group 1 in
 - Permits access from 192.168.1.0/24 network
 
 - Extended ACL
-- ``
+```bash
+
+access-list 100 deny tcp 192.168.1.0 0.0.0.255 any eq 80
+access-list 100 permit ip any any
+interface g0/0
+ip access-group 100 in
 ```
+
+# T
