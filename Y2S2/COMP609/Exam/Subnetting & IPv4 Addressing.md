@@ -102,6 +102,11 @@
 - Implements security boundaries
 - Allows logical groupings (location, department, device type)
 
-# Subnetting Method
+# Subnetting Methods
+- Subnetting on Octet Boundaries
+	- Uses standard subnet sizes:
+		- /8, /16, /24
+- Subnetting Within Octets
+	- 
 
 
