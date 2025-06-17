@@ -14,3 +14,11 @@
 4. Train employees
 5. Update regularly
 
+# Succesion Planning
+- Pre-defines who takes over if a key person is:
+	- Unavailable
+	- Incapacitated
+	- Deceased
+- This ensures continuity in leadership and critical decision-making
+
+# Business Impact Analysis (BIA)
