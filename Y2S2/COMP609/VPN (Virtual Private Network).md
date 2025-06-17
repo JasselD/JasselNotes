@@ -13,3 +13,8 @@
 - Encryption:
 	- Protects data during transit
 
+# VPN Modes
+- Transport Mode:
+	- Only the data (payload) is encrypted, IP headers remain visible. Used between end host
+- Tunnel Mode:
+	- The entire IP packet is encrypted, then encapsulated in a new IP packet. Commo
