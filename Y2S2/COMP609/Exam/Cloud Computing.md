@@ -29,4 +29,6 @@
 - PaaS:
 	- Develop apps, provider manages the rest (e.g., Google App Engine)
 - SaaS:
-	- You use the app, ebe
+	- You use the app, everything else is managed (e.g., Gmail, Office 365)
+
+[[Y2S1/COMP607/Cloud computing|Cloud computing]]
