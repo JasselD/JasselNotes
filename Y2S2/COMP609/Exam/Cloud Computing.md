@@ -24,5 +24,9 @@
 	- Tailored to specific industries (e.g., healthcare, media) can be public or private
 
 # Cloud Service Model
-- Iaas:
-	- You manage OS, storage, and
+- IaaS:
+	- You manage OS, storage, and apps (e.g., AWS EC2)
+- PaaS:
+	- Develop apps, provider manages the rest (e.g., Google App Engine)
+- SaaS:
+	- You use the app, ebe
