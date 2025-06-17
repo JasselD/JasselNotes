@@ -12,4 +12,9 @@
 	- Filters traffic based only on source IP address
 	- Granularity:
 		- Basic
-- Extended ACL
+- Extended ACL:
+	- Filters traffic based on source and destination IP, protocol, and ports
+	- Granularity:
+		- Detailed
+
+# Example ACL Commands
