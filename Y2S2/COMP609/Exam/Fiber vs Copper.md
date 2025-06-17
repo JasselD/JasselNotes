@@ -11,8 +11,6 @@
 ![![Y2S2/COMP609/Exam/#*Table1]]Summary:
 - Fiber is ideal for speed and distance, making it perfect for backbones and data centers. Copper remains economical and practical for local connections
 
-.
-
 ---
 
 ### 📝 Sample Questions:

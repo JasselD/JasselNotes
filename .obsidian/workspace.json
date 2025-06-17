@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/COMP609/Exam/Fiber vs Copper.md",
+                "file": "Y2S2/COMP609/Exam/DNS (Domain Name System).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fiber vs Copper"
+              "title": "DNS (Domain Name System)"
             }
           }
         ]
@@ -149,12 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Y2S2/COMP609/Exam/DNS (Domain Name System).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of DNS (Domain Name System)"
             }
           }
         ],
@@ -176,9 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b6d9569fd366cd4",
+  "active": "e44ddb568c6be574",
   "lastOpenFiles": [
     "Y2S2/COMP609/Exam/Fiber vs Copper.md",
+    "Y2S2/COMP609/Exam/DNS (Domain Name System).md",
     "Y2S2/COMP609/Exam/Exam.md",
     "Y2S2/COMP609/Notes/Security Concerns.md",
     "Y2S2/COMP609/Exam",
@@ -204,7 +206,6 @@
     "Y2S1/DSA revision/*Sample questions.md",
     "Y2S1/DSA revision/Time complexity practice.md",
     "Y2S1/DSA revision/Queue.md",
-    "Y2S1/DSA revision/Race condition.md",
     "Images/Pasted image 20240726135527.png",
     "Personal",
     "Untitled.canvas",
