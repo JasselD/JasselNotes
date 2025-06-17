@@ -36,3 +36,5 @@
 
 - **Q: Why is fiber optic cabling preferred for high-traffic areas and backbone connections?**  
     **A:** Because it supports higher bandwidth and longer transmission distances with immunity to EMI.
+
+1. What type of signal does a 
