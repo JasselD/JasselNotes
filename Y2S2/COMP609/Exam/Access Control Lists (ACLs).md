@@ -36,4 +36,9 @@ interface g0/0
 ip access-group 100 in
 ```
 
-# T
+# Tips & Rules
+- ACLs are processed top-down, first match wins
+- An implicit deny all exists at the end of every ACL
+- Use access-list numbers:
+	- 1-99 = Standard
+	- 100-199 = Extended
