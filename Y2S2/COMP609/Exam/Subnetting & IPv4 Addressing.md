@@ -23,4 +23,8 @@
 	- Starting Bits:
 		- 0xxx
 	- IP Range:
-		  1.0.0.0 - 12
+		-   1.0.0.0 - 126.255.255.255
+	- Default Subnet Mark:
+		- 255.0.0.0 (/8)
+	- 
+		  
