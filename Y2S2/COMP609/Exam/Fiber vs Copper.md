@@ -6,4 +6,6 @@
 # Copper Cable
 - More common for short-distance connections (e.g., within building)
 - Uses electrical signals
-- Cheaper but suffers 
+- Cheaper but suffers from signal attenuation and electromagnetic interference (EMI)
+
+![![Y2S2/COMP609/Exam/#*Table1]]

@@ -149,13 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y2S2/COMP609/Exam/Fiber vs Copper.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fiber vs Copper"
+              "title": "Outline"
             }
           }
         ],
@@ -177,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e44ddb568c6be574",
+  "active": "afe2fb9c6e61aba7",
   "lastOpenFiles": [
     "Y2S2/COMP609/Exam/Fiber vs Copper.md",
     "Y2S2/COMP609/Exam/Exam.md",
