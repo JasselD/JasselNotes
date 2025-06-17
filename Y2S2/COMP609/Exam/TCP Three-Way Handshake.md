@@ -14,4 +14,10 @@
 	- Who sends it?:
 		- Server
 	- Purpose:
-		- "Okay,"
+		- "Okay, Let's talk"
+- ACK
+	- The clients sends an ACK (acknowledgement) to finalize the connection
+	- Who sends it?:
+		- Client
+	- Purpose:
+		- "Confirmed. Ready to  "
