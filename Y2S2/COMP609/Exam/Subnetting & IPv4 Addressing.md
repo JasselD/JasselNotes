@@ -41,14 +41,17 @@
 		- 65000
 	- Use Case:
 		- Medium-sized networks (Universities, companies)
+		
 - Class C:
 	- Starting Bits:
 		- 110x
 	- IP Range:
 		-   192.0.0.0 - 223.255.255.255
 	- Default Subnet Mark:
-		- 255.255.0.0 (/16)
+		- 255.255.255.0 (/24)
 	- Host per Network
-		- 65000
+		- 254
 	- Use Case:
-		- Medium-sized networks (Universities, companies)
+		- Small networks (offices, small businesses)
+		
+- 127.0.
