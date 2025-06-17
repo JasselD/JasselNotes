@@ -16,5 +16,12 @@
 # DNS Query Types
 - Recursive Query:
 	- Clients asks DNS server to resolve the full IP; server takes responsibility to complete the process
+	
 - Iterative Query:
-	- DNS server gives the clients the best answer it has and refers it to another DNS server to conti
+	- DNS server gives the clients the best answer it has and refers it to another DNS server to continue the query
+
+# DNS Lookup Process (Simplified)
+1. User types www.example.com
+2. Local DNS Resolver checks its cache
+3. If not found, it contacts Root DNS Server
+4. 
