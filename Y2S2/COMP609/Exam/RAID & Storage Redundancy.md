@@ -26,12 +26,23 @@
 		- Yes (1 disk failure)
 	- Use Case:
 		- Critical data backup
+		
 - RAID 5:
 	- Name:
 		- Stripping with Parity
 	- Features:
 		- Combines speed and redundancy
 	- Fault Tolerance:
-		- Can tol
+		- Can tolerate 1 disk failure
+	- Use Case:
+		- Databases, file servers
+		
+- - RAID 0+1:
+	- Name:
+		- Mirrored Stripe Set
+	- Features:
+		- High speed and redundancy
+	- Fault Tolerance:
+		- 1 disk per mirror
 	- Use Case:
 		- Video editing, temp storage
