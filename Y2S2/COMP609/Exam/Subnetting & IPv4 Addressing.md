@@ -153,4 +153,24 @@
     **Answer:** To allocate different subnet sizes based on host requirements, optimizing IP usage
 
 # Long QNA
-
+1. **Explain the structure of an IPv4 address and how the network and host portions are determined.**  
+    An IPv4 address is made up of 32 bits divided into four octets, and it is written in a dotted decimal format such as 192.168.1.1. Each octet contains 8 bits and ranges in value from 0 to 255. The address is logically divided into two parts: the network portion and the host portion. The network portion identifies the specific network the device belongs to, while the host portion identifies the individual device on that network. This division is determined using a subnet mask, which is also a 32-bit value where the bits set to 1 indicate the network portion and the bits set to 0 indicate the host portion.
+    
+2. **Describe the different IPv4 address classes and their uses.**  
+    IPv4 addresses are traditionally divided into five classes: A, B, C, D, and E.
+    
+    - **Class A** addresses start with a 0 bit and range from 1.0.0.0 to 126.255.255.255. They use a default subnet mask of 255.0.0.0 (/8) and can support over 16 million hosts per network, making them suitable for very large organizations like ISPs.
+        
+    - **Class B** addresses start with 10 and range from 128.0.0.0 to 191.255.255.255. With a default subnet mask of 255.255.0.0 (/16), they support around 65,000 hosts and are used in medium-sized networks like universities.
+        
+    - **Class C** addresses start with 110 and range from 192.0.0.0 to 223.255.255.255. These have a default subnet mask of 255.255.255.0 (/24) and support 254 hosts per network, ideal for small businesses.
+        
+    - **Class D** addresses (224.0.0.0 to 239.255.255.255) are reserved for multicast communication.
+        
+    - **Class E** addresses (240.0.0.0 to 255.255.255.255) are reserved for experimental use and are not used in general networking.
+        
+3. **What are the benefits of subnetting, and how does VLSM enhance those benefits?**  
+    Subnetting allows a larger network to be divided into smaller, more manageable subnetworks. This reduces network congestion, improves performance, enhances security by isolating segments, and enables logical grouping of devices based on factors like department or location. VLSM (Variable Length Subnet Mask) enhances these benefits by allowing different subnet sizes within the same network. Instead of using fixed-size subnets, VLSM lets network administrators allocate addresses more efficiently based on actual host requirements, starting with the largest subnet and working downward. This method avoids IP wastage and makes IP address allocation much more flexible and efficient.
+    
+4. **What are network, host, and broadcast addresses in IPv4, and how are they determined?**  
+    In IPv4, a network address represents the entire subnet and is the first address in the range (e.g., 192.168.1.0 for a /24 subnet). Host addresses are the usable IP addresses within that subnet that can be assigned to individual devices; for a /24 subnet, these range from 192.168.1.1 to 192.168.1.254. The broadcast address is the last address in the subnet (e.g., 192.168.1.255 for a /24), used to send messages to all hosts within that subnet. These addresses are calculated using the IP address and the subnet mask through a bitwise AND operation, known as the ANDing process, which separates the network portion from the host portion.
