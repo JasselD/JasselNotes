@@ -61,5 +61,10 @@
 
 # Redundant Sites for Disaster Recovery
 - Hot Site:
-	- Fully equipped, live
+	- Fully equipped, live duplicate of original site. Instant failover possible
+- Cold Site:
+	- Empty facility with power and space. Equipment must be installed
+- Warm Site:
+	- Equipment is installed, but lacks active connections or updated data
+
 
