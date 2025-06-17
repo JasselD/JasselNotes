@@ -8,3 +8,8 @@
 - Think of ACLs as digital traffic cops filtering which data gets through
 
 # Types of ACLs
+- Standard ACL:
+	- Filters traffic based only on source IP address
+	- Granularity:
+		- Basic
+- Extended ACL
