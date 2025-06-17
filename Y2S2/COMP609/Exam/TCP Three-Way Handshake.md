@@ -24,4 +24,7 @@
 
 # Key Concepts
 - TCP is connection-oriented (not like UDP)
-- Sequence numbers are initial
+- Sequence numbers are initialized during this handshake
+- The handshake is used before any real data transmission begins
+- Ensures reliability and ordered delivery
+
