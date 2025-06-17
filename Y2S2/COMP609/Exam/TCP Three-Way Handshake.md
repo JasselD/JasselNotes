@@ -28,3 +28,4 @@
 - The handshake is used before any real data transmission begins
 - Ensures reliability and ordered delivery
 
+# Short QNA
