@@ -27,5 +27,14 @@
 	- Displays the ARP table
 
 # When to use them?
-- No intern
+- No internet connection:
+	- ipconfig
+	- ping
+	- tracert
+- Website not resolving:
+	- nslookup
+	- ipconfig /flushdns
+- Need new IP from DHCP:
+	- ipconfig /release + ipconfig /renew
+- Track open 
 
