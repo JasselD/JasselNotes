@@ -66,4 +66,5 @@
 	- Copies changes since last full backup
 [[Backup Types]]
 
-- Cloud
+- Cloud backup offers scalability & remote access
+
