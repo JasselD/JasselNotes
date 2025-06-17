@@ -18,3 +18,9 @@
 - Determined using the Subnet Mask
 
 # IPv4 Address Classes (A, B, C)
+- IPv4 addresses are traditionally grouped into classes to help define how many networks and hosts per network are possible
+- Class A:
+	- Starting Bits:
+		- 0xxx
+	- IP Range:
+		  1.0.0.0 - 12
