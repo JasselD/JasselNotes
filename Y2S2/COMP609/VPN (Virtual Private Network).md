@@ -39,4 +39,11 @@
 # Uses Cases
 - Remote Work:
 	- Secure access to company resources
-- 
+	
+- Travelling Employees:
+	- Connect securely to home network from public Wi-Fi
+	
+- Site-to-Site VPNs:
+	- Connect branch offices securely
+
+[[VPN (Virtual Private Network)]]
