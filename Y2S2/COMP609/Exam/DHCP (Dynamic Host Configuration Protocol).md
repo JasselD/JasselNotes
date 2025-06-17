@@ -31,5 +31,7 @@
 	- If no DHCP server responds, the IP address lease expires, and the client must restart the DORA process
 
 ## When DHCP Fails
-- APIPA/
+- APIPA/Link-local address (169.254.x.x) is assigned automatically by the client if DHCP is unreachable
+
+
 
