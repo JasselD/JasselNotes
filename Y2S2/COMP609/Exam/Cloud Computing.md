@@ -13,3 +13,8 @@
 - Agility:
 	- Fast deployment of services
 
+# Types of Cloud Models
+- Public Cloud:
+	- Available to the general public via a pay-per-use or free model (e.g., AWS, Azure, Google Cloud)
+- Private Cloud:
+	- Exclusive for one organizatiob
