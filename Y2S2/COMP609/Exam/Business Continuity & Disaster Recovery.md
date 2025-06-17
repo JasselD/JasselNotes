@@ -67,4 +67,6 @@
 - Warm Site:
 	- Equipment is installed, but lacks active connections or updated data
 
+[[Business Continuity]]
+[[Redundant Sites]]
 
