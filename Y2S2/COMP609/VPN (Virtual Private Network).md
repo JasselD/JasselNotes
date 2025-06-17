@@ -16,5 +16,12 @@
 # VPN Modes
 - Transport Mode:
 	- Only the data (payload) is encrypted, IP headers remain visible. Used between end host
+	
 - Tunnel Mode:
-	- The entire IP packet is encrypted, then encapsulated in a new IP packet. Commo
+	- The entire IP packet is encrypted, then encapsulated in a new IP packet. Common in site-to-site VPNs
+
+# VPN Protocols
+- IPsec:
+	- Industry standard for secure VPN tunnels(supports both transport and tunnel modes)
+- PPTP (obsolete):
+- 
