@@ -21,4 +21,8 @@
 - Hybrid Cloud:
 	- Combines public and private clouds with shared architecture (e.g., sensitive data on private, other services on public)
 - Custom Cloud:
-- 
+	- Tailored to specific industries (e.g., healthcare, media) can be public or private
+
+# Cloud Service Model
+- Iaas:
+	- You manage OS, storage, and
