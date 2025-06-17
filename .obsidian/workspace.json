@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/COMP609/Exam/Untitled.md",
+                "file": "Y2S2/COMP609/Exam/DHCP (Dynamic Host Configuration Protocol).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "DHCP (Dynamic Host Configuration Protocol)"
             }
           }
         ]
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y2S2/COMP609/Exam/Untitled.md",
+                "file": "Y2S2/COMP609/Exam/DHCP (Dynamic Host Configuration Protocol).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of DHCP (Dynamic Host Configuration Protocol)"
             }
           }
         ],
@@ -180,7 +180,7 @@
   "active": "e44ddb568c6be574",
   "lastOpenFiles": [
     "Y2S2/COMP609/Exam/DNS (Domain Name System).md",
-    "Y2S2/COMP609/Exam/Untitled.md",
+    "Y2S2/COMP609/Exam/DHCP (Dynamic Host Configuration Protocol).md",
     "Y2S2/COMP609/Exam/Fiber vs Copper.md",
     "Y2S2/COMP609/Exam/Exam.md",
     "Y2S2/COMP609/Notes/Security Concerns.md",
