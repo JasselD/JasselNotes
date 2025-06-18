@@ -34,4 +34,13 @@
 	- Keep users informed
 - Education
 	- Keep learning and sharing
-- Respons
+- Responsibility
+	- Suppoert the computing community
+
+# Privileged Access
+- Use elevated rights only for work
+- Make backups, dont "snoop"
+- Report mistakes immediately
+- Track access, and sign conduct agreements
+
+# Copyright *
