@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S1/COMP607/RAID.md",
+                "file": "Y2S2/COMP609/Exam/RAID & Storage Redundancy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAID"
+              "title": "RAID & Storage Redundancy"
             }
           }
         ]
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y2S1/COMP607/RAID.md",
+                "file": "Y2S2/COMP609/Exam/RAID & Storage Redundancy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RAID"
+              "title": "Outline of RAID & Storage Redundancy"
             }
           }
         ],
@@ -179,6 +179,7 @@
   },
   "active": "e44ddb568c6be574",
   "lastOpenFiles": [
+    "Y2S1/COMP607/RAID.md",
     "Y2S2/COMP609/Exam/RAID & Storage Redundancy.md",
     "Y2S2/COMP609/Exam/VPN (Virtual Private Network).md",
     "Y2S2/COMP609/Exam/Network Security (Malware & Attacks).md",
@@ -200,7 +201,6 @@
     "Y2S1/DSA revision/*Sample questions.md",
     "Y2S2/COMP609/COMP609.md",
     "Y2S1/COMP607/Backup Types.md",
-    "Y2S1/COMP607/RAID.md",
     "Y2S2/COMP609/Exam/Exam.md",
     "Y2S2/COMP609/Notes/Security Concerns.md",
     "Y2S2/COMP609/Exam",
