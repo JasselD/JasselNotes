@@ -51,3 +51,8 @@
 	- Share only what's legally required
 
 # If Told to Do Something Illegal
+- Double check the request
+- Consult policies or trusted staff
+- Document everything
+- Politely refuse or escalate
+- Ask for written instructions if needed
