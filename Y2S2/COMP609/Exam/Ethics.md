@@ -17,4 +17,11 @@
 	- FERPA - student privacy
 	- HIPAA - medical data protection
 
-# In
+# Informed Consent
+- User should know and agree to policies and changes
+- Especially critical when changes can cause disruption
+
+# System Admin Code of Ethics (USENIX)
+- Professionalism
+	- Treat others fairly
+- Inter
