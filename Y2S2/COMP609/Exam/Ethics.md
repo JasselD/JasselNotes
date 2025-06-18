@@ -6,3 +6,5 @@
 	- Organizations:
 		- Often define ethics policies for employees and affiliates
 
+# Ethical Duties of System Administrator
+- Priotiz
