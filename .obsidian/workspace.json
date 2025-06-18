@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/COMP609/Exam/VPN (Virtual Private Network).md",
+                "file": "Y2S2/COMP609/Exam/Access Control Lists (ACLs).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPN (Virtual Private Network)"
+              "title": "Access Control Lists (ACLs)"
             }
           }
         ]
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y2S2/COMP609/Exam/VPN (Virtual Private Network).md",
+                "file": "Y2S2/COMP609/Exam/Access Control Lists (ACLs).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of VPN (Virtual Private Network)"
+              "title": "Outline of Access Control Lists (ACLs)"
             }
           }
         ],
@@ -179,11 +179,11 @@
   },
   "active": "e44ddb568c6be574",
   "lastOpenFiles": [
+    "Y2S2/COMP609/Exam/VPN (Virtual Private Network).md",
     "Y2S2/COMP609/Exam/RAID & Storage Redundancy.md",
     "Y2S2/COMP609/Exam/Subnetting & IPv4 Addressing.md",
     "Y2S1/COMP607/Backup Types.md",
     "Y2S1/COMP607/RAID.md",
-    "Y2S2/COMP609/Exam/VPN (Virtual Private Network).md",
     "Y2S2/COMP609/Exam/Network Security (Malware & Attacks).md",
     "Y2S1/COMP607/Worm vs Viruses.md",
     "Y2S1/COMP607/Malicious programs.md",
