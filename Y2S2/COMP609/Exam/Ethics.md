@@ -56,3 +56,34 @@
 - Document everything
 - Politely refuse or escalate
 - Ask for written instructions if needed
+
+# Short QNA
+- **What is the difference between ethics and morals?**  
+    → Ethics are rules for group behavior; morals are personal beliefs about right and wrong.
+    
+- **Why must system administrators (SAs) follow a higher ethical standard?**  
+    → Because they have privileged access to sensitive systems and data.
+    
+- **Who should SAs prioritize ethically—users or the greater network community?**  
+    → The greater network community first, then the users.
+    
+- **Name one key law that affects IT ethical responsibilities.**  
+    → Sarbanes-Oxley Act (SOX), FERPA, or HIPAA (any one is acceptable).
+    
+- **What is the purpose of informed consent in system administration?**  
+    → To ensure users are aware of and agree to changes or policies that affect them.
+    
+- **List two principles from the System Administrators’ Code of Ethics.**  
+    → Professionalism, personal integrity, privacy, system integrity, communication, etc.
+    
+- **Why is it important for SAs to report mistakes quickly?**  
+    → To fix issues early, minimize damage, and avoid penalties for honest mistakes.
+    
+- **What should you do if contacted by law enforcement about user data?**  
+    → Verify there is a valid warrant and only share the specific data required.
+    
+- **Why is using unlicensed software an ethical concern?**  
+    → It violates copyright law and can lead to legal and financial penalties.
+    
+- **What should you do if your manager asks you to do something unethical?**  
+    → Verify the request, document it, seek advice, and politely refuse or escalate.
