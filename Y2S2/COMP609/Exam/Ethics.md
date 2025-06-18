@@ -24,4 +24,14 @@
 # System Admin Code of Ethics (USENIX)
 - Professionalism
 	- Treat others fairly
-- Inter
+- Integrity
+	- Be honest, admit mistakes
+- Privacy
+	- Access only what's necessary
+- Compliance
+	- Knows laws and policies
+- Communication
+	- Keep users informed
+- Education
+	- Keep learning and sharing
+- Respons
