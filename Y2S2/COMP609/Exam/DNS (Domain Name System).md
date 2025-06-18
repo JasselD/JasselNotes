@@ -24,7 +24,7 @@
 1. User types www.example.com
 2. Local DNS Resolver checks its cache
 3. If not found, it contacts Root DNS Server
-4. Root refers to TLD DNS Sercer (e.g., .com)
+4. Root refers to TLD DNS Server (e.g., .com)
 5. TLD DNS refers to Authoritative DNS Server
 6. IP address is returned -> Browser loads website
 
