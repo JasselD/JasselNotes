@@ -149,12 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Y2S2/COMP609/Exam/Fiber vs Copper.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Fiber vs Copper"
             }
           }
         ],
@@ -176,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bf65c51b2900842",
+  "active": "e44ddb568c6be574",
   "lastOpenFiles": [
     "Y2S2/COMP609/Exam/Fiber vs Copper.md",
     "Y2S2/COMP609/Exam/TCP Three-Way Handshake.md",
