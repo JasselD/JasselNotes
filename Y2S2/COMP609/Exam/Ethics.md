@@ -44,3 +44,10 @@
 - Track access, and sign conduct agreements
 
 # Copyright & Law Enforcement
+- No privacy
+	- Use licensed software only
+- When contacted by law enforcement:
+	- Verify warrent
+	- Share only what's legally required
+
+# If Told to Do Something Illegal
