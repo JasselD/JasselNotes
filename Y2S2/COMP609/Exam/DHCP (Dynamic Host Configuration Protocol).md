@@ -5,7 +5,7 @@
 # DHCP Lease Acquisition Process
 - **DORA**
 	- Discover:
-		- Clients sends a broadcast to find DHCP sercer
+		- Clients sends a broadcast to find DHCP server
 		- "Is anyone out there?"
 		
 	- Offer:
