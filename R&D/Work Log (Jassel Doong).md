@@ -5,5 +5,6 @@
 **Start Date**:
 **Total Hours Goal**: 300 hours
 
-# Daily
+# Daily/Weekly Activity Log
+
 
