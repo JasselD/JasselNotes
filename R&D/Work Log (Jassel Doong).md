@@ -2,5 +2,8 @@
 **Start Date**: 
 **Client Name**:
 **Mentor Name**:
-**Start Date
+**Start Date**:
+**Total Hours Goal**: 300 hours
+
+# Daily
 
