@@ -8,5 +8,9 @@
 # Daily/Weekly Activity Log
 **Date**: 31/07/2025
 **Time Spent**: 2 hours
-**Activity Description**: 
+**Activity Description**: meeting with team
+
+meeting with project mentor
+
+
 
