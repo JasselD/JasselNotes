@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/COMP609/Exam/VPN (Virtual Private Network).md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPN (Virtual Private Network)"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "f56a4653e36b6a1f",
+            "id": "9623871c0a0880f2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -179,6 +179,9 @@
   },
   "active": "e44ddb568c6be574",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Vault.md",
+    "Y2S2/COMP609/Exam/VPN (Virtual Private Network).md",
     "Tags",
     "Y2S2/COMP609/Exam/Access Control Lists (ACLs).md",
     "Y2S2/COMP609/Exam/Business Continuity & Disaster Recovery.md",
@@ -188,7 +191,6 @@
     "Y2S2/COMP609/Exam/DHCP (Dynamic Host Configuration Protocol).md",
     "Y2S2/COMP609/Exam/DNS (Domain Name System).md",
     "Y2S2/COMP609/Exam/Cloud Computing.md",
-    "Y2S2/COMP609/Exam/VPN (Virtual Private Network).md",
     "Y2S2/COMP609/Exam/RAID & Storage Redundancy.md",
     "Y2S1/COMP607/Backup Types.md",
     "Y2S2/COMP609/Exam/Network Security (Malware & Attacks).md",
@@ -204,7 +206,6 @@
     "Y2S1/DSA revision/*Sample questions.md",
     "Y2S2/COMP609/COMP609.md",
     "Y2S2/COMP609/Exam/Exam.md",
-    "Y2S2/COMP609/Notes/Security Concerns.md",
     "Y2S2/COMP609/Exam",
     "Images/Pasted image 20240726135527.png",
     "Personal",
