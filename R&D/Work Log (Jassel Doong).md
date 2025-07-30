@@ -6,7 +6,7 @@
 **Total Hours Goal**: 300 hours
 
 # Daily/Weekly Activity Log
-**Date**:
-**Time Spent**:
+**Date**: 31/07/2025
+**Time Spent**: 2 hours
 **Activity Description**:
 
