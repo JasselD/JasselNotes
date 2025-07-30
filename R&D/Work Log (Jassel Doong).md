@@ -8,4 +8,4 @@
 # Daily/Weekly Activity Log
 **Date**:
 **Time Spent**:
-
+**Activity
