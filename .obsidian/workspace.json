@@ -11,14 +11,12 @@
             "id": "e44ddb568c6be574",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "R&D.md",
-                "mode": "source",
-                "source": false
+                "path": "/"
               },
               "icon": "lucide-file",
-              "title": "R&D"
+              "title": "JasselNotes"
             }
           }
         ]
@@ -177,10 +175,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e44ddb568c6be574",
+  "active": "9623871c0a0880f2",
   "lastOpenFiles": [
-    "R&D.md",
     "Vault.md",
+    "Untitled 1.md",
+    "R&D .md",
     "Y2S2/COMP609/Exam/VPN (Virtual Private Network).md",
     "Tags",
     "Y2S2/COMP609/Exam/Access Control Lists (ACLs).md",
@@ -205,7 +204,6 @@
     "Untitled.md",
     "Y2S1/DSA revision/*Sample questions.md",
     "Y2S2/COMP609/COMP609.md",
-    "Y2S2/COMP609/Exam/Exam.md",
     "Y2S2/COMP609/Exam",
     "Images/Pasted image 20240726135527.png",
     "Personal",
