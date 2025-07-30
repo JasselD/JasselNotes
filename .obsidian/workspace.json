@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "R&D.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "R&D"
             }
           }
         ]
@@ -179,7 +179,7 @@
   },
   "active": "e44ddb568c6be574",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "R&D.md",
     "Vault.md",
     "Y2S2/COMP609/Exam/VPN (Virtual Private Network).md",
     "Tags",
